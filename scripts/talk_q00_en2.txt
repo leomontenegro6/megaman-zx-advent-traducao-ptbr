@@ -2,91 +2,91 @@
 <#####################>
 
 <p 02><a 42><n 4D>
-It looks like one of
-the passengers forgot
-this backpack.
+Aparentemente um dos
+passageiros esqueceu
+esta mochila.
 <--------------------->
 
-If you're going back to
-Hunter's Camp,
+Se você for voltar para
+o Acampamento dos
+Caçadores,
 <--------------------->
 
-would you mind
-returning it to its
-owner for me?
+poderia devolvê-la para
+seu dono por mim?
 <*********************>
 
 <p 02><a 42><n 4D>
-I seem to recall he was
-a chubby boy with
-glasses.
+Pelo que me lembro, ele
+é um garoto gordinho e
+usa óculos.
 <--------------------->
 
-He walked off that way
-towards Hunter's Camp,
+Ele andava próximo ao
+caminho do Acampamento
+dos Caçadores,
 <--------------------->
 
-so he shouldn't be hard
-to find.
+não deve ser difícil
+encontrá-lo.
 <*********************>
 
 <p 02><a 42><n 4D>
-Were you able to give
-the backpack to him?
-That's great. Thanks.
+Você devolveria a
+mochila para ele?
+Beleza! Obrigado.
 <--------------------->
 
-Huh? He wants me to
-have this disk just for
-finding that backpack?
+Hum? Ele quer me dar
+este disco só por ter
+encontrado a mochila?
 <--------------------->
 
-I don't even have the
-equipment to analyze
-it. Here, you keep it?
+Eu nem mesmo tenho o
+equipamento para lê-lo.
+Aqui, fique com ele.
 <*********************>
 
 <p 02><a 4B><n 45>
-I wonder where my
-backpack went?
+Aonde será que deixei a
+minha mochila?
 <--------------------->
 
-Oh! Would that, by any
-chance, be my backpack?
+Oh! Será que esta seria
+a minha mochila?
 <--------------------->
 
-I have a lot of
-important things in
-there.
+Tenho várias coisas
+importantes aqui.
 <*********************>
 
 <p 02><a 4B><n 45>
-Thank you!
+Obrigado!
 <--------------------->
 
-I want to give Patrick
-something for finding
-my backpack for me.
+Gostaria de recompensar
+Patrick por ter achado
+a minha mochila.
 <--------------------->
 
-But I'm broke because
-yesterday I spent all
-my money on comics.
+Mas estou liso, pois
+ontem, eu gastei meu
+dinheiro com mangás.
 <--------------------->
 
-By the way! Give him
-this disk for me.
+Mesmo assim! Dê este
+disco para ele por mim.
 <--------------------->
 
-It's special because it
-contains a comic of my
-favorite superhero!
+É especial pois contém
+um mangá do meu herói
+favorito!
 <*********************>
 
 <p 02><a 4B><n 45>
-Be sure to tell Patrick
-that comic disk is from
-me!
+Fale para o Patrick que
+este disco com mangá é
+um presente meu!
 <*********************>
 
 <FIM>
