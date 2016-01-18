@@ -1,0 +1,1174 @@
+<script_info tipo='NPCs Hunters' personagem='Ashe' tamanho='4199' inicio_ponteiros='4' fim_ponteiros='105' inicio_textos='106' />
+<#####################>
+
+<p 02><a 55><n 3B>
+Hello! My name is
+Sharon!
+<--------------------->
+
+Are you trying to get
+to that room up ahead
+too?
+<--------------------->
+
+It seems like that
+green door
+<--------------------->
+
+has some kind of
+security lock on it.
+<*********************>
+
+<p 02><a 55><n 3B>
+I wasn't really
+interested in being a
+Hunter at first,
+<--------------------->
+
+but now I like it.
+<--------------------->
+
+It's kind of fun to
+check out different
+areas.
+<*********************>
+
+<p 02><a 55><n 3B>
+I know that handling
+mission requests is
+very important and all,
+<--------------------->
+
+but sometimes we need
+to take a break from it
+all.
+<--------------------->
+
+If they work us TOO
+hard, we'll lose our
+Hunter's edge.
+<--------------------->
+
+When I'm tired, I'll
+borrow some comics from
+Ray
+<--------------------->
+
+to take my mind off
+things.
+<--------------------->
+
+I think I'll save up my
+E-Crystals to buy some
+comics of my own.
+<*********************>
+
+<p 02><a 55><n 3B>
+Um, have you ever been
+in that room over there
+to left of that ladder?
+<--------------------->
+
+There are some blocks
+in the way of the items
+in that room.
+<--------------------->
+
+They're made so that if
+you bust the center
+block,
+<--------------------->
+
+the ones next to it
+will break too.
+<--------------------->
+
+But, maybe you knew
+that already.
+<*********************>
+
+<p 02><a 55><n 3B>
+If you go through that
+green door on the right
+<--------------------->
+
+and keep going
+straight, you'll come
+to a huge room.
+<--------------------->
+
+Go to the right of that
+room and there's a
+transerver 
+<--------------------->
+
+that has only one
+transport destination,
+the Lab.
+<--------------------->
+
+Go to the left, and
+you'll go to the
+Waterfall Ruins.
+<*********************>
+
+<p 02><a 56><n 3C>
+Hello... Nice to meet
+you... I think? Have we
+met before?
+<--------------------->
+
+Anyways, my name is
+Amy! I'm new at this
+camp.
+<--------------------->
+
+I don't quite remember
+everyone's face yet.
+<*********************>
+
+<p 02><a 56><n 3C>
+Dummy Conversation
+<*********************>
+
+<p 02><a 56><n 3C>
+Dummy Conversation
+<*********************>
+
+<p 02><a 56><n 3C>
+I'm just a Hunter in
+training,
+<--------------------->
+
+so I don't get many
+mission requests from
+Legion.
+<--------------------->
+
+I want to hurry up and
+make a contribution,
+<--------------------->
+
+like the other great
+Hunters around here.
+<*********************>
+
+<p 02><a 56><n 3C>
+Going after that
+Model W, that's a
+dangerous request.
+<--------------------->
+
+I don't think I'd be
+able to do it.
+<--------------------->
+
+I admire you for even
+accepting a difficult
+request like that.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+So you're a Hunter too,
+huh...
+<--------------------->
+
+Boy, there's just no
+shortage of new
+recruits lately.
+<--------------------->
+
+The name's Ward...
+Pleased to meet you!
+<--------------------->
+
+I put bounties out on
+the Mechaniloids that
+show up around here,
+<--------------------->
+
+and I make the payouts
+to those Hunters who
+have the right stuff.
+<--------------------->
+
+If you think you've got
+the right stuff,
+<--------------------->
+
+you should take a crack
+at it.
+<*********************>
+
+<p 02><a 59><n 46>
+Recently there've been
+some sightings
+<--------------------->
+
+of wild Mechaniloids
+near Hunter's Camp.
+<*********************>
+
+<p 02><a 59><n 46>
+I heard through the
+grapevine that you took
+out those Pseudoroids
+<--------------------->
+
+that attacked the
+train.
+<--------------------->
+
+It helps to have a fine
+Hunter like you in our
+ranks.
+<*********************>
+
+<p 02><a 59><n 46>
+It looks like a
+resurgence of
+Pseudoroids
+<--------------------->
+
+is beginning all over
+the world.
+<--------------------->
+
+We should probably
+gather some info
+<--------------------->
+
+from the Hunters on the
+roof who are on look
+out.
+<*********************>
+
+<p 02><a 59><n 46>
+The Pseudoroid
+resurgence continues,
+it seems.
+<--------------------->
+
+It could be Model W
+causing it...
+<*********************>
+
+<p 02><a 5B><n 48>
+I'm Gary, the Data Room
+Administrator.
+<--------------------->
+
+If you get your hands
+on something called a
+Secret Disk,
+<--------------------->
+
+you should bring it
+here for analysis.
+<--------------------->
+
+It contains information
+about enemies, etc.
+<*********************>
+
+<p 02><a 5B><n 48>
+I'm Gary, the Data Room
+Administrator.
+<--------------------->
+
+If you get your hands
+on something called a
+Secret Disk,
+<--------------------->
+
+you should bring it
+here for analysis.
+<--------------------->
+
+It contains information
+about enemies, etc.
+<*********************>
+
+<p 02><a 5B><n 48>
+I'm Gary, the Data Room
+Administrator.
+<--------------------->
+
+If you get your hands
+on something called a
+Secret Disk,
+<--------------------->
+
+you should bring it
+here for analysis.
+<--------------------->
+
+It contains information
+about enemies, etc.
+<*********************>
+
+<p 02><a 5B><n 48>
+I'm Gary, the Data Room
+Administrator.
+<--------------------->
+
+If you get your hands
+on something called a
+Secret Disk,
+<--------------------->
+
+you should bring it
+here for analysis.
+<--------------------->
+
+It contains information
+about enemies, etc.
+<*********************>
+
+<p 02><a 5B><n 48>
+I'm Gary, the Data Room
+Administrator.
+<--------------------->
+
+If you get your hands
+on something called a
+Secret Disk,
+<--------------------->
+
+you should bring it
+here for analysis.
+<--------------------->
+
+It contains information
+about enemies, etc.
+<*********************>
+
+<p 02><a 5B><n 48>
+I'm Gary, the Data Room
+Administrator.
+<--------------------->
+
+If you get your hands
+on something called a
+Secret Disk,
+<--------------------->
+
+you should bring it
+here for analysis.
+<--------------------->
+
+It contains information
+about enemies, etc.
+<*********************>
+
+<p 02><a 5B><n 48>
+Feel free to use that
+computer over there.
+<*********************>
+
+<p 02><a 5B><n 48>
+How's the Secret Disk
+collecting coming
+along?
+<*********************>
+
+<p 02><a 5B><n 48>
+You can learn a lot
+when you analyze a
+Secret Disk.
+<*********************>
+
+<p 02><a 5B><n 48>
+Have you found many
+Secret Disks?
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<p 02><a 5E><n 42>
+By the way, have you
+gotten a Hunter's
+License issued yet?
+<--------------------->
+
+If you haven't, you
+should go to the room
+with the transerver.
+<--------------------->
+
+If you already have,
+then you should look
+around Hunter's Camp.
+<*********************>
+
+<p 02><a 5E><n 42>
+I heard the news...
+<--------------------->
+
+You guys are repairing
+the train that goes to
+Legion?
+<--------------------->
+
+Wow... a personal
+request from the Sage
+Trinity.
+<*********************>
+
+<p 02><a 5E><n 42>
+They say Mavericks are
+popping up
+everywhere...
+<--------------------->
+
+I hope all the Hunter's
+out there make it back
+safely.
+<*********************>
+
+<p 02><a 5E><n 42>
+I know requests from
+Legion are important
+and all,
+<--------------------->
+
+but don't overdo it,
+OK?
+<--------------------->
+
+I'm not just telling
+you that because I'm a
+nurse,
+<--------------------->
+
+I'm asking you as a
+friend.
+<*********************>
+
+<p 03><a 5E><n 42>
+Well, are you feeling
+any better?
+<--------------------->
+
+I'm Anna. I give
+Hunters medical
+attention
+<--------------------->
+
+in the infirmary.
+<--------------------->
+
+The transerver isn't in
+here, it's in room 04.
+<--------------------->
+
+To enter the door in
+the back room,
+<--------------------->
+
+stand in front of it
+and push up on the
+<dpad>Control Pad!
+<--------------------->
+
+You can also push up on
+the <dpad>Control Pad
+<--------------------->
+
+to examine items or
+talk to someone!
+<*********************>
+
+<FIM>

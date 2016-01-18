@@ -1,0 +1,257 @@
+<script_info tipo='Quest 14' personagem='Ashe' tamanho='1559' inicio_ponteiros='4' fim_ponteiros='57' inicio_textos='58' />
+<#####################>
+
+<p 02><a 55><n 3B>
+I hear they put shelves
+in the big new room.
+<--------------------->
+
+I want to fill them
+with comic books.
+<--------------------->
+
+Would you go and pick
+me up some comics?
+<*********************>
+
+<p 02><a 55><n 3B>
+I hear they put shelves
+in the big new room.
+<--------------------->
+
+I want to fill them
+with comic books.
+<--------------------->
+
+Would you go and pick
+me up some comics?
+<*********************>
+
+<p 02><a 55><n 3B>
+I hear they put shelves
+in the big new room.
+<--------------------->
+
+I want to fill them
+with comic books.
+<--------------------->
+
+Would you go and pick
+me up some comics?
+<*********************>
+
+<p 02><a 55><n 3B>
+I hear they put shelves
+in the big new room.
+<--------------------->
+
+I want to fill them
+with comic books.
+<--------------------->
+
+Would you go and pick
+me up some comics?
+<*********************>
+
+<p 02><a 55><n 3B>
+I hear they put shelves
+in the big new room.
+<--------------------->
+
+I want to fill them
+with comic books.
+<--------------------->
+
+Would you go and pick
+me up some comics?
+<*********************>
+
+<p 02><a 55><n 3B>
+I hear they put shelves
+in the big new room.
+<--------------------->
+
+I want to fill them
+with comic books.
+<--------------------->
+
+Would you go and pick
+me up some comics?
+<*********************>
+
+<p 02><a 55><n 3B>
+There should be a shop
+in the station on the
+way to Legion.
+<--------------------->
+
+What kind of comics you
+buy is up to you.
+<*********************>
+
+<p 02><a 55><n 3B>
+Oh!
+<--------------------->
+
+You're back. What did
+you get?
+<--------------------->
+
+I've never seen this
+title. I wonder if it's
+good.
+<--------------------->
+
+Well, take this for
+your trouble.
+<--------------------->
+
+I want to see you put
+it to good use.
+<*********************>
+
+<p 02><a 55><n 3B>
+Oh!
+<--------------------->
+
+This is one I already
+have. Oh, well...
+<--------------------->
+
+At least I can fill up
+the shelf.
+<--------------------->
+
+Well, take this for
+your trouble.
+<--------------------->
+
+I want to see you put
+it to good use.
+<*********************>
+
+<p 02><a 55><n 3B>
+Oh!
+<--------------------->
+
+I've been wanting to
+get my hands on this
+one.
+<--------------------->
+
+Cause look at what's
+written on the back
+cover!
+<--------------------->
+
+It says, "Very
+interesting!"
+<--------------------->
+
+Well, take this for
+your trouble.
+<--------------------->
+
+I want to see you put
+it to good use.
+<*********************>
+
+<p 02><a 99><n 55>
+Hello, my name is
+Marina.
+<*********************>
+
+<p 02><a 99><n 55>
+This bookstore
+specializes in comic
+books.
+<*********************>
+
+<p 02><a 99><n 55>
+I'm sorry, I don't have
+any books for sale
+right now.
+<*********************>
+
+<p 02><a 99><n 55>
+I'm sorry, I don't have
+any books for sale
+right now.
+<*********************>
+
+<p 02><a 99><n 55>
+I'm sorry, I don't have
+any books for sale
+right now.
+<*********************>
+
+<p 02><a 99><n 55>
+Are you looking for
+comics?
+<--------------------->
+
+I have 3 in stock.
+Which would you like?
+<--------------------->
+
+<p 02><m>
+  Comic (Green)
+  Comic (Blue)
+  Comic (Orange)
+<*********************>
+
+<p 02><a 99><n 55>
+This comic is 100 EC.
+<*********************>
+
+<p 02><e 63>
+Buy this comic?
+  Yes
+  No
+<*********************>
+
+<p 02><a 99><n 55>
+This comic is 200 EC.
+<*********************>
+
+<p 02><e 63>
+Buy this comic?
+  Yes
+  No
+<*********************>
+
+<p 02><a 99><n 55>
+This comic is 400 EC.
+<*********************>
+
+<p 02><e 63>
+Buy this comic?
+  Yes
+  No
+<*********************>
+
+<p 02><a 99><n 55>
+Thank you for your
+business.
+<*********************>
+
+<p 02><a 99><n 55>
+Thank you for your
+business.
+<*********************>
+
+<p 02><a 99><n 55>
+Thank you for your
+business.
+<*********************>
+
+<p 02><a 99><n 55>
+You don't have enough
+E-Crystals.
+<*********************>
+
+<p 02><s 63><a 99><n 55>
+Please come again.
+<*********************>
+
+<FIM>

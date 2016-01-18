@@ -1,0 +1,726 @@
+<script_info tipo='Missão 12' personagem='Ashe' tamanho='7026' inicio_ponteiros='4' fim_ponteiros='67' inicio_textos='68' />
+<#####################>
+
+<p 02><a 02><n 06>
+This is Thomas. Albert
+seems to be retrieving
+<--------------------->
+
+Model Ws from
+everywhere.
+<--------------------->
+
+<p 02><a 02><n 06>
+Actually, we've just
+gotten confirmation of
+Model W activity in the
+<--------------------->
+
+Quarry at Hunter's
+Camp.
+<--------------------->
+
+<p 02><a 02><n 06>
+Hunters have Mavericks
+pinned down, but they
+can't move in any
+<--------------------->
+
+further because of the
+rough terrain.
+<--------------------->
+
+<p 02><a 02><n 06>
+It's up to you to get
+into the Quarry,
+<--------------------->
+
+then find and retrieve
+the Model W.
+<--------------------->
+
+<p 02><a 02><n 06>
+Our reports tell us
+that there's a large
+<--------------------->
+
+airship closing in on
+the Quarry.
+<--------------------->
+
+<p 02><a 02><n 06>
+Albert may already be
+aware of what's going
+on, so be careful.
+<*********************>
+
+<p 03><a 6B><n 15>
+Who could have done all
+of this? Another
+Mega Man?
+<--------------------->
+
+<p 03><a 6B><n 15>
+But Albert's guys
+shouldn't have to fight
+Mavericks...
+<--------------------->
+
+<p 03><a 0A><n 02>
+Enemies are all the
+same.
+<--------------------->
+
+Just fight 'em one at a
+time, and move on.
+<*********************>
+
+<p 03><d 0903><a 0A><n 02>
+Who are you!?
+<*********************>
+
+<p 02><d 0A03><a 11><n 00>
+What's a girl doing
+here?
+<*********************>
+
+<p 02><d 0B03><a 6C><n 00>
+Careful, Vent. I sense
+Biometal on her.
+<*********************>
+
+<p 02><d 0C03><a 6D><n 00>
+I've never sensed
+anything like this
+before. What is she?
+<*********************>
+
+<p 03><d 0D03><a 6B><n 15>
+Two Biometals!?
+A Mega Man?
+<--------------------->
+
+<p 03><d 0E03><a 08><n 02>
+It looks like you beat
+us to it.
+<--------------------->
+
+<d 0F03>
+Whaddaya say you be a
+gentleman and let me
+have the Model W?
+<--------------------->
+
+<p 02><d 1003><a 10><n 18>
+What do you want it
+for, huh?
+<--------------------->
+
+<p 03><d 1103><a 0A><n 02>
+Alright, I'm done with
+the nice approach. I'm
+gonna take that Model W
+<--------------------->
+
+<d 1203>
+with or without your
+permission. Your
+choice.
+<--------------------->
+
+<p 02><d 1303><a 11><n 18>
+Sorry, no deal.
+<*********************>
+
+<p 01><p 02><d 1403><a 12><n 18>
+I don't want to hit a
+girl,
+<--------------------->
+
+<d 1503>
+but there's a reason I
+can't give it to you.
+<--------------------->
+
+<p 01><p 02><d 1603><a 13><n 18>
+I will become a
+Mega Man that can
+protect everyone!
+<*********************>
+
+<p 00><p 03><d 1703><a 13><n 18>
+I made a promise... To
+protect them all.
+<*********************>
+
+<p 02><d 1903><a 0E><n 02>
+Aaaaagh!
+<*********************>
+
+<p 03><d 1A03><a 14><n 18>
+Gyaaagh! What's...
+this!?
+<--------------------->
+
+<p 03><d 1B03><a 6D><n 17>
+She's resonating...!
+Could it be because
+of her Biometal?
+<--------------------->
+
+<p 03><d 1C03><a 6C><n 16>
+Be careful, Vent!
+<--------------------->
+
+<d 1D03>
+There's some kind of
+data pouring out from
+her Biometal!
+<*********************>
+
+<p 02><a 03><n 00>
+EXTRACTING FROM CODE
+AC196 TO TC2343.
+EXPANDING REPORT DATA.
+<--------------------->
+
+<p 02><a 03><n 00>
+This is the last
+cipher.
+<--------------------->
+
+<p 02><a 03><n 00>
+You, who knows all
+about the plan.
+<--------------------->
+
+You have earned the 
+right to receive the
+ultimate Biometal.
+<--------------------->
+
+<p 02><a 03><n 00>
+Sleeping Model Ws
+everywhere feed on the
+fear of humans,
+<--------------------->
+
+waiting for their day
+of awakening.
+<*********************>
+
+<p 01><p 02><a 03><n 00>
+And when all Model Ws
+have combined,
+<--------------------->
+
+the ultimate Biometal
+will be born.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+Its name will be
+Ouroboros...
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+The one who holds the
+Ouroboros will evolve
+<--------------------->
+
+beyond the mere fusion
+of man and machine.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+What I seek is to
+become the ultimate
+Mega Man.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+My name is Master
+Albert.
+<--------------------->
+
+And I decide how things
+are going to be.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+You, who will usher in
+a new way of life in
+a new world...
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+I hope that one day my
+research will pave the
+<--------------------->
+
+way to a new course of
+evolution. 
+<*********************>
+
+<p 02><d 1E03><a 0A><n 02>
+Ouroboros and the
+ultimate Mega Man...
+That's Albert's plan!
+<--------------------->
+
+<p 02><d 1F03><a 6B><n 15>
+Now I get it... The
+reason why we
+were created.
+<--------------------->
+
+<p 02><d 2003><a 6B><n 15>
+Why you can Megamerge
+with me...
+<--------------------->
+
+<p 02><d 2103><a 0B><n 02>
+Model A...? What did
+you say just now...?
+<--------------------->
+
+<p 03><d 2203><a 10><n 18>
+Can someone explain it
+to me too?
+<--------------------->
+
+<d 2303>
+When I resonated with
+you just now, I saw a
+lot of data.
+<--------------------->
+
+<p 03><d 2403><a 11><n 18>
+That man, Master Albert
+created Model W right?
+So who are you?
+<--------------------->
+
+<p 02><d 2503><a 6B><n 15>
+That's kinda hard to
+explain...
+<*********************>
+
+<p 03><d 2603><a 6C><n 16>
+Uh oh! Model W!
+<--------------------->
+
+<p 03><d 2703><a 6D><n 17>
+It must've taken some
+damage in the fighting.
+<*********************>
+
+<p 02><d 2803><a 0B><n 02>
+Tell me, Model A, who
+am I? What do you know?
+<*********************>
+
+<p 02><d 2903><a 6B><n 15>
+I'm sorry... I can't
+tell you now...
+<*********************>
+
+<p 02><d 2A03><a 0B><n 02>
+Model A!
+<*********************>
+
+<p 03><d 2B03><a 10><n 18>
+OK, that's enough.
+There might be a reason
+
+<--------------------->
+
+<d 2C03>
+Model A can't say
+anything right now.
+<--------------------->
+
+<p 03><d 2D03><a 11><n 18>
+While we're standing
+here, that Model W is
+making more Mavericks,
+<--------------------->
+
+<d 2E03>
+which is going to make
+it tough to get close.
+<*********************>
+
+<p 02><d 2F03><a 08><n 02>
+And who made you the
+big brother all of a
+sudden!?
+<--------------------->
+
+<d 3003>
+Anyway...
+I'm sorry.
+<--------------------->
+
+<p 03><d 3103><a 10><n 18>
+Let's call a truce for
+now.
+<--------------------->
+
+<d 3203>
+We should both focus
+our attention on that
+Model W.
+<--------------------->
+
+<p 02><d 3303><a 08><n 02>
+Can you move? You must
+have overdone it. I'll
+go ahead.
+<*********************>
+
+<p 03><d 3403><a 11><n 18>
+You believe what I say
+so easily. I should
+finish you off...
+<--------------------->
+
+<p 02><d 3503><a 08><n 02>
+Gimme a break. You're
+gonna make me lose my
+concentration.
+<*********************>
+
+<p 01><p 03><d 3603><a 6B><n 15>
+Hey, what are we
+supposed to do?
+<--------------------->
+
+<d 3703>
+They can't expect us to
+take this thing back!
+<--------------------->
+
+<p 00><p 03><d 3803><a 0A><n 02>
+We have no choice. We
+have to destroy it!
+<*********************>
+
+<p 01><p 03><d 3903><a 0A><n 02>
+Dang! How is this thing
+still able to move!?
+<--------------------->
+
+<d 3A03>
+What a pain in the
+neck...! 
+<*********************>
+
+<p 00><p 03><d 3B03><a 0F><n 02>
+Why did you help me?
+<--------------------->
+
+<p 02><d 3C03><a 12><n 18>
+What do you mean, why?
+I don't have a reason
+to fight you.
+<--------------------->
+
+<p 02><d 3D03><a 13><n 18>
+My objective has always
+been to destroy 
+Model W,
+<--------------------->
+
+<p 02><d 3E03><a 12><n 18>
+and stop the Game of
+Destiny, where Mega Men
+fight each other.
+<--------------------->
+
+<d 3F03>
+What is your name?
+<--------------------->
+
+<p 03><d 4003><a 0F><n 02>
+Huh?
+<--------------------->
+
+<p 02><d 4103><a 12><n 18>
+My name's Vent. It
+looks like we got off
+on the wrong foot.
+<*********************>
+
+<p 03><d 4203><a 08><n 02>
+I'm a Hunter, Ashe, and
+this is Model A.
+<--------------------->
+
+<d 4303>
+We're on a mission for
+Legion.
+<--------------------->
+
+<p 02><d 4403><a 13><n 18>
+Legion... Wow, that's
+something.
+<*********************>
+
+<p 02><d 4503><a 10><n 18>
+This blue Biometal is
+Model X. We're 
+together.
+<--------------------->
+
+<p 02><d 4603><a 10><n 18>
+And this red one is
+Model Z. It's a memento
+from a dear friend...
+<--------------------->
+
+<p 02><d 4803><a 10><n 18>
+Anyway let's go back to
+the camp. We can talk
+on the way.
+<*********************>
+
+<p 03><d 4903><a 11><n 18>
+So let me get this
+straight. Master
+Albert, Prometheus,
+<--------------------->
+
+<p 03><d 4A03><a 11><n 18>
+Pandora and 4 Mega Men.
+Hm, so that's what hap-
+pened to the Biometals
+<--------------------->
+
+<d 4B03>
+that were stolen from
+the lab.
+<--------------------->
+
+<p 03><d 4C03><a 6C><n 16>
+Unfortunately those
+Biometals
+<--------------------->
+
+<d 4D03>
+probably have the
+consciousness of their
+four Chosen Ones.
+<--------------------->
+
+<p 03><d 4E03><a 6C><n 16>
+Biometals gave us
+strength when we fought
+the Model W.
+<--------------------->
+
+<p 03><d 4F03><a 6D><n 17>
+We followed the stolen
+Biometals here.
+<--------------------->
+
+<p 03><d 5003><a 10><n 18>
+That's when we found
+the Model W and you
+attacked us.
+<--------------------->
+
+<p 02><d 5103><a 08><n 02>
+I said I was sorry.
+So, why are you kids
+fighting Model W?
+<--------------------->
+
+<p 03><d 5203><a 10><n 18>
+You kids... I'll have
+you know, I'm older
+than you...
+<--------------------->
+
+<p 03><d 5303><a 10><n 18>
+The same as you,
+before I knew it I was
+just caught up in it.
+<--------------------->
+
+<p 03><d 5403><a 11><n 18>
+I lost a lot of close
+people in the battles
+<--------------------->
+
+<d 5503>
+with Mavericks and
+Model Ws...
+<--------------------->
+
+<p 02><d 5603><a 0A><n 02>
+So you want revenge...
+<--------------------->
+
+<p 03><d 5703><a 10><n 18>
+No. You can't defeat an
+enemy with hate... You
+just make more enemies.
+<*********************>
+
+<p 03><d 5803><a 11><n 18>
+I want to use my power
+for something I believe
+in.
+<--------------------->
+
+<p 03><d 5A03><a 10><n 18>
+That's why I made that
+promise to my friends,
+<--------------------->
+
+<d 5B03>
+to be the Mega Man that
+protects them.
+<*********************>
+
+<p 03><d 5C03><a 11><n 18>
+Mega Man power is
+strong. Strong enough
+to change the world.
+<--------------------->
+
+<p 03><d 5E03><a 10><n 18>
+But, there's one thing
+it can't change... that
+is our own destiny.
+<--------------------->
+
+<p 03><d 6003><a 10><n 18>
+You have to use your
+own power to do that.
+<--------------------->
+
+<p 03><d 6103><a 11><n 18>
+Ashe... Don't lose
+yourself in the power.
+<--------------------->
+
+<p 02><d 6203><a 0C><n 02>
+How can you even say
+that and keep a
+straight face...
+<--------------------->
+
+<d 6303>
+But I like that...
+Those are good words to
+live by.
+<--------------------->
+
+<p 03><d 6403><a 10><n 18>
+*laugh* Thanks... By
+the way, this is for
+you.
+<*********************>
+
+<p 03><d 6503><a 10><n 18>
+There was Pseudoroid
+activity in the area
+that key opens.
+<--------------------->
+
+<p 03><d 6603><a 10><n 18>
+I was going to check it
+out myself, but I know
+that you can handle it.
+<--------------------->
+
+<p 03><d 6803><a 10><n 18>
+I'm going to join the
+others and go after the
+other Biometals.
+<--------------------->
+
+<p 03><d 6903><a 10><n 18>
+Let's meet again. Next
+time, let's take on
+this Game of Destiny,
+<--------------------->
+
+<d 6A03>
+side by side.
+<*********************>
+
+<p 02><d 6B03><a 6B><n 15>
+Ashe... I...
+<--------------------->
+
+<p 02><d 6C03><a 08><n 02>
+Model A...
+I'm sorry about before.
+I wasn't myself.
+<--------------------->
+
+<p 02><d 6D03><a 08><n 02>
+Like Vent said, we can
+change our destiny.
+<--------------------->
+
+<d 6E03>
+A past that I never
+knew doesn't matter.
+<--------------------->
+
+<p 02><d 6F03><a 0C><n 02>
+I am the author of my
+story from here on out.
+<*********************>
+
+<p 02><d 7103><a 02><n 06>
+Good work. It's
+unfortunate that we
+<--------------------->
+
+<d 7203>
+couldn't bring back the
+Model W in one piece.
+<--------------------->
+
+<p 02><d 7303><a 02><n 06>
+But the destruction of
+a Model W should put a
+<--------------------->
+
+<d 7403>
+wrench in Albert's
+plan.
+<--------------------->
+
+<p 02><d 7503><a 02><n 06>
+I'd like to use this
+opportunity to our
+advantage somehow,
+<--------------------->
+
+<d 7603>
+but unfortunately, we
+don't have any leads.
+<--------------------->
+
+<p 02><d 7703><a 02><n 06>
+Use your new key and
+search areas you
+haven't been to yet.
+<--------------------->
+
+<d 7803>
+Something may turn up.
+<--------------------->
+
+<p 02><d 7903><a 02><n 06>
+We're counting on you,
+Ashe.
+<*********************>
+
+<FIM>

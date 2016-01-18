@@ -1,0 +1,348 @@
+<script_info tipo='Missão 14' personagem='Grey' tamanho='3280' inicio_ponteiros='4' fim_ponteiros='37' inicio_textos='38' />
+<#####################>
+
+<p 02><a 08><n 01>
+...Where am I?
+<*********************>
+
+<p 03><a 08><n 01>
+I remember this place.
+This is the building I
+first woke up in...
+<--------------------->
+
+<p 03><a 6B><n 15>
+You were locked up
+here?
+<*********************>
+
+<p 02><a 02><n 06>
+If this is where you
+received your Mega Man
+preparation,
+<--------------------->
+
+<p 02><a 02><n 06>
+there may be a clue
+about Albert's plan.
+Would you have a look?
+<*********************>
+
+<p 02><a 08><n 01>
+I don't think I've been
+in this building
+though...
+<--------------------->
+
+<p 02><a 6B><n 15>
+OK, let's go check it
+out!
+<*********************>
+
+<p 02><d CA03><a 08><n 01>
+This is just like the
+capsule I was in...
+<--------------------->
+
+<p 02><d CB03><a 6B><n 15>
+Look at that panel.
+There's a message.
+<*********************>
+
+<p 02><d CC03><a 04><n 00>
+DAN-001 "PROMETHEUS"
+TIME REMAINING BEFORE
+SHUTDOWN FOR
+<--------------------->
+
+<d CD03>
+RECALIBRATION 246924
+SECONDS.
+<*********************>
+
+<p 02><d CE03><a 04><n 00>
+DAN-002 "PANDORA"
+TIME REMAINING BEFORE
+SHUTDOWN FOR
+<--------------------->
+
+<d CF03>
+RECALIBRATION 246939
+SECONDS.
+<*********************>
+
+<p 02><d D003><a 0F><n 01>
+These are Prometheus
+and Pandora's capsules!
+<--------------------->
+
+<d D103>
+Those two were made
+here too?
+<*********************>
+
+<p 02><d D203><a 6B><n 15>
+Maybe they're what
+the data meant by 
+"Reploid siblings."
+<--------------------->
+
+<p 02><d D303><a 6B><n 15>
+I bet the first two
+Mega Men Albert made
+<--------------------->
+
+<d D403>
+were Prometheus and
+Pandora.
+<--------------------->
+
+<p 02><d D503><a 0F><n 01>
+...!
+<*********************>
+
+<p 02><d D603><a 02><n 06>
+There's no doubt about
+it.
+<--------------------->
+
+<d D703>
+These capsules are the
+chains that bound them.
+<--------------------->
+
+<p 02><d D803><a 02><n 06>
+So that they wouldn't
+go against Albert's
+plan.
+<--------------------->
+
+<p 02><d D903><a 08><n 01>
+Chains?
+<--------------------->
+
+<p 02><d DA03><a 02><n 06>
+The counter on the
+panel is probably
+Prometheus's life.
+<--------------------->
+
+<d DB03>
+It's set pretty short.
+They're made so that
+they'll die
+<--------------------->
+
+<p 02><d DC03><a 02><n 06>
+if they don't go back
+into the capsules for
+maintenance
+<--------------------->
+
+<d DD03>
+at regular intervals.
+<--------------------->
+
+<p 02><d DE03><a 6B><n 15>
+In order to stay
+maintained, they have
+to do what Albert says.
+<--------------------->
+
+<p 02><d DF03><a 02><n 06>
+It looks like this
+building goes further
+in.
+<--------------------->
+
+<p 02><d E003><a 02><n 06>
+There may be something
+left. Keep looking.
+<*********************>
+
+<p 03><d E103><a 3D><n 00>
+Hey, hey, that's as far
+as you go!
+<--------------------->
+
+<p 03><d E203><a 3D><n 00>
+Nobody gets past this
+point!
+<--------------------->
+
+<d E303>
+I'm just following Mr.
+Albert's orders.
+<--------------------->
+
+<p 02><d E403><a 0B><n 01>
+So he's hiding
+something in here too!
+<--------------------->
+
+<d E503>
+Well you're just gonna
+have to get out of the
+way!
+<--------------------->
+
+<p 03><d E603><a 3D><n 0F>
+Hey, hey! Do you think
+you can just ignore me,
+Hedgeshock!?
+<--------------------->
+
+<p 03><d E703><a 3D><n 0F>
+You've got to face the
+penalty! A shocking
+penalty!
+<--------------------->
+
+<p 03><d E803><a 3D><n 0F>
+Mr. Albert's orders are
+absolute!
+<*********************>
+
+<p 03><d E903><a 3D><n 0F>
+That's right! I am a
+faithful servant of Mr.
+Albert!
+<*********************>
+
+<p 03><d EA03><a 3D><n 0F>
+Hey, hey! That kind of
+strength... is...
+cheating!
+<--------------------->
+
+<p 03><d EB03><a 3D><n 0F>
+It's just like... 
+Mr. Albert's strength!
+<--------------------->
+
+<p 03><d EC03><a 3D><n 0F>
+WAAAAAH!
+<*********************>
+
+<p 02><d ED03><a 08><n 01>
+Is there only this one
+capsule?
+<--------------------->
+
+<p 02><d EE03><a 6B><n 15>
+But it's empty. There's
+something showing on
+this panel, though.
+<*********************>
+
+<p 02><d EF03><a 04><n 00>
+DAN-000 <74>PROTOTYPE<74>
+FINAL VERSION COMPLETE.
+START FINAL PHASE.
+<--------------------->
+
+<p 03><d F003><a 0F><n 01>
+There were Mega Men
+being made even before
+Prometheus and Pandora?
+<--------------------->
+
+<p 03><d F103><a 0F><n 01>
+The process is finished
+and the capsule is
+open...
+<--------------------->
+
+<p 03><d F203><a 6B><n 15>
+Huh? There's a disk
+still in this drive!
+<*********************>
+
+<p 02><d F303><a 02><n 06>
+Very good, but all
+you managed to find
+<--------------------->
+
+<d F403>
+is an empty capsule and
+some incomplete data?
+<--------------------->
+
+<p 02><d F503><a 02><n 06>
+There might be some
+Mega Men that we don't
+know about.
+<--------------------->
+
+<p 02><d F603><a 02><n 06>
+We'll analyze the data
+here and see what we
+can find.
+<--------------------->
+
+<d F703>
+Send it with your
+mission report.
+<*********************>
+
+<p 02><a 6B><n 15>
+The passage up ahead is
+really low.
+<--------------------->
+
+Crouching looks like
+the only way to get in.
+<--------------------->
+
+<p 02><a 6B><n 15>
+But, with these
+obstacles in the way,
+<--------------------->
+
+we can't get all the
+way through.
+<--------------------->
+
+<p 02><a 6B><n 15>
+I've got it! Try
+morphing into
+Hedgeshock!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Then, hold down the
+<dpad>Control Pad and press
+Dash.
+<--------------------->
+
+That way you can
+slip under! 
+<--------------------->
+
+<p 02><a 6B><n 15>
+Hedgeshock's abilities
+aren't very good on the
+offensive,
+<--------------------->
+
+so you should avoid
+using her against
+enemies.
+<--------------------->
+
+<p 02><a 6B><n 15>
+You can shoot balls of
+electricity by holding
+down the Attack Button
+<--------------------->
+
+and releasing it!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Well come on, let's
+use rolling dash to get
+into that passageway.
+<*********************>
+
+<FIM>

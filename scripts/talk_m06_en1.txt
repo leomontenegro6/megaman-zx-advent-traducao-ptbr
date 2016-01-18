@@ -1,0 +1,643 @@
+<script_info tipo='Missão 6' personagem='Grey' tamanho='6078' inicio_ponteiros='4' fim_ponteiros='57' inicio_textos='58' />
+<#####################>
+
+<p 02><a 0B><n 01>
+Hey, are you OK!?
+<--------------------->
+
+<p 03><a 40><n 22>
+Ugh... Ug... Help me...
+<--------------------->
+
+<p 03><a 40><n 22>
+Our airship is under
+attack by something
+nasty...
+<--------------------->
+
+<p 03><a 40><n 22>
+It intends to massacre
+us all!
+<--------------------->
+
+<p 02><a 0F><n 01>
+W-What?
+<*********************>
+
+<p 02><a 02><n 06>
+This is Master Thomas.
+It seems you've arrived
+at the crash site.
+<--------------------->
+
+<p 02><a 02><n 06>
+That entire area is an
+underground resource
+mining facility.
+<--------------------->
+
+<p 02><a 02><n 06>
+If that airship
+explodes, it will
+<--------------------->
+
+trigger the entire
+facility to detonate. 
+<--------------------->
+
+<p 02><a 6B><n 15>
+He means we're going to
+be blown away! C'mon,
+let's get outta here!
+<--------------------->
+
+<p 02><a 08><n 01>
+...The airship is this
+way, right?
+<--------------------->
+
+<p 02><a 6B><n 15>
+I don't get it. Those
+guys are all Raiders.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Why do you wanna help
+them, of all people!?
+<--------------------->
+
+<p 02><a 0A><n 01>
+The bounty Hunters
+didn't know me, but
+they helped me. 
+<--------------------->
+
+<p 02><a 0B><n 01>
+I want to do the same
+for someone else.
+<--------------------->
+
+I shouldn't need a
+reason to save lives!
+<--------------------->
+
+<p 02><a 6B><n 15>
+OK, OK, if you feel
+that strongly about
+it...
+<--------------------->
+
+<p 02><a 6B><n 15>
+You want me to go with
+you right? Well let's
+go, Grey!
+<--------------------->
+
+<p 02><a 02><n 06>
+If the airship is
+destroyed,
+<--------------------->
+
+you won't be able to
+recover any of its
+parts.
+<--------------------->
+
+<p 02><a 02><n 06>
+Anyway, you have to
+prevent the worst from
+happening. Hurry, Grey.
+<*********************>
+
+<p 02><a 2A><n 13>
+So, those Raiders
+escaped through here.
+<--------------------->
+
+<p 02><a 2A><n 13>
+Every last one of you
+will become nourishment
+for Model W!
+<*********************>
+
+<p 03><d AE01><a 0B><n 01>
+Wait!
+<*********************>
+
+<p 02><d AF01><a 2A><n 13>
+So you managed to stay
+alive, Mega Man
+Model A.
+<--------------------->
+
+<p 02><d B001><a 2A><n 13>
+Don't tell me you're
+here to help the
+Raiders?
+<--------------------->
+
+<d B101>
+They're not even your
+allies.
+<--------------------->
+
+<p 03><d B201><a 0A><n 01>
+I won't just stand by
+while innocent people
+are being hurt!
+<--------------------->
+
+<p 02><d B301><a 2A><n 13>
+You're not innocent,
+just ignorant.
+<--------------------->
+
+<p 02><d B501><a 2A><n 13>
+The history of the
+world, the history of
+the war...
+<--------------------->
+
+<d B601>
+And now, the strongest
+of those
+
+<--------------------->
+
+<d B701>
+who evolved as
+a product of war
+remain.
+<--------------------->
+
+<p 02><d B801><a 2A><n 13>
+A newly crowned king of
+Mega Men will soon
+spawn a new evolution.
+<--------------------->
+
+<p 02><d B901><a 2A><n 13>
+Those who die ignorant
+<--------------------->
+
+<d BA01>
+are simply unable to
+keep pace with
+progress.
+<--------------------->
+
+<p 03><d BB01><a 6B><n 15>
+So you feed them to
+Model W?
+<--------------------->
+
+<d BC01>
+I'd say that's
+pretty barbaric
+progress.
+<--------------------->
+
+<p 02><d BD01><a 2A><n 13>
+What would you know!?
+You can't even
+comprehend
+<--------------------->
+
+<p 02><d BE01><a 2A><n 13>
+your own power. If I'm
+the one that's wrong,
+try and beat me!
+<*********************>
+
+<p 03><d BF01><a 2B><n 13>
+It is through struggle
+that humans learn
+discipline and grow!
+<--------------------->
+
+<p 03><d C001><a 2C><n 13>
+I will be Mega Man
+King, for the war that
+never ends!
+<*********************>
+
+<p 02><d C101><a 2C><n 13>
+Even if you are a
+Defective, there's no
+changing the fact
+<--------------------->
+
+<p 02><d C201><a 2C><n 13>
+that you are still one
+of HIS creations! Very
+well. I yield to you.
+<--------------------->
+
+<p 02><d C301><a 2C><n 13>
+If you have the
+determination to fight,
+one day you will know
+<--------------------->
+
+<p 02><d C401><a 2C><n 13>
+who you really are, but
+regret... that you
+didn't die ignorant...!
+<*********************>
+
+<p 03><d C501><a 0E><n 01>
+Aghh! Aaaaarrrr! What's
+happening!? Model A!
+<--------------------->
+
+<p 03><d C601><a 0E><n 01>
+Aieghh!
+<*********************>
+
+<p 02><a 03><n 00>
+EXTRACTING FROM CODE
+AW15 TO CE70. EXPANDING
+REPORT DATA.
+<--------------------->
+
+<p 02><a 03><n 00>
+......Congratulations.
+<--------------------->
+
+<p 02><a 03><n 00>
+The Model A which I
+created is protected by
+a cipher
+<--------------------->
+
+that is broken only
+in battle.
+<--------------------->
+
+<p 02><a 03><n 00>
+You, who broke the
+first cipher, 
+<--------------------->
+
+are worthy to know its
+truth and its power.
+<--------------------->
+
+<p 02><a 03><n 00>
+Through my research of
+the lost technology, 
+<--------------------->
+
+I have created a key
+to unlock the door to
+a new evolution.
+<*********************>
+
+<p 02><a 03><n 00>
+Biometal Model W...  He
+who holds it, 
+<--------------------->
+
+will hold the power to
+rule the world.
+<--------------------->
+
+<p 02><a 03><n 00>
+But it will take much
+time before people will
+<--------------------->
+
+finally appreciate my
+work.
+<--------------------->
+
+<p 02><a 03><n 00>
+Sacrifices are
+necessary to awaken
+Model W.
+<--------------------->
+
+<p 02><a 03><n 00>
+Model Ws which I have
+hidden throughout the
+world
+<--------------------->
+
+are waiting to be
+awakened.
+<--------------------->
+
+<p 02><a 03><n 00>
+Waiting for when the
+one who understands my
+work appears,
+<--------------------->
+
+to receive the power.
+<*********************>
+
+<p 03><d C701><a 0D><n 01>
+*gulp* Model A... What
+the heck was that...?
+<*********************>
+
+<p 03><d C801><a 6B><n 15>
+Was that the data
+recorded on me that
+those Sage guys
+<--------------------->
+
+<p 03><d C901><a 6B><n 15>
+were talking about? The
+data on the one who
+made Model W... and me?
+<*********************>
+
+<p 03><d CA01><a 08><n 01>
+Are you OK Model A?
+<--------------------->
+
+<p 03><d CB01><a 0A><n 01>
+We need to help the
+others. I think they
+ran this way.
+<*********************>
+
+<p 03><d CC01><a 41><n 20>
+You saved our lives.
+Thanks a lot, Grey!
+<--------------------->
+
+<p 02><d CD01><a 0C><n 01>
+I'd like to use your
+airship for parts to
+repair our train.
+<*********************>
+
+<p 03><d CF01><a 41><n 20>
+Aah, it's already been
+taken care of. I just
+sent some of our guys
+<--------------------->
+
+<d D001>
+to Hunter's Camp to do
+the repairs.
+<--------------------->
+
+<p 03><d D101><a 41><n 20>
+We were all impressed
+with your strength and
+courage.
+<--------------------->
+
+<p 03><d D201><a 41><n 20>
+We're going to clean up
+our act and work with
+<--------------------->
+
+<d D301>
+you as honest to
+goodness bounty
+Hunters. 
+<--------------------->
+
+<p 02><d D401><a 6B><n 15>
+*chuckle* It looks like
+you have a follower.
+<--------------------->
+
+<p 02><d D501><a 6B><n 15>
+It's not a bad feeling
+to be appreciated.
+<--------------------->
+
+<p 03><d D601><a 41><n 20>
+The repairs should
+almost be finished. Go
+back to the camp
+<--------------------->
+
+<p 03><d D701><a 41><n 20>
+and have a look. I hope
+you find out something
+at Legion!
+<*********************>
+
+<p 02><d D801><a 41><n 20>
+What!? Whoind'heck are
+you!
+<--------------------->
+
+<p 02><d D901><a 41><n 20>
+This shield is made of
+ceratanium!
+<--------------------->
+
+<p 02><d DA01><a 41><n 20>
+Your attacks are
+completely useless
+against it.
+<--------------------->
+
+<d DB01><n 20>
+So, why don't you
+save yourself the
+trouble! Go home!
+<*********************>
+
+<p 03><d DC01><a 6B><n 15>
+...All this talk is
+starting to get really
+old.
+<--------------------->
+
+<p 03><d DD01><a 6B><n 15>
+Yo, morph into that
+Atlas lady,
+<--------------------->
+
+<d DE01>
+and let's hit 'em
+hard with a
+Charge Attack!
+<--------------------->
+
+<p 03><d DF01><a 6B><n 15>
+Say goodbye to that
+precious shield of
+yours!
+<*********************>
+
+<p 02><d E001><a 41><n 20>
+Waaaagh! P-Please,
+d-don't hurt me!
+<--------------------->
+
+<p 03><d E101><a 6B><n 15>
+I thought so... Just a
+buncha wusses!
+<--------------------->
+
+<d E201>
+Morph back, and let's
+set the record
+straight...
+<*********************>
+
+<p 02><a 6B><n 15>
+Atlas can do a lot more
+than just that Charge
+Attack!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Press the Attack Button
+
+<--------------------->
+
+while holding the
+<dpad>Control Pad up to
+shoot upwards!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Hold the Attack Button
+then release it while
+holding the
+<--------------------->
+
+<p 02><a 6B><n 15>
+<dpad>Control Pad down to
+perform the Ground
+Breaker move!
+<--------------------->
+
+<p 02><a 6B><n 15>
+You can even change the
+trajectory of the
+buster shot
+<--------------------->
+
+by using the
+bottom screen.
+<--------------------->
+
+<p 02><a 6B><n 15>
+You can access that
+function by first
+selecting "Status" 
+<--------------------->
+
+on the sub screen.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Then change the
+trajectory by either
+touching the boxes
+<--------------------->
+
+or using the
+<dpad>Control Pad. 
+<--------------------->
+
+<p 02><a 6B><n 15>
+Select "Exit" to
+complete the changes!
+<*********************>
+
+<p 02><a 40><n 57>
+Are you here to help
+us?
+<--------------------->
+
+Some of us weren't able
+to get out in time.
+<--------------------->
+
+They're still trapped
+in that room.
+<--------------------->
+
+There's something funny
+going on with the
+power. 
+<--------------------->
+
+Some of the doors won't
+open...
+<--------------------->
+
+Please... All of my
+friends are in that
+room.
+<--------------------->
+
+Please get them out.
+<*********************>
+
+<p 02><a 40><n 57>
+Thank you! I'll never
+forget this.
+<*********************>
+
+<p 03><a 40><n 58>
+I dunno who you are,
+but thank you for
+helping me.
+<*********************>
+
+<p 03><a 40><n 59>
+W-Who are you? Are you
+going to hurt me?
+Please... No...
+<*********************>
+
+<p 03><a 40><n 5A>
+Ohhh! Finally, it
+opened! Thank you!
+<*********************>
+
+<p 02><a 40><n 22>
+Please! Help my
+friends!
+<*********************>
+
+<p 02><a 41><n 20>
+I hope you find out
+something at Legion!
+Good luck!
+<*********************>
+
+<p 03><a 40><n 57>
+Are you here to help
+us?
+<--------------------->
+
+Some of us weren't able
+to get out in time.
+<--------------------->
+
+They're still trapped
+in that room.
+<--------------------->
+
+There's something funny
+going on with the
+power. 
+<--------------------->
+
+Some of the doors won't
+open...
+<--------------------->
+
+Please... All of my
+friends are in that
+room.
+<--------------------->
+
+Please get them out.
+<*********************>
+
+<FIM>

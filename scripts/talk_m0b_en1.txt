@@ -1,0 +1,301 @@
+<script_info tipo='Missão 11' personagem='Grey' tamanho='2808' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 6B><n 15>
+What is this place?
+There's junk
+everywhere.
+<*********************>
+
+<p 02><a 02><n 07>
+That's a Scrapyard.
+There are mountains of
+discarded machines.
+<--------------------->
+
+<p 02><a 02><n 07>
+Until only recently
+they were all buried in
+the snow. Imagine that!
+<--------------------->
+
+<p 02><a 08><n 01>
+I don't see any snow.
+<--------------------->
+
+<p 02><a 02><n 07>
+The heat from the
+machines melted it all.
+<--------------------->
+
+<p 02><a 02><n 07>
+Machines that were
+thrown away because
+they were supposedly
+<--------------------->
+
+broken became Mavericks
+and started working
+again.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Scrap that just starts
+working again!?
+<--------------------->
+
+<p 02><a 02><n 07>
+That's the reason I had
+you two come here.
+<--------------------->
+
+<p 02><a 02><n 07>
+Whoever is controlling
+the scrap should be
+here too.
+<--------------------->
+
+<p 02><a 02><n 07>
+Take him down and scrap
+the Mavericks.
+<*********************>
+
+<p 03><d D602><a 38><n 00>
+I see you pushed your
+way through all of
+those Mavericks
+<--------------------->
+
+<d D702>
+to get a special front
+row seat to watch me
+perform.
+<--------------------->
+
+<p 03><d D802><a 38><n 00>
+That's pretty Mega of
+you, Mega Man Model A.
+<--------------------->
+
+<p 03><d D902><a 38><n 0B>
+I'm Vulturon. I play
+the part of the prince
+<--------------------->
+
+<d DA02>
+who kisses Model Ws and
+wakes them up!
+<--------------------->
+
+<p 02><d DB02><a 0F><n 01>
+Model Ws!? Are they in
+there?
+<--------------------->
+
+<p 03><d DC02><a 38><n 0B>
+Not so fast, that's
+where the VIP seats
+are.
+<--------------------->
+
+<d DD02>
+I'm afraid you can't go
+in there.
+<--------------------->
+
+<p 03><d DE02><a 38><n 0B>
+What do you say we
+start the show?
+<--------------------->
+
+<d DF02>
+I'll play guitar, and
+you'll sing the vocals.
+<--------------------->
+
+<p 03><d E002><a 38><n 0B>
+I'm looking forward to
+the finale
+<--------------------->
+
+<d E102>
+as you scream your last
+breath!
+<*********************>
+
+<p 03><d E202><a 38><n 0B>
+Bravo, bravo! Now that
+was a real Mega death!
+<*********************>
+
+<p 03><d E302><a 38><n 0B>
+What! This was supposed
+to be Mega's death
+concert, not mine!
+<--------------------->
+
+<p 03><d E402><a 38><n 0B>
+Aaaaagggg!
+<*********************>
+
+<p 03><d E502><a 28><n 04>
+I hear it...
+<--------------------->
+
+<p 03><d E602><a 28><n 04>
+The discarded
+machines... the
+Mechaniloids...
+<--------------------->
+
+<d E702>
+Their voices of
+sadness... of pain...
+of anger...
+<--------------------->
+
+<p 03><d E802><a 28><n 04>
+All food for Model W.
+<--------------------->
+
+<p 02><d E902><a 0A><n 01>
+Pandora!
+<--------------------->
+
+<p 03><d EA02><a 28><n 04>
+Can you not hear it...?
+<--------------------->
+
+<d EB02>
+The cries of this
+world... of this
+planet...?
+<--------------------->
+
+<p 02><d EC02><a 0A><n 01>
+Of course I hear it!
+How could I not!?
+<--------------------->
+
+<p 02><d ED02><a 0B><n 01>
+And you always seem
+to be at the center of
+those screams.
+<--------------------->
+
+<p 03><d EE02><a 28><n 04>
+That's not so...
+<--------------------->
+
+<p 02><d EF02><a 0A><n 01>
+W-What?
+<--------------------->
+
+<p 03><d F002><a 28><n 04>
+Those screams... are
+because of you and
+that Albert fellow...
+<*********************>
+
+<p 03><d F102><a 28><n 04>
+Even as you awoke...
+destiny had already
+been set in motion.
+<--------------------->
+
+<p 02><d F202><a 6B><n 15>
+What the heck are you
+talking about?
+<--------------------->
+
+<p 03><d F302><a 28><n 04>
+The time will come...
+when you shall know
+everything.
+<--------------------->
+
+<d F402>
+And you will be driven
+to despair...
+<*********************>
+
+<p 02><d F502><a 0A><n 01>
+I'll know everything?
+Driven to despair?
+What was that about?
+<*********************>
+
+<p 02><d F602><a 02><n 07>
+Hmph... She took
+Model W with her.
+She's definitely odd.
+<--------------------->
+
+<p 02><d F702><a 02><n 07>
+Good work. The
+Mavericks in that area
+<--------------------->
+
+<d F802>
+seem to be settling
+down.
+<--------------------->
+
+<p 02><d F902><a 02><n 07>
+Mission accomplished.
+Don't forget to submit
+a report.
+<*********************>
+
+<p 02><a 6B><n 15>
+What the...? Somebody's
+done something to this
+room.
+<--------------------->
+
+How are you supposed
+get past that?
+<--------------------->
+
+<p 02><a 6B><n 15>
+Yes, I know! You can
+morph into Vulturon
+and use his ability!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Vulturon can scale
+walls.
+<--------------------->
+
+<p 02><a 6B><n 15>
+You should be able to
+grab onto that
+counterweight
+<--------------------->
+
+<p 02><a 6B><n 15>
+and pull it down.
+Vulturon can also
+hover.
+<--------------------->
+
+<p 02><a 6B><n 15>
+To use hover, press and
+hold the Jump Button in
+mid air.
+<--------------------->
+
+<p 02><a 6B><n 15>
+It looks like it uses
+up some of your BM
+gauge, though.
+<--------------------->
+
+<p 02><a 6B><n 15>
+In other words, be
+careful hovering for
+long periods of time!
+<*********************>
+
+<FIM>

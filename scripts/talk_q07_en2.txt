@@ -1,0 +1,132 @@
+<script_info tipo='Quest 7' personagem='Ashe' tamanho='1181' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 42><n 4A>
+Oh? So you're the
+Hunter who holds the
+Idaten title, huh?
+<--------------------->
+
+<p 02><a 42><n 4A>
+How'd you like to race
+the champion?
+<--------------------->
+
+<p 02><a 42><n 4A>
+As always, the first
+one to reach the
+finish line wins.
+<--------------------->
+
+<p 02><e 63><a 42><n 4A>
+Race?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+That's the spirit!
+Let's get ready to
+rock!
+<*********************>
+
+<p 02><a 42><n 4A>
+Oh? Is that a booster
+you have?
+<--------------------->
+
+You can use that to
+tune up your ride!
+<--------------------->
+
+<p 02><a 42><n 4A>
+You can take off like a
+rocket right off the
+starting line!
+<--------------------->
+
+<p 02><a 42><n 4A>
+But it's so powerful,
+that once you use it,
+<--------------------->
+
+it destroys the
+booster.
+<--------------------->
+
+<p 02><e 63><a 42><n 4A>
+Use your booster?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+Oh, well... Come back
+when you feel up to it!
+<*********************>
+
+<p 03><a 42><n 4A>
+Ashe, the challenger
+WINS!
+<--------------------->
+
+<p 03><a 42><n 4A>
+That was magnificent!
+Here is your title and
+your prize money!
+<*********************>
+
+<p 02><a 42><n 4A>
+Be sure to come back!
+Defend your title next
+race
+<--------------------->
+
+and you'll be known as
+the "Speed King"!
+<*********************>
+
+<p 03><a 42><n 4A>
+Sorry... This one goes
+to the Galleon Rider.
+<--------------------->
+
+<p 03><a 42><n 4A>
+...Yeah, a champion
+can't afford to make
+any mistakes.
+<--------------------->
+
+<p 03><a 42><n 4A>
+I'd say it's about time
+you souped up your
+ride.
+<--------------------->
+
+<p 03><a 42><n 4A>
+You might do better if
+you get yourself some
+mods.
+<*********************>
+
+<p 02><a 42><n 4A>
+You gotta take this
+loss and eat it.
+<--------------------->
+
+Use it for fuel to win
+next time!
+<*********************>
+
+<p 02><a 42><n 4A>
+Alright, booster is on.
+Let's start the race!
+<*********************>
+
+<p 02><a 42><n 4A>
+Alright, Let's start
+the race with no
+booster.
+<*********************>
+
+<FIM>

@@ -1,0 +1,629 @@
+<script_info tipo='Missão 2' personagem='Ashe' tamanho='6070' inicio_ponteiros='4' fim_ponteiros='59' inicio_textos='60' />
+<#####################>
+
+<p 02><d 4B00><a 72><n 1C>
+...Alright, you guys!
+Are you ready?
+<--------------------->
+
+<p 03><d 4C00><a 74><n 1D>
+You still don't see
+that Raider airship
+yet?
+<--------------------->
+
+<d 4D00>
+We're getting
+jumpy!
+<--------------------->
+
+<p 02><d 4E00><a 72><n 1C>
+Calm down. I'll go
+check on the mission
+now.
+<--------------------->
+
+<p 02><d 4F00><a 72><n 1C>
+The client is the
+illustrious coalition
+government, Legion.
+<--------------------->
+
+<p 02><d 5000><a 72><n 1C>
+Some top world leaders
+want the help of us, a
+lowly hunter's guild.
+<--------------------->
+
+<p 02><d 5100><a 72><n 1C>
+Do you know what
+Biometal is?
+<*********************>
+
+<p 03><d 5200><a 73><n 1E>
+Yeah, I heard that it's
+some kind of cursed
+stone
+<--------------------->
+
+<d 5300>
+that eats humans
+spirits.
+<--------------------->
+
+<p 03><d 5400><a 74><n 1D>
+Ha! That's a good one!
+I bet Legion has a
+huge bounty on that.
+<--------------------->
+
+<p 02><d 5500><a 72><n 1C>
+They say that Biometal
+was found in some
+ruins.
+<--------------------->
+
+<p 02><d 5600><a 72><n 1C>
+Found by those illegal
+Hunters who don't
+belong to the guild.
+<--------------------->
+
+<p 02><d 5700><a 72><n 1C>
+Our mission is to take
+back the Biometal
+<--------------------->
+
+<d 5800>
+and bring it to Legion
+Headquarters.
+<*********************>
+
+<p 03><d 5900><a 74><n 1D>
+So now that your
+appetites have been
+whet for booty,
+<--------------------->
+
+<d 5A00>
+let's get this show
+on the road! This time
+<--------------------->
+
+<p 03><d 5B00><a 74><n 1D>
+I'm gonna beat Ashe to
+the treasure! By the
+way, where is she?
+<*********************>
+
+<p 02><d 5C00><a 01><n 00>
+Uh... Ahem!
+<--------------------->
+
+<p 02><d 5D00><a 01><n 00>
+Everyone! Calm down!
+<--------------------->
+
+<p 02><d 5E00><a 72><n 1C>
+That voice... Ashe, is
+that you? Where are
+you?
+<*********************>
+
+<p 01><p 02><d 5F00><a 08><n 02>
+It was getting kinda
+hot in there, so I went
+outside to cool off.
+<--------------------->
+
+<p 01><p 02><d 6000><a 09><n 02>
+We've almost caught up
+to the Raider airship
+with the booty on it.
+<--------------------->
+
+<p 01><p 02><d 6100><a 0C><n 02>
+I'm going to go ahead
+and meet our booty
+face to face.
+<*********************>
+
+<p 02><d 6500><a 08><n 02>
+This is Ashe, I've
+successfully docked
+with the airship.
+<--------------------->
+
+<p 02><d 6600><a 0C><n 02>
+Time to find out
+where the booty is.
+<*********************>
+
+<p 02><d 6700><a 01><n 1C>
+Aw, man... Doesn't she
+know by now
+<--------------------->
+
+<d 6800>
+that the booty is
+always in the lead
+airship?
+<--------------------->
+
+<p 02><d 6900><a 01><n 1C>
+We always go in from
+the back and end up
+messing it all up!
+<--------------------->
+
+<p 02><d 6A00><a 09><n 02>
+You guys be careful!
+OK, here we go!
+It's on!
+<*********************>
+
+<p 02><d 6B00><a 0A><n 02>
+...!?
+<--------------------->
+
+<p 02><d 6C00><a 0A><n 02>
+This is Ashe. Do you
+see any Mavericks on
+the radar?
+<*********************>
+
+<p 02><d 6D00><a 01><n 1D>
+It looks like there's a
+Mechaniloid ship among
+them! 
+<--------------------->
+
+<p 02><d 6E00><a 01><n 1D>
+They could be after the
+Biometal!
+<--------------------->
+
+<p 02><d 6F00><a 0A><n 02>
+Yeah, could be. Looks
+like the competition
+is high this time.
+<--------------------->
+
+<d 7000>
+Everyone, be
+careful!
+<*********************>
+
+<p 02><d 7100><a 0C><n 02>
+I've landed! OK, I
+guess the booty is
+inside.
+<*********************>
+
+<p 01><p 03><d 7200><a 25><n 00>
+It seems the Biometal
+has attracted a bug.
+<--------------------->
+
+<p 01><p 03><d 7300><a 25><n 00>
+Shoo, pest!
+<--------------------->
+
+<p 01><p 02><d 7400><a 08><n 02>
+Hey, what did you just
+call me!?
+<--------------------->
+
+<d 7500>
+You've got some
+nerve, talking to
+me like that.
+<--------------------->
+
+<p 01><p 02><d 7600><a 0A><n 02>
+You don't look like a
+Hunter... Are you after
+the Biometal?
+<--------------------->
+
+<p 01><p 03><d 7700><a 25><n 00>
+Don't group me together
+with those money-hungry
+Hunters.
+<--------------------->
+
+<p 01><p 03><d 7800><a 25><n 00>
+You're not worthy of
+the Biometal! Why don't
+you just go away?
+<*********************>
+
+<p 02><d 7900><a 72><n 1C>
+Sorry! We can't do
+that!
+<*********************>
+
+<p 02><d 7A00><a 74><n 1D>
+We finally made it.
+Let us join the party!
+<--------------------->
+
+<p 02><d 7B00><a 73><n 1E>
+Who the heck is this
+guy? A Hunter? A
+Maverick?
+<*********************>
+
+<p 02><d 7C00><a 0A><n 02>
+Everybody be careful!
+He's not just anybody!
+<*********************>
+
+<p 03><d 7D00><a 25><n 00>
+*sigh* How irritating! 
+OK, prepare to draw
+your last breaths! 
+<*********************>
+
+<p 03><d 7E00><a 25><n 03>
+I am Prometheus, and I
+control the power of
+this Biometal...
+<*********************>
+
+<p 03><d 7F00><a 26><n 03>
+The power of Mega Man!
+<*********************>
+
+<p 03><d 8000><a 0D><n 02>
+Uh... What is this
+place?
+<*********************>
+
+<p 02><d 8100><a 72><n 1C>
+Hey, you're awake.
+<--------------------->
+
+<p 02><d 8200><a 72><n 1C>
+These Hunters... They
+helped you.
+<--------------------->
+
+<p 02><d 8300><a 72><n 1C>
+They found you
+unconscious outside.
+<--------------------->
+
+<d 8400>
+Luckily you were near
+Hunter's Camp.
+<*********************>
+
+<p 03><d 8500><a 0F><n 02>
+Um, what happened to
+our booty... the
+Biometal!?
+<--------------------->
+
+<p 02><d 8600><a 72><n 1C>
+They managed to
+recover the whole
+container
+<--------------------->
+
+<d 8700>
+and bring it here!
+<--------------------->
+
+<p 02><d 8800><a 72><n 1C>
+I told them everything
+that happened with the
+airship and all that...
+<--------------------->
+
+<d 8900>
+They're planning to
+take it by train to
+Legion Headquarters.
+<--------------------->
+
+<p 03><d 8A00><a 0B><n 02>
+What? Are they planning
+to collect on our
+bounty?
+<--------------------->
+
+<p 02><d 8B00><a 72><n 1C>
+Is that what you're
+worried about?
+<--------------------->
+
+<d 8C00>
+You should consider
+yourself lucky just to
+be alive.
+<--------------------->
+
+<p 02><d 8D00><a 72><n 1C>
+If you had that
+Biometal,
+<--------------------->
+
+<p 02><d 8E00><a 72><n 1C>
+that Prometheus guy
+might come looking for
+you. Sorry,
+<--------------------->
+
+<d 8F00>
+I don't care if the
+client is Legion, it
+ain't worth it!
+<*********************>
+
+<p 03><d 9000><a 08><n 02>
+Oh, you're pathetic!
+I'll follow the train
+by myself if I have to!
+<--------------------->
+
+<p 03><d 9100><a 0A><n 02>
+On top of being called
+a bug,
+<--------------------->
+
+<d 9200>
+there's no way
+I'm going to give up
+that bounty!
+<--------------------->
+
+<p 02><d 9300><a 72><n 1C>
+Oh, brother! There's
+just no changing you.
+<--------------------->
+
+<d 9400>
+If you want to go that
+bad, I won't try to
+stop you.
+<--------------------->
+
+<p 02><d 9500><a 72><n 1C>
+Before you go, why
+don't you save your
+data, just in case?
+<--------------------->
+
+<p 02><d 9600><a 72><n 1C>
+There's a transerver
+next door. Follow me!
+<*********************>
+
+<p 03><d 9700><a 72><n 1C>
+Hm? It looks
+like you lost your
+Hunter's License.
+<--------------------->
+
+<p 03><d 9800><a 72><n 1C>
+So, you should go to
+the transerver and have
+it reissued.
+<--------------------->
+
+<p 03><d 9900><a 72><n 1C>
+If you don't have your
+Hunter's License,
+<--------------------->
+
+<d 9A00>
+you can't get in and
+out of the camp.
+<*********************>
+
+<p 03><d 9B00><a 72><n 1C>
+Stand in front of the
+transerver and press up
+on the <dpad>Control Pad.
+<--------------------->
+
+<p 03><d 9C00><a 72><n 1C>
+Once you use it, a
+license will be issued
+for you.
+<--------------------->
+
+<d 9D00>
+Don't forget
+to save often.
+<*********************>
+
+<p 03><d 9E00><a 08><n 02>
+Now I'm set!
+<--------------------->
+
+<p 02><d 9F00><a 72><n 1C>
+Those guys who took our
+Biometal are probably
+<--------------------->
+
+<d A000>
+at the station getting
+the train ready.
+<--------------------->
+
+<p 02><d A100><a 72><n 1C>
+Be sure to let me know
+how it goes, OK?
+<--------------------->
+
+<p 02><d A200><a 72><n 1C>
+I wanna tell everybody
+that I went on an
+adventure with you.
+<--------------------->
+
+<p 03><d A300><a 0C><n 02>
+Leave it to me! People
+are gonna be talking
+<--------------------->
+
+<d A400>
+about me all around the
+world.
+<*********************>
+
+<p 02><a 01><n 1C>
+Use the Jump Button to
+get over bumps and
+obstacles.
+<--------------------->
+
+<p 02><a 01><n 1C>
+Jump to the right or
+the left by pressing
+the Jump Button
+<--------------------->
+
+and the <dpad>Control Pad
+right or left.
+<--------------------->
+
+<p 02><a 01><n 1C>
+You can jump higher by
+holding down the Jump
+Button.
+<--------------------->
+
+<p 02><a 01><n 1C>
+The higher you jump,
+the further you can go.
+<--------------------->
+
+<p 02><a 01><n 1C>
+You'd better practice
+this action
+<--------------------->
+
+since you'll be using
+it a lot.
+<*********************>
+
+<p 02><a 01><n 1D>
+Don't go easy on
+Mavericks!
+<--------------------->
+
+<p 02><a 01><n 1D>
+Press the Attack Button
+to use your weapon.
+<--------------------->
+
+<p 02><a 01><n 1D>
+To shoot something
+that's high up,
+<--------------------->
+
+press the Attack Button
+while jumping...
+<--------------------->
+
+<p 02><a 01><n 1D>
+You should be able to
+use this to hit
+enemies above you.
+<--------------------->
+
+<p 02><a 01><n 1D>
+Remember to just keep
+shooting! Offense is
+the best defense!
+<*********************>
+
+<p 02><a 01><n 1E>
+If you get in front of
+the ladder and press up
+on the <dpad>Control Pad,
+<--------------------->
+
+you can grab the
+ladder.
+<--------------------->
+
+<p 02><a 01><n 1E>
+You can press up or
+down on the
+<dpad>Control Pad
+<--------------------->
+
+to go up or down.
+<--------------------->
+
+<p 02><a 01><n 1E>
+Press the Attack Button
+in combination with
+right or left on the
+<--------------------->
+
+<p 02><a 01><n 1E>
+<dpad>Control Pad to attack
+right or left while on
+the ladder.
+<--------------------->
+
+<p 02><a 01><n 1E>
+Also, to get off of the
+ladder, just jump.
+Remember that!
+<*********************>
+
+<p 02><a 01><n 1C>
+Ashe! We've got hostile
+Mavericks incoming with
+lasers hot!
+<--------------------->
+
+<p 02><a 01><n 1C>
+Listen! When you're
+under attack,
+<--------------------->
+
+press down on the
+<dpad>Control Pad to
+crouch down.
+<--------------------->
+
+<p 02><a 01><n 1C>
+It's dangerous to stand
+up while under attack.
+<--------------------->
+
+Hold down the
+<dpad>Control Pad till
+the enemy
+<--------------------->
+
+stops shooting.
+<--------------------->
+
+<p 02><a 01><n 1C>
+When you release the
+<dpad>Control Pad, you'll
+stand up,
+<--------------------->
+
+so be careful.
+<--------------------->
+
+<p 02><a 01><n 1C>
+To move right or left
+while crouching,
+<--------------------->
+
+press the <dpad>Control Pad
+diagonally down
+right or left.
+<*********************>
+
+<FIM>

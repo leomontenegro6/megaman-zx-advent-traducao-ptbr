@@ -1,0 +1,112 @@
+<script_info tipo='Quest 21' personagem='Grey' tamanho='1104' inicio_ponteiros='4' fim_ponteiros='9' inicio_textos='10' />
+<#####################>
+
+<p 02><a 54><n 3D>
+*Moan* What a
+predicament... What am
+I going to do?
+<--------------------->
+
+Never mind. I was just
+talking to myself. It's
+none of your concern.
+<--------------------->
+
+But if you really want
+to hear about it,
+I'll tell you.
+<--------------------->
+
+Well...
+<--------------------->
+
+You know how there's a
+miniature flying
+surveillance camera
+<--------------------->
+
+in Hunter's Camp
+that looks like a bird?
+<--------------------->
+
+Well, the other day,
+while performing a
+sweep
+<--------------------->
+
+over the Control Center
+area,
+<--------------------->
+
+the Mini-Cam picked up
+on something abnormal
+<--------------------->
+
+and took off toward an
+area of smoke.
+<--------------------->
+
+Of course I would go
+out there and retrieve
+it by myself,
+<--------------------->
+
+but I have to hurry
+back home to take care
+of something.
+<--------------------->
+
+Uh, I don't have to go
+right this moment. But
+since you're here,
+<--------------------->
+
+I thought I'd let you
+have the honor, ya
+know.
+<--------------------->
+
+The Mini-Cam even acts
+just like a little
+bird,
+<--------------------->
+
+so I'll give you this
+cage!
+<*********************>
+
+<p 02><a 54><n 3D>
+I think it took off
+somewhere up high in
+the Control Center.
+<--------------------->
+
+I tell ya, the stuff
+that thing is capable
+of doing...
+<--------------------->
+
+It drives me crazy
+sometimes.
+<*********************>
+
+<p 02><a 54><n 3D>
+What? You found the
+Mini-Cam?
+<--------------------->
+
+Man, you are an ace
+Hunter. I could
+tell when we first met.
+<--------------------->
+
+Let me return the
+favor.
+<--------------------->
+
+Keep the cage. You can
+use it to decorate your
+room or something.
+<*********************>
+
+<FIM>

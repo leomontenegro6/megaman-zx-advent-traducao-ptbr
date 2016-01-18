@@ -1,0 +1,657 @@
+<script_info tipo='Missão 1' personagem='Vent' tamanho='6231' inicio_ponteiros='4' fim_ponteiros='69' inicio_textos='70' />
+<#####################>
+
+<p 02><d 0100><a 42><n 1A>
+Well? How's that lock
+coming?
+<--------------------->
+
+<p 03><d 0200><a 42><n 1B>
+This is one tough nut
+to crack... But I'm
+almost there.
+<*********************>
+
+<p 02><d 0300><a 42><n 1B>
+Yes! Got it! We're in.
+<*********************>
+
+<p 02><d 0400><a 42><n 1A>
+...Not again! It looks
+like this isn't it
+either.
+<--------------------->
+
+<p 02><d 0500><a 42><n 1A>
+I was hoping we'd find
+it on the first try,
+<--------------------->
+
+<d 0600>
+and show it off
+to the guys back at
+Hunter's Camp.
+<*********************>
+
+<p 03><d 0700><a 42><n 1B>
+Hey! There's something
+in there!
+<*********************>
+
+<p 03><d 0800><a 42><n 1B>
+What the...!?
+<*********************>
+
+<p 02><d 0900><a 42><n 1A>
+...A Reploid kid? No
+way! What's it doing
+here?
+<*********************>
+
+<p 02><d 0A00><a 42><n 1B>
+Hey, don't touch it! If
+you trip the security,
+<--------------------->
+
+<d 0B00>
+we'll have Mechaniloids
+crawling all over us.
+<*********************>
+
+<p 02><d 0D00><a 0F><n 00>
+What the!?
+W-What... happened?
+<--------------------->
+
+<p 02><d 0E00><a 0F><n 00>
+Where am I?
+Who am I?
+<--------------------->
+
+<p 02><d 0F00><a 0D><n 00>
+Hnnngnn! I can't
+remember anything...
+<*********************>
+
+<p 03><d 1000><a 0F><n 00>
+W-Who are you!?
+<*********************>
+
+<p 01><p 02><d 1100><a 28><n 04>
+I... am Pandora.
+<--------------------->
+
+<p 01><p 02><d 1200><a 28><n 04>
+Grey... I'm here
+to dispose of you...
+<--------------------->
+
+<p 01><p 03><d 1300><a 08><n 01>
+Grey? Is that my
+name?
+<--------------------->
+
+<p 01><p 03><d 1400><a 0B><n 01>
+What do you mean
+dispose of me!?
+<--------------------->
+
+<p 01><p 02><d 1500><a 28><n 04>
+You... are like me... A
+Mega Man... But you
+were awakened...
+<--------------------->
+
+<p 01><p 02><d 1600><a 28><n 04>
+before the mind control
+sequence was
+completed...
+<--------------------->
+
+<p 01><p 03><d 1700><a 0B><n 01>
+Mega Man? Mind
+control!? What have
+you done to me!?
+<*********************>
+
+<p 00><p 03><d 1800><a 0E><n 01>
+Ugnnh!
+<*********************>
+
+<p 00><p 02><d 1900><a 28><n 04>
+Defectives must be
+disposed of...
+<--------------------->
+
+<p 03><d 1A00><a 0A><n 01>
+I don't think this
+guy will be needing
+his weapon anymore.
+<*********************>
+
+<p 03><d 1B00><a 0B><n 01>
+Aaaagghh!
+<*********************>
+
+<p 02><d 1C00><a 0D><n 01>
+*pant*... *pant*...!
+Why did she call me
+defective!?
+<--------------------->
+
+<p 02><d 1D00><a 0A><n 01>
+Anyway, I have to find
+a way out of here
+before they kill me!
+<*********************>
+
+<p 02><d 1E00><a 0E><n 01>
+Aaaagghh!
+<*********************>
+
+<p 03><d 1F00><a 0F><n 01>
+Mmmwwaaa!
+<*********************>
+
+<p 03><d 2000><a 08><n 01>
+Huh...? Where
+am I?
+<*********************>
+
+<p 02><d 2100><a 42><n 1F>
+Whoa! Hey, let's
+just calm down, OK!?
+<--------------------->
+
+<p 03><d 2200><a 0A><n 01>
+Are you here to kill
+me!?
+<--------------------->
+
+<p 02><d 2300><a 42><n 1F>
+I'm the one who found
+you outside the camp!
+<--------------------->
+
+<p 02><d 2400><a 42><n 1F>
+Put down your weapon!
+I'm not going to hurt
+you!
+<*********************>
+
+<p 03><d 2500><a 08><n 01>
+You... helped me?
+<*********************>
+
+<p 02><d 2600><a 42><n 1F>
+Yeah, don't mention
+it. What's your name?
+<--------------------->
+
+<d 2700>
+And what the heck
+happened to you?
+<--------------------->
+
+<p 03><d 2800><a 08><n 01>
+Grey... At least,
+that's what she called
+me anyway.
+<--------------------->
+
+<p 03><d 2900><a 08><n 01>
+When I woke up, I was
+inside some kind of
+building...
+<--------------------->
+
+<d 2A00>
+And there was a
+woman... She said her
+name was Pandora.
+<--------------------->
+
+<p 03><d 2B00><a 0D><n 01>
+Right before she tried
+to kill me.
+<--------------------->
+
+<d 2C00>
+I ran... Everything
+after that is a blur.
+<--------------------->
+
+<p 02><d 2D00><a 42><n 1F>
+Well, there must be
+some reason you
+can't remember...
+<--------------------->
+
+<d 2E00>
+Don't let it get you
+down. It'll all come
+back to you.
+<--------------------->
+
+<p 02><d 2F00><a 42><n 1F>
+This is Hunter's Camp,
+a gathering place for
+bounty Hunters.
+<--------------------->
+
+<p 02><d 3000><a 42><n 1F>
+They're a pretty rowdy
+bunch, but they're all
+good people.
+<--------------------->
+
+<d 3100>
+It's good to have guys
+like them around.
+<--------------------->
+
+<p 02><d 3200><a 42><n 1F>
+Hey, you haven't had a
+chance to see the camp
+yet.
+<--------------------->
+
+<p 02><d 3300><a 42><n 1F>
+OK, exit this room and
+meet me at the
+transerver next door.
+<--------------------->
+
+<d 3400>
+There's something I
+wanna show you.
+<*********************>
+
+<p 03><d 3500><a 08><n 01>
+Uh... Um...!
+<*********************>
+
+<p 03><d 3600><a 0C><n 01>
+...Uh, thank you for
+saving me...
+<--------------------->
+
+<p 02><d 3700><a 42><n 1F>
+*smile* Like I said,
+don't mention it.
+<--------------------->
+
+<d 3800>
+I'm sure you would have
+done the same for me.
+<*********************>
+
+<p 03><d 3900><a 42><n 1F>
+That machine's called a
+transerver. You can use
+it to save data.
+<*********************>
+
+<p 03><d 3A00><a 42><n 1F>
+Go ahead, get up there
+and press up on the
+<dpad>Control Pad.
+<*********************>
+
+<p 03><d 3C00><a 08><n 01>
+A Hunter's License? I
+don't get it...
+<--------------------->
+
+<p 02><d 3D00><a 42><n 1F>
+By accessing the
+server,
+<--------------------->
+
+<p 02><d 3E00><a 42><n 1F>
+you've been officially
+registered as a Hunter.
+<--------------------->
+
+<d 3F00>
+There are transervers
+spread out all over the
+place.
+<--------------------->
+
+<d 4000>
+When you find one, be
+sure to save, and save
+often!
+<--------------------->
+
+<p 03><d 4100><a 0F><n 01>
+Wait a minute! I never
+said that I wanted to
+be a Hunter...!
+<--------------------->
+
+<p 02><d 4200><a 42><n 1F>
+Just keep it. There are
+a lot of illegal 
+Hunters, Raiders and
+<--------------------->
+
+<p 02><d 4300><a 42><n 1F>
+such out there.
+You can't get into 
+Hunter's Camp
+<--------------------->
+
+<p 02><d 4400><a 42><n 1F>
+without your Hunter's
+License. Take a
+look around later on.
+<--------------------->
+
+<d 4500>
+Oh, by the way! Do you
+wanna help me with a
+mission?
+<--------------------->
+
+<p 03><d 4600><a 08><n 01>
+A mission?
+<--------------------->
+
+<p 02><d 4700><a 42><n 1F>
+Job requests we Hunters
+get now and then. You
+get paid 
+<--------------------->
+
+<p 02><d 4800><a 42><n 1F>
+when you carry out a
+job successfully. Hey,
+it's a living.
+<--------------------->
+
+<p 02><d 4900><a 42><n 1F>
+Anyway, I've got to get
+ready for the mission,
+so I'll be
+<--------------------->
+
+<d 4A00>
+at the station. Give me
+a holler when you're
+ready to go.
+<*********************>
+
+<p 02><a 08><n 01>
+Use the Jump Button to
+get over bumps and
+obstacles.
+<--------------------->
+
+<p 02><a 08><n 01>
+Jump to the right or
+the left by pressing
+the Jump Button and
+<--------------------->
+
+the <dpad>Control Pad
+right or left.
+<--------------------->
+
+<p 02><a 08><n 01>
+You can jump higher by
+holding down the Jump
+Button.
+<--------------------->
+
+<p 02><a 08><n 01>
+The higher you jump,
+the further you can go.
+<--------------------->
+
+<p 02><a 08><n 01>
+OK, first try to jump
+over that.
+<*********************>
+
+<p 02><a 08><n 01>
+I bet the weapon you're
+holding can destroy
+those
+<--------------------->
+
+<p 02><a 08><n 01>
+capsules up ahead. Give
+it a try! Press the
+Attack Button.
+<--------------------->
+
+<p 02><a 08><n 01>
+It looks like it can
+shoot 3 shots in a row.
+<*********************>
+
+<p 02><a 08><n 01>
+There is no way to jump
+over this big
+container.
+<--------------------->
+
+<p 02><a 08><n 01>
+You might be able to
+destroy it by
+<--------------------->
+
+continuously
+pressing the Attack
+Button.
+<*********************>
+
+<p 02><a 08><n 01>
+But what about that
+container way
+up there?
+<--------------------->
+
+<p 02><a 08><n 01>
+To shoot something that
+high up,
+<--------------------->
+
+press the Attack
+Button while jumping.
+<*********************>
+
+<p 02><a 08><n 01>
+There's a ladder over
+there.
+<--------------------->
+
+<p 02><a 08><n 01>
+Face the ladder and
+jump while pressing up
+on the <dpad>Control Pad,
+<--------------------->
+
+and you should be able
+to grab the ladder.
+<--------------------->
+
+<p 02><a 08><n 01>
+Once you grab hold of
+the ladder, press up or
+down on the
+<--------------------->
+
+<dpad>Control Pad to go up
+or down.
+<--------------------->
+
+<p 02><a 08><n 01>
+Press the Attack Button
+in combination with
+<--------------------->
+
+right or left on the
+<dpad>Control Pad
+<--------------------->
+
+<p 02><a 08><n 01>
+to attack right or left
+while on the ladder.
+<--------------------->
+
+<p 02><a 08><n 01>
+Press the Jump Button
+to get off of the
+ladder.
+<*********************>
+
+<p 02><a 08><n 01>
+That sound... Is that
+the sound of gas
+<--------------------->
+
+leaking from that
+pipe over there?
+<--------------------->
+
+<p 02><a 08><n 01>
+If you crouch down, you
+should be able to get
+by
+<--------------------->
+
+without touching the
+gas.
+<--------------------->
+
+<p 02><a 08><n 01>
+You can crouch down by
+pressing down on the
+<dpad>Control Pad.
+<--------------------->
+
+<p 02><a 08><n 01>
+Press the <dpad>Control Pad
+right or left to walk
+while crouching.
+<*********************>
+
+<p 02><a 48><n 36>
+I haven't seen you 
+around here before.
+My name is Nana.
+<--------------------->
+
+How do you do?
+<--------------------->
+
+<p 02><a 48><n 36>
+I'm an Operator in
+training here at
+Hunter's Camp.
+<--------------------->
+
+<p 02><a 48><n 36>
+I know you probably
+don't need my help but,
+<--------------------->
+
+allow me to explain 
+a few things to you.
+<--------------------->
+
+<p 02><a 48><n 36>
+That device is called a
+Warp Point.
+<--------------------->
+
+<p 02><a 48><n 36>
+You can use the
+transerver back there
+any time to go
+<--------------------->
+
+to wherever there is a
+Warp Point.
+<--------------------->
+
+<p 02><a 48><n 36>
+But it looks like that
+one isn't working,
+
+<--------------------->
+
+because it's all out of
+power.
+<--------------------->
+
+<p 02><a 48><n 36>
+If you have enough
+E-Crystals, you can
+press up on the
+<--------------------->
+
+<dpad>Control Pad and start
+it up.
+<--------------------->
+
+<p 02><a 48><n 36>
+Let's start this one up
+just for now.
+<*********************>
+
+<p 02><a 48><n 36>
+See? Pretty neat, huh?
+With this you can use 
+<--------------------->
+
+a transerver to come
+back anytime!
+<--------------------->
+
+<p 02><a 48><n 36>
+You can look at the map
+to see which areas are
+accessible.
+<--------------------->
+
+<p 02><a 48><n 36>
+When you start up the
+Warp Point, the area
+will light up red. 
+<--------------------->
+
+So, you should be able
+to find it right away.
+<--------------------->
+
+<p 02><a 48><n 36>
+I wonder if you were 
+able to understand my
+explanation,
+<--------------------->
+
+since I'm still in
+training.
+<--------------------->
+
+<p 02><a 48><n 36>
+Also, in Beginner Mode,
+all you have to do is
+touch it
+<--------------------->
+
+and it will start up
+automatically!
+<--------------------->
+
+<p 02><a 48><n 36>
+If you don't understand
+something, please ask
+me again, OK?
+<*********************>
+
+<FIM>

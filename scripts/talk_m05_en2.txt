@@ -1,0 +1,428 @@
+<script_info tipo='Missão 5' personagem='Ashe' tamanho='4129' inicio_ponteiros='4' fim_ponteiros='45' inicio_textos='46' />
+<#####################>
+
+<p 02><a 05><n 5E>
+ALERT! ALERT! SECURITY
+SYSTEM MALFUNCTION!
+<--------------------->
+
+<p 02><a 05><n 5E>
+ALERT CONDITION 3 IN
+EFFECT! SEAL ALL EXITS!
+<*********************>
+
+<p 02><a 6B><n 15>
+Y-Yo this isn't
+good!
+<*********************>
+
+<p 03><a 0A><n 02>
+It's no good, the doors
+are locked!
+<*********************>
+
+<p 02><a 02><n 05>
+This is Albert! Are you
+alright, Ashe!?
+<--------------------->
+
+<p 02><a 02><n 05>
+That old tower was
+built to surveil the
+surrounding area.
+<--------------------->
+
+<p 02><a 02><n 05>
+The security has been
+fortified against
+Mavericks,
+<--------------------->
+
+but there
+seems to be a
+malfunction.
+<--------------------->
+
+<p 02><a 02><n 05>
+There should be a
+computer at the top
+<--------------------->
+
+that controls the
+security system.
+<--------------------->
+
+<p 02><a 02><n 05>
+You must get in there
+and disarm the system,
+Ashe.
+<*********************>
+
+<p 03><d 5E01><a 3E><n 00>
+For a Raider to make it
+this far is quite
+something...
+<--------------------->
+
+<p 03><d 5F01><a 3E><n 00>
+*evil laugh*
+I like you!
+<--------------------->
+
+<p 03><d 6001><a 3E><n 00>
+Accept my thorny
+embrace and allow your
+soul
+<--------------------->
+
+<d 6101>
+to be scattered
+like petals on
+the breeze!
+<*********************>
+
+<p 02><d 6201><a 40><n 21>
+*Aargh*! S-Stay away
+from me!
+<--------------------->
+
+<p 03><d 6301><a 0B><n 02>
+Stooooooooop! I'm the
+one you want!
+<*********************>
+
+<p 02><d 6401><a 3E><n 00>
+...What, a girl? I'm
+busy.
+<--------------------->
+
+<p 02><d 6501><a 3E><n 00>
+Just wait there! I'll
+get to you
+<--------------------->
+
+<d 6601>
+when I finish ripping
+this man's soul out.
+<*********************>
+
+<p 02><d 6701><a 40><n 21>
+Graaah!
+<*********************>
+
+<p 03><d 6801><a 0A><n 02>
+So, you're the one who
+caused the security
+system to malfunction!
+<--------------------->
+
+<d 6901>
+What are you doing
+here!?
+<*********************>
+
+<p 02><d 6A01><a 3E><n 00>
+You know, you're really
+starting to get on my
+nerves!
+<--------------------->
+
+<d 6B01>
+Now look what you've
+done! You've let
+my sacrifice get away!
+<--------------------->
+
+<p 02><d 6C01><a 3E><n 00>
+What am I doing here?
+OK, I'll tell you...
+<*********************>
+
+<p 01><p 02><d 6D01><a 3F><n 0A>
+Let me start by
+introducing myself. My
+name is Rospark.
+<--------------------->
+
+<d 6E01>
+I sacrifice those
+unfortunate enough to
+wander into this tower!
+<--------------------->
+
+<p 01><p 02><d 6F01><a 3F><n 0A>
+You too can become a
+sacrifice...
+<--------------------->
+
+<d 7001>
+For the strength of the
+new king... Biometal
+Model W!
+<*********************>
+
+<p 03><d 7101><a 3F><n 0A>
+Disgusting! You've made
+me dirty up my
+beautiful thorns!
+<*********************>
+
+<p 03><d 7201><a 3F><n 0A>
+*mutter* The nerve!
+That strength... How!?
+<--------------------->
+
+<p 03><d 7301><a 3F><n 0A>
+I'm wilting... wilting!
+Yeeeargh!
+<*********************>
+
+<p 02><d 7401><a 40><n 21>
+*Ugh* You're one of
+the gang who attacked
+our airship,
+<--------------------->
+
+<p 02><d 7501><a 40><n 21>
+aren't you!? No...
+Stop... Stay away...!
+<--------------------->
+
+<p 03><d 7601><a 6B><n 15>
+It's no use... He's in
+a total panic.
+<--------------------->
+
+<p 03><d 7701><a 0A><n 02>
+Calm down! I'm here to
+help you!
+<--------------------->
+
+<p 02><d 7801><a 40><n 21>
+S-S-Stay back,
+get away!
+<*********************>
+
+<p 02><d 7901><a 40><n 21>
+Eeeagghhhh!
+<*********************>
+
+<p 03><d 7A01><a 0F><n 02>
+What the... What just
+happened!?
+<*********************>
+
+<p 02><d 7B01><a 33><n 00>
+Total and utter
+defeat... That man,
+<--------------------->
+
+<d 7C01>
+unable to endure the
+terror, fell victim to
+Model W.
+<--------------------->
+
+<p 03><d 7D01><a 6B><n 15>
+Model W!? This
+humongous thing is a
+Biometal!?
+<--------------------->
+
+<p 02><d 7E01><a 2D><n 00>
+BIOMETAL MODEL W... A
+BIOMETAL MADE FROM
+AN ANCIENT WEAPON.
+<--------------------->
+
+<p 03><d 7F01><a 0F><n 02>
+Who the heck are you!?
+<*********************>
+
+<p 01><p 03><d 8001><a 34><n 00>
+You, the Chosen One
+for Model A? What a
+disappointment!
+<--------------------->
+
+<p 01><p 03><d 8101><a 34><n 11>
+I am Aeolus, the Wind
+Mega Man, Model H.
+<--------------------->
+
+<p 02><d 8201><a 2E><n 14>
+CODENAME: SIARNAQ.
+SHADOW MEGA MAN,
+MODEL P.
+<--------------------->
+
+<p 01><p 03><d 8301><a 6B><n 15>
+Model H, Model P... Are
+these the other
+Mega Men
+<--------------------->
+
+<d 8401>
+Prometheus was
+talking about!?
+<--------------------->
+
+<p 02><d 8501><a 2E><n 14>
+OPERATIONAL TIME LIMIT
+EXCEEDED. RETRIEVE
+MODEL W.
+<--------------------->
+
+<p 01><p 03><d 8601><a 0A><n 02>
+Wait, I'm right here!
+Are you just gonna run
+away!?
+<*********************>
+
+<p 02><d 8701><a 34><n 11>
+Us? Run away? Don't be
+stupid! We're letting
+you live for now.
+<--------------------->
+
+<p 02><d 8801><a 34><n 11>
+Right now, our first
+priority is developing
+Model W.
+<--------------------->
+
+<d 8901>
+We can take
+care of you anytime.
+<--------------------->
+
+<p 02><d 8A01><a 2E><n 14>
+OPERATIONAL TIME LIMIT
+EXCEEDED. REQUESTING
+YOU MOVE EXPEDITIOUSLY.
+<--------------------->
+
+<p 02><d 8C01><a 2E><n 14>
+MODEL W AWARENESS LEVEL
+2. ESTIMATED TIME TILL
+MAVERICK GENERATION,
+<--------------------->
+
+<d 8D01>
+5717 SECONDS.
+<--------------------->
+
+<p 03><d 8E01><a 0F><n 02>
+Hey! You mean that
+Model W caused all of
+those Mavericks!?
+<--------------------->
+
+<p 02><d 8F01><a 34><n 11>
+Your ignorance knows no
+bounds... The fact that
+you even need to ask
+<--------------------->
+
+<d 9001>
+shows that you are not
+fit to be a Mega Man.
+<--------------------->
+
+<p 02><d 9101><a 34><n 11>
+You may live, for now.
+But the next time we
+meet will be your last.
+<*********************>
+
+<p 02><d 9201><a 02><n 05>
+Finally, we were able
+to reach you. Are you
+OK?
+<--------------------->
+
+<p 02><d 9301><a 02><n 05>
+We've verified that the
+security system has
+indeed been disarmed. 
+<--------------------->
+
+<p 02><d 9401><a 02><n 05>
+Now, you should be able
+to continue.
+<*********************>
+
+<p 02><a 6B><n 15>
+Be careful, Ashe! There
+are thorns everywhere.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Oh yeah! You can morph
+into Rospark!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Press the <dpad>Control Pad
+up in front of vines
+and poles,
+<--------------------->
+
+and Rospark will
+grab hold of them.
+<--------------------->
+
+<p 02><a 6B><n 15>
+You can also move
+sideways, vine to vine,
+or pole to pole.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Just press the Attack
+Button while holding
+the <dpad>Control Pad
+<--------------------->
+
+left or right to whip
+out Rospark's arms.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Hold the Attack Button
+and release it to do an
+electric attack!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Oh? It looks like
+Rospark has one more
+attack!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Press the other Attack
+Button to extend
+Rospark's thorns.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Holding this Attack
+Button and releasing it
+<--------------------->
+
+will also do an
+electric attack!
+<--------------------->
+
+<p 02><a 6B><n 15>
+It's a lot to remember
+all at once,
+<--------------------->
+
+so have a look at it
+again on the Profile
+Screen.
+<*********************>
+
+<FIM>

@@ -1,0 +1,846 @@
+<script_info tipo='Sistema' personagem='indefinido' tamanho='6284' inicio_ponteiros='4' fim_ponteiros='381' inicio_textos='382' />
+<#####################>
+
+
+You got a <c 03>Life Up<c 00>!
+<*********************>
+
+
+You got a <c 03>Sub Tank<c 00>!
+<*********************>
+
+
+You got a <c 03>BM Upgrade<c 00>!
+<*********************>
+
+
+You got a <c 03>Secret Disk<c 00>!
+<*********************>
+
+
+You got a <c 03>Red Card Key<c 00>!
+<*********************>
+
+
+You got a <c 03>Blue Card Key<c 00>!
+<*********************>
+
+
+You got a <c 03>Green Card Key<c 00>!
+<*********************>
+
+
+You got a <c 03>Purple Card Key<c 00>!
+<*********************>
+
+
+You got a <c 03>Yellow Card Key<c 00>!
+<*********************>
+
+
+You got a <c 03>White Card Key<c 00>!
+<*********************>
+
+
+You got a <c 03>Hunter's License<c 00>!
+<*********************>
+
+
+You got <c 03>Data File A<c 00>!
+<*********************>
+
+
+You got <c 03>Data File B<c 00>!
+<*********************>
+
+
+You got an <c 03>Init. Key<c 00>!
+<*********************>
+
+
+<c 03>Data File A<c 00> Transferred!
+<*********************>
+
+
+<c 03>Data File B<c 00> Transferred!
+<*********************>
+
+
+You got a <c 03>Frog<c 00>!
+<*********************>
+
+
+You got an <c 03>Eraser<c 00>!
+<*********************>
+
+
+You got <c 03>Ice Boots<c 00>!
+<*********************>
+
+
+You got <c 03>Wind Boots<c 00>!
+<*********************>
+
+
+You got a <c 03>Featherweight<c 00>!
+<*********************>
+
+
+You got an <c 03>Extender<c 00>!
+<*********************>
+
+
+You got an <c 03>Absorber<c 00>!
+<*********************>
+
+
+You got a <c 03>F. Range Key<c 00>!
+<*********************>
+
+
+You returned the <c 03>F. Range Key<c 00>!
+<*********************>
+
+
+The "<c 03>Hayate<c 00>" title is yours!
+<*********************>
+
+
+The "<c 03>Idaten<c 00>" title is yours!
+<*********************>
+
+
+You're now the "<c 03>Speed King<c 00>"!
+<*********************>
+
+
+You're no longer "<c 03>Speed King<c 00>"!
+<*********************>
+
+
+You accepted <c 03>Mission Request<c 00>!
+<*********************>
+
+
+You got a <c 03>Legendary Pickaxe<c 00>!
+<*********************>
+
+
+You handed over <c 03>L. Pickaxe<c 00>!
+<*********************>
+
+
+You got <c 03>Wrench<c 00>!
+<*********************>
+
+
+You handed over <c 03>Wrench<c 00>!
+<*********************>
+
+
+You got a <c 03>Moth Queen<c 00>!
+<*********************>
+
+
+You handed over <c 03>Moth Queen<c 00>!
+<*********************>
+
+
+You got a <c 03>Backpack<c 00>!
+<*********************>
+
+
+You got a <c 03>Disk<c 00>!
+<*********************>
+
+
+You handed over <c 03>Backpack<c 00>!
+<*********************>
+
+
+You handed over <c 03>Disk<c 00>!
+<*********************>
+
+
+You got a <c 03>Disk<c 00>!
+<*********************>
+
+
+You got a <c 03>Pin<c 00>!
+<*********************>
+
+
+You gave back the <c 03>Pin<c 00>!
+<*********************>
+
+
+You got a <c 03>Green Apple<c 00>!
+<*********************>
+
+
+You handed over <c 03>Green Apple<c 00>!
+<*********************>
+
+
+You caught a <c 03>Nightingale<c 00>!
+<*********************>
+
+
+You returned the <c 03>Nightingale<c 00>!
+<*********************>
+
+
+You got 1000 EC!
+<*********************>
+
+
+You handed over 1000 EC!
+<*********************>
+
+
+You got a <c 03>Bucket<c 00>!
+<*********************>
+
+
+You got a <c 03>Potted Plant<c 00>!
+<*********************>
+
+
+You handed over <c 03>Potted Plant<c 00>!
+<*********************>
+
+
+You <c 03>watered<c 00> the plant!
+<*********************>
+
+
+You got a <c 03>Berry<c 00>!
+<*********************>
+
+
+You got 200 EC!
+<*********************>
+
+
+You got a <c 03>Comic (Green)<c 00>!
+<*********************>
+
+
+You got a <c 03>Comic (Blue)<c 00>!
+<*********************>
+
+
+You got a <c 03>Comic (Orange)<c 00>!
+<*********************>
+
+
+You handed over <c 03>Comic<c 00>!
+<*********************>
+
+
+You got <c 03>Pudding<c 00>!
+<*********************>
+
+
+You handed over <c 03>Pudding<c 00>!
+<*********************>
+
+
+You got a <c 03>Model Train<c 00>!
+<*********************>
+
+
+You handed over <c 03>Model Train<c 00>!
+<*********************>
+
+
+You got a <c 03>Micro Transmitter<c 00>!
+<*********************>
+
+
+You set the <c 03>Micro Transmitter<c 00>!
+<*********************>
+
+
+You got an <c 03>L Tank<c 00>!
+<*********************>
+
+
+You got a <c 03>Pinwheel<c 00>!
+<*********************>
+
+
+You got an <c 03>Old Balancer<c 00>!
+<*********************>
+
+
+You got a <c 03>Light Bulb<c 00>!
+<*********************>
+
+
+You got <c 03>Blueprints<c 00>!
+<*********************>
+
+
+You handed over <c 03>Blueprints<c 00>!
+<*********************>
+
+
+You got a <c 03>Lily<c 00>!
+<*********************>
+
+
+You handed over <c 03>Lily<c 00>!
+<*********************>
+
+
+You rescued <c 03>Lazarus<c 00>!
+<*********************>
+
+
+You rescued <c 03>Red<c 00>!
+<*********************>
+
+
+You got an <c 03>Engine<c 00>!
+<*********************>
+
+
+You got an <c 03>Ignition<c 00>!
+<*********************>
+
+
+You got <c 03>Titanium Alloy<c 00>!
+<*********************>
+
+
+You got a <c 03>Booster<c 00>!
+<*********************>
+
+
+You handed over <c 03>Junk<c 00>!
+<*********************>
+
+
+You got a <c 03>Pendant<c 00>!
+<*********************>
+
+
+You handed over <c 03>Pendant<c 00>!
+<*********************>
+
+
+You got a <c 03>Birdcage<c 00>!
+<*********************>
+
+
+You got <c 03>Bird in Cage<c 00>!
+<*********************>
+
+
+You set <c 03>Birdcage<c 00>!
+<*********************>
+
+
+You handed over <c 03>Bird in Cage<c 00>!
+<*********************>
+
+
+Handed over <c 03>Mystery Present<c 00>!
+<*********************>
+
+
+You got a <c 03>Gift Certificate<c 00>!
+<*********************>
+
+
+You got a <c 03>Demon Buster<c 00>!
+<*********************>
+
+
+You got a <c 03>Baby Doll<c 00>!
+<*********************>
+
+
+You got a <c 03>Lollipop<c 00>!
+<*********************>
+
+
+You got a <c 03>Warrior Helmet<c 00>!
+<*********************>
+
+
+You got a <c 03>Soccer Ball<c 00>!
+<*********************>
+
+
+You got a <c 03>Wish Card<c 00>!
+<*********************>
+
+
+You used <c 03>Wish Card<c 00>!
+<*********************>
+
+
+You got <c 03>Watermelon<c 00>!
+<*********************>
+
+
+You got a <c 03>Rice Cake<c 00>!
+<*********************>
+
+
+You got a <c 03>Magic Pumpkin<c 00>!
+<*********************>
+
+
+You got <c 03>Laughy Taffy<c 00>!
+<*********************>
+
+
+You got a <c 03>Mystery Present<c 00>!
+<*********************>
+
+
+You got an <c 03>E Tank<c 00>!
+<*********************>
+
+
+You got <c 03>Shortcake<c 00>!
+<*********************>
+
+
+You got an <c 03>Apple<c 00>!
+<*********************>
+
+
+You got <c 03>Candy<c 00>!
+<*********************>
+
+
+You got <c 03>Bread<c 00>!
+<*********************>
+
+
+You got an <c 03>Orange<c 00>!
+<*********************>
+
+
+Got a <c 03>M.Request<c 00> from Doug!
+<*********************>
+
+
+Doug signed your <c 03>M.Request<c 00>.
+<*********************>
+
+
+Got a <c 03>M.Request<c 00> from Chuck!
+<*********************>
+
+
+Chuck signed your <c 03>M.Request<c 00>.
+<*********************>
+
+
+Got a <c 03>M.Request<c 00> from Roger!
+<*********************>
+
+
+Roger signed your <c 03>M.Request<c 00>.
+<*********************>
+
+
+Got a <c 03>M.Request<c 00> from Kirk!
+<*********************>
+
+
+Kirk signed your <c 03>M.Request<c 00>.
+<*********************>
+
+
+Got a <c 03>M.Request<c 00> from Kyrian!
+<*********************>
+
+
+Kyrian signed your <c 03>M.Request<c 00>.
+<*********************>
+
+
+Got a <c 03>M.Request<c 00> from Tim!
+<*********************>
+
+
+Tim signed your <c 03>M.Request<c 00>.
+<*********************>
+
+
+Got a <c 03>M.Request<c 00> from Abe!
+<*********************>
+
+
+Abe signed your <c 03>M.Request<c 00>.
+<*********************>
+
+
+Got a <c 03>M.Request<c 00> from Ben!
+<*********************>
+
+
+Ben signed your <c 03>M.Request<c 00>.
+<*********************>
+
+
+<c 03>Gem Buster<c 00> appeared!
+<*********************>
+
+
+You got 10 EC!
+<*********************>
+
+
+You got 50 EC!
+<*********************>
+
+
+You got 100 EC!
+<*********************>
+
+
+You got 200 EC!
+<*********************>
+
+
+You got 300 EC!
+<*********************>
+
+
+You got 350 EC!
+<*********************>
+
+
+You got 400 EC!
+<*********************>
+
+
+You got 450 EC!
+<*********************>
+
+
+You got 500 EC!
+<*********************>
+
+
+You got 550 EC!
+<*********************>
+
+
+You got 600 EC!
+<*********************>
+
+
+You got 700 EC!
+<*********************>
+
+
+You got 800 EC!
+<*********************>
+
+
+You copied Buckfire's data!
+<*********************>
+
+
+You copied Chronoforce's data!
+<*********************>
+
+
+You copied Rospark's data!
+<*********************>
+
+
+You copied Queenbee's data!
+<*********************>
+
+
+You copied Vulturon's data!
+<*********************>
+
+
+You copied Argoyle's data!
+<*********************>
+
+
+You copied Hedgeshock's data!
+<*********************>
+
+
+You copied Bifrost's data!
+<*********************>
+
+
+You copied Model ZX's data!
+<*********************>
+
+
+You copied Model H's data!
+<*********************>
+
+
+You copied Model F's data!
+<*********************>
+
+
+You copied Model L's data!
+<*********************>
+
+
+You copied Model P's data!
+<*********************>
+
+
+You need a Hunter's License.
+<*********************>
+
+<a 05><n 5E>
+DUE TO AN AIRSHIP CRASH
+IN THIS AREA, SAFETY
+LOCKS ARE IN OPERATION.
+<--------------------->
+
+<a 05><n 5E>
+LOCKS CAN BE DISENGAGED
+BY DEACTIVATING THE 3
+ELEMENTAL SWITCHES.
+<--------------------->
+
+<a 05><n 5E>
+TO DEACTIVATE, EXPLOIT
+THE VULNERABLE
+ATTRIBUTES OF EACH
+<--------------------->
+
+<a 05><n 5E>
+ELEMENTAL SWITCH.
+ELECTRICITY IS
+EFFECTIVE AGAINST FIRE,
+<--------------------->
+
+<a 05><n 5E>
+ICE AGAINST
+ELECTRICITY, AND FIRE
+AGAINST ICE.
+<*********************>
+
+<a 05><n 5E>
+ELEMENTAL SWITCHES
+DEACTIVATED. SAFETY
+LOCKS DISENGAGED.
+<*********************>
+
+<e 63><a 05><n 5D>
+Choose action.
+  Data Management
+  Transport
+<*********************>
+
+<e 63><a 05><n 5D>
+Choose action.
+  Data Management
+  Exit
+<*********************>
+
+<m><a 05><n 5D>
+  Save Data
+  Load Data
+  Erase Data
+<*********************>
+
+<a 05><n 5D>
+Select Transport
+Destination from the
+Bottom Screen.
+<*********************>
+
+<e 63><a 05><n 5D>
+Transport?
+  Yes
+  No
+<*********************>
+
+<a 05><n 5D>
+There is no Transport
+Destination.
+<*********************>
+
+<a 05><n 5D>
+This transerver is one
+way only, to the
+Mysterious Lab.
+<--------------------->
+
+<e 63><a 05><n 5D>
+Transport?
+  Yes
+  No
+<*********************>
+
+<e 63><a 05><n 5F>
+Warp Point: Free
+  Activate
+  Exit
+<*********************>
+
+<e 63><a 05><n 5F>
+Warp Point: 100 EC
+  Activate
+  Exit
+<*********************>
+
+<e 63><a 05><n 5F>
+Warp Point: 500 EC
+  Activate
+  Exit
+<*********************>
+
+<a 05><n 5F>
+You need 100 EC to
+activate this Warp
+Point.
+<*********************>
+
+<a 05><n 5F>
+You need 500 EC to
+activate this Warp
+Point.
+<*********************>
+
+<e 63><a 5B><n 48>
+View the database?
+  Yes
+  No
+<*********************>
+
+<p 01><a 05><n 5C>
+Expert Mode is now
+available!
+<*********************>
+
+<p 01><a 05><n 5C>
+Unused
+<*********************>
+
+<p 01><a 05><n 5C>
+Now you can morph into
+Model X even after you
+get Model ZX.
+<*********************>
+
+<p 01><e 50><a 05><n 5C>
+Save clear game data?
+  Yes
+  No
+<*********************>
+
+<p 01><a 05><n 5C>
+Mini Game:
+Quiz Advent
+has been unlocked.
+<*********************>
+
+<p 01><a 05><n 5C>
+Mini Game:
+Survival Road
+has been unlocked.
+<*********************>
+
+<p 01><a 05><n 5C>
+Mini Game:
+Mega Man a
+has been unlocked.
+<*********************>
+
+<a 05><n 5D>
+Hunter's License has
+been issued.
+<*********************>
+
+<a 05><n 5D>
+Hunter's License has
+been issued.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Mission Report has been
+submitted.
+<*********************>
+
+<a 05><n 5D>
+Event 11 Mission Report
+<*********************>
+
+<FIM>

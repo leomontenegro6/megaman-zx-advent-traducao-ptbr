@@ -1,0 +1,293 @@
+<script_info tipo='Quest 13' personagem='Ashe' tamanho='1040' inicio_ponteiros='4' fim_ponteiros='29' inicio_textos='30' />
+<#####################>
+
+<p 02><a 66><n 32>
+(I wonder what
+happened. The Hunters
+that took off)
+<--------------------->
+
+(toward the Control
+Center aren't back
+yet.)
+<--------------------->
+
+<p 02><a 66><n 32>
+Oh! You're just in
+time.
+<--------------------->
+
+<p 02><a 66><n 32>
+The Hunters that went
+to pick up the
+chandelier
+<--------------------->
+
+aren't back yet. I'm
+worried that something
+might have happened.
+<--------------------->
+
+<p 02><a 66><n 32>
+Would you mind looking
+for them?
+<--------------------->
+
+I'll make sure you're
+well compensated.
+<*********************>
+
+<p 02><a 66><n 32>
+(I wonder what
+happened. The Hunters
+that took off)
+<--------------------->
+
+(toward the Control
+Center aren't back
+yet.)
+<--------------------->
+
+<p 02><a 66><n 32>
+Oh! You're just in
+time.
+<--------------------->
+
+<p 02><a 66><n 32>
+The Hunters that went
+to pick up the
+chandelier
+<--------------------->
+
+aren't back yet. I'm
+worried that something
+might have happened.
+<--------------------->
+
+<p 02><a 66><n 32>
+Would you mind looking
+for them?
+<--------------------->
+
+I'll make sure you're
+well compensated.
+<*********************>
+
+<p 02><a 66><n 32>
+(I wonder what
+happened. The Hunters
+that took off)
+<--------------------->
+
+(toward the Control
+Center aren't back
+yet.)
+<--------------------->
+
+<p 02><a 66><n 32>
+Oh! You're just in
+time.
+<--------------------->
+
+<p 02><a 66><n 32>
+The Hunters that went
+to pick up the
+chandelier
+<--------------------->
+
+aren't back yet. I'm
+worried that something
+might have happened.
+<--------------------->
+
+<p 02><a 66><n 32>
+Would you mind looking
+for them?
+<--------------------->
+
+I'll make sure you're
+well compensated.
+<*********************>
+
+<p 02><a 66><n 32>
+(I wonder what
+happened. The Hunters
+that took off)
+<--------------------->
+
+(toward the Control
+Center aren't back
+yet.)
+<--------------------->
+
+<p 02><a 66><n 32>
+Oh! You're just in
+time.
+<--------------------->
+
+<p 02><a 66><n 32>
+The Hunters that went
+to pick up the
+chandelier
+<--------------------->
+
+aren't back yet. I'm
+worried that something
+might have happened.
+<--------------------->
+
+<p 02><a 66><n 32>
+Would you mind looking
+for them?
+<--------------------->
+
+I'll make sure you're
+well compensated.
+<*********************>
+
+<p 02><a 66><n 32>
+(I wonder what
+happened. The Hunters
+that took off)
+<--------------------->
+
+(toward the Control
+Center aren't back
+yet.)
+<--------------------->
+
+<p 02><a 66><n 32>
+Oh! You're just in
+time.
+<--------------------->
+
+<p 02><a 66><n 32>
+The Hunters that went
+to pick up the
+chandelier
+<--------------------->
+
+aren't back yet. I'm
+worried that something
+might have happened.
+<--------------------->
+
+<p 02><a 66><n 32>
+Would you mind looking
+for them?
+<--------------------->
+
+I'll make sure you're
+well compensated.
+<*********************>
+
+<p 02><a 66><n 32>
+(I wonder what
+happened. The Hunters
+that took off)
+<--------------------->
+
+(toward the Control
+Center aren't back
+yet.)
+<--------------------->
+
+<p 02><a 66><n 32>
+Oh! You're just in
+time.
+<--------------------->
+
+<p 02><a 66><n 32>
+The Hunters that went
+to pick up the
+chandelier
+<--------------------->
+
+aren't back yet. I'm
+worried that something
+might have happened.
+<--------------------->
+
+<p 02><a 66><n 32>
+Would you mind looking
+for them?
+<--------------------->
+
+I'll make sure you're
+well compensated.
+<*********************>
+
+<p 02><a 66><n 32>
+They should be in one
+of the rooms of the
+Control Center.
+<--------------------->
+
+<p 02><a 66><n 32>
+Please be careful.
+<*********************>
+
+<p 02><a 42><n 4E>
+Are you here to help
+us?
+<--------------------->
+
+<p 02><a 42><n 4E>
+Oh, Romeo sent you, eh?
+Thanks. One of our guys
+got hit. He's resting.
+<--------------------->
+
+<p 02><a 42><n 4E>
+It looks like you took
+out all of the
+Mavericks in the area.
+<--------------------->
+
+So, we should be OK
+getting back.
+<*********************>
+
+<p 02><a 42><n 4E>
+Tell Romeo that we're
+on our way with the
+chandelier.
+<*********************>
+
+<p 02><a 66><n 32>
+Hey, it's you. Thank
+you for helping
+those Hunters out.
+<--------------------->
+
+<p 02><a 66><n 32>
+Here's what I promised
+you.
+<*********************>
+
+<p 02><a 66><n 32>
+When I was putting up
+the chandelier in the
+room,
+<--------------------->
+
+that girl in there
+yelled at me. *sigh*
+<*********************>
+
+<p 02><a 42><n 4F>
+I got a little banged
+up, but I'm gonna be
+alright.
+<--------------------->
+
+I needed the rest
+anyway. 
+<*********************>
+
+<p 02><a 42><n 4F>
+Thanks to you, we got
+the job done!
+<*********************>
+
+<FIM>

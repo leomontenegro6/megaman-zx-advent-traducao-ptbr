@@ -1,0 +1,544 @@
+<script_info tipo='Quest 24' personagem='Grey' tamanho='5425' inicio_ponteiros='4' fim_ponteiros='117' inicio_textos='118' />
+<#####################>
+
+<p 02><a 42><n 23>
+Looks like Buckfire
+is back on the Train.
+<--------------------->
+
+Legion has a bounty
+out on him, but I don't
+think I can beat him.
+<--------------------->
+
+I think you'd be better
+for the job,
+<--------------------->
+
+so I'll give you the
+request form.
+<*********************>
+
+<p 02><a 42><n 23>
+There are different
+medals you can get,
+<--------------------->
+
+depending on how you
+take down a Pseudoroid.
+<*********************>
+
+<p 02><a 42><n 23>
+Beat Buckfire by
+touching Siarnaq's BM
+Screen
+<--------------------->
+
+and hitting him with
+the Kunai to get a Gold
+Medal.
+<*********************>
+
+<p 02><a 42><n 23>
+Beat Buckfire by
+hitting his weak spot,
+<--------------------->
+
+the mane, to get a
+Silver Medal.
+<*********************>
+
+<p 02><a 42><n 23>
+Finish Buckfire off
+with a Hedgeshock
+Rolling attack 
+<--------------------->
+
+to get a Bronze
+Medal.
+<*********************>
+
+<p 02><a 42><n 23>
+Thank you. You are the
+Model A Chosen One
+indeed! 
+<*********************>
+
+<p 02><a 42><n 23>
+Hand the mission
+request to Ward for
+some E-Crystals.
+<*********************>
+
+<p 02><a 42><n 24>
+Looks like Chronoforce
+is back at the Arctic
+Ice Floe.
+<--------------------->
+
+Legion just sent us a
+mission request to
+subjugate the target.
+<--------------------->
+
+But our guys can't
+survive in that cold
+water.
+<--------------------->
+
+I know that's something
+you can handle,
+<--------------------->
+
+so I'm giving you this
+mission request.
+<*********************>
+
+<p 02><a 42><n 24>
+There are different
+medals you can get,
+<--------------------->
+
+depending on how you
+take down a Pseudoroid.
+<*********************>
+
+<p 02><a 42><n 24>
+Beat Chronoforce using
+only Queenbee attacks
+to get a Gold Medal.
+<*********************>
+
+<p 02><a 42><n 24>
+Finish Chronoforce off
+with the Buckfire Slash
+Dash
+<--------------------->
+
+to get a Silver
+Medal. 
+<*********************>
+
+<p 02><a 42><n 24>
+Finish Chronoforce off
+with the Model ZX
+Charge Saber
+<--------------------->
+
+to get a Bronze Medal.
+<*********************>
+
+<p 02><a 42><n 24>
+Did you neutralize
+Chronoforce!?
+<--------------------->
+
+I appreciate what
+you've done!
+<*********************>
+
+<p 02><a 42><n 24>
+Now all you need to do
+is take that mission
+request to Ward
+<--------------------->
+
+at the café!
+<*********************>
+
+<p 02><a 42><n 25>
+Looks like Rospark is
+back at the Tower of
+Verdure.
+<--------------------->
+
+Legion just issued us
+an official mission
+request
+<--------------------->
+
+to solve the problem.
+<--------------------->
+
+As you know, it's very
+high up. It doesn't
+look like we're going
+<--------------------->
+
+to be able to go up
+there. This one's up to
+you.
+<*********************>
+
+<p 02><a 42><n 25>
+There are different
+medals you can get,
+<--------------------->
+
+depending on how you
+take down a Pseudoroid.
+<*********************>
+
+<p 02><a 42><n 25>
+Beat Rospark using
+Rospark's own attacks
+to get a Gold Medal.
+<*********************>
+
+<p 02><a 42><n 25>
+Beat Rospark using
+Argoyle & Ugoyle
+attacks
+<--------------------->
+
+to get a Silver Medal. 
+<*********************>
+
+<p 02><a 42><n 25>
+Finish off Rospark
+while he's in bulb form
+to get a Bronze Medal.
+<*********************>
+
+<p 02><a 42><n 25>
+Thank you very much.
+You're definitely
+everything we expected
+<--------------------->
+
+of the Model A Chosen
+One!
+<*********************>
+
+<p 02><a 42><n 25>
+Give the mission
+request to Ward at the
+café
+<--------------------->
+
+in exchange for 
+E-Crystals.
+<*********************>
+
+<p 02><a 42><n 26>
+Looks like Queenbee is
+back at the Control
+Center.
+<--------------------->
+
+This Legion mission
+request just came in.
+They need somebody
+<--------------------->
+
+to go over there and do
+something about the
+problem.
+<--------------------->
+
+You're as good a Hunter
+as anybody.
+<--------------------->
+
+You might as well take
+the request.
+<*********************>
+
+<p 02><a 42><n 26>
+There are different
+medals you can get,
+<--------------------->
+
+depending on how you
+take down a Pseudoroid.
+<*********************>
+
+<p 02><a 42><n 26>
+Beat Queenbee by only
+attacking her body to
+get a Gold Medal.
+<*********************>
+
+<p 02><a 42><n 26>
+Beat Queenbee without
+destroying any of her
+stinger missles
+<--------------------->
+
+to get a Silver Medal. 
+<*********************>
+
+<p 02><a 42><n 26>
+Beat Queenbee by
+attacking only her
+container
+<--------------------->
+
+to get a Bronze Medal.
+<*********************>
+
+<p 02><a 42><n 26>
+Thank you for toppling
+Queenbee!
+<*********************>
+
+<p 02><a 42><n 26>
+Take the mission
+request to Ward at the
+café.
+<*********************>
+
+<p 02><a 42><n 27>
+Looks like Vulturon is
+back at the Scrapyard.
+<--------------------->
+
+He thinks he's gonna do
+an encore performance.
+<--------------------->
+
+Go and pull the plug on
+'em!
+<*********************>
+
+<p 02><a 42><n 27>
+There are different
+medals you can get,
+<--------------------->
+
+depending on how you
+take down a Pseudoroid.
+<*********************>
+
+<p 02><a 42><n 27>
+Beat Vulturon using
+only Giga Crush to get
+a Gold Medal.
+<*********************>
+
+<p 02><a 42><n 27>
+Finish Vulturon off
+with the Aeolus Sonic
+Boom
+<--------------------->
+
+to get a Silver
+Medal. 
+<*********************>
+
+<p 02><a 42><n 27>
+Survive more than 120
+seconds and defeat
+<--------------------->
+
+Vulturon to get a
+Bronze Medal.
+<*********************>
+
+<p 02><a 42><n 27>
+Thanks for canceling
+that guy's concert!
+<*********************>
+
+<p 02><a 42><n 27>
+Now give the mission
+request to Ward at the
+café.
+<*********************>
+
+<p 02><a 42><n 28>
+Looks like Hedgeshock
+is back at the
+Mysterious Lab.
+<--------------------->
+
+This is the mission
+request issued to us by
+Legion.
+<--------------------->
+
+Here, I'm giving this
+mission to you.
+<*********************>
+
+<p 02><a 42><n 28>
+There are different
+medals you can get,
+<--------------------->
+
+depending on how you
+take down a Pseudoroid.
+<*********************>
+
+<p 02><a 42><n 28>
+Beat Hedgeshock without
+A-Trans or megamerging
+to get a Gold Medal.
+<*********************>
+
+<p 02><a 42><n 28>
+Finish off Hedgeshock
+by hitting her little
+rat followers
+<--------------------->
+
+to get a Silver Medal.
+<*********************>
+
+<p 02><a 42><n 28>
+Finish Hedgeshock off
+with Chronoforce to get
+a Bronze Medal.
+<*********************>
+
+<p 02><a 42><n 28>
+Hey, thanks for
+grounding Hedgeshock
+once and for all.
+<*********************>
+
+<p 02><a 42><n 28>
+Make sure you give the
+mission request to
+Ward.
+<*********************>
+
+<p 02><a 42><n 29>
+Looks like Argoyle &
+Ugoyle are back at the
+Waterfall Ruins.
+<--------------------->
+
+Legion is asking us
+Hunters to handle the
+situation.
+<--------------------->
+
+Here's the mission
+request.
+<--------------------->
+
+I'd like you to go and
+check it out for me. 
+<*********************>
+
+<p 02><a 42><n 29>
+There are different
+medals you can get,
+<--------------------->
+
+depending on how you
+take down a Pseudoroid.
+<*********************>
+
+<p 02><a 42><n 29>
+Beat Argoyle & Ugoyle
+at the same time with
+<--------------------->
+
+the Buckfire Double
+Tomahawk to get a
+Gold Medal.
+<*********************>
+
+<p 02><a 42><n 29>
+Beat Argoyle & Ugoyle
+at the same time with
+<--------------------->
+
+the Hedgeshock Spark
+Ball to get a Silver
+Medal. 
+<*********************>
+
+<p 02><a 42><n 29>
+Beat Argoyle & Ugoyle
+at the same time with
+the Giga Crush
+<--------------------->
+
+to get a Bronze Medal.
+<*********************>
+
+<p 02><a 42><n 29>
+Thank you! I knew you'd
+get the job done.
+<*********************>
+
+<p 02><a 42><n 29>
+You should take the
+mission request to Ward
+at the café.
+<*********************>
+
+<p 02><a 42><n 2A>
+Looks like Bifrost is
+back at the Bio Lab.
+<--------------------->
+
+This mission request to
+take him out just came
+in.
+<--------------------->
+
+The thing is, we're not
+prepared to take on a
+monster like that.
+<--------------------->
+
+I know it's a lot to
+ask,
+<--------------------->
+
+but could you go and
+settle this one for us?
+<*********************>
+
+<p 02><a 42><n 2A>
+There are different
+medals you can get,
+<--------------------->
+
+depending on how you
+take down a Pseudoroid.
+<*********************>
+
+<p 02><a 42><n 2A>
+Beat Bifrost using only
+the Model A Homing Shot
+to get a Gold Medal.
+<*********************>
+
+<p 02><a 42><n 2A>
+Beat Bifrost using only
+Buckfire attacks to get
+a Silver Medal. 
+<*********************>
+
+<p 02><a 42><n 2A>
+Beat Bifrost using only
+Queenbee attacks to get
+a Bronze Medal.
+<*********************>
+
+<p 02><a 42><n 2A>
+Thank you! I guess they
+don't call you the
+<--------------------->
+
+Model A Chosen One for
+nothing! 
+<*********************>
+
+<p 02><a 42><n 2A>
+Take that mission
+request to a guy at the
+café named Ward.
+<*********************>
+
+<p 02><a 59><n 46>
+Great work! Here's your
+bounty!
+<*********************>
+
+<FIM>

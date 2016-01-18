@@ -1,0 +1,178 @@
+<script_info tipo='Quest 17' personagem='Grey' tamanho='1690' inicio_ponteiros='4' fim_ponteiros='41' inicio_textos='42' />
+<#####################>
+
+<p 02><a 52><n 38>
+You know, this room
+could use some life.
+<--------------------->
+
+Been thinking about
+turning it into a café.
+<--------------------->
+
+Jim, the Hunter, let me
+borrow his blueprints
+for a café,
+<--------------------->
+
+but I lost them while
+walking back from Jim's
+café.
+<--------------------->
+
+It was really windy.
+Even if I did manage to
+find them,
+<--------------------->
+
+it'd probably be
+in some place too hard
+for me to reach.
+<--------------------->
+
+I feel terrible for
+asking a favor of
+someone I just met,
+<--------------------->
+
+but would you mind
+looking for them?
+<*********************>
+
+<p 02><a 52><n 38>
+Jim was nice enough to
+lend me his blueprints,
+<--------------------->
+
+but I went off and lost
+them.
+<--------------------->
+
+<p 02><a 52><n 38>
+Hopefully, they're just
+caught on some fence
+out there.
+<*********************>
+
+<p 02><a 52><n 38>
+Thank you. Now I can
+finally build that
+café!
+<--------------------->
+
+<p 02><a 52><n 38>
+Oh, and I can start by
+selling E Tanks or
+something.
+<*********************>
+
+<p 02><e 63><a 52><n 38>
+An E Tank for 500 EC?
+  Yes
+  No
+<*********************>
+
+<p 02><e 63><a 52><n 38>
+An E Tank for 500 EC?
+  Yes
+  No
+<*********************>
+
+<p 02><e 63><a 52><n 38>
+An E Tank for 500 EC?
+  Yes
+  No
+<*********************>
+
+<p 02><e 63><a 52><n 38>
+An E Tank for 500 EC?
+  Yes
+  No
+<*********************>
+
+<p 02><a 08><n 01>
+It looks like there's
+only an old-school
+<--------------------->
+
+Reploid cooling system
+in here.
+<*********************>
+
+<p 02><a 08><n 01>
+It looks like there's
+only an old-school
+<--------------------->
+
+Reploid cooling system
+in here.
+<*********************>
+
+<p 02><a 08><n 01>
+It looks like there's
+only this old-school
+<--------------------->
+
+Reploid cooling system
+in here.
+<*********************>
+
+<p 02><a 08><n 01>
+Oh? There's cake in
+here! Well, finders
+keepers.
+<--------------------->
+
+I wonder whose it is?
+<*********************>
+
+<p 02><a 08><n 02>
+Too bad, I was hoping
+to find some chilled
+fruit. Oh well...
+<*********************>
+
+<p 02><a 08><n 02>
+Too bad, I was hoping
+to find some chilled
+fruit. Oh well...
+<*********************>
+
+<p 02><a 08><n 02>
+Too bad, I was hoping
+to find some chilled
+fruit. Oh well...
+<*********************>
+
+<p 02><a 08><n 02>
+Oh, cake! It looks
+delicious. Well,
+finders keepers.
+<*********************>
+
+<p 02><a 52><n 38>
+Nick's self-intro
+<*********************>
+
+<p 02><a 52><n 38>
+You can only carry one
+E Tank at a time.
+<--------------------->
+
+So when it's empty,
+just come back again.
+<*********************>
+
+<p 02><a 52><n 38>
+Sorry, but it looks
+like you don't have
+enough E-Crystals.
+<*********************>
+
+<p 02><a 52><n 38>
+If you're ever in the
+area again, be sure to
+stop by, OK?
+<*********************>
+
+<FIM>

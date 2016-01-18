@@ -1,0 +1,103 @@
+<script_info tipo='Quest 16' personagem='Ashe' tamanho='1002' inicio_ponteiros='4' fim_ponteiros='9' inicio_textos='10' />
+<#####################>
+
+<p 02><a 43><n 2B>
+It seems that the
+remains of a rare
+ancient Mechaniloid
+<--------------------->
+
+were found in the Oil
+Fields.
+<--------------------->
+
+With all of the
+reporters and press
+everywhere,
+<--------------------->
+
+it's practically
+impossible to get to
+that area.
+<--------------------->
+
+Besides, I can't go out
+there.
+<--------------------->
+
+Everybody knows the
+Oil Fields are just too
+dangerous.
+<--------------------->
+
+If I could only
+pinpoint the location
+<--------------------->
+
+of the Mechaniloid
+remains, I could have
+some guys go in.
+<--------------------->
+
+Could I get you to go
+and put this micro
+transmitter at the site
+<--------------------->
+
+of the Mechaniloid
+remains?
+<*********************>
+
+<p 02><a 43><n 2B>
+They're probably buried
+beneath the sand, so
+keep a close eye out.
+<--------------------->
+
+I know you can do it.
+I'm counting on you.
+<--------------------->
+
+This is going to be a
+big scoop.
+<--------------------->
+
+I'd better get this
+computer ready to
+perform an analysis.
+<*********************>
+
+<p 02><a 43><n 2B>
+Thank you! My guys just
+got back with the
+Mechaniloid remains.
+<--------------------->
+
+The analysis results
+indicate that this
+Mechaniloid
+<--------------------->
+
+is very, very old.
+<--------------------->
+
+Most likely, those Oil
+Fields are all that's
+left
+<--------------------->
+
+of a dried up ancient
+sea.
+<--------------------->
+
+Oh, by the way! The
+Hunters brought back
+this...
+<--------------------->
+
+I don't have any use
+for it, so I'll give it
+to you.
+<*********************>
+
+<FIM>

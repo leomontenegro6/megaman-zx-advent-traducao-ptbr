@@ -1,0 +1,394 @@
+<script_info tipo='Missão 9' personagem='Ashe' tamanho='3812' inicio_ponteiros='4' fim_ponteiros='33' inicio_textos='34' />
+<#####################>
+
+<p 02><a 02><n 07>
+There are people being
+chased by Mavericks on
+that Highway ahead.
+<--------------------->
+
+<p 02><a 02><n 07>
+It looks like all the
+people trying to flee
+in their cars have
+<--------------------->
+
+caused a traffic jam.
+The situation is
+gridlock. Drive back
+<--------------------->
+
+<p 02><a 02><n 07>
+the Mavericks and buy
+time for the people
+down there to escape.
+<*********************>
+
+<p 03><a 6A><n 56>
+Hey, move it! We're
+sitting ducks here!
+<--------------------->
+
+<p 02><a 0A><n 02>
+Leave the Mavericks to
+me!
+<--------------------->
+
+<p 02><a 0B><n 02>
+When it's clear, I want
+you to go!
+<--------------------->
+
+<p 03><a 6A><n 56>
+I don't know who you
+are, but thank you!
+<--------------------->
+
+<p 03><a 6A><n 56>
+There are still cars
+stopped back there!
+They need your help!
+<*********************>
+
+<p 02><a 6B><n 15>
+It looks like the
+people made it through.
+<--------------------->
+
+<p 02><a 08><n 02>
+OK, now all we have to
+do is hold off the
+pursuing Mavericks.
+<*********************>
+
+<p 02><d 7602><a 0A><n 02>
+Thetis! Are you the one
+causing all of this
+trouble?
+<*********************>
+
+<p 03><d 7702><a 30><n 12>
+I'm flattered. You
+remembered my name!
+<*********************>
+
+<p 03><d 7802><a 31><n 12>
+Come, there's something
+I want to show you.
+<*********************>
+
+<p 02><d 7902><a 6B><n 15>
+Model W!? You attacked
+the Highway to feed
+that thing!?
+<--------------------->
+
+<p 03><d 7A02><a 31><n 12>
+That's right. But what
+I want to show you is
+further down...
+<--------------------->
+
+<d 7B02>
+At the bottom of this
+dirty sea.
+<--------------------->
+
+<p 03><d 7C02><a 31><n 12>
+The sea during the war
+was no place for living
+creatures. 
+<--------------------->
+
+<p 03><d 7D02><a 32><n 12>
+After the war, the
+sea's beauty was
+restored.
+<--------------------->
+
+<d 7E02>
+However, as humans
+repopulated, the sea
+once again grew filthy.
+<--------------------->
+
+<p 03><d 7F02><a 32><n 12>
+You see, humans have to
+desecrate the Earth to
+live on it.
+<--------------------->
+
+<p 02><d 8002><a 0A><n 02>
+You talk all high and
+mighty,
+<--------------------->
+
+<d 8102>
+but what you're
+doing is no different
+than a Maverick.
+<--------------------->
+
+<p 03><d 8202><a 31><n 12>
+*chuckle* Me?
+A Maverick? You are
+a funny girl...
+<--------------------->
+
+<p 03><d 8402><a 31><n 12>
+We were planning on
+playing this little
+Game of Destiny
+<--------------------->
+
+<d 8502>
+to decide the Mega Man
+King by ourselves.
+<--------------------->
+
+<p 03><d 8602><a 31><n 12>
+You're the one that
+just happened to
+Megamerge, then show up
+<--------------------->
+
+<d 8702>
+and be a nuisance... so
+I'd say that kind of
+makes YOU a Maverick!
+<*********************>
+
+<p 03><d 8802><a 31><n 12>
+Just preserving life is
+not what's right.
+<--------------------->
+
+<p 03><d 8902><a 31><n 12>
+Fix the ones that can
+be fixed and abandon
+the rest!
+<*********************>
+
+<p 03><d 8A02><a 32><n 12>
+It's too bad... I
+thought you, at least,
+<--------------------->
+
+<d 8B02>
+would understand
+what I'm trying to 
+accomplish!
+<--------------------->
+
+<p 03><d 8C02><a 32><n 12>
+I won't give up. I
+shall awaken Model W
+<--------------------->
+
+<d 8D02>
+and change this world
+for the better!
+<*********************>
+
+<p 02><d 8E02><a 0E><n 02>
+Aaaagh!
+<*********************>
+
+<p 01><p 02><a 03><n 00>
+EXTRACTING FROM CODE
+FC61 TO UC79. EXPANDING
+REPORT DATA.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+In order to find a
+Biomatch for Biometal
+Model W,
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+first I created sibling
+Reploids.
+<*********************>
+
+<p 01><p 02><a 03><n 00>
+As well as giving them
+a portion of Model W's
+power,
+<--------------------->
+
+I gave them 1
+commandment.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+That was to deterimine
+the most powerful
+Mega Man.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+A commandment to
+Biomatch each of my
+Chosen Ones
+<--------------------->
+
+to a Biometal.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+And have them fight
+until only one of them
+was left.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+The survivor of this
+contest will attain the
+power of Model W,
+<--------------------->
+
+and become the ultimate
+Mega Man.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+Yes, the new King of
+the world, the Mega Man
+King.
+<*********************>
+
+<p 00><p 02><d 8F02><a 6B><n 15>
+We broke another
+cipher.
+<--------------------->
+
+<p 02><d 9002><a 6B><n 15>
+Now I understand why
+Mega Men fight each
+other.
+<--------------------->
+
+<d 9102>
+But where is the
+information about us?
+<--------------------->
+
+<p 02><d 9202><a 6B><n 15>
+And what the heck are
+the two Reploid
+siblings?
+<--------------------->
+
+<p 02><d 9302><a 0D><n 02>
+...
+<--------------------->
+
+<p 02><d 9402><a 6B><n 15>
+Hey, can you hear me?
+What happened? Why
+the frown?
+<--------------------->
+
+<p 02><d 9502><a 08><n 02>
+Uh? It's nothing...
+<*********************>
+
+<p 02><d 9602><a 02><n 07>
+It seems you got
+everyone out of there
+safely.
+<--------------------->
+
+<p 02><d 9702><a 02><n 07>
+Just what we'd expect
+from a Chosen One.
+<--------------------->
+
+<p 02><d 9802><a 0D><n 02>
+(Chosen One...? But
+like Thetis said,)
+<--------------------->
+
+<d 9902>
+(my Megamerging was an
+accident.)
+<--------------------->
+
+<p 02><d 9A02><a 0D><n 02>
+(But... was it an
+accident? Albert said
+that I'm special...)
+<--------------------->
+
+<p 02><d 9B02><a 0D><n 02>
+(What am I... Who am
+I?)
+<*********************>
+
+<p 02><a 6B><n 15>
+Hey, Ashe! Morph into
+Thetis and water
+becomes your home.
+<--------------------->
+
+You can swim around
+freely underwater.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Underwater, press the
+Jump Button once
+<--------------------->
+
+to get into your
+swimming position!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Then, you can move
+around by using the
+<dpad>Control Pad.
+<--------------------->
+
+You can dart through
+the water by pressing
+the Dash Button!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Hold the Attack Button
+and release it to
+perform an ice move.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Ice attacks can
+penetrate the
+landscape,
+<--------------------->
+
+so that's probably a
+good thing to remember.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Also, Thetis has the
+ability
+<--------------------->
+
+to show where items are
+located on the bottom
+screen!
+<--------------------->
+
+<p 02><a 6B><n 15>
+If you're somewhere
+you're not sure about,
+<--------------------->
+
+morph into Thetis to
+find items!
+<*********************>
+
+<FIM>

@@ -1,0 +1,380 @@
+<script_info tipo='Missão 15' personagem='Ashe' tamanho='3591' inicio_ponteiros='4' fim_ponteiros='33' inicio_textos='34' />
+<#####################>
+
+<p 02><a 02><n 06>
+It's Thomas. We've
+succeeded in analyzing
+<--------------------->
+
+a file in the data you
+found.
+<--------------------->
+
+<p 02><a 02><n 06>
+This is an
+initialization key for
+a special transerver.
+<--------------------->
+
+<p 02><a 02><n 06>
+It contains
+transport coordinate
+data of some kind.
+<--------------------->
+
+<p 02><a 02><n 06>
+We were able to
+completely recover it
+using
+<--------------------->
+
+the data that you sent.
+<*********************>
+
+<p 02><a 02><n 06>
+Do you remember ever
+seeing a transerver
+<--------------------->
+
+that hadn't been
+initialized?
+<--------------------->
+
+<p 03><a 08><n 02>
+A transerver that
+hadn't been
+initialized?
+<--------------------->
+
+<p 02><a 02><n 06>
+If you find it, use
+that key.
+<--------------------->
+
+<p 02><a 02><n 06>
+It's the data that had
+been split in two and
+guarded so vigilantly.
+<--------------------->
+
+<p 02><a 02><n 06>
+Albert is presumably at
+the receiving end of
+that transerver.
+<--------------------->
+
+<p 03><a 08><n 02>
+I can initialize the
+transerver with this
+key...
+<--------------------->
+
+<p 03><a 08><n 02>
+...OK, I have to
+remember that.
+<*********************>
+
+<p 02><a 0A><n 02>
+Ugh... It really stinks
+down here... That's no
+ordinary sewage!
+<--------------------->
+
+Is it coming from
+inside?
+<--------------------->
+
+<p 02><a 6B><n 15>
+Us Biometals don't
+really have a sense of
+smell...
+<--------------------->
+
+I'm kinda glad I'm not
+you right now.
+<--------------------->
+
+<p 02><a 0A><n 02>
+It smells like oil or
+something...
+<--------------------->
+
+The smell's gonna get
+into my clothes.
+<--------------------->
+
+<p 02><a 0B><n 02>
+Let's hurry and check
+it out!
+<*********************>
+
+<p 02><a 08><n 02>
+That smell was coming
+from this industrial
+sewage.
+<--------------------->
+
+<p 02><a 6B><n 15>
+With this equipment,
+this is obviously not
+just a ruin.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Let's go in and find
+out what this place
+really is.
+<*********************>
+
+<p 01><p 02><d 1004><a 0F><n 02>
+...Look at all these
+huge Mechaniloids!
+<*********************>
+
+<p 00><p 03><d 1104><a 3A><n 00>
+Are you surprised?
+These soldiers were all
+born here.
+<--------------------->
+
+<p 03><d 1204><a 3A><n 00>
+They're to be used one
+day by the Mega Man
+King!
+<--------------------->
+
+<p 02><d 1304><a 6B><n 15>
+Albert thought
+about all of this!?
+<--------------------->
+
+<p 03><d 1404><a 3A><n 10>
+My name is Bifrost...
+Guardian of the
+sleeping soldiers.
+<--------------------->
+
+<p 03><d 1504><a 3A><n 10>
+When the new world is
+born, they shall awaken
+<--------------------->
+
+<d 1604>
+and exterminate the
+old-world inhabitants.
+<--------------------->
+
+<p 03><d 1704><a 3A><n 10>
+But for now, Mega Man 
+Model A, I shall
+exterminate you!
+<--------------------->
+
+<p 03><d 1804><a 3A><n 10>
+I shall crush every
+last one of your bones
+with my jaws!
+<*********************>
+
+<p 03><d 1904><a 3A><n 10>
+I have no mercy on
+anyone who disturbs my
+soldiers. Perish!
+<*********************>
+
+<p 03><d 1A04><a 3A><n 10>
+Am I the one being
+exterminated!?
+<--------------------->
+
+<p 03><d 1B04><a 3A><n 10>
+Is it you who shall
+bring about the new
+world and not we!?
+<--------------------->
+
+<p 03><d 1C04><a 3A><n 10>
+It is you after all...
+UWAAAAA!
+<*********************>
+
+<p 03><d 1D04><a 08><n 02>
+That's strange... This
+transerver seems
+dead...
+<--------------------->
+
+<p 02><d 1E04><a 05><n 5D>
+CURRENTLY IN STANDBY
+MODE...
+<--------------------->
+
+<d 1F04>
+INSERT INITIALIZATION
+KEY TO RESUME...
+<--------------------->
+
+<p 03><d 2004><a 6B><n 15>
+Initialization key...
+There's nothing you can
+do without that key.
+<--------------------->
+
+<p 03><d 2104><a 6B><n 15>
+Let's come back here
+another time.
+<*********************>
+
+<p 03><d 2204><a 08><n 02>
+That's strange... This
+transerver seems
+dead...
+<--------------------->
+
+<p 02><d 2304><a 05><n 5D>
+CURRENTLY IN STANDBY
+MODE...
+<--------------------->
+
+<d 2404>
+INSERT INITIALIZATION
+KEY TO RESUME...
+<--------------------->
+
+<p 03><d 2504><a 6B><n 15>
+Is this the transerver
+that Thomas was talking
+about?
+<--------------------->
+
+<p 03><d 2604><a 08><n 02>
+Yeah, I'll use the
+initialization key.
+<--------------------->
+
+<p 02><d 2704><a 05><n 5D>
+... ... ... ... ... 
+<--------------------->
+
+<p 02><d 2804><a 05><n 5D>
+INITIALIZATION KEY
+VERIFIED. COORDINATE
+DATA VERIFIED.
+<--------------------->
+
+<d 2904>
+SWITCHING TO ACTIVE
+MODE.
+<*********************>
+
+<p 03><d 2A04><a 6B><n 15>
+Yesss! It worked!
+<--------------------->
+
+<p 03><d 2B04><a 6B><n 15>
+I suspect Albert's
+hideout will be at that
+transerver destination.
+<--------------------->
+
+<p 03><d 2C04><a 6B><n 15>
+Let's make sure we do
+this right.
+<*********************>
+
+<p 03><d 2D04><a 6B><n 15>
+Whoops, come to think
+of it, we didn't send a
+mission report.
+<--------------------->
+
+<p 03><d 2E04><a 6B><n 15>
+We'd better make sure
+we're prepared before
+we transport.
+<*********************>
+
+<p 03><d 3004><a 6B><n 15>
+Let's go storm Albert's
+hideout!
+<*********************>
+
+<p 03><d 2F04><a 6B><n 15>
+Yeah, we better
+prepare first.
+<*********************>
+
+<p 02><a 6B><n 15>
+Up ahead... I remember
+those... Those are the 
+blocks
+<--------------------->
+
+we couldn't break no
+matter how hard we
+tried!
+<--------------------->
+
+<p 02><a 6B><n 15>
+We might be able to use
+Bifrost's jaws to do
+the trick.
+<--------------------->
+
+<p 02><a 6B><n 15>
+One of the Attack
+Buttons activates a
+spinning blade,
+<--------------------->
+
+Crocod'wheel.
+<--------------------->
+
+<p 02><a 6B><n 15>
+And the other Attack
+Button fires the Ice
+Fang!
+<--------------------->
+
+<p 02><a 6B><n 15>
+To fire the Ice Fang,
+hold down the other
+Attack Button!
+<--------------------->
+
+<p 02><a 6B><n 15>
+When you release it,
+you can bite and
+destroy things
+<--------------------->
+
+in your path!
+<--------------------->
+
+<p 02><a 6B><n 15>
+There are 2 hidden
+moves that Bifrost can
+perform
+<--------------------->
+
+that aren't shown on
+the Profile Screen!
+<--------------------->
+
+<p 02><a 6B><n 15>
+One is the Stamp
+Squash, and the other
+is the Tail Assault!
+<--------------------->
+
+<p 02><a 6B><n 15>
+They take skill to
+master, but when you
+do,
+<--------------------->
+
+you can go on a
+rampage!
+<*********************>
+
+<FIM>

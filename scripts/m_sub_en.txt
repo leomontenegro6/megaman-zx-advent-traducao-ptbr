@@ -1,0 +1,2542 @@
+<script_info tipo='sub' personagem='indefinido' tamanho='20652' inicio_ponteiros='4' fim_ponteiros='783' inicio_textos='784' />
+<#####################>
+
+
+<c 01>Berry
+<c 00>Grows when you
+water a certain
+potted plant.
+It restores 8
+points of life.
+<*********************>
+
+
+<c 01>Lollipop
+<c 00>Found in a
+container
+in a room of
+Oil Field3. It
+restores 5
+points of life.
+<*********************>
+
+
+<c 01>Watermelon
+<c 00>Found in a
+container
+in a room of
+Oil Field3. It
+restores 5
+points of life.
+<*********************>
+
+
+<c 01>Rice Cake
+<c 00>Found in a
+container
+in a room of
+Oil Field3. It
+restores 5
+points of life.
+<*********************>
+
+
+<c 01>Laughy Taffy
+<c 00>Found in a
+container
+in a room of
+Oil Field3. It
+restores 5
+points of life.
+<*********************>
+
+
+<c 01>Gift
+Certificate
+<c 00>Found in a
+container in a
+room of Oil
+Field3. Use it
+to get ECs.
+<*********************>
+
+
+<c 01>E Tank
+<c 00>Nick in
+Hunter's Camp4
+sells this
+item. It
+completely
+restores life.<c 01> 
+<*********************>
+
+
+<c 01>Shortcake
+<c 00>Found in the
+fridge at
+Hunter's Camp4.
+It restores 8
+points of life.
+<*********************>
+
+
+<c 01>Candy
+<c 00>Chris in
+Hunter's Camp2
+gave you this
+candy. It
+restores 4
+points of life.
+<*********************>
+
+
+<c 01>Model a
+<c 00>Allows you to
+use Model a.
+<*********************>
+
+
+<c 01>Apple
+<c 00>A gift from
+another Hunter.
+It restores 8
+points of life.
+<*********************>
+
+
+<c 01>Orange
+<c 00>A gift from
+Nina at the
+station. It 
+restores 4
+points of life.
+<*********************>
+
+
+<c 01>Bread
+<c 00>Freshly baked
+bread courtesy
+of Blossom in
+Hunter's Camp3.
+It restores 6
+points of life.
+<--------------------->
+
+
+<*********************>
+
+
+<c 01>Absorber
+<c 00>It will cushion
+the blow and
+eliminate
+knockback
+effects from
+getting hit.
+<*********************>
+
+
+<c 01>Eraser
+<c 00>This gives
+saber weapons
+the power to
+destroy the
+energy shots of
+minor enemies.
+<*********************>
+
+
+<c 01>Featherweight
+<c 00>This allows
+movement on
+surfaces that
+would normally
+sink or crumble
+underfoot.
+<*********************>
+
+
+<c 01>Extender
+<c 00>The period of
+invincibility
+after a hit is
+stretched out a
+little longer.
+<*********************>
+
+
+<c 01>Ice Boots
+<c 00>Can walk across
+ice without
+slipping on the
+surface.
+<*********************>
+
+
+<c 01>Wind Boots
+<c 00>Grips the
+surface to
+prevent getting
+pushed around
+by wind and
+tornados.
+<*********************>
+
+
+<c 01>Frog
+<c 00>Reduces the
+speed of 
+sliding down
+walls.
+<*********************>
+
+
+<c 01>Warrior Helmet
+<c 00>Found in a
+container in a
+room of Oil
+Field3. Male
+Psdroid. attack
+damage +1. 
+<*********************>
+
+
+<c 01>Soccer Ball
+<c 00>Turns Argoyle's
+Rock Bomb into
+a soccer ball.
+Found in a room
+of Oil Field3. 
+<*********************>
+
+
+<c 01>Magic Pumpkin
+<c 00>Extends the
+time of
+elemental
+attacks. Found
+in a room of
+Oil Field3. 
+<*********************>
+
+
+<c 01>Demon Buster
+<c 00>Buster Attack
+damage of
+Model A, ZX,
+etc. +1. Found
+in a room of
+Oil Field3.
+<*********************>
+
+
+<c 01>Baby Doll 
+<c 00>Found in a
+container in a
+room of Oil
+Field3. Female
+Psdroid. attack
+damage +1.
+<--------------------->
+
+
+<*********************>
+
+
+<c 01>Absorber
+<c 00>It will cushion
+the blow and
+eliminate
+knockback
+effects from
+getting hit.
+(Equipped)
+<*********************>
+
+
+<c 01>Eraser
+<c 00>This gives
+saber weapons
+the power to
+destroy the
+energy shots of
+minor enemies.
+(Equipped)
+<*********************>
+
+
+<c 01>Featherweight
+<c 00>This allows
+movement on
+surfaces that
+would normally
+sink or crumble
+underfoot.
+(Equipped)
+<*********************>
+
+
+<c 01>Extender
+<c 00>The period of
+invincibility
+after a hit is
+stretched out a
+little longer.
+(Equipped)
+<*********************>
+
+
+<c 01>Ice Boots
+<c 00>Can walk across
+ice without
+slipping on the
+surface.
+(Equipped)
+<*********************>
+
+
+<c 01>Wind Boots
+<c 00>Grips the
+surface to
+prevent getting
+pushed around
+by wind and
+tornados.
+(Equipped)
+<*********************>
+
+
+<c 01>Frog
+<c 00>Reduces the
+speed of 
+sliding down
+walls.
+(Equipped)
+<*********************>
+
+
+<c 01>Warrior Helmet
+<c 00>Found in a
+container in a
+room of Oil
+Field3. Male
+Psdroid. attack
+damage +1.
+(Equipped)
+<*********************>
+
+
+<c 01>Soccer Ball
+<c 00>Turns Argoyle's
+Rock Bomb into
+a soccer ball.
+Found in a room
+of Oil Field3. 
+(Equipped)
+<*********************>
+
+
+<c 01>Magic Pumpkin
+<c 00>Extends the
+time of
+elemental
+attacks. Found
+in a room of
+Oil Field3. 
+(Equipped)
+<*********************>
+
+
+<c 01>Demon Buster
+<c 00>Buster Attack
+damage of
+Model A, ZX,
+etc. +1. Found
+in a room of
+Oil Field3.
+(Equipped)
+<*********************>
+
+
+<c 01>Baby Doll 
+<c 00>Found in a
+container in a
+room of Oil
+Field3. Female
+Psdroid. attack
+damage +1.
+(Equipped)
+<--------------------->
+
+
+<*********************>
+
+
+<c 01>Hunter's
+License
+<c 00>Allows you to
+take official
+mission
+requests from
+Legion.
+<*********************>
+
+
+<c 01>Red Card Key
+<c 00>Opens a certain
+red door in
+Hunter's Camp.
+<*********************>
+
+
+<c 01>Green Card Key
+<c 00>Opens a certain
+green door in
+Hunter's Camp.
+<*********************>
+
+
+<c 01>Data File A
+<c 00>Part of a data
+file obtained
+at the
+Waterfall
+Ruins.
+<*********************>
+
+
+<c 01>Data File B
+<c 00>Part of a data
+file obtained
+at Mysterious
+Lab.
+<*********************>
+
+
+<c 01>Init. Key
+<c 00>Obtained by
+analyzing Data
+File A and B.
+It's used to
+operate a
+certain
+transerver.
+<*********************>
+
+
+<c 01>Backpack
+<c 00>Obtained from
+Patrick at the
+Legion bound
+station. It
+belongs to the
+young man at
+Hunter's Camp2.
+<*********************>
+
+
+<c 01>Secret Disk
+<c 00>A thank you
+gift from Ray,
+the Hunter who
+loves comics,
+given to you to
+give to
+Patrick.
+<*********************>
+
+
+<c 01>Firing Range
+Key
+<c 00>Was given to
+you by Richard
+in Hunter's
+Camp3.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Kidd in
+Hunter's Camp4.
+Obj.: Find
+the Legendary
+Pickaxe in
+Quarry1.
+<*********************>
+
+
+<c 01>Legendary
+Pickaxe
+<c 00>Kidd in
+Hunter's Camp4
+asked you to
+find it and
+bring it to
+him.
+<*********************>
+
+
+<c 01>Moth Queen
+<c 00>Mary in Arctic
+Ice Floe2 asked
+you to catch
+this decorative
+and highly
+sought after
+Mechaniloid.
+<*********************>
+
+
+<c 01>Hayate 
+<c 00>Title earned
+when you beat
+the first
+Galleon Rider
+in the Highway
+Race.
+<*********************>
+
+
+<c 01>Idaten 
+<c 00>Title earned
+when you beat
+the second
+Galleon Rider
+in the Highway
+Race.
+
+<*********************>
+
+
+<c 01>Speed King
+<c 00>Title earned
+when you
+successfully
+the Galleon
+Rider Champion
+title in the
+Highway Race.
+<*********************>
+
+
+<c 01>Wrench
+<c 00>A brand new
+wrench that
+Antonio in Oil
+Field2 lost and
+asked you to
+find.
+<*********************>
+
+
+<c 01>L Tank 
+<c 00>An ancient
+artifact that
+Meg in Floating
+Ruins3 asked
+you to find.
+<*********************>
+
+
+<c 01>Pinwheel
+<c 00>An ancient
+artifact that
+Meg in Floating
+Ruins3 asked
+you to find.
+<*********************>
+
+
+<c 01>Old Balancer
+<c 00>An ancient
+artifact that
+Meg in Floating
+Ruins3 asked
+you to find.
+<*********************>
+
+
+<c 01>Light Bulb
+<c 00>An ancient
+artifact that
+Meg in Floating
+Ruins3 asked
+you to find.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Romeo in
+Hunter's Camp4.
+Obj.:
+Order shelves
+to put in from
+Austin.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Amy in
+Hunter's Camp4.
+Obj.:
+Bring back a
+potted plant.
+<*********************>
+
+
+<c 01>Potted Plant
+<c 00>Amy in Hunter's
+Camp4 asked you
+to bring this
+back to her.
+It's mainly for
+decoration.
+<*********************>
+
+
+<c 01>Potted Plant
+<c 00>Amy in Hunter's
+Camp4 asked you
+to bring this
+back to her. It
+looks a little
+withered.
+<*********************>
+
+
+<c 01>Potted Plant
+<c 00>Amy in Hunter's
+Camp4 asked you
+to bring this
+back to her.
+can cactuses
+understand
+people!?
+<*********************>
+
+
+<c 01>Potted Plant
+<c 00>Amy in Hunter's
+Camp4 asked you
+to bring this
+back to her.
+wait, it's not
+even real!
+<*********************>
+
+
+<c 01>Potted Plant
+<c 00>Amy in Hunter's
+Camp4 asked you
+to bring this
+back to her. It
+looks like it
+belongs in the
+tropics.
+<*********************>
+
+
+<c 01>Potted Plant
+<c 00>Amy in Hunter's
+Camp4 asked you
+to bring this
+back to her.
+A Mechaniloid
+that looks like
+a plant.
+<*********************>
+
+
+<c 01>Mysterious
+Bucket
+<c 00>This device can
+somehow change
+seawater and
+muddy water
+into pure
+water.
+<*********************>
+
+
+<c 01>Water-filled
+Bucket
+<c 00>It's probably
+good to pour
+this filtered
+water on
+dehydrated
+plants.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Given to you by
+Romeo in
+Hunter's Camp4.
+Obj.: Find
+Hunter's who
+were headed for
+Control Center.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Given to you by
+Sharon in
+Hunter's Camp3.
+Obj.: Buy
+some books to
+put in the big
+room.
+<*********************>
+
+
+<c 01>Comic (Green)
+<c 00>A story about
+soccer, where a
+unique group of
+robots trade
+their weapons
+for balls, and
+go at it.
+<*********************>
+
+
+<c 01>Comic (Blue)
+<c 00>A delightful
+comedy about a
+metallic hero
+who stirs up a
+storm of
+electronic
+communication.
+<*********************>
+
+
+<c 01>Comic (Orange)
+<c 00>An action comic
+about 2 talking
+wrist watches
+who team up for
+the greatest
+adventure in
+history.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Jarke in
+Hunter's Camp2.
+Obj.: Get
+someone to give
+you a model
+train.
+<*********************>
+
+
+<c 01>Pudding
+<c 00>This yummy-
+looking pudding
+found in the
+fridge is Owl
+in Hunter's
+Camp3's
+favorite.
+<*********************>
+
+
+<c 01>Model Train
+<c 00>Jarke has been
+looking for
+this rare model
+train called
+the Brainy
+Express for a
+long time.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>From Carley in
+Hunter's Camp4.
+Obj.: Set
+a transmitter
+at Mechaniloid
+remains in Oil
+Fields.
+<*********************>
+
+
+<c 01>Micro
+Transmitter
+<c 00>To place at the
+site in the Oil
+Fields where
+the Mechaniloid
+remains were
+found.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Given to you by
+Nick in
+Hunter's Camp4.
+Obj.: Find
+blueprints
+blown away by
+the wind. 
+<*********************>
+
+
+<c 01>Blueprints
+<c 00>Nick in
+Hunter's Camp4
+needs these
+blueprints for
+his café. Too
+bad he lost
+them...
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Anna in
+Hunter's Camp1.
+Obj.:
+Catch the
+little bird.
+<*********************>
+
+
+<c 01>Nightingale
+<c 00>Captured at
+Anna's request,
+this cute
+little bird
+isn't quite
+domesticated.
+<*********************>
+
+
+<c 01>Pin        <c 00>   
+Gotten in
+exchange for
+the M.request
+Chris gave you.
+Obj. was
+to find some
+Hero goods.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Given to you by
+Tillis in the
+Legion bound
+station.
+Obj.: Put
+out the fire at
+the Legion.
+<*********************>
+
+
+<c 01>Birdcage
+<c 00>Given to you
+by Pierre in
+Hunter's Camp1.
+It was to catch
+the flying
+Mini-Cam.
+<*********************>
+
+
+<c 01>Bird in Cage
+<c 00>Pierre in
+Hunter's Camp1
+is waiting for
+you to give him
+this cage with
+the flying
+Mini-Cam in it.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Jim in
+Hunter's Camp1.
+Obj.: Find
+a certain fruit
+at the Tower of
+Verdure.
+<*********************>
+
+
+<c 01>Green Apple
+<c 00>This rare apple
+only grows at
+the Tower of
+Verdure. People
+say that it
+tastes like
+young love.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Given to you by
+Blossom in
+Hunter's Camp3.
+Obj.: Find
+a Lily for
+Blossom's mom.
+<*********************>
+
+
+<c 01>White Lily
+<c 00>Blossom in
+Hunter's Camp3
+asked you to
+pick it. It has
+such an
+invigorating
+scent.
+<*********************>
+
+
+<c 01>Yellow Lily
+<c 00>Blossom in
+Hunter's Camp3
+asked you to
+pick it. It has
+a very
+dignified
+scent.
+<*********************>
+
+
+<c 01>Pink Lily
+<c 00>Blossom in
+Hunter's Camp3
+asked you to
+pick it. It
+doesn't quiet
+smell as good
+as it looks.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Doug.
+Obj.: Defeat 
+Buckfire at
+Train2.
+<*********************>
+
+
+<c 01>Mission Request
+(Signed)
+<c 00>Proof that you
+beat Buckfire.
+Take it to Ward
+in H. Camp1 for
+your bounty.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Given to you by
+Chuck. Obj.:
+Defeat 
+Chronoforce at
+Arctic Ice
+Floe4.
+<*********************>
+
+
+<c 01>Mission Request
+(Signed)<c 00> Proof
+that you beat
+Chronoforce.
+Take this to
+Ward in H. Camp
+1 to collect
+your bounty.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Given to you by
+Roger. Obj.:
+Defeat  Rospark
+at Tower of
+Verdure4.
+<*********************>
+
+
+<c 01>Mission Request
+(Signed)<c 00> Proof
+that you beat
+Rospark. Take
+it to Ward in
+H. Camp1 to
+collect your
+bounty.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Kirk.
+Obj.: Defeat
+Queenbee at the
+Control
+Center4.
+<*********************>
+
+
+<c 01>Mission Request
+(Signed)<c 00> Proof
+that you beat
+Queenbee. Take
+it to Ward in
+H. Camp1 to
+collect your
+bounty.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Kyrian.
+Obj.: Defeat 
+Vulturon at
+Scrapyard4.
+<*********************>
+
+
+<c 01>Mission Request
+(Signed)<c 00> Proof
+that you beat
+Vulturon. Take
+it to Ward in
+H. Camp1 to
+collect your
+bounty.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Tim.
+Obj.: Defeat 
+Hedgeshock at
+Mysterious
+Lab4.
+<*********************>
+
+
+<c 01>Mission Request
+(Signed)<c 00> Proof
+that you beat
+Hedgeshock.
+Take it to Ward
+in H. Camp1 to
+collect your
+bounty.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Abe.
+Obj.: Defeat
+Argoyle/Ugoyle
+at Waterfall
+Ruins1.
+<*********************>
+
+
+<c 01>Mission Request
+(Signed) <c 00>Proof
+that you beat
+Argoyle/Ugoyle.
+Take it to Ward
+in H. Camp1
+to collect
+your bounty.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Was given to
+you by Ben.
+Obj.: Defeat
+Bifrost at Bio
+Lab3.
+<*********************>
+
+
+<c 01>Mission Request
+(Signed)<c 00> Proof
+that you beat
+Bifrost. Take
+it to Ward in
+H. Camp1 to
+collect your
+bounty.
+<*********************>
+
+
+<c 01>Mission Request
+<c 00>Given to you by
+Elena in H.
+Camp1. Obj.:
+Retrieve the
+stolen pendant
+in Bio Lab4.
+<*********************>
+
+
+<c 01>Pendant
+<c 00>This precious
+item belongs to
+Elena in
+Hunter's Camp1.
+<*********************>
+
+
+<c 01>Engine
+<c 00>This is just
+one kind of
+junk that can
+be recycled by
+James in
+Scrapyard2.
+<*********************>
+
+
+<c 01>Ignition
+<c 00>This is just
+one kind of
+junk that can
+be recycled by
+James in
+Scrapyard2.
+<*********************>
+
+
+<c 01>Titanium Alloy
+<c 00>This is just
+one kind of
+junk that can
+be recycled by
+James in
+Scrapyard2.
+<*********************>
+
+
+<c 01>Booster
+<c 00>It's some kind
+of tuning part.
+Using it can
+increase your
+speed.
+<*********************>
+
+
+<c 01>Wish Card    <c 00>  
+Found in a room
+of Oil Field3.
+With it, people
+seem compelled
+to tell you
+their desires.
+<*********************>
+
+
+<c 01>Mystery Present
+<c 00>Found in
+a room of
+Oil Field3. It
+looks like a
+present a young
+child would
+enjoy.
+<--------------------->
+
+
+<*********************>
+
+
+Usable items.
+None in possession.
+<*********************>
+
+
+Usable items
+<btn_a>Button:OK <btn_b>Button:Cancel
+<*********************>
+
+
+No need to use this now.
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<btn_a>Button:OK <btn_b>Button:Cancel
+<*********************>
+
+
+Equippable items.
+None in possession.
+<*********************>
+
+
+Equippable items
+<btn_a>Button:OK <btn_b>Button:Cancel
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<btn_a>Button:Equip
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<btn_a>Button:Unequip
+<*********************>
+
+
+Auto-use items.
+None in possession.
+<*********************>
+
+
+Auto-use items.
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<btn_b>Button:Back
+<--------------------->
+
+
+<*********************>
+
+
+Choose the model.
+<*********************>
+
+
+Not A-Transable now.
+<*********************>
+
+
+Cannot secure the space for
+A-Trans.
+<*********************>
+
+
+A-Transable.
+<*********************>
+
+
+
+
+
+
+
+
+You can switch main and
+sub attack.
+<*********************>
+
+
+
+
+You can store extra Life
+Energy you've picked up.
+<*********************>
+
+
+
+
+There is no need to
+used Sub Tank.
+<*********************>
+
+
+Sub Tank is empty. You
+cannot use it.
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>1
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>2
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>3
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>4
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>5
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>6
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>7
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>8
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>9
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>10
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>11
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>12
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>13
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>14
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>15
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>16
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>17
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>18
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>19
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>20
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>21
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>22
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>23
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>24
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>25
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>26
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>27
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>28
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>29
+<*********************>
+
+
+Recover energy
+Energy Remaining:<c 01>30
+<*********************>
+
+
+SELECT:Buster Editor
+Edit using the bottom screen.
+<*********************>
+
+
+Align the squares so that the
+buster path is connected.
+<--------------------->
+
+
+<*********************>
+
+
+Change button layout
+<dpad>Control Pad <esquerda>/<direita>:Select
+<*********************>
+
+
+Change offensive mode
+<dpad>Control Pad <esquerda>/<direita>:Select
+<*********************>
+
+
+Change action mode
+<dpad>Control Pad <esquerda>/<direita>:Select
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Type
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Type
+<dpad>Control Pad <cima>/<baixo>:Button
+<*********************>
+
+
+<dpad>Control Pad <cima>/<baixo>:Category
+<dpad>Control Pad <esquerda>/<direita>:Type
+<--------------------->
+
+
+<*********************>
+
+
+Press <dpad>Control Pad <baixo>.
+<*********************>
+
+
+On water, press <dpad>Control Pad
+<direita> or <esquerda>.
+<*********************>
+
+
+Press <nome>.
+<--------------------->
+
+
+<*********************>
+
+
+Hold <nome> w/ BM gauge
+full until sight opens up. 
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Hold <nome>
+(Short) and then release.
+<*********************>
+
+
+Hold <nome>
+(Long) and then release.
+<*********************>
+
+
+Hold <nome> and release
+when you see the makers.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Hold <nome>
+(Short) and then release.
+<*********************>
+
+
+Hold <nome>
+(Long) and then release.
+<*********************>
+
+
+Hold <nome> and release
+when you see the makers.
+<--------------------->
+
+
+<*********************>
+
+
+Press <nome>. (press
+repeatedly for triple attack)
+<*********************>
+
+
+In air, press <nome>
+cont. or w/ <dpad>Control Pad <cima>.
+<*********************>
+
+
+Press <nome> &
+<dpad>Control Pad <baixo> in the air.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Hold <nome>
+(Short) and then release.
+<*********************>
+
+
+Hold <nome>
+(Long) and then release.
+<*********************>
+
+
+Press <dpad>Control Pad <baixo> &
+<nome> in the air.
+<*********************>
+
+
+Press <dpad>Control Pad <cima> &
+<nome> on ground.
+<--------------------->
+
+
+<*********************>
+
+
+In the air, press
+<nome>.
+<*********************>
+
+
+Press <dpad>Control Pad <cima> &
+<nome> in the air.
+<*********************>
+
+
+Press <nome> in the
+air. (Type B, Press and hold)
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Do Slice, Slash, Slice in
+that order.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<--------------------->
+
+
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Hold <nome>
+(Short/Long) and then release.
+<*********************>
+
+
+Hold <nome> (Long),
+release while <dpad>Control Pad <baixo>.
+<*********************>
+
+
+Hold <nome>
+(Short/Long) and then release.
+<*********************>
+
+
+Hold <nome> (Long),
+release while <dpad>Control Pad <baixo>.
+<--------------------->
+
+
+<*********************>
+
+
+Press <nome> under
+water.
+<*********************>
+
+
+Press <nome> under
+water.
+<*********************>
+
+
+Swim, leaving the
+<dpad>Control Pad in neutral.
+<*********************>
+
+
+Press <nome> while on
+the ground or jumping.
+<*********************>
+
+
+Press <nome> while
+swimming or standing still.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<--------------------->
+
+
+<*********************>
+
+
+Face the ceiling and press
+<dpad>Control Pad <cima>.
+<*********************>
+
+
+While hanging, press quickly
+press <dpad>Control Pad <cima>2X.
+<*********************>
+
+
+While standing, press quickly
+press <dpad>Control Pad <baixo>2X.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<--------------------->
+
+
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Press <nome> in mid air
+while touching a wall.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Standing, hold <nome>
+and then release.
+<*********************>
+
+
+Standing, hold <nome>, press
+<dpad>Control Pad <cima>, release.
+<*********************>
+
+
+Hold <nome> and
+then release in the air.
+<--------------------->
+
+
+<*********************>
+
+
+Press <dpad>Control Pad <cima>, <baixo>,
+<direita>, or <esquerda> under water.
+<*********************>
+
+
+Press <nome> under
+water.
+<*********************>
+
+
+Press <nome> under
+water.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<--------------------->
+
+
+<*********************>
+
+
+Press <cima> on <dpad>Control Pad near
+vines and poles. (bulb)
+<*********************>
+
+
+On the ground, press
+<nome>. (bulb)
+<*********************>
+
+
+Hold <nome>, on the
+ground, then release. (bulb) 
+<*********************>
+
+
+On the ground, press
+<nome>. (bulb)
+<*********************>
+
+
+Hold <nome>, on the
+ground, then release. (bulb) 
+<*********************>
+
+
+Grab on to a vine or a pole,
+press <dpad>Control Pad <cima>/<baixo>.
+<*********************>
+
+
+Press <nome> on vine
+etc.
+<*********************>
+
+
+Hold <nome> on vine
+etc., then release.
+<*********************>
+
+
+Press <nome> &
+<dpad>Control Pad <esquerda>/<direita> on vine etc.
+<*********************>
+
+
+Press <nome> on vine
+etc.
+<*********************>
+
+
+Hold <nome> on vine
+etc., then release.
+<--------------------->
+
+
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+<nome> <dpad>Control Pad
+<cima>/<baixo> to change throw direction.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<*********************>
+
+
+Press <nome>
+(As Ugoyle).
+<*********************>
+
+
+Perform a U-Kick on an
+Ar-Thrown Rock Bomb.
+<--------------------->
+
+
+<*********************>
+
+
+Hold <dpad>Control Pad <baixo> and
+press <nome>.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Hold <nome>
+standing, and then release.
+<*********************>
+
+
+Hold <nome> and
+then release in the air.
+<*********************>
+
+
+Hold <nome> on a
+ladder, and then release.
+<--------------------->
+
+
+<*********************>
+
+
+Press <nome>.
+(depletes BM gauge)
+<*********************>
+
+
+Hold <dpad>Control Pad <baixo> over a
+dockable object.
+<*********************>
+
+
+While docking, hold
+<dpad>Control Pad <cima>.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Hold <nome> and
+then release.
+<--------------------->
+
+
+<*********************>
+
+
+While in the air, hold
+<dpad>Control Pad towards wall.
+<*********************>
+
+
+Press <nome> in
+mid-air. Reduces BM gauge.
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Hold <nome>
+and then release.
+<--------------------->
+
+
+<*********************>
+
+
+Hold <nome>.
+<*********************>
+
+
+Press and release
+<nome>.
+<*********************>
+
+
+Press <nome>.
+<--------------------->
+
+
+<*********************>
+
+
+Press <nome>.
+<*********************>
+
+
+Press <nome>.
+<--------------------->
+
+
+<*********************>
+
+
+You can customize the
+A-Trans icon layout of
+the Transformation
+Screen. Touch the icon
+you wish to move and its
+destination.
+<*********************>
+
+
+Use the bottom screen to
+edit.
+<*********************>
+
+
+Customize your A-Trans icons.
+<btn_a>Button:Begin
+<*********************>
+
+
+Customize your A-Trans icons.
+<btn_a>Button:Finish
+<--------------------->
+
+
+<*********************>
+
+
+<btn_a>
+<*********************>
+
+
+<btn_b>
+<*********************>
+
+
+<E6><E7>
+<*********************>
+
+
+<E8><E9>
+<*********************>
+
+
+<EA><EB>
+<*********************>
+
+
+<EC><ED>
+<*********************>
+
+
++
+<*********************>
+
+
+Button
+<--------------------->
+
+
+<*********************>
+
+
+Escape From The Lab
+<*********************>
+
+
+Track Down The Airship
+<*********************>
+
+
+Transport Container
+<*********************>
+
+
+Crash Site (Ice Floe)
+<*********************>
+
+
+Crash Site (Tower)
+<*********************>
+
+
+Crash Site (Oil Field)
+<*********************>
+
+
+Deliver The Biometal
+<*********************>
+
+
+Model W (Center)
+<*********************>
+
+
+Model W (Highway)
+<*********************>
+
+
+Model W (F.Ruins)
+<*********************>
+
+
+Model W (Scrapyard)
+<*********************>
+
+
+Retrieve Model W
+<*********************>
+
+
+Get Albert (Waterfall)
+<*********************>
+
+
+Get Albert (Lab)
+<*********************>
+
+
+Get Albert (Bio Lab)
+<*********************>
+
+
+To Albert's Hideout
+<*********************>
+
+
+To The Ouroboros
+<--------------------->
+
+
+<*********************>
+
+
+Find Owner Of Backpack
+<*********************>
+
+
+Enemy Buster #1
+<*********************>
+
+
+Find The Pickaxe
+<*********************>
+
+
+Catch The Moth Queen
+<*********************>
+
+
+Protect The Energy
+<*********************>
+
+
+Highway Race (round 1)
+<*********************>
+
+
+Highway Race (hayate)
+<*********************>
+
+
+Highway Race (idaten)
+<*********************>
+
+
+Highway Race (defend)
+<*********************>
+
+
+Find The Wrench
+<*********************>
+
+
+Find Ancient Artifacts
+<*********************>
+
+
+Give Order To The Shop
+<*********************>
+
+
+Spruce Up The Room
+<*********************>
+
+
+Help The Lost Hunter's
+<*********************>
+
+
+Comics For The Shelves
+<*********************>
+
+
+Find The Model Train
+<*********************>
+
+
+To Mechaniloid Remains
+<*********************>
+
+
+Find The Blueprints
+<*********************>
+
+
+Catch The Little Bird
+<*********************>
+
+
+Find The Hero Goods
+<*********************>
+
+
+Put Out The Fire
+<*********************>
+
+
+Find The Bird Camera
+<*********************>
+
+
+Find The Magical Fruit
+<*********************>
+
+
+Find A Present For Mom
+<*********************>
+
+
+Defeat Buckfire
+<*********************>
+
+
+Defeat Rospark
+<*********************>
+
+
+Defeat Chronoforce
+<*********************>
+
+
+Defeat Queenbee
+<*********************>
+
+
+Defeat Vulturon
+<*********************>
+
+
+Defeat Argoyle/Ugoyle
+<*********************>
+
+
+Defeat Hedgeshock
+<*********************>
+
+
+Defeat Bifrost
+<*********************>
+
+
+Get Back The Pendant
+<*********************>
+
+
+Find Lost Friends
+<*********************>
+
+
+Recycle Junk
+<*********************>
+
+
+Eliminate The Chabanos
+<*********************>
+
+
+Eliminate 50 Chabanos
+<--------------------->
+
+
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<*********************>
+
+
+<dpad>Control Pad <cima>/<baixo>:Check
+<--------------------->
+
+
+<*********************>
+
+
+<c 01>Escape from the Lab
+<c 00>Can Grey who wakes up
+only to be told by
+Pandora that he's to be
+disposed of,
+make it out alive!?
+<*********************>
+
+
+<c 01>Track Down the Airship
+<c 00>Hot on the trail of a
+Raider airship fleet,
+Ashe must get to the lead
+airship, where the stolen
+Biometal is!
+<*********************>
+
+
+<c 01>Transport the Container
+<c 00>The Federation Government
+"Legion" has requested
+that you transport the
+Biometal to its
+Headquarters!
+<*********************>
+
+
+<c 01>To the Crash Site
+<c 00>The train is damaged. Get
+to the site of the
+crashed Raider airship
+and get parts to fix the
+train!
+<*********************>
+
+
+<c 01>Deliver the Biometal
+<c 00>The train has been
+repaired, and the Legion
+authorities want that
+cargo. Take the Biometal
+to the Sage Trinity!
+<*********************>
+
+
+<c 01>Model W                
+<c 00>Mavericks are springing
+up everywhere, Model W
+may have something to do
+with it. Investigate the
+4 new areas for Model W!
+<*********************>
+
+
+<c 01>Retrieve Model W
+<c 00>Model W activity has been
+detected at the Quarry
+near Hunter's Camp. Get
+in there and get the
+Model W!
+<*********************>
+
+
+<c 01>Get Albert
+<c 00>The destruction of some
+Model Ws put a crimp in
+Albert's plan. Take this
+chance and go to a new
+area to find a clue!
+<*********************>
+
+
+<c 01>To Albert's Hideout
+<c 00>You've obtained the
+transerver initialization
+key from the 2 Data
+Files. Track Model W to
+the Undersea Volcano!
+<*********************>
+
+
+<c 01>To the Ouroboros
+<c 00>Use the Guardian Base to
+board the Model W
+amalgamation, the
+Ouroboros, and take
+Albert down!
+<--------------------->
+
+
+<*********************>
+
+
+Client: Patrick
+Place: Train3
+<*********************>
+
+
+Client: Richard
+Place: Hunter's Camp3
+<*********************>
+
+
+Client: Kidd
+Place: Hunter's Camp4
+<*********************>
+
+
+Client: Mary
+Place: Arctic Ice Floe2
+<*********************>
+
+
+Client: George
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Burt
+Place: Highway3
+<*********************>
+
+
+Client: Burt
+Place: Highway3
+<*********************>
+
+
+Client: Burt
+Place: Highway3
+<*********************>
+
+
+Client: Burt
+Place: Highway3
+<*********************>
+
+
+Client: Antonio
+Place: Oil Field2
+<*********************>
+
+
+Client: Meg
+Place: Floating Ruins3
+<*********************>
+
+
+Client: Romeo
+Place: Hunter's Camp4
+<*********************>
+
+
+Client: Amy
+Place: Hunter's Camp4
+<*********************>
+
+
+Client: Romeo
+Place: Hunter's Camp4
+<*********************>
+
+
+Client: Sharon
+Place: Hunter's Camp3
+<*********************>
+
+
+Client: Jarke
+Place: Hunter's Camp2
+<*********************>
+
+
+Client: Carley
+Place: Hunter's Camp4
+<*********************>
+
+
+Client: Nick
+Place: Hunter's Camp4
+<*********************>
+
+
+Client: Anna
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Chris
+Place: Hunter's Camp2
+<*********************>
+
+
+Client: Tillis
+Place: Train3
+<*********************>
+
+
+Client: Pierre
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Jim
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Blossom
+Place: Hunter's Camp3
+<*********************>
+
+
+Client: Doug
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Roger
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Chuck
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Kirk
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Kyrian
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Abe
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Tim
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Ben
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Elena
+Place: Hunter's Camp1
+<*********************>
+
+
+Client: Nicol
+Place: Hunter's Camp2
+<*********************>
+
+
+Client: James
+Place: Scrapyard2
+<*********************>
+
+
+Client: Peter
+Place: Waterfall Ruins3
+<*********************>
+
+
+Client: Peter
+Place: Waterfall Ruins3
+<*********************>
+
+<FIM>

@@ -1,0 +1,101 @@
+<script_info tipo='NPCs Aleatórios' personagem='Grey' tamanho='947' inicio_ponteiros='4' fim_ponteiros='13' inicio_textos='14' />
+<#####################>
+
+<p 03><d 9705><a 1D><n 06>
+...To bring new life
+into the world, eh?
+<--------------------->
+
+<p 02><d 9805><a 1C><n 07>
+In the last mission
+report...
+<--------------------->
+
+<d 9905>
+Albert said some rather
+outrageous things.
+<*********************>
+
+<p 03><d 9A05><a 1D><n 06>
+Mikhail... Do you think
+it presumptuous
+<--------------------->
+
+<d 9B05>
+for us to give birth
+to new life?
+<--------------------->
+
+<p 02><d 9C05><a 1C><n 07>
+How absurd... Thomas,
+you couldn't possibly
+<--------------------->
+
+<d 9D05>
+hold fast to such
+foolish imaginings. 
+<--------------------->
+
+<p 03><d 9E05><a 1D><n 06>
+There are laws that
+give equality to Humans
+and Reploids, correct?
+<--------------------->
+
+<p 03><d 9F05><a 1D><n 06>
+Don't you remember?
+<--------------------->
+
+<d A005>
+Those were passed
+because Albert and I
+agreed on them.
+<--------------------->
+
+<p 02><d A105><a 1C><n 07>
+W-What are you saying?
+<*********************>
+
+<p 03><d A205><a 1D><n 06>
+Give Humans robotic
+bodies, and give
+Reploids mortality.
+<--------------------->
+
+<p 03><d A305><a 1D><n 06>
+So, where do you think
+the Human bodies for
+the Reploids are?
+<--------------------->
+
+<p 03><d A405><a 1D><n 06>
+What do you think
+happened to the
+original Reploid data
+<--------------------->
+
+<d A505>
+from before we gave
+them mortality?
+<*********************>
+
+<p 01><p 02><d A605><a 1C><n 07>
+Thomas... You...!
+<--------------------->
+
+<p 01><p 03><d A705><a 1D><n 06>
+Albert was wrong, so I
+helped the Hunters.
+<--------------------->
+
+<p 01><p 03><d A805><a 1D><n 06>
+But I do think he was
+right about one thing.
+<*********************>
+
+<p 00><p 03><d A905><a 1D><n 06>
+This world needs to be
+reset.
+<*********************>
+
+<FIM>

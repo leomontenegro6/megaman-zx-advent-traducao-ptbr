@@ -1,0 +1,4 @@
+<script_info tipo='Missão 2' personagem='Grey' tamanho='61' inicio_ponteiros='4' fim_ponteiros='59' inicio_textos='60' />
+<#####################>
+
+<FIM>

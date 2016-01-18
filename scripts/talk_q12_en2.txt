@@ -1,0 +1,48 @@
+<script_info tipo='Quest 18' personagem='Ashe' tamanho='452' inicio_ponteiros='4' fim_ponteiros='9' inicio_textos='10' />
+<#####################>
+
+<p 02><a 5E><n 42>
+Oh no... What should I
+do?
+<--------------------->
+
+When I opened my little
+bird's cage to feed
+her, she flew away. 
+<--------------------->
+
+I would go look for her
+myself, but I have to
+stay here.
+<--------------------->
+
+Could you look for my
+bird for me? Please?
+<--------------------->
+
+She's a cute little
+white bird. Her name is
+Nightingale.
+<*********************>
+
+<p 02><a 5E><n 42>
+Well? Do you have any
+idea where she could
+have gone?
+<--------------------->
+
+Someone did say that
+they heard a bird
+singing
+<--------------------->
+
+beyond that green door.
+<*********************>
+
+<p 02><a 5E><n 42>
+Thank you... I guess I
+should buy a better
+cage.
+<*********************>
+
+<FIM>

@@ -1,0 +1,1397 @@
+<script_info tipo='Missão 17' personagem='Ashe' tamanho='12917' inicio_ponteiros='4' fim_ponteiros='173' inicio_textos='174' />
+<#####################>
+
+<p 02><d 8B04><a 11><n 18>
+This can't be good.
+<--------------------->
+
+<p 02><d 8C04><a 10><n 18>
+So that's the ultimate
+Biometal... Ouroboros.
+<--------------------->
+
+<p 02><d 8D04><a 10><n 18>
+All of the Mavericks
+that came out of that
+thing
+<--------------------->
+
+<d 8E04>
+are wreaking havoc.
+<--------------------->
+
+<p 02><d 8F04><a 10><n 18>
+I managed to smash a
+few of them, but they
+just keep coming.
+<*********************>
+
+<p 03><d 9004><a 0A><n 02>
+How cowardly! Just
+looking down at the
+world from the sky!
+<--------------------->
+
+<d 9104>
+Can't we do something?
+<*********************>
+
+<p 01><p 02><d 9204><a 10><n 18>
+Of course we can.
+That's why I came to
+see you.
+<--------------------->
+
+<p 01><p 02><d 9404><a 10><n 18>
+You're coming, right?
+To write your story?
+<*********************>
+
+<p 01><p 03><d 9504><a 0F><n 02>
+W-What's that...?
+<--------------------->
+
+<p 01><p 02><d 9604><a 10><n 18>
+She belongs to me and
+my crew... She's the
+Guardian Base!
+<--------------------->
+
+<p 01><p 02><d 9704><a 10><n 18>
+There's only one thing
+left that we can do...
+<--------------------->
+
+<d 9804>
+Use the Guardian Base
+to board Ouroboros.
+<--------------------->
+
+<p 01><p 02><d 9904><a 11><n 18>
+We must take Albert
+down!
+<*********************>
+
+<p 00><p 02><d 9A04><a 42><n 1F>
+Hey! Wait!
+<*********************>
+
+<p 02><d 9B04><a 42><n 1F>
+You're going after the
+ringleader, right?
+<--------------------->
+
+<d 9C04>
+Let us have a piece of
+the action too!
+<--------------------->
+
+<p 02><d 9D04><a 42><n 49>
+What do think the
+bounty might be on
+booty that big!?
+<--------------------->
+
+<p 02><d 9E04><a 42><n 49>
+I'm getting excited
+just thinking about it!
+<--------------------->
+
+<p 03><d 9F04><a 0B><n 02>
+Come on you guys! This
+isn't some kind of
+bounty mission...!
+<--------------------->
+
+<p 03><d A004><a 1D><n 06>
+Oh, yes it most
+certainly is...
+<--------------------->
+
+<d A104>
+An official
+mission from Legion
+Headquarters.
+<*********************>
+
+<p 02><d A204><a 08><n 02>
+Master Thomas!
+<--------------------->
+
+<p 03><d A304><a 1D><n 06>
+...How brave you all
+are...
+<--------------------->
+
+<d A404>
+You wouldn't be
+satisfied unless the
+mission was official.
+<--------------------->
+
+<p 03><d A504><a 1D><n 06>
+Legion is having
+trouble
+<--------------------->
+
+<d A604>
+supplying enough
+manpower to fight the
+Mavericks.
+<--------------------->
+
+<p 03><d A704><a 1D><n 06>
+Ashe... I'm putting you
+in charge.
+<--------------------->
+
+<p 02><d A804><a 08><n 02>
+Everybody! Let's
+show Albert who's
+world this really is!
+<*********************>
+
+<p 02><d A904><a 10><n 18>
+Looks like your
+friends are ready
+for action!
+<*********************>
+
+<p 02><d AA04><a 11><n 18>
+Let's go, follow me!
+<*********************>
+
+<p 03><d AB04><a 13><n 18>
+Once we grab a hold
+onto Ouroboros,
+<--------------------->
+
+<d AC04>
+expect Mavericks to
+take to us like flies
+to you-know-what!
+<--------------------->
+
+<p 03><d AD04><a 13><n 18>
+It's up to all of you
+to defend the Guardian
+Base!
+<--------------------->
+
+<p 03><d AE04><a 13><n 18>
+We're going home
+victorious, got it!?
+<*********************>
+
+<p 03><d AF04><a 13><n 18>
+Ashe! You go ahead!
+<--------------------->
+
+<p 03><d B004><a 13><n 18>
+I'll handle things here
+and catch up to you!
+<--------------------->
+
+<p 02><d B104><a 0B><n 02>
+OK! Let's go!
+<--------------------->
+
+<d B204>
+Model A! It's time to
+give Albert a little
+payback!
+<--------------------->
+
+<p 02><d B304><a 6B><n 15>
+OK!
+<*********************>
+
+<p 03><d B404><a 03><n 05>
+I'd have never guessed
+
+<--------------------->
+
+<d B504>
+that they would come
+after the Ouroboros in
+an airship.
+<--------------------->
+
+<p 03><d B604><a 03><n 05>
+The ways of those who
+can't keep up with
+progress are savage.
+<*********************>
+
+<p 02><d B704><a 0A><n 02>
+Albert!
+<--------------------->
+
+<p 03><d B804><a 21><n 05>
+By the way, there
+are some people here 
+to see you.
+<--------------------->
+
+<d B904>
+Would you be so kind as
+to make their
+acquaintance?
+<*********************>
+
+<p 03><d BA04><a 36><n 08>
+Traitor Model A... I
+will destroy you!
+<*********************>
+
+<p 03><d BB04><a 37><n 09>
+*Ha ha ha*
+I've been waiting to
+get my revenge.
+<*********************>
+
+<p 03><d BC04><a 3E><n 0A>
+Oh, you again... You
+don't give up, do you,
+girl?
+<*********************>
+
+<p 03><d BD04><a 39><n 0C>
+Oh, allow me to give 
+you a proper welcome!
+<*********************>
+
+<p 03><d BE04><a 38><n 0B>
+Back for an encore, are
+you?
+<*********************>
+
+<p 03><d BF04><a 3B><n 0D>
+We won't be beaten
+again.
+<*********************>
+
+<p 03><d C004><a 3D><n 0F>
+You've still got a
+shock coming!
+<*********************>
+
+<p 03><d C104><a 3A><n 10>
+For your disloyalty to
+the king, you shall
+perish!
+<*********************>
+
+<p 02><d C204><a 6B><n 15>
+A-Trans...!?
+<--------------------->
+
+<p 02><d C304><a 0A><n 02>
+Why do you have the
+same copy ability as
+Model A?
+<--------------------->
+
+<p 03><d C404><a 21><n 05>
+I told you that you
+were made in my image.
+<--------------------->
+
+<p 03><d C504><a 21><n 05>
+But my real power
+is not in my copy
+ability.
+<--------------------->
+
+<p 03><d C604><a 21><n 05>
+The spirit of
+everything Model W eats
+lives on inside me.
+<--------------------->
+
+<p 03><d C704><a 21><n 05>
+The power to control
+all life.
+<--------------------->
+
+<d C804>
+That is the power of
+the ultimate Mega Man.
+<--------------------->
+
+<p 03><d C904><a 22><n 05>
+The real A-Trans!
+<--------------------->
+
+<p 03><d CA04><a 21><n 05>
+They're waiting for you
+inside with their new
+bodies.
+<--------------------->
+
+<d CB04>
+Please go in and play
+with them.
+<--------------------->
+
+<p 03><d CC04><a 21><n 05>
+If you can make your
+way to me, I'll tell
+you everything.
+<--------------------->
+
+<p 03><d CD04><a 21><n 05>
+on how, even being
+incomplete, you can
+still use A-Trans.
+<--------------------->
+
+<p 03><d CE04><a 22><n 05>
+and who you really
+are.
+<*********************>
+
+<p 03><d CF04><a 36><n 08>
+*snort* *wheeze*!!
+<*********************>
+
+<p 03><d D004><a 36><n 08>
+New king born!
+New world be
+born soon!
+<--------------------->
+
+<d D104>
+You not needed!
+<*********************>
+
+<p 03><d D204><a 36><n 08>
+I upheld law! I stomped
+traitor!
+<*********************>
+
+<p 03><d D304><a 36><n 08>
+You... broke... law...!
+Go... and receive...
+King's... punishment!
+<*********************>
+
+<p 03><d D404><a 37><n 09>
+*Ha ha ha* Shall we
+begin our time of bliss
+together?
+<--------------------->
+
+<p 03><d D504><a 37><n 09>
+I'm going to take my
+time manhandling you!
+<*********************>
+
+<p 03><d D604><a 37><n 09>
+Spend the rest of
+eternity wandering in
+darkness!
+<*********************>
+
+<p 03><d D704><a 37><n 09>
+You can't stop the flow
+of time!
+<--------------------->
+
+<d D804>
+Just let yourself be
+swallowed by the tidal
+wave of a new era...!
+<*********************>
+
+<p 02><d D904><a 3E><n 0A>
+*sigh* I was hoping I
+wouldn't have to see
+you again...
+<--------------------->
+
+<p 02><d DA04><a 3E><n 0A>
+I just despise pesky
+little girls. Get out
+of my sight!
+<*********************>
+
+<p 03><d DB04><a 3F><n 0A>
+How repulsive... the
+only thing I ever put
+on my thorns
+<--------------------->
+
+<d DC04>
+is soldier's blood!
+<*********************>
+
+<p 03><d DD04><a 3F><n 0A>
+Aaagh! I don't ever
+want to see you
+agaaain!
+<*********************>
+
+<p 03><d DF04><a 38><n 0B>
+You'll be getting the
+VIP treatment this
+time...
+<--------------------->
+
+<p 03><d E004><a 38><n 0B>
+I have a special
+requiem for you!
+<*********************>
+
+<p 03><d E104><a 38><n 0B>
+You are about to play
+for an audience in
+oblivion!
+<*********************>
+
+<p 03><d E204><a 38><n 0B>
+I'm going to
+retire... Now it's up
+to you...
+<--------------------->
+
+<d E304>
+Carry on with the
+show... Give 'em a Mega
+performance...
+<*********************>
+
+<p 01><p 03><d E404><a 39><n 0C>
+There's going to be a
+great party tonight...
+<--------------------->
+
+<d E504>
+You should celebrate
+with us.
+<--------------------->
+
+<p 01><p 03><d E604><a 39><n 0C>
+A new king has been
+crowned.
+<--------------------->
+
+<d E704>
+It's definitely
+going to be a night to
+remember!
+<*********************>
+
+<p 01><p 03><d E804><a 39><n 0C>
+Oh, I guess the sweet
+nectar of terror
+<--------------------->
+
+<d E904>
+was a little too strong
+for you...
+<*********************>
+
+<p 01><p 03><d EA04><a 39><n 0C>
+Are we reduced to
+colluding
+<--------------------->
+
+<d EB04>
+with the evolutionarily
+inferior...? Hmph!
+<*********************>
+
+<p 00><p 03><d EC04><a 3A><n 10>
+When it comes down to
+it, you're nothing
+<--------------------->
+
+<d ED04>
+but a small fish in a
+big pond.
+<--------------------->
+
+<p 03><d EE04><a 3A><n 10>
+So just make it easy on
+yourself
+<--------------------->
+
+<d EF04>
+and let me end it for
+you quick and easy!
+<*********************>
+
+<p 03><d F004><a 3A><n 10>
+You were born in the
+house of the king.
+And strayed so far...
+<--------------------->
+
+<d F104>
+It's too pitiful for
+words.
+<*********************>
+
+<p 03><d F204><a 3A><n 10>
+Born in the shadow of
+the king, you can never
+make a world of light!
+<*********************>
+
+<p 03><d F304><a 3D><n 0F>
+It's my turn! It's my
+turn!
+<--------------------->
+
+<p 03><d F404><a 3D><n 0F>
+Here I go! Here I go!
+I'm going to punish you
+good!
+<*********************>
+
+<p 03><d F504><a 3D><n 0F>
+It's time to say
+goodbye to you and
+hello to the new world!
+<*********************>
+
+<p 03><d F604><a 3D><n 0F>
+It's all over! It's all
+over! Either way...
+<--------------------->
+
+<d F704>
+Mr. Albert will get you
+in the end!
+<*********************>
+
+<p 03><d F804><a 3B><n 0D>
+Only those who are
+loyal to the new king
+may pass.
+<--------------------->
+
+<p 02><d F904><a 3C><n 0E>
+*grunt*
+<--------------------->
+
+<p 03><d FA04><a 3B><n 0D>
+There's only one way
+you're getting
+through...
+<--------------------->
+
+<d FB04>
+That's as a sacrifice
+to the king!
+<--------------------->
+
+<p 02><d FC04><a 3C><n 0E>
+Meet your end!
+<*********************>
+
+<p 03><d FD04><a 3B><n 0D>
+We're the guardians of
+the new world!
+<--------------------->
+
+<d FE04>
+There's no way we can
+let you pass again!
+<--------------------->
+
+<p 02><d FF04><a 3C><n 0E>
+*grunt*
+<*********************>
+
+<p 03><d 0005><a 3B><n 0D>
+Very well... you may
+pass...
+<--------------------->
+
+<d 0105>
+We throw ourselves
+before your feet...!
+<--------------------->
+
+<p 02><d 0205><a 3C><n 0E>
+Graaah!
+<*********************>
+
+<p 03><d 0305><a 34><n 11>
+You made a foolish
+choice... You should
+have stayed away.
+<*********************>
+
+<p 02><d 0405><a 32><n 12>
+We've got some
+unfinished business to
+take care of!
+<--------------------->
+
+<d 0505>
+I'm not just going to
+let you waltz out of
+here!
+<*********************>
+
+<p 02><d 0605><a 2C><n 13>
+This is as far as you
+go!
+<*********************>
+
+<p 02><d 0705><a 2E><n 14>
+TACTICAL ADVANTAGE,
+FOUR TO ONE...
+<--------------------->
+
+<d 0805>
+COMMENCE COMPLETE
+DESTRUCTION OF TARGET!
+<*********************>
+
+<p 02><d 0905><a 0A><n 02>
+What's wrong with all
+of you? Are you
+stupid!?
+<--------------------->
+
+<p 02><d 0A05><a 0B><n 02>
+Albert has been using
+you from the start!
+<--------------------->
+
+<p 03><d 0C05><a 34><n 11>
+A mere trifling
+technicality... The
+winner out of all of us
+<--------------------->
+
+<d 0D05>
+need only to defeat
+Albert to become king.
+<--------------------->
+
+<p 03><d 0E05><a 34><n 11>
+Those are the rules
+that Albert himself
+laid down.
+<--------------------->
+
+<p 02><d 0F05><a 0A><n 02>
+Oh... You idiots!
+<*********************>
+
+<p 03><d 1005><a 12><n 18>
+I'll take over from
+here, Ashe! You go on
+ahead!
+<*********************>
+
+<p 03><d 1105><a 34><n 11>
+Why, you...!
+<--------------------->
+
+<p 02><d 1205><a 13><n 18>
+Well, well. We've
+finally found what we
+were looking for...
+<--------------------->
+
+<p 02><d 1305><a 13><n 18>
+I need you to hand over
+all of your Biometals!
+<*********************>
+
+<p 03><d 1405><a 21><n 05>
+I thought you might be
+coming right about
+now... I'm so happy...
+<--------------------->
+
+<d 1505>
+But at the same time,
+I'm so sad.
+<--------------------->
+
+<p 03><d 1605><a 21><n 05>
+If you hadn't met
+Model A, you would have
+died
+<--------------------->
+
+<d 1705>
+never knowing the
+truth.
+<--------------------->
+
+<p 02><d 1805><a 0A><n 02>
+What do you mean?
+<--------------------->
+
+<p 03><d 1905><a 21><n 05>
+Oh? Model A, you
+haven't told her yet?
+<--------------------->
+
+<d 1A05>
+You should remember
+everything by now. 
+<--------------------->
+
+<p 02><d 1B05><a 6B><n 15>
+Stop it! Don't
+listen to him, Ashe!
+Waste him!
+<*********************>
+
+<p 03><d 1C05><a 21><n 05>
+Ashe... You are my
+distant offspring.
+<--------------------->
+
+<p 03><d 1E05><a 21><n 05>
+You are a descendant of
+the family I left
+<--------------------->
+
+<d 1F05>
+before I became one of
+the Sage Trinity.
+<--------------------->
+
+<p 03><d 2005><a 21><n 05>
+You were able to
+Megamerge with Model A
+because your DNA
+<--------------------->
+
+<d 2105>
+bears so many
+similarities to mine.
+<--------------------->
+
+<p 02><d 2205><a 0B><n 02>
+But that's because you
+somehow incorporated
+your data into me...!
+<--------------------->
+
+<p 03><d 2305><a 21><n 05>
+No, you are completely
+unaltered.
+<--------------------->
+
+<d 2405>
+Your appearance was
+totally unexpected.
+<--------------------->
+
+<p 03><d 2505><a 21><n 05>
+The Model A you have
+<--------------------->
+
+<d 2605>
+was a backup system
+that contains my entire
+plan.
+<--------------------->
+
+<p 03><d 2705><a 22><n 05>
+Model A... In other
+words, Model Albert.
+<--------------------->
+
+<p 02><d 2805><a 6B><n 15>
+I hate that name!
+<--------------------->
+
+<p 03><d 2905><a 22><n 05>
+Don't say that.
+<--------------------->
+
+<d 2A05>
+Soon that name and what
+it stands for will be
+gone.
+<*********************>
+
+<p 01><p 03><d 2B05><a 21><n 05>
+For me to have to
+extinguish the life of
+my own flesh and blood
+<--------------------->
+
+<d 2C05>
+is so sad.
+<--------------------->
+
+<p 01><p 03><d 2D05><a 21><n 05>
+But... I'm glad!
+<--------------------->
+
+<d 2E05>
+Because by my own
+hand, I will become the
+only "me"!
+<*********************>
+
+<p 01><p 03><d 2F05><a 22><n 05>
+Poor child of
+destiny...
+<--------------------->
+
+<d 3005>
+Fall into the shadows
+cast by my incredible
+light!
+<*********************>
+
+<p 00><p 03><d 3105><a 21><n 05>
+I can hear them, the
+anger, the bitterness,
+<--------------------->
+
+<d 3205>
+the sadness of the
+sacrifices to Model W.
+<--------------------->
+
+<p 03><d 3305><a 21><n 05>
+Having consumed the
+souls of people
+throughout the world,
+<--------------------->
+
+<d 3405>
+the awakened Model W
+is the world's
+consciousness itself.
+<--------------------->
+
+<p 03><d 3505><a 21><n 05>
+Model W desires
+destruction...
+<--------------------->
+
+<p 03><d 3605><a 21><n 05>
+It desires that the
+Earth conclude its
+own autobiography...
+<--------------------->
+
+<p 03><d 3705><a 21><n 05>
+So be it! Model W...
+Ultimate Mega Man!
+<--------------------->
+
+<p 03><d 3905><a 22><n 05>
+If at evolution's
+extreme... there is
+destruction,
+<--------------------->
+
+<d 3A05>
+it was destined to be
+that way.
+<--------------------->
+
+<p 02><d 3B05><a 0A><n 02>
+That stuff is only in
+your head!
+<--------------------->
+
+<d 3C05>
+The power of Model W
+has taken control of
+you!
+<--------------------->
+
+<p 03><d 3D05><a 21><n 05>
+Hmph... By drowning in
+peace, by rejecting
+change,
+<--------------------->
+
+<d 3E05>
+you made the choice for
+the destruction of the
+Earth.
+<*********************>
+
+<p 03><d 3F05><a 21><n 05>
+I am trying to create a
+new world.
+<--------------------->
+
+<p 03><d 4005><a 21><n 05>
+I want to bring new
+life into the world and
+protect its future.
+<--------------------->
+
+<p 02><d 4105><a 0B><n 02>
+Whoa! Don't talk to me
+like I'm an idiot!
+<--------------------->
+
+<d 4205>
+You're blowing things
+way out of proportion!
+<*********************>
+
+<p 01><p 03><d 4305><a 23><n 05>
+The world that you live
+in itself is defective.
+<--------------------->
+
+<p 01><p 03><d 4405><a 23><n 05>
+Before a new world can
+be made, this world
+must be reset.
+<--------------------->
+
+<p 01><p 03><d 4505><a 23><n 05>
+That's where the
+ultimate power of
+Model W comes in.
+<--------------------->
+
+<p 01><p 03><d 4605><a 23><n 05>
+I have already decided
+the fate of the world
+as its god.
+<--------------------->
+
+<d 4705>
+The destiny of
+destruction cannot be
+changed!
+<*********************>
+
+<p 02><d 4805><a 0A><n 02>
+No... I can change
+my destiny!
+<--------------------->
+
+<p 02><d 4905><a 0B><n 02>
+We alone decide our
+fate!
+<--------------------->
+
+<p 01><p 03><d 4A05><a 23><n 05>
+There it is... that
+empty misery...
+It disgusts me!
+<--------------------->
+
+<p 01><p 03><d 4B05><a 23><n 05>
+That's why I made
+Mega Men, to evolve!
+<--------------------->
+
+<p 01><p 03><d 4C05><a 23><n 05>
+You, who couldn't
+become a god...
+<--------------------->
+
+<d 4D05>
+You're not even a
+Mega Man, you're a
+mere mortal!
+<*********************>
+
+<p 01><p 03><d 4E05><a 23><n 05>
+All life will become
+one with me, and be
+reborn...
+<--------------------->
+
+<p 01><p 03><d 4F05><a 23><n 05>
+All is me... And I am
+all!
+<*********************>
+
+<p 00><p 02><d 5005><a 0A><n 02>
+You're no Mega Man
+King... You're no
+god...
+<--------------------->
+
+<p 02><d 5105><a 0A><n 02>
+You were gonna destroy
+the world...
+<--------------------->
+
+<d 5205>
+You were gonna end the
+story...
+<--------------------->
+
+<p 02><d 5305><a 0B><n 02>
+You're not the one to
+make that decision!
+<--------------------->
+
+<d 5405>
+This is my life, my
+story!
+<--------------------->
+
+<p 03><d 5505><a 24><n 05>
+Is that your best
+answer?
+<--------------------->
+
+<d 5605>
+You're most definitely
+one of my creations.
+<--------------------->
+
+<p 03><d 5705><a 24><n 05>
+You... have surpassed
+me...
+<--------------------->
+
+<d 5805>
+My research wasn't
+wrong after all...
+<--------------------->
+
+<p 03><d 5905><a 24><n 05>
+Goodbye... Ashe...! You
+can have your peace,
+and... rot in it!
+<*********************>
+
+<p 02><d 5A05><a 6B><n 15>
+We're in trouble! This
+flying fortress is
+going down!
+<--------------------->
+
+<p 02><d 5B05><a 0A><n 02>
+He's gonna try and take
+us all with him!
+<--------------------->
+
+<d 5C05>
+Let's get back to the
+others...
+<--------------------->
+
+<p 02><d 5D05><a 0F><n 02>
+It's weird... I-I
+can't... move...
+<*********************>
+
+<p 03><d 5F05><a 6B><n 15>
+Hey... Hey! Ashe! Get a
+hold of yourself! Ashe!
+<*********************>
+
+<p 03><d 6005><a 6C><n 16>
+Vent! It's too
+dangerous here, we
+have to go help Ashe!
+<--------------------->
+
+<p 03><d 6105><a 13><n 18>
+I know, but four
+against one isn't
+gonna be easy...!
+<*********************>
+
+<p 03><d 6205><a 6D><n 17>
+...Go ahead. I'll stay
+here and hold them
+back.
+<--------------------->
+
+<p 03><d 6305><a 15><n 18>
+No... what are you
+talking about!? That's
+ridiculous, Model Z!
+<--------------------->
+
+<p 03><d 6405><a 6D><n 17>
+No worries, today's not
+my day to meet my
+maker.
+<*********************>
+
+<p 03><d 6505><a 6C><n 16>
+Let's go, Vent! Trust
+Model Z!
+<--------------------->
+
+<p 03><d 6605><a 15><n 18>
+Alright!
+I'm gonna hold you
+to that.
+<*********************>
+
+<p 02><d 6705><a 34><n 11>
+Such beautiful
+resolve...
+<--------------------->
+
+<d 6805>
+To throw away your life
+for a friend.
+<--------------------->
+
+<p 03><d 6905><a 6D><n 17>
+Like I said, today
+ain't my day to die...
+<*********************>
+
+<p 03><d 6A05><a 6D><n 17>
+I know more about
+Biometals than you.
+<--------------------->
+
+<p 02><d 6B05><a 32><n 12>
+Agh... What!? My...
+body... feels...
+heavy... Model L...!
+<--------------------->
+
+<p 02><d 6C05><a 2C><n 13>
+Biometal!
+<--------------------->
+
+<p 02><d 6D05><a 2F><n 14>
+INCOMPREHENSIBLE...!
+INCOMPREHENSIBLE...!?
+<*********************>
+
+<p 03><d 6E05><a 6D><n 17>
+Vent, take care of
+Ashe!
+<*********************>
+
+<p 03><d 6F05><a 0E><n 02>
+Aaaagh!
+<*********************>
+
+<p 03><d 7005><a 08><n 02>
+Huh?... Where am
+I...?
+<*********************>
+
+<p 02><d 7105><a 6B><n 15>
+Ashe! Finally you're
+awake! I'm so glad!
+<--------------------->
+
+<p 02><d 7205><a 6B><n 15>
+I was worried sick
+about you!
+<--------------------->
+
+<p 02><d 7405><a 6B><n 15>
+W-What's wrong? Are you
+still hurt?
+<--------------------->
+
+<p 03><d 7505><a 09><n 02>
+*chuckle*! How cute!
+You looked so
+concerned!
+<--------------------->
+
+<p 02><d 7605><a 6B><n 15>
+W-What! Can't I be
+worried about my
+friend!?
+<--------------------->
+
+<p 02><d 7705><a 6B><n 15>
+I'm just happy you're
+OK. Is there something
+wrong with that!?
+<--------------------->
+
+<p 03><d 7805><a 09><n 02>
+*chuckle* Thanks,
+Model A. For worrying
+about me.
+<--------------------->
+
+<p 02><d 7905><a 6B><n 15>
+Y-Yeah, anyways, let's
+go outside! Vent's
+waiting for you!
+<*********************>
+
+<p 02><d 7A05><a 10><n 18>
+Are you OK? It was
+tough carrying you out
+of there.
+<--------------------->
+
+<p 03><d 7B05><a 08><n 02>
+That isn't usually what
+a boy would say to a
+girl, is it?
+<--------------------->
+
+<d 7C05>
+Hey, what happened to
+the Ouroboros?
+<--------------------->
+
+<p 02><d 7D05><a 10><n 18>
+Ouroboros went down
+in pieces.
+<--------------------->
+
+<d 7E05>
+And there's no sign of
+Model W anywhere.
+<--------------------->
+
+<p 02><d 7F05><a 10><n 18>
+Its wreckage just sank
+in the ocean. Ashe,
+it's all thanks to you!
+<--------------------->
+
+<p 03><d 8105><a 0C><n 02>
+"Yeah... I know!"... is
+what I'd like to say,
+<--------------------->
+
+<d 8205>
+but it was thanks to
+all of you.
+<--------------------->
+
+<p 03><d 8305><a 08><n 02>
+Like Vent said, we
+changed our destiny
+with our own power.
+<--------------------->
+
+<p 03><d 8405><a 08><n 02>
+Vent, where are you
+gonna go now?
+<--------------------->
+
+<p 02><d 8505><a 10><n 18>
+I want to go around the
+world in the Guardian
+Base.
+<--------------------->
+
+<d 8605>
+There are a lot of
+things that need
+finding.
+<--------------------->
+
+<p 02><d 8705><a 10><n 18>
+What about you, Ashe?
+<--------------------->
+
+<p 03><d 8805><a 08><n 02>
+Me? Well, we already
+took down that guy who
+thought he was a god...
+<--------------------->
+
+<p 03><d 8A05><a 09><n 02>
+Maybe I should find a
+lot of booty, get rich,
+<--------------------->
+
+<d 8B05>
+and buy back the world
+from Legion.
+<--------------------->
+
+<p 03><d 8C05><a 0C><n 02>
+As if... Well, I
+guess I'll just keep
+being a Hunter.
+<--------------------->
+
+<p 03><d 8D05><a 08><n 02>
+I'd like to see a lot
+of different places,
+learn a lot of things,
+<--------------------->
+
+<d 8E05>
+and have people learn
+about me.
+<*********************>
+
+<p 02><d 8F05><a 6B><n 15>
+Hey? So, what am I
+supposed to do?
+<--------------------->
+
+<p 02><d 9005><a 10><n 18>
+You can choose your
+own destiny.
+<*********************>
+
+<p 02><d 9105><a 6B><n 15>
+Oh! Uh, well then...
+<*********************>
+
+<p 02><d 9205><a 6B><n 15>
+Ashe, I wanna go too.
+Take me with you!
+<--------------------->
+
+<p 03><d 9305><a 0C><n 02>
+Who said anything about
+leaving you?
+<--------------------->
+
+<d 9405>
+You're my booty, and
+my friend!
+<*********************>
+
+<p 03><d 9505><a 10><n 18>
+I hope we'll meet
+again!
+<--------------------->
+
+<p 01><p 02><d 9605><a 09><n 02>
+We can meet anytime...
+Because this is our
+story!
+<*********************>
+
+<p 02><a 12><n 18>
+Go ahead, Ashe! I'll
+catch up in a minute!
+<*********************>
+
+<p 02><a 12><n 18>
+Go ahead, Ashe! I'll
+catch up in a minute!
+<*********************>
+
+<p 02><a 42><n 1F>
+I'll back you up.
+<*********************>
+
+<p 02><a 42><n 49>
+We split the booty
+evenly!
+<*********************>
+
+<p 02><a 42><n 4D>
+Hey, don't forget to
+leave us some scraps!
+<*********************>
+
+<FIM>

@@ -1,0 +1,92 @@
+<script_info tipo='Quest 0' personagem='Grey' tamanho='948' inicio_ponteiros='4' fim_ponteiros='15' inicio_textos='16' />
+<#####################>
+
+<p 02><a 42><n 4D>
+It looks like one of
+the passengers forgot
+this backpack.
+<--------------------->
+
+If you're going back to
+Hunter's Camp,
+<--------------------->
+
+would you mind
+returning it to its
+owner for me?
+<*********************>
+
+<p 02><a 42><n 4D>
+I seem to recall he was
+a chubby boy with
+glasses.
+<--------------------->
+
+He walked off that way
+towards Hunter's Camp,
+<--------------------->
+
+so he shouldn't be hard
+to find.
+<*********************>
+
+<p 02><a 42><n 4D>
+Were you able to give
+the backpack to him?
+That's great. Thanks.
+<--------------------->
+
+Huh? He wants me to
+have this disk just for
+finding that backpack?
+<--------------------->
+
+I don't even have the
+equipment to analyze
+it. Here, you keep it?
+<*********************>
+
+<p 02><a 4B><n 45>
+I wonder where my
+backpack went?
+<--------------------->
+
+Oh! Would that, by any
+chance, be my backpack?
+<--------------------->
+
+I have a lot of
+important things in
+there.
+<*********************>
+
+<p 02><a 4B><n 45>
+Thank you!
+<--------------------->
+
+I want to give Patrick
+something for finding
+my backpack for me.
+<--------------------->
+
+But I'm broke because
+yesterday I spent all
+my money on comics.
+<--------------------->
+
+By the way! Give him
+this disk for me.
+<--------------------->
+
+It's special because it
+contains a comic of my
+favorite superhero!
+<*********************>
+
+<p 02><a 4B><n 45>
+Be sure to tell Patrick
+that comic disk is from
+me!
+<*********************>
+
+<FIM>

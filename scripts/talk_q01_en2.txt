@@ -1,0 +1,180 @@
+<script_info tipo='Quest 1' personagem='Ashe' tamanho='1703' inicio_ponteiros='4' fim_ponteiros='27' inicio_textos='28' />
+<#####################>
+
+<p 02><a 42><n 49>
+When it comes to skills
+with a Buster,
+<--------------------->
+
+there's nobody in
+Hunter's Camp even
+close to me.
+<*********************>
+
+<p 02><a 42><n 49>
+I could care less if
+you're supposed to be
+some Mega Man or
+<--------------------->
+
+whatever. All I know
+is, you ain't even in
+my league.
+<--------------------->
+
+<p 02><a 42><n 49>
+If you don't believe
+me, just go to the
+Firing Range up ahead
+<--------------------->
+
+<p 02><a 42><n 49>
+and challenge my
+record. I'll even give
+you this room key.
+<--------------------->
+
+<p 02><a 42><n 49>
+Give the key back
+when you're finished
+though!
+<--------------------->
+
+<p 02><a 42><n 49>
+As a matter of fact,
+I'll pay you 100 EC if
+you beat my record!
+<*********************>
+
+<p 02><a 42><n 49>
+What!? Is it true you
+beat my record!?
+<--------------------->
+
+<p 02><a 42><n 49>
+A-Alright... Here's the
+100 EC I promised you.
+Take it.
+<--------------------->
+
+<p 02><a 42><n 49>
+If you ever wanna
+challenge your own
+record,
+<--------------------->
+
+just let me know!
+<*********************>
+
+<p 02><a 42><n 49>
+So, you couldn't beat
+my record, huh? Aww,
+that's too bad.
+<--------------------->
+
+<p 02><a 42><n 49>
+Let me know if you ever
+wanna give it another
+try!
+<*********************>
+
+<p 02><a 42><n 49>
+Did you come back to
+embarrass yourself some
+more?
+<--------------------->
+
+<p 02><a 42><n 49>
+Knock yourself out.
+Here's the room key.
+<--------------------->
+
+<p 02><a 42><n 49>
+Lotsa luck, pal!
+<*********************>
+
+<p 02><a 42><n 49>
+What!? Is it true you
+beat my record!?
+<--------------------->
+
+<p 02><a 42><n 49>
+A-Alright... Here's the
+100 EC I promised you.
+Take it.
+<*********************>
+
+<p 02><a 42><n 49>
+So, you couldn't beat
+my record, huh? Aww,
+that's too bad.
+<--------------------->
+
+<p 02><a 42><n 49>
+Let me know if you ever
+wanna give it another
+try!
+<*********************>
+
+<p 02><a 42><n 49>
+So, you're back to
+challenge your own
+record?
+<--------------------->
+
+<p 02><a 42><n 49>
+I'll lend you the room
+key.
+<--------------------->
+
+Try to beat your own
+record when you feel
+like it.
+<*********************>
+
+<p 02><a 42><n 49>
+What!? Is it true you
+beat your own record!?
+<--------------------->
+
+<p 02><a 42><n 49>
+I've gotta give it up
+to you,
+<--------------------->
+
+you've got the best
+Buster skills in
+Hunter's Camp. 
+<*********************>
+
+<p 02><a 42><n 49>
+Don't worry about it.
+We've all gotta know
+our limits.
+<--------------------->
+
+<p 02><a 42><n 49>
+If you ever wanna take
+that challenge, just
+let me know!
+<*********************>
+
+<p 02><a 42><n 49>
+What? You haven't taken
+my challenge yet?
+<--------------------->
+
+<p 02><a 42><n 49>
+Give the room key back
+when you're finished!
+<--------------------->
+
+<p 02><a 42><n 49>
+Lotsa luck, pal!
+<*********************>
+
+<p 02><a 42><n 49>
+My name is Richard.
+<*********************>
+
+<FIM>

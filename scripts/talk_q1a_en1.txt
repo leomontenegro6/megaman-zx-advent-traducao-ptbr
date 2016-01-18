@@ -1,0 +1,4 @@
+<script_info tipo='Quest 26' personagem='Grey' tamanho='43' inicio_ponteiros='4' fim_ponteiros='41' inicio_textos='42' />
+<#####################>
+
+<FIM>

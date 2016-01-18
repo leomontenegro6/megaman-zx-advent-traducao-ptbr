@@ -1,0 +1,129 @@
+<script_info tipo='Quest 8' personagem='Ashe' tamanho='1140' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 42><n 4A>
+Welcome champion! We've
+been expecting you.
+<--------------------->
+
+<p 02><a 42><n 4A>
+This is a race to prove
+that you are worthy of
+your title.
+<--------------------->
+
+<p 02><a 42><n 4A>
+But be careful. If you
+lose, you'll be
+stripped of your title.
+<--------------------->
+
+<p 02><e 01><a 42><n 4A>
+Race?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+That's the spirit!
+Let's get ready to
+rock!
+<*********************>
+
+<p 02><a 42><n 4A>
+Oh? Is that a booster
+you have?
+<--------------------->
+
+You can use that to
+tune up your ride!
+<--------------------->
+
+<p 02><a 42><n 4A>
+You can take off like a
+rocket off of the
+starting line!
+<--------------------->
+
+<p 02><a 42><n 4A>
+But it's so powerful,
+that once you use it,
+<--------------------->
+
+it destroys the
+booster.
+<--------------------->
+
+<p 02><e 63><a 42><n 4A>
+Use your booster?
+  Yes
+  No
+<*********************>
+
+<p 02><s 01><a 42><n 4A>
+Oh, well...  Come back
+when you feel up to it!
+<*********************>
+
+<p 03><a 42><n 4A>
+The champiooon, Ashe!
+<--------------------->
+
+<p 03><a 42><n 4A>
+You are the champion
+without a doubt.
+<--------------------->
+
+Congratulations on
+defending your title.
+<*********************>
+
+<p 02><a 42><n 4A>
+It's always a pleasure
+to watch you race.
+<--------------------->
+
+Can't wait to see your
+next one.
+<*********************>
+
+<p 03><a 42><n 4A>
+Sorry... This one goes
+to the Galleon Rider.
+<--------------------->
+
+<p 03><a 42><n 4A>
+You've lost the title
+for now,
+<--------------------->
+
+but you'll get a chance
+to win it back.
+<--------------------->
+
+<p 03><a 42><n 4A>
+Heavy is the head that
+wears the crown,
+<--------------------->
+
+maybe that's what
+slowed you down.
+<*********************>
+
+<p 02><a 42><n 4A>
+Come back when you're
+in top form.
+<*********************>
+
+<p 02><a 42><n 4A>
+Alright, booster is on.
+Let's start the race!
+<*********************>
+
+<p 02><a 42><n 4A>
+Alright, Let's start
+the race with no
+booster.
+<*********************>
+
+<FIM>

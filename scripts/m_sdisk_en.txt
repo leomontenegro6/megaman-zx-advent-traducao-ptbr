@@ -1,0 +1,1226 @@
+<script_info tipo='sdisk' personagem='indefinido' tamanho='16634' inicio_ponteiros='4' fim_ponteiros='349' inicio_textos='350' />
+<#####################>
+
+
+<dpad>Control Pad <esquerda>/<direita>: Select
+<btn_a>Button:OK <btn_b>Button:Quit
+<*********************>
+
+
+<dpad>Control Pad: Select Disk
+<btn_a>Button:View <btn_b>Button:Quit
+<*********************>
+
+
+This secret disk has not
+been analyzed yet.
+<*********************>
+
+
+Atlas
+<*********************>
+
+
+Model F Biomatch (Flame
+Mega Man). She was a soldier
+of a country laid to waste
+by Mavericks. She believes
+that it is only through
+struggle that people are
+galvanized to evolve.
+<*********************>
+
+
+Albert (1st Form)
+<*********************>
+
+
+The form where the throne on
+which Albert sits turns into
+a giant 3 headed dragon-like
+Mechaniloid, unleashing
+powerful attacks which
+manipulate gravity, rend
+dimensions and create black
+holes and white holes.
+<*********************>
+
+
+Albert (2nd Form)
+<*********************>
+
+
+The form where Albert
+manifests the power of the
+ultimate Mega Man. The 10
+Bits that surround him not
+only protect him, but can
+change their arrangement to
+attack, demonstrating
+Biometal capabilities.
+<*********************>
+
+
+Argoyle/Ugoyle
+<*********************>
+
+
+This is a high speed fighter
+Pseudoroid dyad. Equipped
+with Dash Rollers on their
+feet, and armed with a
+weapon called a Rock Bomb,
+Argoyle/Ugoyle are masters
+of multi-directional
+assaults.
+<*********************>
+
+
+Queenbee
+<*********************>
+
+
+Depending on which weapons
+container Queenbee attaches
+to, her body becomes a
+variegated armament. She can
+transport things other than
+weapons containers as long
+as the joint specifications
+match.
+<*********************>
+
+
+Dogu the Giant
+<*********************>
+
+
+This large Mechaniloid was
+built using technology from
+an age past. Half of this
+gas guzzler's energy is
+spent just to move its
+mammoth body. Perhaps that's
+why not many were produced.
+<*********************>
+
+
+Chronoforce
+<*********************>
+
+
+This Pseudoroid was built
+for electronic warfare, and
+has the ability to disrupt
+sensory circuitry to give
+the sensation of temporal
+acceleration and
+deceleration.
+<*********************>
+
+
+Vulturon
+<*********************>
+
+
+Vulturon is a bit of a
+sensationalist narcissist.
+Using microwaves emitted
+from his guitar-shaped
+controller, he can
+reactivate and control
+artificial muscles of
+moribund machines. 
+<*********************>
+
+
+Siarnaq
+<*********************>
+
+
+Model P Biomatch (Shadow
+Mega Man). A former Hunter
+and assassin for hire whose
+past includes being betrayed
+by his friends and left for
+dead is the reason for his
+cold, impassiveness towards
+others.
+<*********************>
+
+
+Buckfire
+<*********************>
+
+
+This Model W equipped highly
+aggressive Pseudoroid
+specializes in blitz
+tactics. Biometal output is
+used to superheat the blades
+on his arms and head
+Buckfire values order above
+all else.
+<*********************>
+
+
+Hedgeshock
+<*********************>
+
+
+Equipped with a powerful
+electric-generating coil,
+this small Pseudoroid was
+originally designed to be an
+independent emergency power
+source. By further reducing
+its size it can squeeze into
+small spaces.
+<*********************>
+
+
+Thetis
+<*********************>
+
+
+Model L Biomatch (Ice Mega
+Man). At a glance, he's an
+upstanding, kind,
+model-citizen. But, there's
+a nasty side to him too. He
+intends to punish people
+for polluting the sea with
+waste.
+<*********************>
+
+
+Bifrost
+<*********************>
+
+
+This stronghold defense
+Pseudoroid's
+highly-developed AI delivers
+a rearward signal to block
+an enemy's path with an ice
+wall "Giga Freeze". Bifrost
+is slow, but get too close
+and he'll pulverize you.
+<*********************>
+
+
+Pandora
+<*********************>
+
+
+A Mega Man with the
+specialized ability to
+control both electricity and
+ice elements. Usually seen
+with Prometheus, she's
+feared by Hunters, who call
+her "the Witch".
+<*********************>
+
+
+Prometheus
+<*********************>
+
+
+A Mega Man with the
+specialized ability to
+switch between elemental
+attacks. Usually seen with
+Pandora, he's feared by
+Hunters, who call him "the
+Grim Reaper".
+<*********************>
+
+
+Aeolus
+<*********************>
+
+
+Model H Biomatch (Wind Mega
+Man). Aeolus is very much a
+perfectionist and a neat
+freak. He considers everyone
+besides himself foolish
+imbeciles who are the reason
+for the world's discord, and
+so must eradicated.
+<*********************>
+
+
+Model ZX
+<*********************>
+
+
+The form of Biometal Model X
+Double Megamerged with
+Model Z. A universal
+Biometal with the ability to
+attack close up and far
+away.
+<*********************>
+
+
+Rospark
+<*********************>
+
+
+This limited warfare
+Pseudoroid is equipped with
+vine-like tendrils called
+Spike Manipulators which he
+uses to attach himself to
+poles, etc. Rospark He 
+specializes in long-range 
+electroshock attacks.
+<*********************>
+
+
+Cankerfly
+<*********************>
+
+
+This thoroughly refined
+cargo craft is said to be
+80% more aggressive than its
+predecessor, the giant
+"Rayfly", which is quite an
+achievement. It has been
+sent on bombing runs to test
+its capabilities.
+<*********************>
+
+
+Capsule Converter
+<*********************>
+
+
+This security cannon was
+created using Biometal
+Model F technology. Because
+of the thermal runaway
+incident at the Control
+Center, it can only operate
+at 1/5th of its potential.
+<*********************>
+
+
+Giganto Bole
+<*********************>
+
+
+This huge tree died some 300
+years ago and fused with a
+Mechaniloid. The top of it
+is hollow, but if you throw
+a bomb into it, it will
+mysteriously spit it back
+out. Very peculiar.
+<*********************>
+
+
+King Flyer
+<*********************>
+
+
+This giant fly Mechaniloid
+is operated by remote
+control. It uses a special
+chemical fuel called
+Methanhydrate and has only
+recently been put into
+production. Its numbers are
+still very limited.
+<*********************>
+
+
+Crushpactor DD
+<*********************>
+
+
+Except for the addition of
+high powered lasers, this
+version of the Crushpactor
+reaffirms its original
+function and purpose, to
+break rocks, no matter how
+hard. Its treads, however;
+are vulnerable to spikes.
+<*********************>
+
+
+Circrush
+<*********************>
+
+
+A cross between a Circloon
+and a Crushpactor, these
+destructive Mechaniloids
+were originally created for
+demolition. Somewhere along
+the line they started acting
+strangely and destroying the
+Highway.
+<*********************>
+
+
+Langbrach
+<*********************>
+
+
+These Mechaniloids were
+originally used by the
+fishing industry. They catch
+and envelop their prey with
+very long tentacled arms.
+<*********************>
+
+
+Spidrill
+<*********************>
+
+
+A large spider type
+Mechaniloid that lives at
+the Tower of Verdure.
+Spidrill needs only use 4 of
+its 8 legs to support its
+weight. Its destructive leg
+drills can easily penetrate
+2ft. thick steel plate.
+<*********************>
+
+
+Spidrill Neo
+<*********************>
+
+
+The remains of a demolished
+Spidrill brought back to
+life by a piece of Model W.
+On the outside, it's no
+different than a normal
+Spidrill, but from a
+performance perspective,
+it's a different beast.
+<*********************>
+
+
+Desert Aspis
+<*********************>
+
+
+A desert modified version of
+the giant snake Mechaniloid
+"Giga Aspis". It trades
+agility for variegated
+attack potential. Its head,
+which is its weak point is a
+trait left over from its
+predecessor.
+<*********************>
+
+
+Ice Darts
+<*********************>
+
+
+This hermit crab Mechaniloid
+can walk upside down on
+ceilings. Hunters discovered
+their existence centuries
+ago. Their extreme cooling
+power can turn a 50 yard
+swimming pool into an ice
+skating rink in minutes.
+<*********************>
+
+
+Inviz
+<*********************>
+
+
+This cannon can vanish from
+sight when it detects an
+intruder. Just because you
+can't see it doesn't mean it
+isn't there. In order not to
+invade people's privacy,
+it's has a function known as
+the Gentleman's Lock.
+<*********************>
+
+
+Exspider
+<*********************>
+
+
+This spider type Mechaniloid
+accompanies the large
+Mechaniloid "Spidrill". Set
+to explode automatically
+after a set period of time,
+it is said that they were
+once used to widen narrow
+subterranean passageways.
+<*********************>
+
+
+Shrimpstroke
+<*********************>
+
+
+This shrimp Mechaniloid
+propels backwards through
+the water. It uses its
+antennae to feel out enemies
+and will fire a shot when in
+range. The revolver-like
+segment acts like a turbine
+for propelling it.
+<*********************>
+
+
+Electric Darts
+<*********************>
+
+
+This hermit crab Mechaniloid
+can walk upside down on
+ceilings. Hunters capture
+Electric Darts and use them
+as portable batteries. Their
+life span is dictated by
+their remaining charge.
+<*********************>
+
+
+Gyrocutter
+<*********************>
+
+
+Fires ordinance in 2
+directions at regular
+intervals. The razor-sharp
+propeller blade can slice
+through just about anything.
+<*********************>
+
+
+Cannonwalker
+<*********************>
+
+
+This cannon really does
+walk. The legs which support
+its weight have joints which
+bend the opposite direction
+of human joints. It doesn't
+move very fast, but it can
+move at about the same speed
+in all directions.
+<*********************>
+
+
+Galleon Assault
+<*********************>
+
+
+This close quarters combat
+Galleon is armed with a
+large blade. Galleon
+Assaults have more endurance
+and are more aggressive than
+Galleon Hunters. Their
+attack range is very wide.
+<*********************>
+
+
+Galleon Spider
+<*********************>
+
+
+A Galleon Spider attacks
+hanging from ceilings and
+ledges. Its performance
+figures are similar to those
+of a Galleon Hunter. An
+attack to one of its
+grappling arms will quickly
+bring it down.
+<*********************>
+
+
+Galleon Bazooka
+<*********************>
+
+
+This Galleon attacks using
+its short range rocket
+launcher which can also fire
+heat seeking missiles. When
+there are no enemies around,
+it spends most of its time
+performing maintenance on
+its artillery.
+<*********************>
+
+
+Galleon Hunter
+<*********************>
+
+
+The original model in the
+Galleon series and the most
+prevalent type of Galleon.
+The Galleon Hunter is a true
+all-'rounder suited to
+complex tasks. Its AI
+circuitry is highly
+advanced.
+<*********************>
+
+
+Galleon Shocker
+<*********************>
+
+
+Has weapons on each arm, an
+Anode and a Cathode, which
+it sticks into the ground to
+produce an intense
+electrical current. Its body
+is covered with a special
+kind of electro-absorptive
+coating.
+<*********************>
+
+
+Galleon Rider
+<*********************>
+
+
+The Galleon Riders are a
+motocycle team. Because of
+their Pseudoroid DNA, flames
+make them stronger. But, few
+Galleons are skilled enough,
+and most lose control of
+their motorcycles.
+<*********************>
+
+
+Galleon Noggin
+<*********************>
+
+
+This Mechaniloid was created
+by suspending the head of a
+Galleon in a special liquid.
+There are 2 types of Galleon
+Noggin that differ in their
+liquid types.
+<*********************>
+
+
+Cavity CW
+<*********************>
+
+
+This flying Mechaniloid
+sacrifices its own energy to
+produce a powerful laser.
+Just one shot will deplete
+it of most of its power, so
+it will quickly run away
+following an attack.
+<*********************>
+
+
+Carom
+<*********************>
+
+
+This floating security
+Mechaniloid can fire shots
+up & down or left & right.
+If it is on the receiving
+end of a powerful blast,
+it'll get sent flying.
+<*********************>
+
+
+Crickaleap
+<*********************>
+
+
+It's said that long ago the
+world was thrown into terror
+by these Mechaniloids. 3
+years ago there was a
+large-scale extermination of
+these pests, but
+tenaciously, they live on.
+<*********************>
+
+
+Funky Junk
+<*********************>
+
+
+This Mechaniloid was created
+entirely from junk. Funky
+Junks get lonely easily.
+They crowd together around
+people who wander into their
+habitat. They also seem to
+enjoy attending an
+occasional concert.
+<*********************>
+
+
+Circloon
+<*********************>
+
+
+This odd Mechaniloid flies
+round and round in circles.
+Circloons mark their
+territory by flying circles
+around it. Territorial
+disputes between Circloons
+are common and are rarely
+ever solved.
+<*********************>
+
+
+Pressor
+<*********************>
+
+
+This flying Mechaniloid can
+nullify frontal attacks.
+Originally this kind of
+Mechaniloid was used as a
+hydraulic press in
+scrapyards. They are
+generally found flying in
+groups of 2 or 3.
+<*********************>
+
+
+Skull Anchor
+<*********************>
+
+
+This skull-shaped
+Mechaniloid can expand and
+contract at will, and
+borrows its DNA from
+Pseudoroids that can freeze
+enemies. Its intelligence
+rivals that of people.
+<*********************>
+
+
+Solid Cannon
+<*********************>
+
+
+The Solid Cannon uses the
+buoyancy of ice to float on
+the surface of water. The
+ice at its base contains a
+special type of very fine
+titanium, which makes it
+very strong.
+<*********************>
+
+
+Sawood
+<*********************>
+
+
+This Mechaniloid resembles a
+spinning saw. Attached to
+walls, it can move about
+freely. This Mecha used to
+be used to cut wood.
+<*********************>
+
+
+Chabano
+<*********************>
+
+
+This Mechaniloid has a super
+fast back step. Use caution,
+as it will swiftly
+counterattack if attacked.
+They live together in
+groups, so if you see one,
+assume that there are 30
+more you can't see.
+<*********************>
+
+
+Disk Cannon
+<*********************>
+
+
+These Mechaniloids fire disk
+shaped cannon balls. They
+were converted for target
+practice use. It's said that
+a good marksman can blow
+apart a disk as soon as it
+is launched.
+<*********************>
+
+
+Burner
+<*********************>
+
+
+This Mechaniloid has the DNA
+data of a Pseudoroid and is
+well adapted to digging
+holes in rocks. It drops
+down from ceilings, plants
+itself firmly on the ground,
+and burns like a candle.
+<*********************>
+
+
+New Rattrap
+<*********************>
+
+
+These Mechaniloid mice tend
+to come in huge numbers.
+With so many of them, they
+are sometimes prone to
+short-circuit and blow up.
+<*********************>
+
+
+Nature Mine
+<*********************>
+
+
+This small Mechaniloid
+prefers narrow spaces. It
+attaches its own genetic
+material to the ordinance it
+shoots, and by doing so
+attempts to reproduce.
+<*********************>
+
+
+Vitaful
+<*********************>
+
+
+This insect Mechaniloid pupa
+looks like an energy item.
+Generally very docile, if
+attacked, will change into
+its adult form and flee.
+This can cause
+misunderstanding, but don't
+take it personal.
+<*********************>
+
+
+Barriode
+<*********************>
+
+
+The Barriode has a hard
+body, Pseudoroid DNA, and
+conceals powerful weapons.
+The top of its head is its
+weak spot, which it protects
+in its fighting stance. A
+hatch on its belly opens and
+releases energy balls.
+<*********************>
+
+
+Pulse Cannon
+<*********************>
+
+
+This cannon locates and
+shoots down mid-air targets
+flawlessly. It likely
+achieves this because it
+inherits the DNA data of a
+high speed flying
+Pseudoroid.
+<*********************>
+
+
+Dynaflor
+<*********************>
+
+
+This Mechaniloid was found
+in a facility which is
+covered with vegetation. It
+has a habit of storing the
+power that flows into the
+facility in its bulbs. It
+only blooms to discharge
+stored energy. 
+<*********************>
+
+
+Fire Darts
+<*********************>
+
+
+This hermit crab Mechaniloid
+can move around upside down
+on surfaces. They were once
+converted into and sold as
+portable cooking ranges,
+until they were recalled
+after the trouble with them
+catching on fire.
+<*********************>
+
+
+Fantacle
+<*********************>
+
+
+This plant-like Mechaniloid
+lives on the walls of
+buildings. When it detects
+an intruder, it spins its
+razor sharp tentacles.
+<*********************>
+
+
+Fork Cannon
+<*********************>
+
+
+This cannon splits into two
+parts. It fires two
+cannonballs in different
+directions at the same time.
+In addition to its wide
+attack range, it has the
+ability to contain the
+movements of an intruder.
+<*********************>
+
+
+Hyper Bole
+<*********************>
+
+
+A large tree trunk that
+became a Mechaniloid over a
+long period of time. Because
+it incorporates Pseudoroid
+DNA data, it has gained the
+ability to defend itself
+against attackers.
+<*********************>
+
+
+Mini Cannon
+<*********************>
+
+
+Made to set anywhere,
+regardless of how small the 
+area, and as easy to install
+as a light bulb, this 
+lightweight, tiny cannon is
+mainly used for home
+security. 
+<*********************>
+
+
+Fly Chopper 2
+<*********************>
+
+
+This small fly type
+Mechaniloid hides inside the
+body of the King Flyer. But
+this new model was developed
+to be able to move about
+independent of the King
+Flyer.
+<*********************>
+
+
+Hop Cannon
+<*********************>
+
+
+This cannon hops
+continuously. It fires its
+projectiles, high-resiliency
+balls from as high up as it
+can. At its rear, it employs
+a pump-like catapult system.
+Hop Cannons are embedded
+with Pseudoroid DNA.
+<*********************>
+
+
+Bomb Flower
+<*********************>
+
+
+The Bomb Flower collects
+tiny dust particles from the
+atmosphere and uses them for
+energy to create tiny bombs.
+Put simply, the dirtier the
+air, the more bombs it can
+make.
+<*********************>
+
+
+Pump Cannon
+<*********************>
+
+
+This small Mechaniloid has a
+servo-type cannon it shoots
+by jumping up and down. At
+the moment, this is the only
+one available, but it is
+rumored that there are
+various types in production.
+<*********************>
+
+
+MachYOS
+<*********************>
+
+
+This Mechaniloid is
+specialized for high-speed
+flight. When it spots an
+enemy, it attacks by
+dropping bombs. It's mainly
+used for reconnaissance.
+<*********************>
+
+
+Myterys
+<*********************>
+
+
+This enigmatic Mechaniloid
+dies suddenly. Because their
+bodies are so fragile and
+they die so quickly, details
+about them are scarce. So
+scarce, in fact, that it's
+not certain that they are
+even Mechaniloids at all.
+<*********************>
+
+
+Poyoko
+<*********************>
+
+
+This Mechaniloid has evolved
+and developed the ability to
+reproduce. But, as a
+consequence, its wings have
+gradually devolved. It's
+only a matter of time before
+Poyoko completely lose the
+ability to fly.
+<*********************>
+
+
+VMettaur
+<*********************>
+
+
+This latest model Mettaur
+spits mini Mettaur bombs
+from its mouth. Its cute
+looks have even earned it
+nominations to be the mascot
+for amusement parks.
+<*********************>
+
+
+Meteor Thresher
+<*********************>
+
+
+Like transervers, this
+Mechaniloid makes use of
+data transfer capability
+technology. Transfer
+failures sometimes occur.
+<*********************>
+
+
+Rumblefish
+<*********************>
+
+
+This hungry Mechaniloid has
+eaten everything it can in
+the sea, so now it has
+turned its attention to the
+air. Having inherited
+violent Pseudoroid DNA, it
+tricks and then attacks its
+prey.
+<*********************>
+
+
+Reflector Cannon
+<*********************>
+
+
+Mounted either on the
+ceiling or the floor, this
+cannon fire lasers from its
+180 degree rotating barrel.
+When the lasers strike
+natural topography, they are
+reflected. 
+<*********************>
+
+
+Enforcer
+<*********************>
+
+
+This policing Mechaniloid
+enforces speed limits. It
+chases down offenders,
+whether they are in a car or
+not, and warns them about
+speeding.
+<*********************>
+
+
+Cellworm
+<*********************>
+
+
+This Mechaniloid is made up
+of many small bodies. Except
+for the head, the other
+parts are actually baby
+Mechaniloids. The babies 
+become independent starting
+at the tail.
+<--------------------->
+
+
+<*********************>
+
+
+Raiders
+<*********************>
+
+
+Illegal Hunters who do not
+belong to the Hunter's
+guild. They steal lost
+technology and deal in
+illegal merchandise.
+<*********************>
+
+
+Comic
+<*********************>
+
+
+Secret Disk that Ray, the
+"Comic Hunter" had. A
+digital action comic about
+the adventures of an
+unlikely hero, a walking
+stove.
+<*********************>
+
+
+Sage Trinity
+<*********************>
+
+
+These 3 wise men who control
+the Federation Government
+"Legion", Master Thomas,
+Master Albert, and Master
+Mikhail, started life as
+Humans, but took on bionic
+bodies which have kept them
+alive for several centuries.
+<*********************>
+
+
+Legendary Hero
+<*********************>
+
+
+A collection of rare digital
+photographs of Legendary
+Heroes that the Hunter Chris
+wanted. These Legendary
+Heroes look more like
+coalminers in colorful
+outfits.
+<*********************>
+
+
+Hunters 1
+<*********************>
+
+
+Most of these people earn
+their living by searching
+for lost technology buried
+in ruins, and hunting down
+dangerous Mavericks for
+bounties.
+<*********************>
+
+
+Hunters 2
+<*********************>
+
+
+Among the Hunters, are café
+owners, crazy researchers,
+reporters, nurses, and the
+list goes on. They're a very
+colorful bunch of people.
+<*********************>
+
+
+Townspeople
+<*********************>
+
+
+Mainly the people who work
+at the Legion-bound Train
+Station. They sometimes have
+valuable items for sale.
+<*********************>
+
+<FIM>

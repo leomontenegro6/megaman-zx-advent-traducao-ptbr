@@ -1,0 +1,142 @@
+<script_info tipo='Quest 6' personagem='Ashe' tamanho='1277' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 42><n 4A>
+Oh? So you're the
+Hunter who holds the
+Hayate title?
+<--------------------->
+
+<p 02><a 42><n 4A>
+How'd you like to race
+an even tougher
+opponent
+<--------------------->
+
+than last time?
+<--------------------->
+
+<p 02><a 42><n 4A>
+The rules are the same.
+The first one to the
+finish line wins.
+<--------------------->
+
+<p 02><e 63><a 42><n 4A>
+Race?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+That's the spirit!
+Let's get ready to
+rock!
+<*********************>
+
+<p 02><a 42><n 4A>
+Oh? Is that a booster
+you have?
+<--------------------->
+
+You can use that to
+tune up your ride!
+<--------------------->
+
+<p 02><a 42><n 4A>
+You can take off like a
+rocket right off the
+starting line!
+<--------------------->
+
+<p 02><a 42><n 4A>
+But it's so powerful,
+that once you use it,
+<--------------------->
+
+it destroys the
+booster.
+<--------------------->
+
+<p 02><e 63><a 42><n 4A>
+Use your booster?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+Oh, well... Come back
+when you feel up to it!
+<*********************>
+
+<p 03><a 42><n 4A>
+Ashe, the challenger
+WINS!
+<--------------------->
+
+<p 03><a 42><n 4A>
+Congratulations! Here
+is your title and your
+prize money!
+<*********************>
+
+<p 02><a 42><n 4A>
+We'll see you again in
+the next race, when
+you'll race for the
+<--------------------->
+
+championship title of
+Idaten!
+<*********************>
+
+<p 03><a 42><n 4A>
+Sorry... This one goes
+to the Galleon Rider.
+<--------------------->
+
+<p 03><a 42><n 4A>
+Well, let me give you
+one piece of advice.
+<--------------------->
+
+<p 03><a 42><n 4A>
+You may not have known
+that Galleon Riders use
+<--------------------->
+
+fire to charge up their
+power.
+<--------------------->
+
+<p 03><a 42><n 4A>
+If you see flames on
+the course, you'd
+better put 'em out,
+<--------------------->
+
+or you'll find yourself
+eating Galleon dust.
+<*********************>
+
+<p 02><a 42><n 4A>
+You gotta take this
+loss and eat it.
+<--------------------->
+
+Use it for fuel to win
+next time!
+<*********************>
+
+<p 02><a 42><n 4A>
+Alright, booster is on.
+Let's start the race!
+<*********************>
+
+<p 02><a 42><n 4A>
+Alright, Let's start
+the race with no
+booster.
+<*********************>
+
+<FIM>

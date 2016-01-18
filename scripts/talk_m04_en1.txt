@@ -1,0 +1,291 @@
+<script_info tipo='Missão 4' personagem='Grey' tamanho='2953' inicio_ponteiros='4' fim_ponteiros='25' inicio_textos='26' />
+<#####################>
+
+<p 02><a 02><n 07>
+Can you hear me? It's
+me, Mikhail.
+<--------------------->
+
+<p 02><a 02><n 07>
+It looks like you've
+stepped into some rough
+terrain.
+<--------------------->
+
+<p 02><a 02><n 07>
+You should be able to
+cut a path through
+the chunks of ice,
+<--------------------->
+
+<p 02><a 02><n 07>
+but the areas that
+allow access to the
+crash site are limited.
+<--------------------->
+
+<p 02><a 02><n 07>
+Mega Man, you must find
+a way to break through.
+<*********************>
+
+<p 03><d 3401><a 2A><n 00>
+Prometheus said he
+found someone
+interesting.
+<--------------------->
+
+<d 3501>
+I came to see who it
+was.
+<--------------------->
+
+<p 03><d 3601><a 2A><n 00>
+Thetis, he's nothing
+more than a kid, like
+you.
+<*********************>
+
+<p 03><d 3701><a 30><n 00>
+Hey, you're not that
+much older than me.
+<--------------------->
+
+<p 02><d 3801><a 0F><n 01>
+W-What is it with you
+people!?
+<*********************>
+
+<p 03><d 3901><a 31><n 00>
+Didn't Prometheus tell
+you that you'd meet
+other Mega Men?
+<--------------------->
+
+<p 03><d 3A01><a 31><n 12>
+My name is Thetis, the
+Ice Mega Man... Chosen
+One for Model L.
+<--------------------->
+
+<p 02><d 3B01><a 2B><n 13>
+I'm Atlas, the Flame
+Mega Man... Chosen One
+for Model F.
+<--------------------->
+
+<p 02><d 3C01><a 2B><n 13>
+Don't tell me you don't
+know about the Game of
+Destiny,
+<--------------------->
+
+<d 3D01>
+in which the winner
+becomes the king of the
+world?
+<--------------------->
+
+<p 02><d 3E01><a 6B><n 15>
+King of the world? This
+just gets bigger and
+bigger!
+<--------------------->
+
+<p 02><d 3F01><a 0A><n 01>
+Look, I don't care
+about that. All I know
+is that if I beat them,
+<--------------------->
+
+<d 4001>
+I get to find out who
+I am and where I came
+from.
+<*********************>
+
+<p 03><d 4101><a 31><n 12>
+Sorry, I'm not in the
+mood to fight you right
+now.
+<--------------------->
+
+<p 03><d 4301><a 31><n 12>
+We've got other things
+to do.
+<--------------------->
+
+<p 03><d 4401><a 2B><n 13>
+I've got no time for
+some kid who became a
+Mega Man by accident.
+<--------------------->
+
+<p 03><d 4501><a 2C><n 13>
+You look like you
+could use a nice,
+cold dip.
+<*********************>
+
+<p 03><d 4601><a 37><n 00>
+*Ha ha ha* Welcome to
+my sub-zero world where
+even time freezes!
+<--------------------->
+
+<p 03><d 4701><a 37><n 00>
+You've got some nerve
+calling yourself a Mega
+Man, Defective!
+<--------------------->
+
+<p 03><d 4901><a 37><n 09>
+I, Chronoforce will
+take that Biometal off
+your hands!
+<*********************>
+
+<p 03><d 4A01><a 37><n 09>
+It appears things have
+turned out badly for
+you! *Ha ha ha*
+<--------------------->
+
+<d 4B01>
+You'll be forgotten
+here along with time
+itself! So chill out!
+<*********************>
+
+<p 03><d 4C01><a 37><n 09>
+...You are nothing more
+than a pawn in the
+palm... of HIS hand.
+<--------------------->
+
+<p 03><d 4D01><a 37><n 09>
+...All you can hope to
+do is just flail about
+<--------------------->
+
+<d 4E01>
+in the little time you
+have left! *cackle*
+<*********************>
+
+<p 02><d 4F01><a 08><n 01>
+Who is this HE, HIS,
+HIM guy everyone keeps
+talking about?
+<--------------------->
+
+<p 02><d 5101><a 6B><n 15>
+I bet he's the one
+calling the shots
+<--------------------->
+
+<d 5201>
+behind those other
+Mega Men.
+<--------------------->
+
+<p 02><d 5301><a 6B><n 15>
+Game of Destiny...
+King of the world...
+<--------------------->
+
+<d 5401>
+This is all getting
+complicated...
+<*********************>
+
+<p 02><a 6B><n 15>
+You've got
+Chronoforce's power!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Morph into Chronoforce
+and you can use Swim in
+the water all the time.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Use the <dpad>Control Pad
+to move around in the
+water, and press the
+<--------------------->
+
+Dash Button to propel
+yourself quickly
+through the current.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Press the Attack Button
+to shoot an
+ice arrow
+<--------------------->
+
+and freeze enemies
+solid!
+<--------------------->
+
+<p 02><a 6B><n 15>
+But be careful, on land
+you'll become totally
+immobile.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Chronoforce's hard
+shell protects him from
+attacks from above.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Just get under one of
+those falling icicles
+and see.
+<*********************>
+
+<p 02><a 6B><n 15>
+Chronoforce's Charge
+Attack is awesome!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Hold down the Attack
+Button till the meter
+is fully charged, 
+<--------------------->
+
+then release it to
+activate the Time Bomb!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Time Bomb freezes time
+for everything around
+you,
+<--------------------->
+
+<p 02><a 6B><n 15>
+and slows down the
+movements of enemies.
+Cool, huh?
+<--------------------->
+
+<p 02><a 6B><n 15>
+Oh yeah, it's not only
+enemies that slow
+down...
+<--------------------->
+
+<p 02><a 6B><n 15>
+You can use Time Bomb
+to slow down falling
+objects like icicles.
+<*********************>
+
+<FIM>

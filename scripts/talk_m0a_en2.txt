@@ -1,0 +1,402 @@
+<script_info tipo='Missão 10' personagem='Ashe' tamanho='3865' inicio_ponteiros='4' fim_ponteiros='29' inicio_textos='30' />
+<#####################>
+
+<p 02><a 0F><n 02>
+Aagh! The ground...!
+<--------------------->
+
+<p 02><a 0E><n 02>
+Aaaagh!
+<*********************>
+
+<p 02><a 0A><n 02>
+Phew... It stopped...
+<--------------------->
+
+<p 02><a 6B><n 15>
+The ground is floating!
+What's going on?
+<*********************>
+
+<p 02><a 02><n 06>
+Are you alright? That
+area is experiencing a
+gravitational anomaly.
+<--------------------->
+
+<p 02><a 02><n 06>
+Also, powerful energy
+reactions have been
+discovered.
+<--------------------->
+
+<p 02><a 02><n 06>
+In all likelihood they
+are the cause of the
+gravitational anomaly.
+<--------------------->
+
+<p 02><a 02><n 06>
+Proceed to investigate
+the energy reactions.
+<*********************>
+
+<p 02><d A402><a 0F><n 02>
+What's a Model W doing
+here!?
+<--------------------->
+
+<p 02><d A502><a 6B><n 15>
+Could this be the
+source of the
+gravitational anomaly!?
+<*********************>
+
+<p 03><d A602><a 33><n 11>
+Inescapable destiny...
+So, you came, Mega Man
+Model A.
+<--------------------->
+
+<p 03><d A702><a 33><n 11>
+But I'll be taking
+the Model W.
+<--------------------->
+
+<p 02><d A802><a 0A><n 02>
+Aeolus! What are you
+doing collecting all
+those Model Ws!?
+<--------------------->
+
+<p 03><d A902><a 33><n 11>
+That's a silly
+question... You call
+yourself a Mega Man,
+<--------------------->
+
+<d AA02>
+yet you don't even know
+the significance of
+Model W...
+<--------------------->
+
+<p 03><d AB02><a 33><n 11>
+You fear what you don't
+understand,
+<--------------------->
+
+<d AC02>
+and eliminate what you
+fear...
+<--------------------->
+
+<p 03><d AD02><a 33><n 11>
+It's because of foolish
+people like you that
+there is conflict.
+<--------------------->
+
+<p 02><d AE02><a 6B><n 15>
+I don't know what all
+of that ideological
+babble was about,
+<--------------------->
+
+<p 02><d AF02><a 6B><n 15>
+but it sounded a lot
+like a threat.
+<--------------------->
+
+<p 03><d B002><a 33><n 11>
+So it is. In the world
+I have in mind, there
+is no place
+<--------------------->
+
+<d B102>
+for idiots like you,
+Mega Man Model A!
+<--------------------->
+
+<p 03><d B202><a 33><n 11>
+Your time's up fool!
+<*********************>
+
+<p 03><d B302><a 34><n 11>
+Complete victory...
+A fool has no right to
+rule!
+<*********************>
+
+<p 03><d B502><a 35><n 11>
+A woeful
+miscalculation...!
+<--------------------->
+
+<d B602>
+To think that I could
+be bested by a
+plebeian!
+<--------------------->
+
+<p 03><d B702><a 35><n 11>
+I'll never acknowledge
+one as ignorant as you,
+Mega Man!
+<--------------------->
+
+<p 03><d B802><a 35><n 11>
+Your time's up fool! I
+will right this world's
+wrongs!
+<*********************>
+
+<p 02><d B902><a 0E><n 02>
+Aaaagh!
+<*********************>
+
+<p 02><a 03><n 00>
+EXTRACTING FROM CODE
+UC80 TO AC195.
+EXPANDING REPORT DATA.
+<--------------------->
+
+<p 02><a 03><n 00>
+The power of Biometal
+isn't something to be
+had by just anyone.
+<--------------------->
+
+<p 02><a 03><n 00>
+It's a power which
+should only be obtained
+by a Chosen One,
+<--------------------->
+
+one with the ability to
+change the world.
+<--------------------->
+
+<p 02><a 03><n 00>
+I devised this cipher
+to lock away the power
+of the Biometal.
+<*********************>
+
+<p 01><p 02><a 03><n 00>
+A cipher that would
+allow only the Chosen
+One
+<--------------------->
+
+to unleash its power. 
+<--------------------->
+
+<p 02><a 03><n 00>
+In other words, it's
+locked to its
+Biomatch.
+<--------------------->
+
+<p 02><a 03><n 00>
+All Humans who get a
+bionic body
+<--------------------->
+
+<p 02><a 03><n 00>
+have to come to Legion
+for inspection.
+<--------------------->
+
+<p 02><a 03><n 00>
+I made sure that every
+bionic body part I
+inspected 
+<--------------------->
+
+was infused with my
+DNA.
+<--------------------->
+
+<p 02><a 03><n 00>
+That is the key to the
+cipher, the proof of
+being the Chosen One.
+<--------------------->
+
+<p 02><a 03><n 00>
+Yes, by viewing this
+data, you now have 
+within you my DNA.
+<*********************>
+
+<p 00><p 02><d BA02><a 6B><n 15>
+...Who IS this guy?
+<--------------------->
+
+<p 02><d BB02><a 0F><n 02>
+So I'm a blood relative
+of Albert?
+<--------------------->
+
+<p 02><d BC02><a 6B><n 15>
+I know it's not easy,
+but don't let it get
+to you.
+<--------------------->
+
+<p 02><d BD02><a 6B><n 15>
+That's just some label
+Albert made up. Try not
+to think about it.
+<--------------------->
+
+<p 02><d BE02><a 0D><n 02>
+Uh... yeah...
+<--------------------->
+
+<p 02><d BF02><a 6B><n 15>
+That Albert guy just
+used his position as
+one of the Sage Trinity
+<--------------------->
+
+<d C002>
+to do whatever he
+wanted.
+<*********************>
+
+<p 02><d C102><a 02><n 06>
+It's true that Albert
+knew more about
+technology than anyone.
+<--------------------->
+
+<p 02><d C202><a 02><n 06>
+But we had no idea
+that was the kind of
+man he was.
+<--------------------->
+
+<d C302>
+We should have known
+better.
+<--------------------->
+
+<p 02><d C402><a 0A><n 02>
+It's OK. I was kinda
+prepared for it. But if
+it's only a matter
+<--------------------->
+
+<d C502>
+of becoming a Mega Man,
+then I'm no different
+from Aeolus.
+<--------------------->
+
+<p 02><d C602><a 0A><n 02>
+There must be a reason
+that Albert treats me
+special...
+<--------------------->
+
+<p 02><d C802><a 6B><n 15>
+I guess the only one
+who knows that... is
+Albert.
+<--------------------->
+
+<p 02><d C902><a 02><n 06>
+The gravity in the area
+should normalize
+momentarily.
+<--------------------->
+
+<d CA02>
+Head to the next
+destination.
+<*********************>
+
+<p 02><a 6B><n 15>
+It seems that you can
+Air Dash using Aeolus.
+<--------------------->
+
+<p 02><a 6B><n 15>
+If you hit the Dash
+Button in mid air,
+<--------------------->
+
+it looks like you can
+get some horizontal
+hang time.
+<--------------------->
+
+<p 02><a 6B><n 15>
+If you hold the
+<dpad>Control Pad up
+<--------------------->
+
+and press the Dash
+Button in mid air,
+<--------------------->
+
+<p 02><a 6B><n 15>
+you can Air Dash
+straight up.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Air Dash doesn't reduce
+your BM gauge.
+<--------------------->
+
+<p 02><a 6B><n 15>
+If you press the Jump
+Button in mid air, 
+<--------------------->
+
+you can hover.
+(You can modify this
+in the Options menu.)
+<--------------------->
+
+<p 02><a 6B><n 15>
+Hold down the Attack
+Button and then release
+it
+<--------------------->
+
+to perform an electric
+move!
+<--------------------->
+
+<p 02><a 6B><n 15>
+These electric attacks
+penetrate through the
+landscape,
+<--------------------->
+
+so you can use them to
+attack enemies behind
+walls.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Also, Aeolus has the
+ability to check an
+enemy's data
+<--------------------->
+
+on the bottom screen.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Knowing an enemy's
+weakness, now that's
+an ability you can use!
+<*********************>
+
+<FIM>

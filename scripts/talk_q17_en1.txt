@@ -1,0 +1,137 @@
+<script_info tipo='Quest 23' personagem='Grey' tamanho='1063' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 69><n 2E>
+Blossom's self intro
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Warren's self intro
+<*********************>
+
+<p 02><a 69><n 2E>
+I want to go pick some
+pretty flowers for my
+mommy,
+<--------------------->
+
+<p 02><a 69><n 2E>
+but Daddy says it's too
+dangerous to leave
+Hunter's Camp.
+<--------------------->
+
+<p 02><a 69><n 2E>
+Could you go instead?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<*********************>
+
+<p 02><a 69><n 2E>
+Mommy really likes
+lilies!
+<--------------------->
+
+<p 02><a 69><n 2E>
+I think that lilies
+only grow out in the
+wild.
+<--------------------->
+
+<p 02><a 69><n 2E>
+You can find them in
+areas
+<--------------------->
+
+where there are a lot
+of other plants, and
+near waterfalls.
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<*********************>
+
+<p 02><a 69><n 2E>
+Oh, thank you so much!
+<--------------------->
+
+<p 02><a 69><n 2E>
+Look, I made Mommy's
+grave pretty while you
+were gone.
+<--------------------->
+
+<p 02><a 69><n 2E>
+I lost my mommy to
+Mavericks in the desert
+when I was two.
+<--------------------->
+
+<p 02><a 69><n 2E>
+She's in heaven now...
+<--------------------->
+
+But I know she'll like
+the flowers the Hunter
+picked, right Daddy?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Yeah...
+<--------------------->
+
+<p 02><a 69><n 2E>
+Oh yeah, these are for
+you!
+<--------------------->
+
+<p 02><a 69><n 2E>
+These E-Crystals are
+from Daddy, and this
+chip is from me.
+<*********************>
+
+<p 02><a 69><n 2E>
+Normal Conversation0
+Blossom
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Normal Conversation0
+Warren
+<*********************>
+
+<p 02><a 69><n 2E>
+Normal Conversation1
+Blossom
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Normal Conversation1
+Warren
+<*********************>
+
+<p 02><a 69><n 2E>
+Normal Conversation2
+Blossom
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Normal Conversation2
+Warren
+<*********************>
+
+<p 02><a 69><n 2E>
+Normal Conversation3
+Blossom
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Normal Conversation3
+Warren
+<*********************>
+
+<FIM>

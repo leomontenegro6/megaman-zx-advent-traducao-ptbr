@@ -1,0 +1,281 @@
+<script_info tipo='Quest 15' personagem='Ashe' tamanho='1131' inicio_ponteiros='4' fim_ponteiros='43' inicio_textos='44' />
+<#####################>
+
+<p 02><a 4C><n 31>
+Since I was a little
+kid, I've wanted a
+model train set.
+<--------------------->
+
+I haven't stopped
+looking for one, even
+to this day.
+<--------------------->
+
+<p 02><a 4C><n 31>
+I've looked just about
+everywhere, but they're
+really hard to find.
+<--------------------->
+
+<p 02><a 4C><n 31>
+Say? Could you look for
+one for me?
+<*********************>
+
+<p 02><a 4C><n 31>
+Since I was a little
+kid, I've wanted a
+model train set.
+<--------------------->
+
+I haven't stopped
+looking for one, even
+to this day.
+<--------------------->
+
+<p 02><a 4C><n 31>
+I've looked just about
+everywhere, but they're
+really hard to find.
+<--------------------->
+
+<p 02><a 4C><n 31>
+Say? Could you look for
+one for me?
+<*********************>
+
+<p 02><a 4C><n 31>
+Since I was a little
+kid, I've wanted a
+model train set.
+<--------------------->
+
+I haven't stopped
+looking for one, even
+to this day.
+<--------------------->
+
+<p 02><a 4C><n 31>
+I've looked just about
+everywhere, but they're
+really hard to find.
+<--------------------->
+
+<p 02><a 4C><n 31>
+Say? Could you look for
+one for me?
+<*********************>
+
+<p 02><a 4C><n 31>
+Since I was a little
+kid, I've wanted a
+model train set.
+<--------------------->
+
+I haven't stopped
+looking for one, even
+to this day.
+<--------------------->
+
+<p 02><a 4C><n 31>
+I've looked just about
+everywhere, but they're
+really hard to find.
+<--------------------->
+
+<p 02><a 4C><n 31>
+Say? Could you look for
+one for me?
+<*********************>
+
+<p 02><a 4C><n 31>
+Since I was a little
+kid, I've wanted a
+model train set.
+<--------------------->
+
+I haven't stopped
+looking for one, even
+to this day.
+<--------------------->
+
+<p 02><a 4C><n 31>
+I've looked just about
+everywhere, but they're
+really hard to find.
+<--------------------->
+
+<p 02><a 4C><n 31>
+Say? Could you look for
+one for me?
+<*********************>
+
+<p 02><a 4C><n 31>
+Since I was a little
+kid, I've wanted a
+model train set.
+<--------------------->
+
+I haven't stopped
+looking for one, even
+to this day.
+<--------------------->
+
+<p 02><a 4C><n 31>
+I've looked just about
+everywhere, but they're
+really hard to find.
+<--------------------->
+
+<p 02><a 4C><n 31>
+Say? Could you look for
+one for me?
+<*********************>
+
+<p 02><a 4C><n 31>
+I wonder if somebody in
+Hunter's Camp might
+have one.
+<--------------------->
+
+<p 02><a 4C><n 31>
+I remember Ray, the
+Comic Hunter saying he
+doesn't have one.
+<*********************>
+
+<p 02><a 4C><n 31>
+Yep, this is exactly
+what I've been
+looking for.
+<--------------------->
+
+Just looking at it
+takes me back to
+my childhood!
+<--------------------->
+
+<p 02><a 4C><n 31>
+Thank you! This is for
+your trouble!
+<*********************>
+
+<p 02><a 4C><n 31>
+I think I'll have it
+set up on the shelf
+in that big room.
+<*********************>
+
+<p 02><a 45><n 3A>
+You say you want a
+model train? I have one
+of those, but...
+<--------------------->
+
+<p 02><a 45><n 3A>
+I know! If you get me
+some pudding, I'll make
+a trade with you.
+<*********************>
+
+<p 02><a 45><n 3A>
+You say you want a
+model train? I have one
+of those, but...
+<--------------------->
+
+<p 02><a 45><n 3A>
+I know! If you get me
+some pudding, I'll make
+a trade with you.
+<*********************>
+
+<p 02><a 45><n 3A>
+You say you want a
+model train? I have one
+of those, but...
+<--------------------->
+
+<p 02><a 45><n 3A>
+I know! If you get me
+some pudding, I'll make
+a trade with you.
+<*********************>
+
+<p 02><a 45><n 3A>
+You say you want a
+model train? I have one
+of those, but...
+<--------------------->
+
+<p 02><a 45><n 3A>
+I know! If you get me
+some pudding, I'll make
+a trade with you.
+<*********************>
+
+<p 02><a 45><n 3A>
+You say you want a
+model train? I have one
+of those, but...
+<--------------------->
+
+<p 02><a 45><n 3A>
+I know! If you get me
+some pudding, I'll make
+a trade with you.
+<*********************>
+
+<p 02><a 45><n 3A>
+You say you want a
+model train? I have one
+of those, but...
+<--------------------->
+
+<p 02><a 45><n 3A>
+I know! If you get me
+some pudding, I'll make
+a trade with you.
+<*********************>
+
+<p 02><a 45><n 3A>
+So we have a deal?
+You'll bring me some
+pudding? Goody, goody!
+<*********************>
+
+<p 02><a 45><n 3A>
+Pudding!
+It's pudding!
+Pudding! Pudding!
+<--------------------->
+
+<p 02><a 45><n 3A>
+Thank you! Here's your
+model train.
+<*********************>
+
+<p 02><a 45><n 3A>
+Mmm, mmm! I just looove
+pudding.
+<*********************>
+
+<p 02><a 09><n 02>
+Yesss! There's pudding
+in this fridge!
+<--------------------->
+
+<p 02><a 0C><n 02>
+Hey Nick, I hope you
+don't mind if I help
+myself to this pudding!
+<*********************>
+
+<p 02><a 4C><n 31>
+Oh? You found the model
+train? Come on, show
+me, show me.
+<*********************>
+
+<FIM>

@@ -1,0 +1,1279 @@
+<script_info tipo='NPCs Hunters' personagem='Grey' tamanho='11916' inicio_ponteiros='4' fim_ponteiros='289' inicio_textos='290' />
+<#####################>
+
+<p 02><a 5F><n 33>
+Yo! Are you a Hunter
+too? My name is Kidd!
+<--------------------->
+
+We've been drilling
+here, trying to find
+<--------------------->
+
+some lost technology or
+something.
+<--------------------->
+
+It takes a heckuva
+lotta energy just to
+run the drill.
+<--------------------->
+
+It ain't worth it, in
+my opinion!
+<--------------------->
+
+But we found this place
+that looks like it was
+used as a room,
+<--------------------->
+
+buried under the earth
+and sand.
+<--------------------->
+
+We can't give up cause
+there could be
+something down there.
+<*********************>
+
+<p 02><a 5F><n 33>
+Dummy Conversation
+<*********************>
+
+<p 02><a 5F><n 33>
+Dummy Conversation
+<*********************>
+
+<p 02><a 5F><n 33>
+Dummy Conversation
+<*********************>
+
+<p 02><a 5F><n 33>
+Thanks to your help, I
+was able to dig a hole
+this big!
+<--------------------->
+
+Not too bad despite
+being so little, huh?
+<*********************>
+
+<p 02><a 60><n 34>
+My name is Lem! And I
+suppose you're the
+Model A Chosen One?
+<--------------------->
+
+When I heard that the
+lost technology was
+around here,
+<--------------------->
+
+I could hardly believe
+my ears, so I came to
+see for myself.
+<--------------------->
+
+I had no idea this huge
+underground place was
+even here.
+<--------------------->
+
+If we dig just a little
+more, there should be a
+door down here.
+<*********************>
+
+<p 02><a 60><n 34>
+Dummy Conversation
+<*********************>
+
+<p 02><a 60><n 34>
+Dummy Conversation
+<*********************>
+
+<p 02><a 60><n 34>
+Dummy Conversation
+<*********************>
+
+<p 02><a 60><n 34>
+I've been down here so
+long now that I don't
+<--------------------->
+
+even know what's going
+on up top.
+<*********************>
+
+<p 02><a 60><n 34>
+These passageways down
+here snake all over the
+place.
+<--------------------->
+
+I'm thinking about
+digging a shortcut.
+<--------------------->
+
+But the drill I'm using
+is running low on
+energy.
+<--------------------->
+
+I'm just about out of
+ideas...
+<--------------------->
+
+Could you help me out
+with 200 EC so I can
+get some energy?
+<--------------------->
+
+<p 02><e 01><a 60><n 34>
+Give 200 E-Crystals?
+  Yes
+  No
+<*********************>
+
+<p 02><a 60><n 34>
+Thanks! I owe you one!
+<--------------------->
+
+Well, I'll get to back
+to digging. So, come
+back again!
+<*********************>
+
+<p 02><s 01><a 60><n 34>
+Aw man! Well, I guess I
+got no choice but to
+give up...
+<*********************>
+
+<p 02><a 60><n 34>
+As you can see, I'm a
+whizz with the drill.
+<*********************>
+
+<p 02><a 60><n 34>
+Thanks for the
+thought...
+<--------------------->
+
+But you don't have
+enough E-Crystals.
+<*********************>
+
+<p 02><a 61><n 00>
+Self-intro
+<*********************>
+
+<p 02><a 61><n 00>
+Normal Conversation1
+<*********************>
+
+<p 02><a 61><n 00>
+Normal Conversation2
+<*********************>
+
+<p 02><a 61><n 00>
+Normal Conversation3
+<*********************>
+
+<p 02><a 61><n 00>
+Normal Conversation4
+<*********************>
+
+<p 02><a 62><n 30>
+Who are you?
+<--------------------->
+
+They call me Chris! I'm
+a real Hunter, make no
+mistake about it!
+<--------------------->
+
+But, what I really want
+more than some lost
+technology
+<--------------------->
+
+is some toys!
+<*********************>
+
+<p 02><a 62><n 30>
+Why am I way up here,
+you ask?
+<--------------------->
+
+Well you see, I climbed
+up this wall, but I
+can't get down!
+<*********************>
+
+<p 02><a 62><n 30>
+My dad says that a
+Hunter needs to be
+tough. So, I tried to
+<--------------------->
+
+get to the top of the
+ridge to test my
+toughness.
+<--------------------->
+
+But, it was a lot
+scarier than I thought.
+<--------------------->
+
+The view IS nice from
+up here...
+<--------------------->
+
+I think I'll make this
+my secret place.
+<*********************>
+
+<p 02><a 62><n 30>
+My dad told me that if
+I want to be an elite
+Hunter,
+<--------------------->
+
+I have to be daring and
+bold.
+<--------------------->
+
+I tried to open the
+manhole cover at the
+<--------------------->
+
+far end of Hunter's
+Camp.
+<--------------------->
+
+But, it wouldn't budge!
+I wonder...
+<--------------------->
+
+If I tried to pry it
+open with something,
+would it open?
+<*********************>
+
+<p 02><a 62><n 30>
+From up here, if you
+look way over there,
+<--------------------->
+
+you can see the
+Mavericks closing in.
+<--------------------->
+
+It's really scary, but
+I don't freak out.
+<--------------------->
+
+Because I'm a Hunter!
+<*********************>
+
+<p 02><a 62><n 30>
+A present for me? Why
+all of a sudden?
+<--------------------->
+
+Wow, the mini airship
+that I wanted!
+<*********************>
+
+<p 02><a 62><n 30>
+Thank you! It's not
+much, but please take
+this!
+<*********************>
+
+<p 02><a 63><n 00>
+Self-intro
+<*********************>
+
+<p 02><a 63><n 00>
+Normal Conversation1
+<*********************>
+
+<p 02><a 63><n 00>
+Normal Conversation2
+<*********************>
+
+<p 02><a 63><n 00>
+Normal Conversation3
+<*********************>
+
+<p 02><a 63><n 00>
+Normal Conversation4
+<*********************>
+
+<p 02><a 64><n 00>
+Self-intro
+<*********************>
+
+<p 02><a 64><n 00>
+Normal Conversation1
+<*********************>
+
+<p 02><a 64><n 00>
+Normal Conversation2
+<*********************>
+
+<p 02><a 64><n 00>
+Normal Conversation3
+<*********************>
+
+<p 02><a 64><n 00>
+Normal Conversation4
+<*********************>
+
+<p 02><a 65><n 00>
+Normal Conversation0
+<*********************>
+
+<p 02><a 65><n 00>
+Normal Conversation1
+<*********************>
+
+<p 02><a 65><n 00>
+Normal Conversation2
+<*********************>
+
+<p 02><a 65><n 00>
+Normal Conversation3
+<*********************>
+
+<p 02><a 65><n 00>
+Normal Conversation4
+<*********************>
+
+<p 02><a 66><n 32>
+I had no idea there was
+such a big room down
+here.
+<--------------------->
+
+Did you find the
+Legendary Pickaxe?
+<--------------------->
+
+Now that's a
+surprise. My name's
+Romeo! It's a pleasure!
+<*********************>
+
+<p 02><a 66><n 32>
+Dummy Conversation
+<*********************>
+
+<p 02><a 66><n 32>
+Dummy Conversation
+<*********************>
+
+<p 02><a 66><n 32>
+Dummy Conversation
+<*********************>
+
+<p 02><a 66><n 32>
+I hear it's getting
+rough outside.
+Is that true?
+<--------------------->
+
+Here, we're probably
+safe from Mavericks,
+<--------------------->
+
+but it's hard to shake
+this bad feeling.
+<*********************>
+
+<p 02><a 67><n 5B>
+Oh, Hey! My name is
+Julian!
+<--------------------->
+
+I'm glad I was able to
+become a Hunter,
+<--------------------->
+
+but I never knew it was
+such a hard job.
+<--------------------->
+
+Today's my day off, so
+I've been playing video
+games.
+<--------------------->
+
+I'll let you borrow one
+if you want. It's fun
+to face off one-on-one!
+<*********************>
+
+<p 02><a 67><n 5B>
+I'm glad you liked that
+game I lent you.
+<*********************>
+
+<p 02><a 67><n 5B>
+Why don't you play
+Gem Buster with one
+of your friends?
+<*********************>
+
+<p 02><a 67><n 5B>
+They say I'm the
+biggest video game fan
+in Hunter's Camp.
+<--------------------->
+
+I really like to play
+challenging games!
+Don't you?
+<*********************>
+
+<p 02><a 67><n 5B>
+Looks like Mavericks
+are closing in on this
+area.
+<--------------------->
+
+But if we Hunters all
+work together,
+<--------------------->
+
+we should be able to
+hold them off.
+<*********************>
+
+<p 02><a 68><n 00>
+Self-intro
+<*********************>
+
+<p 02><a 68><n 00>
+Normal Conversation1
+<*********************>
+
+<p 02><a 68><n 00>
+Normal Conversation2
+<*********************>
+
+<p 02><a 68><n 00>
+Normal Conversation3
+<*********************>
+
+<p 02><a 68><n 00>
+Normal Conversation4
+<*********************>
+
+<p 02><a 96><n 50>
+A-Are you a H-Hunter?
+<--------------------->
+
+You're here just in
+time!
+<--------------------->
+
+Uhh... Oh no... I lost
+my train of thought.
+What was I saying?
+<*********************>
+
+<p 02><a 96><n 50>
+With all the Mavericks
+around,
+<--------------------->
+
+it's getting difficult
+to get to Legion.
+<*********************>
+
+<p 02><a 96><n 50>
+The chip I just gave
+you is called Spike
+Wind.
+<--------------------->
+
+<p 02><a 96><n 50>
+I believe it will come
+in handy!
+<*********************>
+
+<p 02><a 96><n 50>
+With all the Mavericks
+around, it's getting
+<--------------------->
+
+difficult to get to
+Legion.
+<*********************>
+
+<p 02><a 96><n 50>
+With all the Mavericks
+around, it's getting
+<--------------------->
+
+difficult to get to
+Legion.
+<*********************>
+
+<p 02><a 42><n 23>
+My name is Doug!
+<*********************>
+
+<p 02><a 42><n 23>
+You're the talk of
+Hunter's Camp!
+<*********************>
+
+<p 02><a 42><n 23>
+What's my job? I stand
+guard to make sure no
+<--------------------->
+
+Mechaniloids come
+close.
+<*********************>
+
+<p 02><a 42><n 23>
+Lately, there's been
+the smell of
+<--------------------->
+
+Mechaniloids in the
+air.
+<*********************>
+
+<p 02><a 42><n 23>
+Maverick rampages are
+happening all over.
+<--------------------->
+
+We've got to be
+careful.
+<*********************>
+
+<p 02><a 42><n 24>
+Yo! My name is Chuck!
+<*********************>
+
+<p 02><a 42><n 24>
+Me and my friends were
+just talking about you.
+<*********************>
+
+<p 02><a 42><n 24>
+They say you're the
+Mega Man Model A Chosen
+One.
+<--------------------->
+
+That's cool! What do
+you gotta do to be a
+Chosen One?
+<*********************>
+
+<p 02><a 42><n 24>
+They say you've been
+kickin' Pseudoroid butt
+left and right.
+<--------------------->
+
+But we can't let our
+guard down,
+<--------------------->
+
+just in case those
+suckers try and make a
+comeback.
+<*********************>
+
+<p 02><a 42><n 24>
+I wonder if we can
+defend this place all
+by ourselves.
+<*********************>
+
+<p 02><a 42><n 25>
+My name is Roger.
+<*********************>
+
+<p 02><a 42><n 25>
+I know I'm way up here,
+but actually, I'm
+acrophobic.
+<--------------------->
+
+That means that I'm
+afraid of heights. If I
+just look down,
+<--------------------->
+
+I get the shakes
+something awful.
+<*********************>
+
+<p 02><a 42><n 25>
+This job keeps me on my
+feet all day. My feet
+hurt something fierce.
+<--------------------->
+
+I wish somebody would
+hurry up and relieve me
+of my post.
+<*********************>
+
+<p 02><a 42><n 25>
+If the Mavericks come,
+<--------------------->
+
+how am I supposed to
+face 'em down with this
+puny weapon?
+<*********************>
+
+<p 02><a 42><n 25>
+Dang! As if me being
+acrophobic wasn't
+enough,
+<--------------------->
+
+now these Mavericks
+show up... *sigh*
+<*********************>
+
+<p 02><a 42><n 26>
+My name is Kirk. I'm a
+Hunter just like you!
+<*********************>
+
+<p 02><a 42><n 26>
+I keep watch over
+Hunter's Camp from
+sunup to sundown.
+<*********************>
+
+<p 02><a 42><n 26>
+If I had a better
+weapon,
+<--------------------->
+
+I could take out those
+Pseudoroids easy!
+<*********************>
+
+<p 02><a 42><n 26>
+It's pretty boring just
+standing guard at
+Hunter's Camp.
+<--------------------->
+
+I want to take on a big
+mission request like
+you.
+<*********************>
+
+<p 02><a 42><n 26>
+Dummy Conversation
+<*********************>
+
+<p 02><a 42><n 27>
+I'm Kyrian. Nice to
+meet you!
+<*********************>
+
+<p 02><a 42><n 27>
+Hey, are you a Hunter
+too?
+<*********************>
+
+<p 02><a 42><n 27>
+Uh? What are we doing
+here in a place like
+this?
+<--------------------->
+
+Hunters without mission
+requests split up and
+<--------------------->
+
+spread out to defend
+the camp!
+<*********************>
+
+<p 02><a 42><n 27>
+It seems like there are
+more and more of these
+Mavericks every day.
+<--------------------->
+
+I'm worried that we
+might not be able to
+hold them all off.
+<*********************>
+
+<p 02><a 42><n 27>
+Things are about to get
+ugly around here.
+<*********************>
+
+<p 02><a 42><n 28>
+My name is Tim. I may
+not look it,
+<--------------------->
+
+but I've been a Hunter
+for a long time!
+<*********************>
+
+<p 02><a 42><n 28>
+It's a dangerous job,
+but for me,
+<--------------------->
+
+there's nothing else
+I'd rather do.
+<*********************>
+
+<p 02><a 42><n 28>
+So, you're going to
+meet the Sage Trinity?
+That's impressive!
+<*********************>
+
+<p 02><a 42><n 28>
+Word gets around about
+everything you do!
+<--------------------->
+
+It shows that you're
+the Model A Chosen One!
+<*********************>
+
+<p 02><a 42><n 28>
+The Maverick activity
+increased just as we
+got here.
+<--------------------->
+
+Could it be because of
+that Biometal Model W?
+<*********************>
+
+<p 02><a 42><n 29>
+I'm Abe. Glad to meet
+you!
+<*********************>
+
+<p 02><a 42><n 29>
+You're a new face in
+these parts. Are you a
+Hunter?
+<*********************>
+
+<p 02><a 42><n 29>
+Well just try to keep
+up with the others and
+do your job. Good luck!
+<*********************>
+
+<p 02><a 42><n 29>
+So, you're the Model A
+Chosen One everybody's
+talking about.
+<--------------------->
+
+I didn't know; I'm kind
+of out of touch with
+the latest news.
+<*********************>
+
+<p 02><a 42><n 29>
+Lately, I've had run-in
+after run-in with
+Mavericks.
+<--------------------->
+
+There were some pretty
+close calls.
+<*********************>
+
+<p 02><a 42><n 2A>
+My name is Ben!
+Lately, you've been the
+talk of Hunter's Camp!
+<*********************>
+
+<p 02><a 42><n 2A>
+By the way, how ya
+feelin'?
+<*********************>
+
+<p 02><a 42><n 2A>
+Frankly, I'd rather be
+out there stompin' on
+some Mechaniloids
+<--------------------->
+
+than standin' around
+waitin' for the enemy
+to come to me.
+<*********************>
+
+<p 02><a 42><n 2A>
+Seems like those
+Mavericks are gettin'
+<--------------------->
+
+more and more outta
+hand,
+<--------------------->
+
+what in the world could
+be causin' it!?
+<*********************>
+
+<p 02><a 42><n 2A>
+Those dang Mavericks
+are pushin' their luck!
+<--------------------->
+
+I swear on my Hunter
+life,
+<--------------------->
+
+I won't let 'em harm
+one person in here!
+<*********************>
+
+<p 02><a 42><n 4A>
+My name is Burt!
+<*********************>
+
+<p 02><a 42><n 4A>
+Dummy Conversation
+<*********************>
+
+<p 02><a 42><n 4A>
+Dummy Conversation
+<*********************>
+
+<p 02><a 42><n 4A>
+Dummy Conversation
+<*********************>
+
+<p 02><a 42><n 4A>
+Dummy Conversation
+<*********************>
+
+<p 02><a 42><n 4D>
+Hello! I'm Patrick.
+<--------------------->
+
+When there's no
+Hunter work for me to
+do,
+<--------------------->
+
+I do odd jobs here at
+the station.
+<--------------------->
+
+If you continue to the
+right of the station,
+<--------------------->
+
+you'll find an elevator
+that goes down.
+<--------------------->
+
+Get on top of the
+elevator,
+<--------------------->
+
+and press down on the
+<dpad>Control Pad to go
+down.
+<--------------------->
+
+But be careful of the
+Mini Cannon sentries.
+<*********************>
+
+<p 02><a 42><n 4D>
+If you continue to the
+right of the station,
+<--------------------->
+
+you'll find an elevator
+that goes down.
+<--------------------->
+
+Get on top of the
+elevator,
+<--------------------->
+
+and press down on the
+<dpad>Control Pad to go
+down.
+<--------------------->
+
+But be careful of the
+Mini Cannon sentries.
+<*********************>
+
+<p 02><a 42><n 4D>
+If you continue to the
+right of the station,
+<--------------------->
+
+you'll find an elevator
+that goes down.
+<--------------------->
+
+Get on top of the
+elevator,
+<--------------------->
+
+and press down on the
+<dpad>Control Pad to go
+down.
+<--------------------->
+
+But be careful of the
+Mini Cannon sentries.
+<*********************>
+
+<p 02><a 42><n 4D>
+It's good the train's
+running again.
+<--------------------->
+
+We can move small cargo
+through the
+transervers,
+<--------------------->
+
+but, we still need to
+rely on the train to
+move large cargo.
+<--------------------->
+
+I don't have words to
+thank you!
+<*********************>
+
+<p 02><a 42><n 4D>
+There's Mavericks
+crawling all over the
+place!
+<--------------------->
+
+It's not even safe to
+go outside!
+<*********************>
+
+<p 02><a 40><n 57>
+Thank you for before!
+As you can see I'm
+doing better.
+<--------------------->
+
+My name is Tom. I
+know I'm the one that
+owes you,
+<--------------------->
+
+but, the holes don't
+dig themselves for
+free, ya know.
+<--------------------->
+
+Could you help me out
+with a donation?
+<*********************>
+
+<p 02><a 40><n 57>
+The Oil Field crash
+site has already been
+excavated!
+<*********************>
+
+<p 02><a 40><n 57>
+The Oil Field crash
+site has already been
+excavated!
+<*********************>
+
+<p 02><a 40><n 57>
+The Oil Field crash
+site has already been
+excavated!
+<*********************>
+
+<p 02><a 40><n 57>
+The Oil Field crash
+site has already been
+excavated!
+<*********************>
+
+<p 02><a 40><n 57>
+There's a room a little
+further down.
+<--------------------->
+
+With your donation, it
+looks like we can dig
+it up.
+<*********************>
+
+<p 02><e 01><a 40><n 57>
+Make a donation?
+  Yes
+  No 
+<*********************>
+
+<p 02><e 01><a 40><n 57>
+How much?
+  100 EC
+  300 EC
+<*********************>
+
+<p 02><a 40><n 57>
+Ohh... Well, come back
+if you change your
+mind.
+<*********************>
+
+<p 02><a 40><n 57>
+Thanks. I'll start
+digging right away!
+<*********************>
+
+<p 02><a 40><n 57>
+Thank you very much!
+I'll get right on it!
+<*********************>
+
+<p 02><a 40><n 57>
+Uh-oh... I'm sorry, but
+you don't have enough
+E-Crystals.
+<*********************>
+
+<p 02><a 40><n 57>
+Thanks to your
+donation, it looks like
+we can dig it up.
+<*********************>
+
+<p 02><a 98><n 54>
+Hello and welcome to
+the Sub Tank Server!
+<--------------------->
+
+Fill up your Sub Tank
+today, for the low, low
+price of 50 EC, 
+<--------------------->
+
+regardless of how low
+your tank is. 
+<*********************>
+
+<p 02><e 01><a 98><n 54>
+Fill up?
+  Yes
+  No
+<*********************>
+
+<p 02><a 98><n 54>
+Wait just a moment
+while I begin filling.
+<*********************>
+
+<p 02><a 98><n 54>
+OK. Please come again.
+<*********************>
+
+<p 02><a 98><n 54>
+It seems you do not
+have a Sub Tank.
+<*********************>
+
+<p 02><a 98><n 54>
+Your Sub Tank is
+already filled to
+capacity.
+<*********************>
+
+<p 02><a 98><n 54>
+I'm sorry. You do not
+have enough EC.
+<*********************>
+
+<p 02><a 95><n 52>
+I'm Nina. I work the
+station information
+desk.
+<--------------------->
+
+You can ask me anything
+about the station and
+the surrounding area.
+<*********************>
+
+<p 02><a 95><n 52>
+To get to the train, go
+out that door and go
+right.
+<*********************>
+
+<p 02><a 95><n 52>
+Because of the train
+accident,
+<--------------------->
+
+passenger numbers have
+been dropping.
+<--------------------->
+
+I have to work hard to
+ensure
+<--------------------->
+
+that the Hunters can
+ride the train safely.
+<*********************>
+
+<p 02><a 95><n 52>
+Good day!
+<--------------------->
+
+I heard you're the one
+who got the parts
+<--------------------->
+
+together to fix the
+train.
+<*********************>
+
+<p 02><a 95><n 52>
+Good day!
+<--------------------->
+
+No one wants to ride
+the train
+<--------------------->
+
+because of the recent
+Maverick sightings.
+<*********************>
+
+<p 02><a 95><n 52>
+This hardly makes up
+for you fixing the
+train,
+<--------------------->
+
+but please take it.
+<*********************>
+
+<p 02><a 42><n 4B>
+Hey, I'm Antonio!
+<*********************>
+
+<p 02><a 42><n 4B>
+Dummy Conversation
+<*********************>
+
+<p 02><a 42><n 4B>
+The wrench you brought
+me was the new wrench I
+had just bought.
+<--------------------->
+
+As soon as I got it, I
+went around and showed
+it off to everyone.
+<--------------------->
+
+And then I lost it.
+<--------------------->
+
+I guess it serves me
+right, but it's not
+cool.
+<--------------------->
+
+You know where I'm
+coming from, right?
+<--------------------->
+
+Anyway, thanks to you,
+I got it back!
+<*********************>
+
+<p 02><a 42><n 4B>
+The wrench you brought
+me was the new wrench I
+had just bought.
+<--------------------->
+
+As soon as I got it, I
+went around and showed
+it off to everyone.
+<--------------------->
+
+And then I lost it.
+<--------------------->
+
+I guess it serves me
+right, but it's not
+cool.
+<--------------------->
+
+You know where I'm
+coming from, right?
+<--------------------->
+
+Anyway, thanks to you,
+I got it back!
+<*********************>
+
+<p 02><a 42><n 4B>
+The wrench you brought
+me was the new wrench I
+had just bought.
+<--------------------->
+
+As soon as I got it, I
+went around and showed
+it off to everyone.
+<--------------------->
+
+And then I lost it.
+<--------------------->
+
+I guess it serves me
+right, but it's not
+cool.
+<--------------------->
+
+You know where I'm
+coming from, right?
+<--------------------->
+
+Anyway, thanks to you,
+I got it back!
+<*********************>
+
+<FIM>

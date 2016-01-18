@@ -1,0 +1,109 @@
+<script_info tipo='Quest 23' personagem='Ashe' tamanho='734' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 69><n 2E>
+I want to go pick some
+pretty flowers for my
+mommy,
+<--------------------->
+
+<p 02><a 69><n 2E>
+but Daddy says it's too
+dangerous to leave
+Hunter's Camp.
+<--------------------->
+
+<p 02><a 69><n 2E>
+Could you go instead?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<*********************>
+
+<p 02><a 69><n 2E>
+I want to go pick some
+pretty flowers for my
+mommy,
+<--------------------->
+
+<p 02><a 69><n 2E>
+but Daddy says it's too
+dangerous to leave
+Hunter's Camp.
+<--------------------->
+
+<p 02><a 69><n 2E>
+Could you go instead?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<*********************>
+
+<p 02><a 69><n 2E>
+Mommy really likes
+lilies!
+<--------------------->
+
+<p 02><a 69><n 2E>
+I think that lilies
+only grow out in the
+wild.
+<--------------------->
+
+<p 02><a 69><n 2E>
+You can find them in
+areas
+<--------------------->
+
+where there are a lot
+of other plants, and
+near waterfalls.
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<*********************>
+
+<p 02><a 69><n 2E>
+Oh, thank you so much!
+<--------------------->
+
+<p 02><a 69><n 2E>
+Look, I made Mommy's
+grave pretty while you
+were gone.
+<--------------------->
+
+<p 02><a 69><n 2E>
+I lost my mommy to
+Mavericks in the desert
+when I was two.
+<--------------------->
+
+<p 02><a 69><n 2E>
+She's in heaven now...
+<--------------------->
+
+But I know she'll like
+the flowers the Hunter
+picked, right Daddy?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Yeah...
+<--------------------->
+
+<p 02><a 69><n 2E>
+Oh yeah, these are for
+you!
+<--------------------->
+
+<p 02><a 69><n 2E>
+These E-Crystals are
+from Daddy, and this
+chip is from me.
+<*********************>
+
+<FIM>

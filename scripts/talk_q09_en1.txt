@@ -1,0 +1,93 @@
+<script_info tipo='Quest 9' personagem='Grey' tamanho='927' inicio_ponteiros='4' fim_ponteiros='13' inicio_textos='14' />
+<#####################>
+
+<p 02><a 42><n 4B>
+Hey, you. Can I ask you
+to do something for me?
+<--------------------->
+
+I lost a wrench
+somewhere in this room.
+<--------------------->
+
+Would you help me look
+for it? I'll hook you
+up later.
+<*********************>
+
+<p 02><a 42><n 4B>
+Hm? You can't climb
+walls 'cause it's too
+dangerous?
+<--------------------->
+
+Do you see those places
+on the wall that stick
+out?
+<--------------------->
+
+Use those to help you
+scale the wall little
+by little.
+<--------------------->
+
+There's really no point
+if you can't manage to
+hold on
+<--------------------->
+
+a little better.
+<*********************>
+
+<p 02><a 42><n 4B>
+Yeeeah! That's it!
+That's my wrench!
+<--------------------->
+
+Heh-Heh, I guess I owe
+you one. Here you go.
+<*********************>
+
+<p 02><a 42><n 4B>
+But listen, if I
+give you this,
+<--------------------->
+
+you can't tell anyone
+that I lost my wrench,
+got it?
+<--------------------->
+
+If the guys I work
+with found out, it'd be
+a total embarrassment.
+<*********************>
+
+<p 02><a 42><n 4B>
+The wrench you brought
+me was the new wrench I
+had just bought.
+<--------------------->
+
+As soon as I got it, I
+went around and showed
+it off to everyone.
+<--------------------->
+
+And then I lost it.
+<--------------------->
+
+I guess it serves me
+right, but it's not
+cool.
+<--------------------->
+
+You know where I'm
+coming from, right?
+<--------------------->
+
+Anyway, thanks to you,
+I got it back!
+<*********************>
+
+<FIM>

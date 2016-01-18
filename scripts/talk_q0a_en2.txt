@@ -1,0 +1,292 @@
+<script_info tipo='Quest 10' personagem='Ashe' tamanho='3002' inicio_ponteiros='4' fim_ponteiros='29' inicio_textos='30' />
+<#####################>
+
+<p 02><a 51><n 41>
+The many inventions
+left to us by our
+forefathers,
+<--------------------->
+
+that's what I came here
+to these ruins to find!
+<--------------------->
+
+...But all of a sudden
+this place started
+floating in the air,
+<--------------------->
+
+and well, now I can't
+get out.
+<--------------------->
+
+Oh, by the way, could
+you help me with
+something?
+<--------------------->
+
+I'm picking up signals
+from 4 ancient
+artifacts.
+<--------------------->
+
+I've managed to find a
+few myself,
+<--------------------->
+
+but it's just too
+dangerous to get close.
+<--------------------->
+
+I bet it wouldn't be a
+problem for you.
+<--------------------->
+
+Could you find them and
+bring them to me?
+<*********************>
+
+<p 02><a 51><n 41>
+They are items
+hundreds, even
+thousands
+<--------------------->
+
+of years old with great
+historical value.
+<--------------------->
+
+There are many people
+who'd like to
+<--------------------->
+
+to get their hands on
+items like that.
+<--------------------->
+
+Among them are those
+who are involved in
+illicit trade.
+<--------------------->
+
+My job mainly involves
+catching those lowlifes
+and retrieving items.
+<--------------------->
+
+If you find any items
+that, please bring them
+to me!
+<*********************>
+
+<p 02><a 51><n 41>
+What's that you've got
+there? Can I see it?
+<--------------------->
+
+Oh! This is an L
+Tank, right?
+<--------------------->
+
+You know the E Tanks we
+have nowadays?
+<--------------------->
+
+They've been around
+hundreds of years.
+<--------------------->
+
+L Tanks came along
+after the invention of
+the E Tank.
+<--------------------->
+
+Performance-wise, they
+are actually superior
+to E Tanks,
+<--------------------->
+
+but they were never
+mass-produced. 
+<--------------------->
+
+There's a famous story
+of how, long ago,
+<--------------------->
+
+L Tanks helped robots
+drive away gangsters
+and thugs.
+<*********************>
+
+<p 02><a 51><n 41>
+What's that you've got
+there? Can I see it?
+<--------------------->
+
+Oh, this is a pinwheel.
+<--------------------->
+
+How'd you get your
+hands on this elusive
+artifact?
+<--------------------->
+
+There's speculation
+among experts about
+pinwheels.
+<--------------------->
+
+But I've found from my
+own research that
+by using the air to
+<--------------------->
+
+turn a turbine, the
+wind could be harnessed
+to produce energy.
+<--------------------->
+
+It was expected to be
+the source of vast
+energy.
+<--------------------->
+
+However, for some
+reason I cannot
+explain,
+<--------------------->
+
+it went largely
+unnoticed and was
+forgotten.
+<*********************>
+
+<p 02><a 51><n 41>
+What's that you've got
+there? Can I see it?
+<--------------------->
+
+Hmm... This is a
+Balancer that was used
+on robots
+<--------------------->
+
+a long time ago.
+<--------------------->
+
+The invention of the
+Balancer
+<--------------------->
+
+has contributed so much
+to our lives.
+<--------------------->
+
+It's a concept that we
+now take for granted,
+but before these came
+<--------------------->
+
+along, unused energy
+was simply wasted into
+the atmosphere.
+<--------------------->
+
+Balancers efficiently
+recovered unused energy
+to be used later. 
+<--------------------->
+
+Out of the need to save
+energy,
+<--------------------->
+
+cleaner air was
+achieved as an
+unintended side-effect.
+<*********************>
+
+<p 02><a 51><n 41>
+What's that you've got
+there? Can I see it?
+<--------------------->
+
+Hmm... This is a light
+bulb.
+<--------------------->
+
+Long ago, there used to
+be solar powered
+robots.
+<--------------------->
+
+They used these when
+power from their solar
+cells ran low.
+<--------------------->
+
+But light bulbs were
+not a necessity to
+daily life.
+<--------------------->
+
+Since the conflict,
+energy continued to be
+needlessly wasted.
+<--------------------->
+
+That eventually led to
+serious global energy
+shortages.
+<--------------------->
+
+Quite a sad story.
+<*********************>
+
+<p 02><a 51><n 41>
+Yes! I finally have all
+the ancient artifacts
+from this area!
+<--------------------->
+
+Thank you very much.
+I'm glad I asked you
+for your help.
+<--------------------->
+
+I'd like you to have
+this, for your trouble.
+<*********************>
+
+<p 02><a 51><n 41>
+One more thing... Would
+you take that with you?
+<--------------------->
+
+I feel like I can trust
+you with it!
+<*********************>
+
+<p 02><a 51><n 41>
+I once had a professor
+who always said "Know
+the old, know the new."
+<--------------------->
+
+Our job is not just
+chasing after the
+past...
+<--------------------->
+
+Remember the past to
+better understand the
+present. If you forget
+<--------------------->
+
+this, you become
+nothing more than a
+collector.
+<*********************>
+
+<FIM>

@@ -1,0 +1,321 @@
+<script_info tipo='Quest 26' personagem='Ashe' tamanho='3150' inicio_ponteiros='4' fim_ponteiros='41' inicio_textos='42' />
+<#####################>
+
+<p 02><a 72><n 1C>
+Where're Lazarus and
+Red?
+<--------------------->
+
+You don't hear about
+many people falling
+from an airship
+<--------------------->
+
+and living to tell
+about it...
+<--------------------->
+
+But I'm gonna keep hope
+alive. I got faith.
+<--------------------->
+
+I believe they're still
+alive out there
+somewhere.
+<--------------------->
+
+I know you must be
+pretty shook up too,
+Ashe.
+<--------------------->
+
+If you find those two
+out there on the road,
+I know you'll
+<--------------------->
+
+do what you can for
+'em. Please... I'm
+counting on you.
+<*********************>
+
+<p 02><a 72><n 1C>
+If we survived, so can
+they!
+<--------------------->
+
+It's just a hunch, but
+they should be
+somewhere between
+<--------------------->
+
+here and the Oil
+Fields.
+<*********************>
+
+<p 02><a 72><n 1C>
+Ashe! Lazarus came back
+alive!
+<--------------------->
+
+Ha-haa! That
+knucklehead... He had
+me worried to death!
+<--------------------->
+
+He was kinda up tight
+that you saved him, but
+he's always like that.
+<*********************>
+
+<p 02><a 72><n 1C>
+Ashe! Red came back
+alive!
+<--------------------->
+
+Ha-haa! That
+knucklehead... He had
+me worried to death!
+<--------------------->
+
+And he thought
+survival skills were
+overrated...
+<--------------------->
+
+At least he's back in
+one piece.
+<*********************>
+
+<p 02><a 72><n 1C>
+We've finally got the
+gang back together.
+Thanks a million, Ashe!
+<--------------------->
+
+As for me... I think
+I'll go back to being a
+Hunter.
+<--------------------->
+
+Now that those guys are
+back in action, I can't
+just sit around
+<--------------------->
+
+like some lily-livered
+coward, ya know.
+<--------------------->
+
+Next time'll be our
+turn to help you.
+<--------------------->
+
+If you need anything,
+just give us a holler!
+<*********************>
+
+<p 02><a 72><n 1C>
+Ahh, if it isn't
+Ashe...
+<*********************>
+
+<p 02><a 72><n 1C>
+To be entrusted with a
+mission from Legion,
+<--------------------->
+
+you're obviously quite
+a Hunter!
+<*********************>
+
+<p 02><a 72><n 1C>
+Mavericks are on the
+rise, but with you
+here,
+<--------------------->
+
+there's nothing to
+worry about!
+<*********************>
+
+<p 02><a 72><n 1C>
+If you ever have a
+problem, Ashe,
+<--------------------->
+
+I'll be more than happy
+to lend a hand!
+<*********************>
+
+<p 02><a 74><n 1D>
+...What? You came to
+help ME!? Nonsense! I'm
+fine!
+<--------------------->
+
+When I came to, I'd
+been washed up to this
+area.
+<--------------------->
+
+It was kinda hard
+to move...
+<--------------------->
+
+So, I just decided to
+take a rest here.
+That's all!
+<--------------------->
+
+...Whaddaya mean, can I
+get back by myself?
+Dummy! Don't be silly!
+<--------------------->
+
+I told you, I ran out
+of energy and I
+couldn't move.
+<--------------------->
+
+That's why I couldn't
+go back.
+<--------------------->
+
+...Hey, C'mon, gimme a
+break. I'm in trouble
+here. Help me...
+<*********************>
+
+<p 02><a 74><n 1D>
+What?
+<*********************>
+
+<p 02><a 74><n 1D>
+I dunno what would've
+happened to me by now
+<--------------------->
+
+if Ashe hadn't come
+along and helped me.
+<*********************>
+
+<p 02><a 74><n 1D>
+I dunno what would've
+happened to me by now
+<--------------------->
+
+if Ashe hadn't come
+along and helped me.
+<*********************>
+
+<p 02><a 74><n 1D>
+I dunno what would've
+happened to me by now
+<--------------------->
+
+if Ashe hadn't come
+along and helped me.
+<*********************>
+
+<p 02><a 73><n 1E>
+Ashe, finally you're
+here. I was waiting for
+you.
+<--------------------->
+
+I held onto that
+Airship
+<--------------------->
+
+like there was no
+tomorrow as it was
+going down,
+<--------------------->
+
+but the impact of the
+crash threw me
+somewhere near here.
+<--------------------->
+
+When I realized that I
+had been separated from
+the group,
+<--------------------->
+
+I knew I'd have to set
+up camp.
+<--------------------->
+
+Fortunately this room
+turned out to be
+<--------------------->
+
+some kind of energy
+storehouse.
+<--------------------->
+
+"I could survive in
+here for a while," I
+thought to myself...
+<--------------------->
+
+and decided to go
+outside for some air.
+<--------------------->
+
+It was then that I
+realized that the door
+was stuck,
+<--------------------->
+
+and I was trapped! I
+was like, "what the
+heck's going on?!".
+<--------------------->
+
+So I waited, believing
+that somebody would
+come to my rescue...
+<--------------------->
+
+Uh? Yo Ashe, are you
+yawning!?
+<--------------------->
+
+Am I boring you with my
+tale of woe over here!?
+<*********************>
+
+<p 02><a 73><n 1E>
+Hey, my hero, Ashe!
+<*********************>
+
+<p 02><a 73><n 1E>
+When I was trapped in
+that energy storehouse,
+<--------------------->
+
+I had no idea what
+would happen to me.
+<*********************>
+
+<p 02><a 73><n 1E>
+When I was trapped in
+that energy storehouse,
+<--------------------->
+
+I had no idea what
+would happen to me.
+<*********************>
+
+<p 02><a 73><n 1E>
+When I was trapped in
+that energy storehouse,
+<--------------------->
+
+I had no idea what
+would happen to me.
+<*********************>
+
+<FIM>

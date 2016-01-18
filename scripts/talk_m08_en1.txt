@@ -1,0 +1,263 @@
+<script_info tipo='Missão 8' personagem='Grey' tamanho='2585' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 0F><n 01>
+*pant* This heat is
+unbearable! What the
+heck is going on?
+<*********************>
+
+<p 02><a 02><n 06>
+That building is the
+Control Center for
+several energy
+<--------------------->
+
+<p 02><a 02><n 06>
+furnaces in the
+surrounding city. But
+the Mavericks have
+<--------------------->
+
+caused an
+uncontrollable
+thermal runaway.
+<--------------------->
+
+<p 02><a 6B><n 15>
+If we don't do
+something, the energy
+furnaces will explode.
+<--------------------->
+
+These guys don't mess
+around, do they!?
+<--------------------->
+
+<p 02><a 02><n 06>
+We don't know how long
+those furnaces have
+until they blow.
+<--------------------->
+
+<p 02><a 02><n 06>
+Do something to take
+charge of that Control
+Center.
+<*********************>
+
+<p 03><d 4002><a 25><n 03>
+It's been a while. But
+I see you're surviving
+the Game of Destiny.
+<--------------------->
+
+<p 03><d 4102><a 25><n 03>
+Well? Have you found
+anything out about
+yourself?
+<--------------------->
+
+<p 02><d 4202><a 0B><n 01>
+Shut up! What do you
+know!?
+<--------------------->
+
+<p 03><d 4302><a 25><n 03>
+Don't bark at me, scum!
+I've only come to
+retrieve this Model W.
+<--------------------->
+
+<p 03><d 5002><a 25><n 03>
+No rush, I'll cut you
+to ribbons soon enough.
+Look forward to it!
+<*********************>
+
+<p 02><d 5102><a 6B><n 15>
+Bleeeh! He makes
+me sick!
+<*********************>
+
+<p 01><p 03><d 5202><a 39><n 00>
+My, my! Did little
+Prometheus leave
+already?
+<--------------------->
+
+<p 01><p 03><d 5302><a 39><n 00>
+He's so impatient. In a
+moment the energy
+furnaces will explode
+<--------------------->
+
+<p 01><p 03><d 5402><a 39><n 00>
+and a beautiful fire
+flower will bloom,
+<--------------------->
+
+<d 5502>
+filled with sweet
+nectar. The nectar of
+terror.
+<--------------------->
+
+<p 00><p 02><d 5602><a 0B><n 01>
+So you're behind the
+thermal runaway!
+<--------------------->
+
+<p 01><p 03><d 5702><a 39><n 00>
+That's right, boy...
+Oh, I mean Mega Man
+Model A!
+<--------------------->
+
+<p 01><p 03><d 5902><a 39><n 0C>
+I'm Queenbee. I'll give
+you a taste of my
+special nectar...
+<--------------------->
+
+<p 01><p 03><d 5A02><a 39><n 0C>
+Despair with a touch of
+bitterness.
+<*********************>
+
+<p 01><p 03><d 5B02><a 39><n 0C>
+What a slovenly boy you
+are! And you call
+yourself a Mega Man?
+<*********************>
+
+<p 01><p 03><d 5C02><a 39><n 0C>
+*Aagh* What!? You
+refuse my precious gift
+of despair!?
+<--------------------->
+
+<p 01><p 03><d 5D02><a 39><n 0C>
+Aaaaargh!
+<*********************>
+
+<p 02><a 02><n 06>
+I presume that's
+the main computer
+<--------------------->
+
+which controls the
+energy furnaces.
+<--------------------->
+
+<p 02><a 02><n 06>
+This can't be! The
+cooling function can't
+<--------------------->
+
+keep pace with the
+thermal runaway!
+<--------------------->
+
+<p 02><a 02><n 06>
+Rip out the core module
+and shut down the main
+computer by force.
+<--------------------->
+
+<p 02><a 0F><n 01>
+How are we going to
+take out the core
+module? It's huge!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Hey, change into
+Queenbee!
+<--------------------->
+
+<p 02><a 6B><n 15>
+She was carrying some
+kind of big container
+before, right?
+<--------------------->
+
+<p 02><a 6B><n 15>
+Shouldn't we be able to
+raise the core module
+up the way she did?
+<*********************>
+
+<p 02><a 02><n 06>
+It seems to have
+switched over to its
+subsystem somehow,
+<--------------------->
+
+<p 02><a 02><n 06>
+and the thermal
+runaway has stopped.
+<--------------------->
+
+The auto-recovery
+system should kick in
+momentarily.
+<--------------------->
+
+<p 02><a 02><n 06>
+Thank you for your
+help.
+<*********************>
+
+<p 02><a 6B><n 15>
+When you morph into
+Queenbee,
+<--------------------->
+
+you can fly by pressing
+the Jump Button!
+<--------------------->
+
+<p 02><a 6B><n 15>
+But when you fly, your
+BM gauge goes
+down.
+<--------------------->
+
+<p 02><a 6B><n 15>
+To lift the core
+module, first get on
+top of it
+<--------------------->
+
+and press down on the
+<dpad>Control Pad to dock!
+<--------------------->
+
+<p 02><a 6B><n 15>
+When the core module is
+docked,
+<--------------------->
+
+press the Jump Button
+to fly away with the
+module!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Who knows? There may be
+other things you can
+dock with.
+<--------------------->
+
+<p 02><a 6B><n 15>
+If you find something
+in the area
+<--------------------->
+
+that you think you can
+dock with, give it a
+try!
+<*********************>
+
+<FIM>

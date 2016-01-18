@@ -1,0 +1,99 @@
+<script_info tipo='Quest 29' personagem='Ashe' tamanho='927' inicio_ponteiros='4' fim_ponteiros='11' inicio_textos='12' />
+<#####################>
+
+<p 02><a 44><n 35>
+There's something that
+needs doing,
+<--------------------->
+
+and you look like just
+the person to do it.
+<--------------------->
+
+A hoard of Chabanos has
+escaped from this area.
+<--------------------->
+
+If you find any green
+ones on the road,
+please eliminate them.
+<--------------------->
+
+Can you do that?
+<--------------------->
+
+There couldn't have
+been more than 50,
+so get them all.
+<--------------------->
+
+There's a reward if you
+manage to get all of
+them. 
+<*********************>
+
+<p 02><a 44><n 35>
+There's a pretty good
+chance
+<--------------------->
+
+that the Chabanos have
+gotten out into the
+wild.
+<--------------------->
+
+I'd like you to
+eradicate those buggers
+for me.
+<--------------------->
+
+You can think of it as
+a side job.
+<*********************>
+
+<p 02><a 44><n 35>
+Oh-hoh! Looks like you
+took care of all of
+those Chabanos!
+<--------------------->
+
+Excellent work! I want
+you to take this,
+<--------------------->
+
+and I won't take no for
+an answer.
+<*********************>
+
+<p 02><a 44><n 35>
+I may not look it, but
+I'm a Hunter.
+<--------------------->
+
+The others call me the
+Chemical Hunter.
+<--------------------->
+
+You see I do scientific
+research
+<--------------------->
+
+that goes to benefit
+the Hunter's
+livelihood.
+<--------------------->
+
+But even though I'm a
+Hunter in title,
+<--------------------->
+
+I leave the rigorous
+physical part to the
+others.
+<--------------------->
+
+Thank you so much for
+your help.
+<*********************>
+
+<FIM>

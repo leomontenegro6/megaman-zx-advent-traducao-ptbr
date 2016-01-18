@@ -1,0 +1,1072 @@
+<script_info tipo='NPCs Hunters' personagem='Ashe' tamanho='10568' inicio_ponteiros='4' fim_ponteiros='129' inicio_textos='130' />
+<#####################>
+
+<p 02><a 43><n 2B>
+Say... Are you the
+Hunter everybody's been
+talking about?
+<--------------------->
+
+Oh, I apologize. It was
+rude of me to not
+introduce myself first.
+<--------------------->
+
+My name is Carley!
+I'm a reporter.
+<--------------------->
+
+I specialize in
+reporting about
+Hunters.
+<*********************>
+
+<p 02><a 43><n 2B>
+There was a time when I
+was gung-ho about
+<--------------------->
+
+treasure hunting and
+all that too.
+<--------------------->
+
+But now I'm convinced
+that there's no better
+treasure
+<--------------------->
+
+than information.
+<--------------------->
+
+I wonder if you'd let
+me do a scoop on you...
+<*********************>
+
+<p 02><a 43><n 2B>
+I was doing some
+digging on these
+<--------------------->
+
+Reploids called
+Pseudoroids.
+<--------------------->
+
+Turns out they
+can actually repair
+themselves.
+<--------------------->
+
+That means that even if
+you blast them,
+<--------------------->
+
+they can come back to
+life. Scary...
+<*********************>
+
+<p 02><a 43><n 2B>
+I still can't believe
+that Albert, one of the
+Sage Trinity,
+<--------------------->
+
+was the one who created
+Model W.
+<--------------------->
+
+It's no wonder there
+are all these Mavericks
+lately.
+<--------------------->
+
+As a reporter, I have a
+responsibility
+<--------------------->
+
+to find out and report
+the facts.
+<--------------------->
+
+When I consider the
+power of my influence,
+<--------------------->
+
+it's hard to make a
+decision.
+<*********************>
+
+<p 02><a 43><n 2B>
+But when you become a
+Hunter who's confident,
+<--------------------->
+
+danger seems to take a
+back seat.
+<--------------------->
+
+I'm sure you've heard
+this before.
+<--------------------->
+
+Hunters hunt
+Pseudoroids to test
+their skills.
+<*********************>
+
+<p 02><a 43><n 2B>
+Is that a wish card
+you're holding?
+<--------------------->
+
+I'd really like to
+become a globe hopping
+reporter
+<--------------------->
+
+who reports the facts
+to people everywhere.
+<*********************>
+
+<p 02><a 43><n 2B>
+Telling people about
+your dreams is kind of
+embarrassing, isn't it?
+<--------------------->
+
+My face is probably
+bright red right now.
+<--------------------->
+
+Yeah, like this apple.
+Here, I'll give it to
+you!
+<*********************>
+
+<p 02><a 44><n 35>
+My! Fancy meeting
+someone else here. My
+name is Peter!
+<*********************>
+
+<p 02><a 44><n 35>
+Dummy Conversation
+<*********************>
+
+<p 02><a 44><n 35>
+Dummy Conversation
+<*********************>
+
+<p 02><a 44><n 35>
+Dummy Conversation
+<*********************>
+
+<p 02><a 44><n 35>
+I may not look it, but
+I'm a Hunter.
+<--------------------->
+
+The others call me the
+Chemical Hunter.
+<--------------------->
+
+You see, I do
+scientific research
+<--------------------->
+
+that goes to benefit
+the Hunter's
+livelihood.
+<--------------------->
+
+But even though I'm a
+Hunter in title,
+<--------------------->
+
+I leave the rigorous
+physical part to the
+others.
+<--------------------->
+
+Thank you so much for
+your help.
+<*********************>
+
+<p 02><a 45><n 3A>
+*munch munch munch*
+<--------------------->
+
+Mnh? Who are you? Can't
+you see I'm eating.
+<--------------------->
+
+Would you mind not
+talking to me right
+now?
+<--------------------->
+
+Eh? My name? ...It's
+Owl. What about it?
+<*********************>
+
+<p 02><a 45><n 3A>
+*munch munch munch*
+<--------------------->
+
+Mmm, now that's
+delicious...
+<--------------------->
+
+I tell ya, all I need
+in this world is food!
+<*********************>
+
+<p 02><a 45><n 3A>
+*munch munch munch*
+<--------------------->
+
+Mnh? You're still here?
+Did you bring me
+dessert or something?
+<*********************>
+
+<p 02><a 45><n 3A>
+*munch munch munch*
+<--------------------->
+
+I could just keep
+eating all day long.
+<*********************>
+
+<p 02><a 45><n 3A>
+*munch munch munch*
+<--------------------->
+
+My belt broke, I ate
+too much.
+<--------------------->
+
+Maybe I should go on a
+diet?
+*munch munch munch*
+<*********************>
+
+<p 02><a 46><n 44>
+My name is James.
+<--------------------->
+
+I'm a recycling Hunter.
+I make my living
+salvaging junk.
+<*********************>
+
+<p 02><a 46><n 44>
+Dummy Conversation
+<*********************>
+
+<p 02><a 46><n 44>
+Dummy Conversation
+<*********************>
+
+<p 02><a 46><n 44>
+Well, looks like you've
+finally come 'round to
+recycling.
+<--------------------->
+
+Ya know, there's some
+folks who'll never
+change...
+<--------------------->
+
+They jus' can't,
+I guess.
+<--------------------->
+
+Just a little junk can
+turn into a mountain in
+no time...
+<--------------------->
+
+Like this one.
+<--------------------->
+
+It's one thing to wake
+up and smell the coffee
+late, and another thing
+<--------------------->
+
+to not wake up at all,
+let alone smell the
+coffee... Ya get me?
+<--------------------->
+
+These Mechaniloids
+around here,
+<--------------------->
+
+they come from all the
+junk that people throw
+away.
+<--------------------->
+
+Do ya know what that
+means? People,
+<--------------------->
+
+the ones who threw away
+that junk have, by
+their own hand,
+<--------------------->
+
+put themselves on the
+path to destruction.
+<*********************>
+
+<p 02><a 46><n 44>
+Well, looks like you've
+finally come 'round to
+recycling.
+<--------------------->
+
+Ya know, there's some
+folks who'll never
+change...
+<--------------------->
+
+They jus' can't,
+I guess.
+<--------------------->
+
+Just a little junk can
+turn into a mountain in
+no time...
+<--------------------->
+
+Like this one.
+<--------------------->
+
+It's one thing to wake
+up and smell the coffee
+late, and another thing
+<--------------------->
+
+to not wake up at all,
+let alone smell the
+coffee... Ya get me?
+<--------------------->
+
+These Mechaniloids
+around here,
+<--------------------->
+
+they come from all the
+junk that people throw
+away.
+<--------------------->
+
+Do ya know what that
+means? People,
+<--------------------->
+
+the ones who threw away
+that junk have, by
+their own hand,
+<--------------------->
+
+put themselves on the
+path to destruction.
+<*********************>
+
+<p 02><a 47><n 3E>
+*gasp!* Aren't you da
+Model A Chosen One?
+<--------------------->
+
+Oh, my bad. I
+forgot to introduce
+myself!
+<--------------------->
+
+They call me John!
+<--------------------->
+
+I never thought I'd
+meet a Mega Man in a
+podunk camp like dis.
+<--------------------->
+
+It must be my lucky
+day.
+<--------------------->
+
+Well, I hadn't been too
+lucky'till you showed
+up...
+<--------------------->
+
+I'd just come in
+this room, when the
+door
+<--------------------->
+
+decided to stop
+workin'. I've been
+trapped in here since.
+<--------------------->
+
+I don't know what
+woulda happened if you
+didn't come along.
+<*********************>
+
+<p 02><a 47><n 3E>
+Dummy Conversation
+<*********************>
+
+<p 02><a 47><n 3E>
+Dummy Conversation
+<*********************>
+
+<p 02><a 47><n 3E>
+Dummy Conversation
+<*********************>
+
+<p 02><a 47><n 3E>
+People's always sayin'
+I don't look like no
+Hunter,
+<--------------------->
+
+but I can get busy wit
+da best of 'em!
+<--------------------->
+
+Yo, check it! I found
+this lost
+<--------------------->
+
+technology out in the
+ruins!
+<--------------------->
+
+It's called an Absorber
+or somethin'. It's like
+some kinda chip.
+<--------------------->
+
+Go ahead and equip it.
+It's still usable.
+<--------------------->
+
+I hate to part wit it,
+ya know whadahmsayin'.
+<--------------------->
+
+But, for you, I'll make
+a deal!
+<--------------------->
+
+Hol' on, hol' on, let
+me see...
+<--------------------->
+
+It cost me 35 EC to
+get to da Scrapyard...
+<--------------------->
+
+Lunch cost about 26
+EC... 18 EC for
+shipping...
+<--------------------->
+
+Then 21 EC to have it
+fixed... All together,
+dat's like 100 EC...
+<--------------------->
+
+I'm tryin' to get
+100 EC for it,
+<--------------------->
+
+but I'll let
+you have it for 99 EC!
+<--------------------->
+
+<p 02><e 01><a 47><n 3E>
+So, how 'bout it?
+  Yes
+  No
+<*********************>
+
+<p 02><a 47><n 3E>
+I knew you'd like dat
+deal! Thanks, Playa!
+<*********************>
+
+<p 02><s 01><a 47><n 3E>
+What? Ya jus gonna do
+me like dat, huh!?
+<--------------------->
+
+Well, jus let me know
+if you change your
+mind.
+<*********************>
+
+
+You're gonna hafta
+listen to pitch all
+over again.
+<--------------------->
+
+But hey, that's jus
+the way I hustle.
+<*********************>
+
+<p 02><a 47><n 3E>
+I ain't got nutin' to
+sell right now!
+<--------------------->
+
+I don't take returns,
+so if it don't work, I
+can't help ya!
+<*********************>
+
+<p 02><a 47><n 3E>
+Are you jivin' me, man?
+You ain't got enough
+E-Crystals!
+<*********************>
+
+<p 02><a 48><n 36>
+OK, I'll explain it
+once again. That device
+is called a Warp Point.
+<--------------------->
+
+You can use the
+transerver back there
+any time
+<--------------------->
+
+to go to wherever there
+is a Warp Point.
+<--------------------->
+
+But it looks like that
+one isn't working,
+<--------------------->
+
+because it's all out of
+power.
+<--------------------->
+
+If you have enough
+E-Crystals,
+<--------------------->
+
+you can press up on the
+<dpad>Control Pad and start
+it up.
+<--------------------->
+
+You can look at the map
+to see which areas are
+accessible.
+<--------------------->
+
+When you start up the
+Warp Point, the area
+will light up red.
+<--------------------->
+
+So, you should be able
+to find it right away.
+<--------------------->
+
+I wonder if you were
+able to understand my
+explanation,
+<--------------------->
+
+since I'm still in
+training.
+<--------------------->
+
+Also, in Beginner Mode,
+all you have to do is
+touch it
+<--------------------->
+
+and it will start up
+automatically!
+<--------------------->
+
+If you don't understand
+something, please ask
+me again, OK?
+<*********************>
+
+<p 02><a 48><n 36>
+You can only transport
+to a Warp Point through
+a transerver.
+<--------------------->
+
+Get on the transerver
+and select "Transport".
+<--------------------->
+
+Either touch the area
+you want to go to on
+the map
+<--------------------->
+
+on the bottom screen or
+use the <dpad>Control Pad
+to move the cursor
+<--------------------->
+
+and highlight it!
+<--------------------->
+
+Accessible transport
+destinations will be
+flashing red,
+<--------------------->
+
+so they're easy to
+spot!
+<*********************>
+
+<p 02><a 48><n 36>
+You can only transport
+to a Warp Point through
+a transerver.
+<--------------------->
+
+Get on the transerver
+and select "Transport".
+<--------------------->
+
+Either touch the area
+you want to go to on
+the map 
+<--------------------->
+
+on the bottom screen or
+use the <dpad>Control Pad
+to move the cursor 
+<--------------------->
+
+and highlight it!
+<--------------------->
+
+Accessible transport
+destinations will be
+flashing red,
+<--------------------->
+
+so they're easy to
+spot!
+<*********************>
+
+<p 02><a 48><n 36>
+Do you have your Warp
+Points turned on?
+<--------------------->
+
+You may need to go back
+to certain areas,
+<--------------------->
+
+so it's a good idea to
+turn them on.
+<--------------------->
+
+Be sure to check your
+map when new transport
+destinations 
+<--------------------->
+
+are added to a
+transerver. Because,
+sometimes
+<--------------------->
+
+the cursor will show an
+area you're seeing for
+the first time!
+<--------------------->
+
+Keep a close eye out
+for those!
+<*********************>
+
+<p 02><a 48><n 36>
+You have a wish card
+there. What's your
+wish?
+<--------------------->
+
+My wish is for world
+peace...
+<--------------------->
+
+Because it's hard to
+look at wounded people
+coming home everyday.
+<*********************>
+
+<p 02><a 48><n 36>
+You get hurt in battle
+too, don't you?
+<--------------------->
+
+I know there isn't much
+I can do, but that's
+my wish anyway.
+<*********************>
+
+<p 02><a 49><n 43>
+My, my, what have we
+here!?
+<--------------------->
+
+If it isn't the famous
+Model A Chosen One.
+<--------------------->
+
+Oh, I almost forgot, my
+name is Rudy.
+<--------------------->
+
+You'll have to pardon
+my appearance.
+<--------------------->
+
+I can assure you that
+my looks belie my true
+self.
+<--------------------->
+
+Truth be told... And
+this is strictly
+between you and me,
+<--------------------->
+
+a simple transport
+device has come into my
+possession.
+<--------------------->
+
+Unfortunately, I cannot
+sell it. However,
+<--------------------->
+
+I can let you use it on
+an as-needed basis for
+50 EC!
+<--------------------->
+
+The thing is, because
+of the low power
+output,
+<--------------------->
+
+you can only use it to
+return to Hunter's
+Camp.
+<*********************>
+
+<p 02><e 63><a 49><n 43>
+Do you need to use it? 
+  No
+  Yes
+<*********************>
+
+<p 02><a 49><n 43>
+OK, here you go!
+3...2...1...0!
+<*********************>
+
+<p 02><a 49><n 43>
+Oh well... If you ever
+need to use it, just
+let me know.
+<*********************>
+
+<p 02><a 49><n 43>
+My, my, it looks like
+you don't have enough
+E-Crystals...
+<*********************>
+
+<p 02><a 49><n 43>
+Well, well... Do you
+want to use my
+transport device?
+<*********************>
+
+<p 02><a 49><n 43>
+Well, well... Do you
+want to use my
+transport device?
+<*********************>
+
+<p 02><a 49><n 43>
+Well, well... Do you
+want to use my
+transport device?
+<*********************>
+
+<p 02><a 49><n 43>
+Well, well... Do you
+want to use my
+transport device?
+<*********************>
+
+<p 02><a 4A><n 40>
+Brrrr! It's cold. I
+should have dressed
+warmer.
+<--------------------->
+
+Er, are you a Hunter
+too? My name is Mary.
+Nice to meet you!
+<*********************>
+
+<p 02><a 4A><n 40>
+Dummy Conversation
+<*********************>
+
+<p 02><a 4A><n 40>
+It's really cold here.
+<--------------------->
+
+This hood, I usually
+just wear it because it
+looks cute...
+<--------------------->
+
+But it's not much help
+on days like this.
+<--------------------->
+
+It is good for
+hearing far-away
+sounds, though.
+<*********************>
+
+<p 02><a 4A><n 40>
+It's really cold here.
+<--------------------->
+
+This hood, I usually
+just wear it because it
+looks cute...
+<--------------------->
+
+But it's not much help
+on days like this.
+<--------------------->
+
+It is good for
+hearing far-away
+sounds, though.
+<*********************>
+
+<p 02><a 4A><n 40>
+It's really cold here.
+<--------------------->
+
+This hood, I usually
+just wear it because it
+looks cute...
+<--------------------->
+
+But it's not much help
+on days like this.
+<--------------------->
+
+It is good for
+hearing far-away
+sounds, though.
+<*********************>
+
+<p 02><a 4B><n 45>
+Whoa... You don't see
+many people around here
+dressed like that.
+<--------------------->
+
+Are you supposed to be
+a new comic superhero
+or something?
+<--------------------->
+
+...
+<--------------------->
+
+I get it, you haven't
+come up with a name for
+yourself yet...
+<--------------------->
+
+That's cool.
+<--------------------->
+
+My name is Ray. I
+collect old comic
+books.
+<--------------------->
+
+It's one of my hobbies.
+<--------------------->
+
+That's why the other
+Hunters call me the
+Comic Hunter.
+<--------------------->
+
+But, I'm not really all
+THAT. *blush*
+<*********************>
+
+<p 02><a 4B><n 45>
+The other day, I went
+to a shop that's on the
+way to Legion and
+<--------------------->
+
+bought some comics,
+but, their selection
+was so small.
+<--------------------->
+
+I guess it can't be
+helped, though,
+<--------------------->
+
+because it was such a
+small shop.
+<*********************>
+
+<p 02><a 4B><n 45>
+By the way, is the
+train fixed yet?
+<--------------------->
+
+*sigh* I can't go back
+and buy any more comics
+<--------------------->
+
+until that train starts
+running again.
+<--------------------->
+
+It'd be nice if I could
+use the transerver,
+<--------------------->
+
+but, whenever I get on
+it, I get really
+nauseous.
+<*********************>
+
+<p 02><a 4B><n 45>
+People ask me why I buy
+so many comics, but I
+think just like you can
+<--------------------->
+
+hate things for no
+reason, you can like
+things for no reason.
+<--------------------->
+
+I like reading comic
+books more than digital
+comics.
+<--------------------->
+
+There's just something
+warm about them.
+<--------------------->
+
+The others do make fun
+of me for my "senseless
+obsession" though.
+<*********************>
+
+<p 02><a 4B><n 45>
+You know, recently,
+I've been writing my
+own comic book.
+<--------------------->
+
+It's a story about this
+robot that fights with
+a folding fan
+<--------------------->
+
+in each hand. I guess
+there was a comic with
+a very similar
+<--------------------->
+
+storyline... It's not
+easy to come up with
+something
+<--------------------->
+
+that's completely
+original.
+<*********************>
+
+<p 02><a 40><n 22>
+Yo! Ashe, Sister! We've
+been waiting for you!
+Everything's sorted.
+<--------------------->
+
+<p 02><a 40><n 22>
+Check it out! She's all
+fixed and ready to go.
+You just give the word!
+<*********************>
+
+<p 02><e 63><a 40><n 22>
+Shall we go to Legion?
+  Yes
+  No
+<*********************>
+
+<p 02><a 40><n 22>
+Yo! Ashe, Sister!
+Everything's sorted.
+<--------------------->
+
+She's all fixed and
+ready to go.
+<*********************>
+
+<p 02><e 63><a 40><n 22>
+Shall we go to Legion?
+  Yes
+  No
+<*********************>
+
+<p 02><a 40><n 22>
+Here we go! All aboard!
+<*********************>
+
+<p 02><a 40><n 22>
+OK, we'll be standing
+by. You just give the
+word!
+<*********************>
+
+<FIM>

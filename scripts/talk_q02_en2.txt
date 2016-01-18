@@ -1,0 +1,276 @@
+<script_info tipo='Quest 2' personagem='Ashe' tamanho='2777' inicio_ponteiros='4' fim_ponteiros='59' inicio_textos='60' />
+<#####################>
+
+<p 02><a 5F><n 33>
+There's no way around
+it. To keep digging,
+<--------------------->
+
+I'm going to need
+another 100 EC...
+<*********************>
+
+<e 01><a 5F><n 33>
+Help with a donation?
+  Yes
+  No
+<*********************>
+
+<p 02><a 5F><n 33>
+Thank you! With this,
+<--------------------->
+
+I should be able to
+make this passageway a
+little bit wider!
+<*********************>
+
+<p 02><s 01><a 5F><n 33>
+Oh... I'm sorry to hear
+that. Well I don't
+wanna put you
+<--------------------->
+
+in a tight spot. But,
+lemme know if you
+change your mind!
+<*********************>
+
+<p 02><a 5F><n 33>
+Hey! This is how much I
+was able to widen the
+passageway.
+<--------------------->
+
+But to keep going, I
+need 200 EC more...
+<*********************>
+
+<e 01><a 5F><n 33>
+Help with a donation?
+  Yes
+  No
+<*********************>
+
+<p 02><a 5F><n 33>
+Thank a lot! With this,
+<--------------------->
+
+I should be able to
+make this passageway a
+little bit wider!
+<*********************>
+
+<p 02><s 01><a 5F><n 33>
+Oh... I'm sorry to hear
+that. Well I don't
+wanna put you in a
+<--------------------->
+
+tight spot. But, lemme
+know if you change your
+mind!
+<*********************>
+
+<p 02><a 5F><n 33>
+Hey! This is how much I
+was able to widen the
+passageway.
+<--------------------->
+
+But to keep going, I
+need 300 EC more...
+<*********************>
+
+<e 01><a 5F><n 33>
+Help with a donation?
+  Yes
+  No
+<*********************>
+
+<p 02><a 5F><n 33>
+Thanks pal! With this,
+<--------------------->
+
+I should be able to
+widen this passageway a
+little bit more!
+<*********************>
+
+<p 02><s 01><a 5F><n 33>
+Oh... I'm sorry to hear
+that. Well I don't
+wanna put you
+<--------------------->
+
+in a tight spot. But,
+lemme know if you
+change your mind!
+<*********************>
+
+<p 02><a 5F><n 33>
+Hey! This is how much I
+was able to widen the
+passageway.
+<--------------------->
+
+But to keep going, I
+need 400 EC more...
+<*********************>
+
+<e 01><a 5F><n 33>
+Help with a donation?
+  Yes
+  No
+<*********************>
+
+<p 02><a 5F><n 33>
+'Preciate it! With
+this,
+<--------------------->
+
+I should be able to
+widen this passageway a
+little bit more!
+<*********************>
+
+<p 02><s 01><a 5F><n 33>
+Oh... I'm sorry to hear
+that. Well I don't
+wanna put you
+<--------------------->
+
+in a tight spot. But,
+lemme know if you
+change your mind!
+<*********************>
+
+<p 02><a 5F><n 33>
+Hey! This is how much I
+was able to widen the
+road.
+<--------------------->
+
+But to keep going, I
+need 500 EC more...
+<*********************>
+
+<e 01><a 5F><n 33>
+Help with a donation?
+  Yes
+  No
+<*********************>
+
+<p 02><a 5F><n 33>
+Thanks a million!
+<--------------------->
+
+With this, I should be
+able to widen the road
+a little bit more!
+<*********************>
+
+<p 02><s 01><a 5F><n 33>
+Oh... I'm sorry to hear
+that. Well I don't
+wanna put you in a
+<--------------------->
+
+tight spot. But, lemme
+know if you change your
+mind!
+<*********************>
+
+<p 02><a 5F><n 33>
+I hit some pretty tough
+bedrock down there.
+<--------------------->
+
+My drill is pretty much
+useless on it.
+<--------------------->
+
+I've heard talk of
+there being a Legendary
+Pickaxe
+<--------------------->
+
+made of Ceratanium
+somewhere in the
+Quarries.
+<--------------------->
+
+Do you think you could
+find it for me? I'd
+really appreciate it.
+<*********************>
+
+<p 02><a 5F><n 33>
+They say that the
+Legendary Pickaxe is in
+the dark cellar.
+<--------------------->
+
+It's probably somewhere
+in the Quarries.
+<*********************>
+
+<p 02><a 5F><n 33>
+Oh! I didn't think
+you'd really be able to
+find it!
+<--------------------->
+
+With this, I should be
+able to keep digging.
+<--------------------->
+
+Well, I'll get back to
+work. Come back again,
+OK?
+<*********************>
+
+<p 02><a 5F><n 33>
+Boy, I'm surprised that
+I was even able to dig
+this far!
+<--------------------->
+
+Of course I couldn't
+have done it without
+your help.
+<*********************>
+
+<p 02><a 5F><n 33>
+Boy, I'm surprised that
+I was even able to dig
+this far!
+<--------------------->
+
+Of course I couldn't
+have done it without
+your help.
+<*********************>
+
+<p 02><a 5F><n 33>
+Boy, I'm surprised that
+I was even able to dig
+this far!
+<--------------------->
+
+Of course I couldn't
+have done it without
+your help.
+<*********************>
+
+<p 02><a 5F><n 33>
+Normal Conversation
+<*********************>
+
+<p 02><a 5F><n 33>
+I'm glad you want to
+help, but that's just
+not enough E-Crystals.
+<*********************>
+
+<FIM>

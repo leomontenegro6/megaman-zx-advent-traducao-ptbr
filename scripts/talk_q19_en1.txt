@@ -1,0 +1,110 @@
+<script_info tipo='Quest 25' personagem='Grey' tamanho='990' inicio_ponteiros='4' fim_ponteiros='23' inicio_textos='24' />
+<#####################>
+
+<p 02><a 4F><n 2F>
+Introduction of Elena
+<*********************>
+
+<p 02><a 4F><n 2F>
+Normal Conversation0
+<*********************>
+
+<p 02><a 4F><n 2F>
+Normal Conversation1
+<*********************>
+
+<p 02><a 4F><n 2F>
+Normal Conversation2
+<*********************>
+
+<p 02><a 4F><n 2F>
+Normal Conversation3
+<*********************>
+
+<p 02><a 4F><n 2F>
+I can't believe this!
+<--------------------->
+
+My father gave me that
+pendant for my 5th
+birthday.
+<--------------------->
+
+<p 02><a 4F><n 2F>
+To have it stolen by
+some... *huff* some
+Mechaniloid...
+<--------------------->
+
+It's unforgivable!
+<--------------------->
+
+<p 02><a 4F><n 2F>
+It took off toward that
+sewage over there.
+<--------------------->
+
+<p 02><a 4F><n 2F>
+I just know that it
+went into one of those
+<--------------------->
+
+strange looking
+buildings.
+<--------------------->
+
+<p 02><a 4F><n 2F>
+You aren't going to
+just stand there are
+you!?
+<--------------------->
+
+You're going to get my
+pendant back, right?
+<*********************>
+
+<p 02><a 4F><n 2F>
+Eh? That strange
+looking building is
+called the Bio Lab?
+<--------------------->
+
+<p 02><a 4F><n 2F>
+It's definitely in
+there.
+<--------------------->
+
+<p 02><a 4F><n 2F>
+Get back my pendant
+from that...*huff* that
+Mechaniloid.
+<*********************>
+
+<p 02><a 4F><n 2F>
+That's it! That's it!
+What a relief. Without
+that I'd... I'd...
+<--------------------->
+
+<p 02><a 4F><n 2F>
+Wh-What? Don't just
+stand there looking at
+me like that!
+<--------------------->
+
+OK, OK, take this! 
+<*********************>
+
+<p 02><a 4F><n 2F>
+You should consider it
+an honor to receive
+something from moi!
+<*********************>
+
+<p 02><a 4F><n 2F>
+Did you really find my
+pendant? Well show it
+to me already!
+<*********************>
+
+<FIM>

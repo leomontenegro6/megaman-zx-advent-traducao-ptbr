@@ -1,0 +1,128 @@
+<script_info tipo='Quest 11' personagem='Ashe' tamanho='1136' inicio_ponteiros='4' fim_ponteiros='33' inicio_textos='34' />
+<#####################>
+
+<p 02><a 66><n 32>
+I'm sorry to bother you
+all of a sudden,
+<--------------------->
+
+but could you do me a
+favor?
+<--------------------->
+
+<p 02><a 66><n 32>
+I ordered a shelf to go
+in this room, but it
+still hasn't come yet.
+<--------------------->
+
+<p 02><a 66><n 32>
+I can't get in touch
+with the shop,
+<--------------------->
+
+there may be some
+trouble with the
+network.
+<--------------------->
+
+<p 02><a 66><n 32>
+If you're headed
+towards Legion,
+<--------------------->
+
+could you check on that
+order for me?
+<--------------------->
+
+<p 02><a 66><n 32>
+I'll give you the money
+for it.
+<*********************>
+
+<p 02><a 66><n 32>
+When you get off
+the train, just go
+straight ahead.
+<--------------------->
+
+It'll be right there.
+<--------------------->
+
+<p 02><a 66><n 32>
+I believe the guy at
+the shop's name was
+Austin
+<--------------------->
+
+or something like that.
+<*********************>
+
+<p 02><a 66><n 32>
+Oh, it's you! Look, the
+new shelves have
+arrived!
+<--------------------->
+
+<p 02><a 66><n 32>
+Thank you! Please take
+this!
+<*********************>
+
+<p 02><a 66><n 32>
+I've got plans to
+really make this room
+nice.
+<--------------------->
+
+<p 02><a 66><n 32>
+I may ask you for
+another favor sometime.
+<*********************>
+
+<p 02><a 9A><n 51>
+Hello, how may I help
+you?
+<*********************>
+
+<p 02><a 9A><n 51>
+Hm? That's a mission
+request, isn't it? 
+<--------------------->
+
+Oh, I get it, you're
+here for shelves.
+<*********************>
+
+<p 02><a 9A><n 51>
+Uhm... That'll be
+1000 EC!
+<*********************>
+
+<p 02><a 9A><n 51>
+I tried to call you,
+but it looks like there
+<--------------------->
+
+was some network
+trouble.
+<*********************>
+
+<p 02><a 9A><n 51>
+I'm really sorry that
+you had to come out all
+this way.
+<--------------------->
+
+I'll deliver the
+shelves myself in a
+little while.
+<*********************>
+
+<p 02><a 9A><n 51>
+But it looks like you
+don't have enough 
+E-Crystals.
+<*********************>
+
+<FIM>

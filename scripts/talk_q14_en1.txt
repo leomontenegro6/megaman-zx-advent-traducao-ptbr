@@ -1,0 +1,50 @@
+<script_info tipo='Quest 20' personagem='Grey' tamanho='508' inicio_ponteiros='4' fim_ponteiros='9' inicio_textos='10' />
+<#####################>
+
+<p 02><a 96><n 50>
+Oh yeah! Now I
+remember!
+<--------------------->
+
+I heard that there's a
+fire breaking out in
+the Legion building...
+<--------------------->
+
+If that's true, I'm
+worried.
+<--------------------->
+
+I can't go and check it
+out with all of those
+Mechaniloids around.
+<--------------------->
+
+Could you go take a
+look and put out the
+fire if there is one?
+<*********************>
+
+<p 02><a 96><n 50>
+If you have water, you
+should be able to douse
+the flames.
+<--------------------->
+
+Please hurry! I'm
+worried that people
+could be hurt.
+<*********************>
+
+<p 02><a 96><n 50>
+I'm relieved to hear
+that the fire is out.
+Thank you very much.
+<--------------------->
+
+This used to be my
+older brother's. Please
+take it.
+<*********************>
+
+<FIM>

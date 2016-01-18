@@ -1,0 +1,188 @@
+<script_info tipo='Quest 5' personagem='Ashe' tamanho='1704' inicio_ponteiros='4' fim_ponteiros='39' inicio_textos='40' />
+<#####################>
+
+<p 02><a 42><n 4A>
+Do you think you can
+beat a Galleon Rider in
+a race?
+<--------------------->
+
+<p 02><a 42><n 4A>
+It's all about speed!
+Do you have what it
+takes?
+<--------------------->
+
+<p 02><a 42><n 4A>
+The first across the
+finish line is the
+winner.
+<--------------------->
+
+<p 02><a 42><n 4A>
+Jump on one of those
+rides over there,
+and get ready to race!
+<--------------------->
+
+<p 02><e 63><a 42><n 4A>
+Race?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+That's the spirit!
+Let's get ready to
+rock!
+<*********************>
+
+<p 02><a 42><n 4A>
+Oh? Is that a booster
+you have?
+<--------------------->
+
+You can use that to
+tune up your ride!
+<--------------------->
+
+<p 02><a 42><n 4A>
+You can take off like a
+rocket right off the
+starting line!
+<--------------------->
+
+<p 02><a 42><n 4A>
+But it's so powerful,
+that once you use it,
+<--------------------->
+
+it destroys the
+booster.
+<--------------------->
+
+<p 02><e 63><a 42><n 4A>
+Use your booster?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+Oh, well... Come back
+when you feel up to it!
+<*********************>
+
+<p 03><a 42><n 4A>
+Ashe, the challenger
+WINS!
+<--------------------->
+
+<p 03><a 42><n 4A>
+Congratulations! Here
+is your title and your
+prize money!
+<*********************>
+
+<p 02><a 42><n 4A>
+Don't get too cocky,
+the next guy you race
+won't be so easy.
+<*********************>
+
+<p 03><a 42><n 4A>
+Sorry... This one goes
+to the Galleon Rider.
+<--------------------->
+
+<p 03><a 42><n 4A>
+Well, let me give you
+one piece of advice.
+<--------------------->
+
+<p 03><a 42><n 4A>
+When you get air or
+take hits, you lose
+precious speed.
+<--------------------->
+
+<p 03><a 42><n 4A>
+The key to winning is
+maintaining as much
+speed as possible.
+<*********************>
+
+<p 02><a 42><n 4A>
+You gotta take this
+loss and eat it.
+<--------------------->
+
+Use it for fuel to win
+next time!
+<*********************>
+
+<p 02><a 42><n 4A>
+My name is Burt!
+<*********************>
+
+<p 02><a 42><n 4A>
+I'm trying to raise
+some money to fix the
+bridge for our races.
+<--------------------->
+
+Repairs cost a lot.
+<--------------------->
+
+<p 02><a 42><n 4A>
+If you could donate
+400 EC, it would
+help out a lot.
+<*********************>
+
+<p 02><e 01><a 42><n 4A>
+Make a donation?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+Thanks! I'll have those
+repairs done by the
+time you come back!
+<*********************>
+
+<p 02><a 42><n 4A>
+Aww... I really wanted
+to see you race.
+<*********************>
+
+<p 02><a 42><n 4A>
+Boy, it looks like YOU
+don't even have enough
+EC. I feel your pain.
+<*********************>
+
+<p 02><e 01><a 42><n 4A>
+Make a donation?
+  Yes
+  No
+<*********************>
+
+<p 02><e 01><a 42><n 4A>
+Make a donation?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4A>
+Alright, booster is on.
+Let's start the race!
+<*********************>
+
+<p 02><a 42><n 4A>
+Alright, Let's start
+the race with no
+booster.
+<*********************>
+
+<FIM>

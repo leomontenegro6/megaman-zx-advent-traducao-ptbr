@@ -1,0 +1,52 @@
+<script_info tipo='Quest 28' personagem='Ashe' tamanho='425' inicio_ponteiros='4' fim_ponteiros='19' inicio_textos='20' />
+<#####################>
+
+<p 02><a 44><n 35>
+Oh! I've done it again.
+<*********************>
+
+<p 02><a 44><n 35>
+Hmm? Hey you!
+<--------------------->
+
+I need you to
+get rid of some
+Chabanos.
+<*********************>
+
+<p 02><a 44><n 35>
+Boy, this is a total
+mess,
+<*********************>
+
+<p 02><a 44><n 35>
+There's no way I can
+handle that many of
+<--------------------->
+
+them if they start
+getting rowdy.
+<*********************>
+
+<p 02><a 44><n 35>
+Chabanos are my guinea
+pigs.
+<*********************>
+
+<p 02><a 44><n 35>
+They're great to do
+research on. 
+<*********************>
+
+<p 02><a 44><n 35>
+But enough about that.
+Go on young'n and get
+rid of them varmints.
+<*********************>
+
+<p 02><a 44><n 35>
+Looks like you're not a
+bad Hunter after all.
+<*********************>
+
+<FIM>

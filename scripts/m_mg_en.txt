@@ -1,0 +1,109 @@
+<script_info tipo='Missão 0' personagem='indefinido' tamanho='1218' inicio_ponteiros='4' fim_ponteiros='35' inicio_textos='36' />
+<#####################>
+
+
+Gem Buster
+<*********************>
+
+
+Survival Road
+<*********************>
+
+
+Boss Battle
+<*********************>
+
+
+Quiz Advent
+<*********************>
+
+
+Mega Man a
+<*********************>
+
+
+Sandwich jewels between 2
+jewels of the same color to
+erase them. Combine black
+blocks with other black
+blocks. Combinations are
+possible with falling
+blocks only. *For ad-hoc
+network play only.
+<*********************>
+
+
+Fight every boss in the
+game one after another. One
+player. Health and BM Gauge
+are returned to their
+default settings. Use of
+items is prohibited. Health
+can be restored by the use
+of 2 sub tanks only. 
+<*********************>
+
+
+Fight the boss of your
+choice. One player. Health
+and BM Gauge are returned
+to their default settings.
+Use of items is prohibited.
+Health can be restored by
+the use of 2 sub tanks
+only. 
+<*********************>
+
+
+Answer a series of
+questions given by
+characters in the game by
+touching the bottom screen.
+There are 3 types of
+Quizzes: the Zoom Quiz, the
+Silhouette Quiz, and the
+Gap Quiz.
+<*********************>
+
+
+Play this mini game with
+Mega Man a (ancient). The
+player can only use the
+Buster Shot. Sliding can be
+performed with the
+Dash Button.
+<*********************>
+
+
+You can't play this mini
+game if you don't have any
+save data.
+<*********************>
+
+
+Host a match
+<*********************>
+
+
+Join a match
+<*********************>
+
+
+Challenge an opponent.
+You'll be Player 1
+<*********************>
+
+
+Accept challenge.
+You'll be Player 2
+<--------------------->
+
+
+<*********************>
+
+
+<dpad>Control Pad <esquerda>/<direita>:Select
+<btn_a>Button:OK <btn_b>Button:Cancel
+<*********************>
+
+<FIM>

@@ -1,0 +1,619 @@
+<script_info tipo='Missão 7' personagem='Grey' tamanho='6327' inicio_ponteiros='4' fim_ponteiros='59' inicio_textos='60' />
+<#####################>
+
+<p 02><a 0F><n 01>
+D-Did you hear that!?
+What was that loud
+noise?
+<--------------------->
+
+<p 02><a 6B><n 15>
+There's a shootout
+somewhere.
+<--------------------->
+
+I wonder if Mavericks
+got the jump on us. I
+can't get through 
+<--------------------->
+
+<p 02><a 6B><n 15>
+to the Sage Trinity.
+This doesn't look good.
+<--------------------->
+
+<p 02><a 08><n 01>
+Legion Headquarters is
+this way! Let's hurry!
+<*********************>
+
+<p 03><d E801><a 2D><n 14>
+TARGET ACQUIRED.
+INITIATE INFORMATION
+ANALYSIS.
+<--------------------->
+
+<p 03><d E901><a 2D><n 14>
+COMMENCE PLANNED
+COMBAT PROCEDURE?
+<--------------------->
+
+<d EA01>
+INPUT
+RESPONSE...
+<--------------------->
+
+<p 02><d EB01><a 6B><n 15>
+Aw, man, this guy's the
+weirdest of 'em all.
+<--------------------->
+
+<p 03><d EC01><a 2D><n 14>
+INVALID INPUT. INPUT
+RESPONSE.
+<--------------------->
+
+<p 02><d ED01><a 0A><n 01>
+Well, if this is the
+only way for me find
+out who I really am...
+<--------------------->
+
+<p 03><d EE01><a 2D><n 14>
+RESPONSE ACCEPTED...
+COMMENCE COMBAT...!
+<*********************>
+
+<p 03><d EF01><a 2E><n 14>
+DESTRUCTION OF
+BIOLOGICAL TARGET
+CONFIRMED.
+<--------------------->
+
+<p 03><d F001><a 2E><n 14>
+COMMENCING PLAN TO TAKE
+CONTROL OF LEGION
+HEADQUARTERS. *laugh* 
+<*********************>
+
+<p 03><d F101><a 2E><n 14>
+DAMAGE... CRITICAL!
+HAZARDOUS TO PROCEED
+WITH COMBAT ENGAGEMENT
+<--------------------->
+
+<p 03><d F201><a 2E><n 14>
+IN PRESENT CONDITION...
+RETREATING!
+<*********************>
+
+<p 02><d F301><a 0E><n 01>
+Aaaaaaaaaah!
+<*********************>
+
+<p 02><a 03><n 00>
+EXTRACTING FROM CODE
+CE71 TO FC60. EXPANDING
+REPORT DATA.
+<--------------------->
+
+<p 02><a 03><n 00>
+...You who have broken
+the second cipher now
+stand at a fateful
+<--------------------->
+
+<p 02><a 03><n 00>
+crossroads. If you
+continue to read this
+data,
+<--------------------->
+
+there is no turning
+back.
+<*********************>
+
+<p 02><a 03><n 00>
+You too are part of
+this plan.
+Biometal has the
+<--------------------->
+
+<p 02><a 03><n 00>
+ability to give its
+"Chosen One" superhuman
+powers and combine to
+<--------------------->
+
+<p 02><a 03><n 00>
+become a new lifeform.
+This combination
+results in a Megamerge,
+<--------------------->
+
+<p 02><a 03><n 00>
+the transformation into
+a Mega Man. I've
+decided to select a new
+<--------------------->
+
+Chosen One suitable for
+Model W, the next step
+in evolution.
+<--------------------->
+
+Finding a suitable
+candidate in this world
+is nearly impossible.
+<*********************>
+
+<p 02><a 03><n 00>
+But I can do it,
+because as one of
+Legion's Sage Trinity,
+<--------------------->
+
+<p 02><a 03><n 00>
+I know everything
+about the world...
+<*********************>
+
+<p 02><d F401><a 0F><n 01>
+Model W was created by
+one of the Sage
+Trinity!?
+<--------------------->
+
+<p 02><d F501><a 6B><n 15>
+That means that he and
+Prometheus are
+connected somehow
+<--------------------->
+
+<p 02><d F601><a 6B><n 15>
+behind the scenes.
+And it means that
+we can't even
+<--------------------->
+
+<d F701>
+trust the Sage Trinity.
+Yet you still wanna go?
+<--------------------->
+
+<p 02><d F801><a 08><n 01>
+...Come on, Model A!
+They're the only ones
+who know about us.
+<--------------------->
+
+<p 02><d FA01><a 6B><n 15>
+The data recorded on me
+is getting more and
+more outrageous.
+<*********************>
+
+<p 02><d FB01><a 1C><n 07>
+I can't stand
+Mavericks!
+<--------------------->
+
+<p 02><d FC01><a 1D><n 06>
+It's hard to believe
+that they're
+cooperating.
+<--------------------->
+
+<p 03><d FD01><a 1E><n 05>
+They may be taking
+orders from a leader.
+<--------------------->
+
+<p 02><d FE01><a 1C><n 07>
+What do they want? To
+make enemies with every
+nation on the planet?
+<*********************>
+
+<p 03><d FF01><a 1E><n 05>
+What? What if
+they're just fed up
+with the world.
+<--------------------->
+
+<p 02><d 0002><a 1D><n 06>
+What?
+<*********************>
+
+<p 03><d 0102><a 1E><n 05>
+A new rule... For the
+evolution of the
+ultimate Mega Man...
+<*********************>
+
+<p 03><d 0202><a 1E><n 05>
+And there's one
+scientist
+<--------------------->
+
+<d 0302>
+who wants to see that
+evolution through to
+its end.
+<*********************>
+
+<p 02><d 0402><a 1C><n 07>
+What are you saying!?
+No... You didn't!
+<*********************>
+
+<p 01><p 03><d 0502><a 1F><n 05>
+I have a proposal. A
+proposal to this world
+I've led for centuries.
+<--------------------->
+
+<p 01><p 03><d 0602><a 1F><n 05>
+A system to come up
+with fair solutions
+based on the doctrine
+<--------------------->
+
+<p 01><p 03><d 0702><a 20><n 05>
+of the Sage Trinity. If
+you're opposed, then
+just try and stop me.
+<*********************>
+
+<p 02><d 0802><a 6B><n 15>
+Hey, isn't that
+Biometal!?
+<*********************>
+
+<p 03><d 0902><a 1F><n 05>
+Two of the ciphers have
+been broken. I wonder,
+just how much
+<--------------------->
+
+<p 03><d 0B02><a 1F><n 05>
+information has been
+compromised? I wanted
+to dispose of you
+<--------------------->
+
+<d 0C02>
+sooner, but things
+didn't go exactly
+as planned.
+<*********************>
+
+<p 02><d 0D02><a 0A><n 01>
+YOU are the one who's
+been trying to have us
+killed!?
+<--------------------->
+
+<p 03><d 0E02><a 1F><n 05>
+Don't look so angry!
+Welcome to Legion.
+<--------------------->
+
+<p 03><d 0F02><a 20><n 05>
+...Defective.
+<*********************>
+
+<p 03><d 1002><a 1D><n 06>
+I see. I'll tell you
+everything we know.
+<--------------------->
+
+<p 03><d 1102><a 1D><n 06>
+With these mechanical
+bodies, we've been able
+to live for centuries.
+<--------------------->
+
+<p 03><d 1202><a 1D><n 06>
+When Albert became one
+of the Sage Trinity
+those centuries ago,
+<--------------------->
+
+<d 1302>
+he was already working
+on Model W.
+<--------------------->
+
+<p 03><d 1402><a 1D><n 06>
+Also, I looked you up
+in our database, Grey.
+<*********************>
+
+<p 02><d 1502><a 0F><n 01>
+And what did you
+find out about me!?
+<--------------------->
+
+<p 03><d 1602><a 1D><n 06>
+Well, there was no data
+on you... It appears
+that you never existed.
+<--------------------->
+
+<p 02><d 1702><a 0B><n 01>
+That's ridiculous!
+You're lying!
+<--------------------->
+
+<p 03><d 1802><a 1D><n 06>
+I'm not sure what you
+are... But Albert said
+that you were made
+<--------------------->
+
+<p 03><d 1902><a 1D><n 06>
+in his image. I'm
+afraid that because you
+showed up,
+<--------------------->
+
+<p 03><d 1A02><a 1D><n 06>
+he had to speed up his
+plan. I'm not exactly
+sure why, though.
+<*********************>
+
+<p 02><d 1C02><a 0D><n 01>
+I come all this way, go
+through all of that,
+almost get killed,
+<--------------------->
+
+<d 1D02>
+and all you can tell me
+is that you don't know
+anything?
+<--------------------->
+
+<p 02><d 1E02><a 6B><n 15>
+...*sigh*
+<*********************>
+
+<p 03><d 1F02><a 1C><n 07>
+Gentlemen, bad news. We
+have Mavericks showing
+up all over the world.
+<--------------------->
+
+<p 03><d 2002><a 1C><n 07>
+Albert has started
+hunting for food for
+his Model W.
+<--------------------->
+
+<p 02><d 2102><a 6B><n 15>
+He knows the jig is up!
+He's going for a Hail
+Mary! Let's go, Grey!
+<--------------------->
+
+<p 02><d 2202><a 0D><n 01>
+But... I...
+<--------------------->
+
+<p 02><d 2302><a 6B><n 15>
+C'mon, let's go make
+Albert tell us 
+everything he knows.
+<--------------------->
+
+<p 02><d 2402><a 6B><n 15>
+And yeah, we
+can do heroic rescues
+along the way!
+<--------------------->
+
+<p 02><d 2502><a 0D><n 01>
+I can't... I don't
+know anything about
+myself or the world.
+<--------------------->
+
+<p 02><d 2602><a 0D><n 01>
+How can I stand up to
+Albert, who knows
+everything...
+<*********************>
+
+<p 03><d 2702><a 6B><n 15>
+But I know you!
+<--------------------->
+
+<p 03><d 2802><a 6B><n 15>
+You're a tough-talking
+stubborn kid who helps
+people he doesn't know
+<--------------------->
+
+<p 03><d 2A02><a 6B><n 15>
+without expecting
+anything in return. A
+kind, crazy fool!
+<--------------------->
+
+<p 02><d 2B02><a 08><n 01>
+...!
+<--------------------->
+
+<p 03><d 2C02><a 6B><n 15>
+Are you just gonna let
+people suffer? Some
+conscience you have!
+<--------------------->
+
+<p 03><d 2E02><a 6B><n 15>
+What happened to "I
+shouldn't need a
+reason to save lives"?
+<--------------------->
+
+<p 02><d 3002><a 0A><n 01>
+You're right, there's
+still something I can
+do... Let's go Model A!
+<*********************>
+
+<p 02><d 3202><a 0B><n 01>
+Maybe we can't win,
+<--------------------->
+
+<d 3302>
+but we're the only ones
+who stand a chance of
+beating Albert!
+<*********************>
+
+<p 03><d 3402><a 1D><n 06>
+Thank you, Grey. I'd
+like you to go on
+another mission.
+<--------------------->
+
+<p 03><d 3502><a 1D><n 06>
+I want you to stop
+Albert's plan and save
+our world.
+<--------------------->
+
+<p 03><d 3602><a 1D><n 06>
+I've added new
+transport destinations
+to the transerver.
+<--------------------->
+
+<d 3702>
+...I'm counting on you.
+<*********************>
+
+<p 03><a 1D><n 06>
+There are 4 new
+transport destinations.
+The transerver is
+<--------------------->
+
+located just past the
+elevator when you exit
+the door on the right.
+<*********************>
+
+<p 03><a 1C><n 07>
+Albert is a terrifying
+fellow.
+<*********************>
+
+<p 02><a 6B><n 15>
+What is this place? I
+can't see a thing in
+here!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Try morphing into
+Siarnaq. Maybe that'll
+help.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Touch the Siarnaq icon
+on lower right of the
+bottom screen,
+<--------------------->
+
+<p 02><a 6B><n 15>
+The bottom screen will
+change into a radar
+scope.
+<--------------------->
+
+You'll be able to see
+the landscape and enemy
+positions!
+<--------------------->
+
+<p 02><a 6B><n 15>
+You should be able to
+attack enemies by
+touching
+<--------------------->
+
+their location
+indicators on the
+bottom screen.
+<--------------------->
+
+<p 02><a 6B><n 15>
+But unfortunately,
+there's no way out of
+this room...
+<--------------------->
+
+<p 02><a 6B><n 15>
+I know!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Jump and press up on
+the <dpad>Control Pad. With
+Siarnaq's ability,
+<--------------------->
+
+you should be able
+to grab onto that
+contraption.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Give it a try. Just
+press up on the
+<dpad>Control Pad while
+<--------------------->
+
+you're in mid-jump!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Depending on what
+you've grabbed onto,
+you can press
+<--------------------->
+
+the <dpad>Control Pad up
+twice quickly to jump
+on top of it.
+<--------------------->
+
+<p 02><a 6B><n 15>
+You can also press the
+<dpad>Control Pad down
+twice quickly to hang.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Hold the Attack Button
+and release it to throw
+a Cross Star!
+<--------------------->
+
+<p 02><a 6B><n 15>
+If there's something
+you don't quite
+understand,
+<--------------------->
+
+just take a look at
+Profile on the
+sub screen!
+<*********************>
+
+<FIM>

@@ -1,0 +1,89 @@
+<script_info tipo='Quest 22' personagem='Grey' tamanho='864' inicio_ponteiros='4' fim_ponteiros='9' inicio_textos='10' />
+<#####################>
+
+<p 02><a 53><n 3F>
+...
+<--------------------->
+
+Oh hi, it's you! I
+didn't notice you
+there.
+<--------------------->
+
+Hmm... I'm sooo
+stressing out right
+now.
+<--------------------->
+
+Never mind, I'm just
+having a personal
+problem.
+<--------------------->
+
+There's someone I like,
+<--------------------->
+
+but I don't know how I
+can get her to notice
+me.
+<--------------------->
+
+They say there's a
+Magical Fruit... And
+that if you eat it,
+<--------------------->
+
+you'll fall in love
+with the person who
+gave it to you.
+<--------------------->
+
+If I could only get
+that fruit and make
+juice out of it,
+<--------------------->
+
+then I could give it to
+the girl I like to
+drink.
+<--------------------->
+
+Hey, could you do me a
+favor?
+<--------------------->
+
+They say you can find
+the Magical Fruit at
+the Tower of Verdure.
+<--------------------->
+
+Could you go and find
+it for me?
+<*********************>
+
+<p 02><a 53><n 3F>
+I wonder if that fruit
+is really even at the
+Tower of Verdure.
+<--------------------->
+
+I've heard that the
+fruit is very delicate.
+<--------------------->
+
+And if you're not
+careful while picking
+it, you can ruin it.
+<*********************>
+
+<p 02><a 53><n 3F>
+You got it for me!? But
+it just looks like an
+ordinary green apple.
+<--------------------->
+
+Oh well. Anyway, thank
+you very much!
+<*********************>
+
+<FIM>

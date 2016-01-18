@@ -1,0 +1,480 @@
+<script_info tipo='Missão 16' personagem='Ashe' tamanho='4525' inicio_ponteiros='4' fim_ponteiros='55' inicio_textos='56' />
+<#####################>
+
+<p 02><a 6B><n 15>
+Do you feel it, Ashe?
+<--------------------->
+
+<p 02><a 0A><n 02>
+Yeah, I sense something
+just up ahead.
+It must be Model W!
+<*********************>
+
+<p 02><d 3304><a 0F><n 02>
+These can't all be
+Model Ws!?
+<*********************>
+
+<p 03><d 3404><a 20><n 05>
+Hahaha... Are you
+surprised, Ashe?
+<*********************>
+
+<p 03><d 3504><a 1F><n 05>
+Do you have any idea
+how much time I've
+invested in this plan?
+<--------------------->
+
+<p 03><d 3604><a 1F><n 05>
+Did you think you could
+foil my plan
+<--------------------->
+
+<d 3704>
+by destroying one or
+two of my Model Ws? Not
+a chance.
+<*********************>
+
+<p 02><d 3804><a 25><n 03>
+We'll see about that.
+<*********************>
+
+<p 02><d 3904><a 0F><n 02>
+Prometheus...? Pandora?
+<--------------------->
+
+<p 02><d 3A04><a 25><n 03>
+So this is where he's
+been keeping the
+recovered Model Ws.
+<--------------------->
+
+<p 02><d 3B04><a 25><n 03>
+I never thought you
+would have found this
+place for us.
+<--------------------->
+
+<p 02><d 3C04><a 28><n 04>
+Thank you Mega Man
+Model A...
+<*********************>
+
+<p 02><d 3D04><a 25><n 03>
+How many centuries has
+it been since we 
+last met like this,
+<--------------------->
+
+<d 3E04>
+Master Albert!
+<--------------------->
+
+<p 02><d 3F04><a 26><n 03>
+You look even more
+ridiculous in person
+<--------------------->
+
+<d 4004>
+than you do
+on that monitor!
+<--------------------->
+
+<p 03><d 4104><a 1F><n 05>
+What do you all think
+you're doing?
+<--------------------->
+
+<p 02><d 4204><a 26><n 03>
+This is what we're
+doing!
+<*********************>
+
+<p 02><d 4304><a 26><n 03>
+HA HA HA HA HA!
+<--------------------->
+
+<p 02><d 4404><a 25><n 03>
+To be defeated by the
+very first Mega Man you
+ever made!
+<--------------------->
+
+<d 4504>
+How fitting, for the
+scum that you are!
+<--------------------->
+
+<p 02><d 4604><a 6B><n 15>
+What the!? What's going
+on!?
+<*********************>
+
+<p 03><d 4704><a 25><n 03>
+You were being used by
+us all along.
+<--------------------->
+
+<p 03><d 4804><a 25><n 03>
+From the day we first
+awoke,
+<--------------------->
+
+<d 4904>
+we were Mega Men
+destined to fight each
+other...
+<--------------------->
+
+<p 03><d 4A04><a 25><n 03>
+To further Albert's
+insane plan to create
+the ultimate Mega Man.
+<--------------------->
+
+<p 03><d 4B04><a 28><n 04>
+So we decided... to
+take revenge on Albert.
+<--------------------->
+
+<p 02><d 4C04><a 0F><n 02>
+Revenge!?
+<--------------------->
+
+<p 03><d 4D04><a 25><n 03>
+We found many Mega Men
+and brought them into
+this fight.
+<--------------------->
+
+<p 03><d 4E04><a 25><n 03>
+We knew that if we were
+successful, Albert
+would show up.
+<--------------------->
+
+<p 03><d 4F04><a 25><n 03>
+And then you tracked
+him down, allowing us
+to exact our revenge.
+<--------------------->
+
+<p 02><d 5004><a 6B><n 15>
+I didn't think this is
+how the game would
+end...
+<--------------------->
+
+<p 03><d 5104><a 25><n 03>
+*laughter* What are you
+talking about... It's
+not over yet...!
+<*********************>
+
+<p 03><d 5204><a 26><n 03>
+We're still here. The
+garbage left behind by
+that scum!
+<--------------------->
+
+<p 01><p 03><d 5304><a 28><n 04>
+We can't get our old
+bodies back... We can't
+change our destiny...
+<--------------------->
+
+<p 01><p 03><d 5404><a 28><n 04>
+So we'll hasten the
+destiny of
+destruction...
+<--------------------->
+
+<p 00><p 03><d 5504><a 25><n 03>
+We will destroy all
+that Albert made. That
+is our revenge!
+<--------------------->
+
+<p 03><d 5604><a 26><n 03>
+So let's have some fun,
+why don't we? And go 
+out with a bang!
+<*********************>
+
+<p 03><d 5704><a 28><n 04>
+Soon... It will all be
+over. Everything...
+<--------------------->
+
+<p 03><d 5804><a 26><n 03>
+HAHAHAHAHA! Meet your
+doooom! Burrrrrrrrn!
+<*********************>
+
+<p 02><d 5904><a 0B><n 02>
+That's enough! This
+fighting is senseless!
+<--------------------->
+
+<p 03><d 5A04><a 25><n 03>
+That's right... Even
+you can see that this
+fight is pointless!
+<--------------------->
+
+<p 03><d 5B04><a 28><n 04>
+Mavericks terrorize
+humans, and in turn
+<--------------------->
+
+<d 5C04>
+Model Ws absorb that
+anguish.
+<--------------------->
+
+<p 03><d 5D04><a 28><n 04>
+Albert used Legion as
+a front to go about
+selecting Chosen Ones.
+<--------------------->
+
+<p 03><d 5E04><a 28><n 04>
+A world where Mega Men
+are created to destroy
+each other
+<--------------------->
+
+<d 5F04>
+all for Albert's
+satisfaction.
+<--------------------->
+
+<p 03><d 6004><a 25><n 03>
+It was all a farce!
+Albert prepared every-
+thing in this world
+<--------------------->
+
+<d 6104>
+according to his own
+plan.
+<--------------------->
+
+<p 03><d 6204><a 26><n 03>
+He said Mega Men are
+the natural evolution
+of Man!?
+<--------------------->
+
+<d 6304>
+Don't make me laugh!
+<--------------------->
+
+<p 03><d 6404><a 26><n 03>
+What an epic sham!
+<--------------------->
+
+<d 6504>
+I'm going to demolish
+this whole wretched
+world!
+<*********************>
+
+<p 03><d 6604><a 27><n 03>
+DAAAAAAAAAAHH!
+<--------------------->
+
+<p 03><d 6704><a 29><n 04>
+AAAAAAAAAAHHH!
+<*********************>
+
+<p 02><d 6804><a 6B><n 15>
+Hey... could this
+be...!?
+<--------------------->
+
+<p 02><d 6904><a 0F><n 02>
+All of the Model Ws are
+awake!
+<*********************>
+
+<p 01><p 03><d 6A04><a 21><n 00>
+Prometheus...
+Pandora...
+<--------------------->
+
+<p 01><p 03><d 6B04><a 21><n 00>
+Your centuries of
+anger... suffering...
+hate... and insanity
+<--------------------->
+
+<p 01><p 03><d 6C04><a 21><n 00>
+along with your battles
+against other Mega Men
+<--------------------->
+
+<d 6D04>
+have given me the data
+I need!
+<--------------------->
+
+<p 01><p 02><d 6E04><a 0B><n 02>
+That voice... Could it
+be... Master Albert!
+<--------------------->
+
+<p 01><p 02><d 6F04><a 6B><n 15>
+So who was it that
+Prometheus
+defeated...!?
+<--------------------->
+
+<p 01><p 03><d 7004><a 21><n 05>
+That was a decoy. A
+dummy body that worked
+<--------------------->
+
+<d 7104>
+as one of the Sage
+Trinity in my stead.
+<*********************>
+
+<p 03><d 7204><a 21><n 05>
+I am DAN-000 the
+"Original"...
+<--------------------->
+
+<p 03><d 7304><a 22><n 05>
+This me is the genuine
+article, the real
+Master Albert!
+<*********************>
+
+<p 03><d 7404><a 22><n 05>
+Just as I planned!
+Soon all of the Model
+Ws will begin to merge!
+<--------------------->
+
+<p 03><d 7504><a 22><n 05>
+I will become the
+ultimate Mega Man
+<--------------------->
+
+<d 7604>
+and the plan will be
+complete! 
+<*********************>
+
+<p 02><d 7704><a 6B><n 15>
+This place won't last
+long! We need to hurry
+and get out of here!
+<--------------------->
+
+<p 02><d 7804><a 0B><n 02>
+B-But Prometheus and
+Pandora...!
+<--------------------->
+
+<p 02><d 7904><a 6B><n 15>
+What are you saying!?
+We can't carry both of
+them!
+<--------------------->
+
+<p 02><d 7A04><a 6B><n 15>
+If you don't make it,
+who's going to deal
+with Albert!?
+<--------------------->
+
+<p 02><d 7B04><a 0E><n 02>
+... Prometheus...
+Pandora...! 
+...Sorry...!
+<*********************>
+
+<p 03><d 7C04><a 22><n 05>
+HAHAHAHAHAHAHA!
+<*********************>
+
+<p 03><d 7D04><a 42><n 1F>
+H-Hey! What's that!?
+<*********************>
+
+<p 01><p 02><d 7E04><a 6B><n 15>
+That's all of the
+Model Ws merged
+together... Ouroboros!
+<--------------------->
+
+<p 01><p 02><d 7F04><a 0A><n 02>
+Albert must be
+inside!
+<*********************>
+
+<p 00><p 02><d 8004><a 0A><n 02>
+It's airborne. We have
+to take an airship!
+<--------------------->
+
+<p 02><d 8104><a 0B><n 02>
+Do any of you
+Hunters have an
+airship!?
+<*********************>
+
+<p 03><d 8204><a 42><n 1F>
+...There's not even one
+left.
+<--------------------->
+
+<p 03><d 8304><a 42><n 1F>
+Mavericks destroyed
+them all.
+<--------------------->
+
+<p 02><d 8404><a 6B><n 15>
+There's nothing left we
+can do!
+<*********************>
+
+<p 02><d 8504><a 10><n 18>
+Don't give up so
+easily!
+<--------------------->
+
+<d 8604>
+Aren't you supposed to
+be a first-class
+Hunter?
+<*********************>
+
+<p 03><d 8704><a 0F><n 02>
+Vent!
+<*********************>
+
+<p 02><d 8804><a 10><n 18>
+We meet again.
+I've got something
+to show you.
+<--------------------->
+
+<p 02><d 8904><a 10><n 18>
+But remember... From
+here, there's no 
+turning back!
+<--------------------->
+
+<p 02><d 8A04><a 10><n 18>
+I'll be waiting for you
+here. Call me when
+you're ready.
+<*********************>
+
+<FIM>

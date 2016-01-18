@@ -1,0 +1,84 @@
+<script_info tipo='Quest 3' personagem='Grey' tamanho='747' inicio_ponteiros='4' fim_ponteiros='13' inicio_textos='14' />
+<#####################>
+
+<p 02><a 4A><n 40>
+Oh... what am I going
+to do?
+<--------------------->
+
+I caught a Moth Queen
+but it got away...
+<--------------------->
+
+Aah... won't someone
+catch it for me?
+*wink*
+<*********************>
+
+<p 02><a 4A><n 40>
+I'd have to able to fly
+to reach way up
+there...
+<--------------------->
+
+I bet a Hunter would be
+able to catch it for
+me... *wink*
+<*********************>
+
+<p 02><a 4A><n 40>
+My Moth Queen... you
+caught it for me!
+<--------------------->
+
+You ARE a Hunter!
+Oh, thank you!
+<--------------------->
+
+I'm so glad you came to
+my aid! It isn't
+much...
+<--------------------->
+
+but I want you to have
+this.
+<*********************>
+
+<p 02><a 4A><n 40>
+They say Moth Queens
+are popular with
+celebrities
+<--------------------->
+
+because they're so
+beautiful.
+<--------------------->
+
+I'm going to sell these
+beauties to earn enough
+money 
+<--------------------->
+
+to become a Hunter
+someday.
+<*********************>
+
+<p 02><a 4A><n 40>
+It's really cold here.
+<--------------------->
+
+This hood, I usually
+just wear it because it
+looks cute...
+<--------------------->
+
+But it's nice to have
+on days like this.
+<--------------------->
+
+And, it's good for
+hearing far-away
+sounds.
+<*********************>
+
+<FIM>

@@ -1,0 +1,250 @@
+<script_info tipo='Quest 12' personagem='Grey' tamanho='2335' inicio_ponteiros='4' fim_ponteiros='69' inicio_textos='70' />
+<#####################>
+
+<p 02><a 56><n 3C>
+This room needs a
+little green. Do you
+think you could go
+<--------------------->
+
+and find a plant or
+something to go in
+here?
+<--------------------->
+
+<p 02><a 56><n 3C>
+You know, I think there
+were some potted plants
+at Legion.
+<--------------------->
+
+<p 02><a 56><n 3C>
+If they were left
+there, they would just
+die anyway.
+<--------------------->
+
+<p 02><a 56><n 3C>
+And I'll give you
+something for your
+trouble.
+<--------------------->
+
+Not a bad deal, eh?
+<*********************>
+
+<p 02><a 56><n 3C>
+Those poor plants were
+just left abandoned in
+the Legion building.
+<--------------------->
+
+<p 02><a 56><n 3C>
+I hear there are all
+kinds.
+<--------------------->
+
+<p 02><a 56><n 3C>
+Please bring back one.
+I'll leave it up to you
+to decide which one.
+<*********************>
+
+<p 02><a 56><n 3C>
+Thank you for bringing
+the plant!
+<*********************>
+
+<p 02><a 56><n 3C>
+Let's put it over
+there.
+<*********************>
+
+<p 02><a 56><n 3C>
+Yes, there's something
+soothing about having a
+plant in the room.
+<--------------------->
+
+<p 02><a 56><n 3C>
+This is for your
+trouble.
+<*********************>
+
+<p 02><a 56><n 3C>
+Be sure to come and
+help me water it
+sometimes, OK?
+<*********************>
+
+<p 02><a 56><n 3C>
+It's not exactly what I
+was expecting...
+<--------------------->
+
+But I guess it's better
+than nothing.
+<--------------------->
+
+<p 02><a 56><n 3C>
+Anyway, thanks. Here's
+your compensation.
+<*********************>
+
+<p 02><a 56><n 3C>
+Plants thrive when you
+talk to them. Did you
+know that?
+<*********************>
+
+<p 02><a 56><n 3C>
+*shriek* Did you see
+that!? That flower
+moved!
+<--------------------->
+
+<p 02><a 56><n 3C>
+Of all the plants you
+could've chosen...
+<--------------------->
+
+Oh well, here's your
+compensation.
+<*********************>
+
+<p 02><a 56><n 3C>
+But look, these little
+berry thingies. They're
+so cute.
+<*********************>
+
+<p 02><a 05><n 00>
+You can only pick up
+one potted plant at a
+time.
+<*********************>
+
+<e 01><a 05><n 00>
+Pick up this one?
+  Yes
+  No
+<*********************>
+
+<p 02><a 05><n 00>
+You picked up the
+plant.
+<*********************>
+
+<p 02><a 05><n 00>
+This is all you can
+pick up at once.
+<*********************>
+
+<p 03><a 05><n 00>
+There is a potted
+plant here.
+<*********************>
+
+<p 03><a 08><n 01>
+Oh, that's right! I'd
+better water it!
+<*********************>
+
+<p 03><a 05><n 00>
+There's only this one
+little berry...
+<*********************>
+
+<p 03><a 08><n 01>
+What a cute little
+cactus.
+<*********************>
+
+<p 03><a 08><n 01>
+Why won't this cactus
+grow?
+<*********************>
+
+<p 03><a 08><n 01>
+Why won't this cactus
+grow?
+<*********************>
+
+<p 03><a 08><n 01>
+They say that it's good
+to talk to plants. I
+wonder if that's true.
+<*********************>
+
+<p 03><a 08><n 01>
+They say that it's good
+to talk to plants. I
+wonder if that's true.
+<*********************>
+
+<p 03><a 08><n 01>
+Hello little cactus...
+Can you hear me?
+<*********************>
+
+<p 03><a 08><n 01>
+Hey, cactus! If you can
+hear me, do something!
+<*********************>
+
+<p 03><a 08><n 01>
+Do you understa... Oh,
+this is ridiculous. I'm
+talking to a plant.
+<*********************>
+
+<p 03><a 08><n 01>
+I can't believe it...
+The flowers are
+blooming!
+<*********************>
+
+<p 02><a 97><n 53>
+Hello, I'm Janet. I
+work here at this shop.
+<--------------------->
+
+<p 02><a 97><n 53>
+I'm afraid we're sold
+out of everything but
+this bucket.
+<*********************>
+
+<p 02><e 01><a 97><n 53>
+Buy bucket for 100 EC?
+  Yes
+  No
+<*********************>
+
+<p 02><a 97><n 53>
+Thank you, and have a
+nice day.
+<*********************>
+
+<p 02><a 97><n 53>
+Oh, you don't want to
+get this? No problem, I
+understand.
+<*********************>
+
+<p 02><a 97><n 53>
+I'm sorry, there's a
+limit of one per
+customer.
+<*********************>
+
+<p 02><a 97><n 53>
+I'm sorry, you don't
+have enough E-Crystals.
+<*********************>
+
+<p 03><a 08><n 01>
+Look! There's fruit!
+<*********************>
+
+<FIM>

@@ -1,0 +1,198 @@
+<script_info tipo='over' personagem='indefinido' tamanho='3336' inicio_ponteiros='4' fim_ponteiros='41' inicio_textos='42' />
+<#####################>
+
+
+When Buckfire jumps up high,
+go for his weak spot, his
+mane! But be careful. The
+closer you get, the harder
+it is to dodge his Burning
+Arrow. When Buckfire lands,
+fight him from as far away
+as you can!
+<*********************>
+
+
+To avoid Rospark's attacks
+you'll need to try to stay
+behind him as much as
+possible. Use the walls to
+Dash Jump over him. Stay
+down low and his Giga Laser
+won't be able to touch you!
+<*********************>
+
+
+Jump over the Ice Needles
+just enough so that you land
+in the space between them
+and Chronoforce himself.
+Memorize the angle and
+timing of the Ice Carnival,
+so you can dodge them
+without getting flustered.
+<*********************>
+
+
+Dealing with either of
+Queenbee's auxiliary
+weapons container attacks
+can be a prickly
+proposition! But, since
+they are fire attacks, you
+can counter them with an
+electric attack! 
+<*********************>
+
+
+Vulturon's flight pattern
+makes it dangerous to stand
+in the center of the room!
+When the speaker appears,
+try not to stand in front of
+it. If the soundwaves hit
+you, you'll be stunned
+temporarily!
+<*********************>
+
+
+To keep up with Argoyle and
+Ugoyle's combinations,
+A-Trance into someone that
+can move with lightning
+speed. For their tandem Rock
+Bomb attacks, you're safe as
+long as you are above or
+below Ugoyle!
+<*********************>
+
+
+Hedgeshock's Rolling Dash
+will probably miss you, if
+you stand on the scaffolding
+at the top left or right of
+the screen. Come down and
+attack her from behind, then
+get back up on the
+scaffolding.
+<*********************>
+
+
+When Bifrost has his mouth
+open, your attacks will be
+deflected. Try not to get
+too close. When his mouth
+closes, that's your chance
+to hit him with charged fire
+attack and inflict maximum
+damage!
+<*********************>
+
+
+Aeolus is good at saber
+attacks while jumping and
+dashing, so keep your
+distance! Avoid his attacks
+by dashing under him when
+he's airborne, and jumping
+over him while he's on the
+ground.
+<*********************>
+
+
+Fire attacks are effective
+against the ice Mega Man,
+Thetis! Firm footing is
+scarce in this stage, but
+with Chronoforce, who's
+perfectly at home in the
+water, it doesn't have to be
+a losing battle!
+<*********************>
+
+
+Atlas roams the boss area
+attacking with her Knuckle
+Buster from all different
+angles. Look for an opening
+when she's firing rounds
+continuously in succession,
+and then strike!
+<*********************>
+
+
+Wait for Siarnaq to reappear
+after he does his Shadow
+Dash, and then counter
+attack. Just remember to
+"stick and move".
+<*********************>
+
+
+Get hit with the Model ZX
+Triple attack, and you'll be
+in critical condition!
+Whatever you do, don't get
+pulled in to close-quarters
+combat! When Model ZX is on
+a wall, that's the time to
+attack!
+<*********************>
+
+
+The only way to damage Dogu
+the Giant is to aim for the
+eyes. Jump up on Dogu's
+hands when they come down,
+and when you're at Dogu's
+eye level, let your Buster
+rip!
+<*********************>
+
+
+The only way to damage Dogu
+the Giant is to aim for the
+eyes. Jump on Dogu's hands
+when they come down, then
+jump to blast Dogu in the
+eyes!
+<*********************>
+
+
+Both Prometheus and Pandora
+can switch their elemental
+attack types! When Pandora
+is using her staff, and when
+Prometheus is in the middle,
+on the ground are your best
+chances to due the most
+damage!
+<*********************>
+
+
+It's useless to attack any
+of the 3 dragon heads. Focus
+your attack on the cockpit
+hatch in the torso. That's
+where Albert is.
+<*********************>
+
+
+Temporarily paralyze
+Albert's defenses by
+damaging the Bits that
+surround him. Then try to
+shoot him down. The real
+battle begins on the ground!
+You'll need to use
+everything in your arsenal!
+<--------------------->
+
+
+<*********************>
+
+
+<btn_a>Button:Return to Menu
+<*********************>
+
+<FIM>

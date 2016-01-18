@@ -1,0 +1,168 @@
+<script_info tipo='Quest 4' personagem='Grey' tamanho='1560' inicio_ponteiros='4' fim_ponteiros='33' inicio_textos='34' />
+<#####################>
+
+<p 02><a 42><n 4C>
+Oh, no!
+<--------------------->
+
+<p 02><a 42><n 4C>
+We've just gotten
+confirmation
+<--------------------->
+
+of Mechaniloid activity
+in the air!
+<--------------------->
+
+<p 02><a 42><n 4C>
+It's only a matter of
+time before they'll be
+coming after
+<--------------------->
+
+our underground energy
+stores.
+<--------------------->
+
+<p 02><a 42><n 4C>
+I don't have enough
+firepower to take 'em
+on.
+<--------------------->
+
+<p 02><a 42><n 4C>
+I need you to go and
+protect the energy
+stores.
+<--------------------->
+
+<p 02><a 42><n 4C>
+There are 3 on the left
+side, straight ahead.
+<*********************>
+
+<p 02><a 42><n 4C>
+I'm begging you, please
+don't let them get to
+those energy stores!
+<*********************>
+
+<e 01><a 42><n 4C>
+Accept this mission?
+  Yes
+  No
+<*********************>
+
+<p 02><a 42><n 4C>
+Thank you. There'll be
+a reward for you if you
+can pull it off.
+<*********************>
+
+<p 02><s 01><a 42><n 4C>
+I guess it's too much
+to ask even of you...
+<--------------------->
+
+<p 02><a 42><n 4C>
+Dang... I guess the
+only thing left to do
+is pray
+<--------------------->
+
+that the Mechaniloids
+don't come.
+<*********************>
+
+<p 02><a 42><n 4C>
+We're still picking up
+on some Mechaniloid
+activity.
+<*********************>
+
+<p 02><a 42><n 4C>
+Thank you. I never
+doubted that you'd come
+through!
+<--------------------->
+
+<p 02><a 42><n 4C>
+Here's your reward. 
+300 EC.
+<*********************>
+
+<p 02><a 42><n 4C>
+Thank you. At least you
+managed to save 2.
+<--------------------->
+
+<p 02><a 42><n 4C>
+Here's your reward. 
+200 EC.
+<*********************>
+
+<p 02><a 42><n 4C>
+Thank you. At least you
+managed to save 1.
+<--------------------->
+
+<p 02><a 42><n 4C>
+Here's your reward. 
+100 EC.
+<*********************>
+
+<p 02><a 42><n 4C>
+I guess it was too
+tough even for you...
+<--------------------->
+
+<p 02><a 42><n 4C>
+I'm so sorry I asked
+you to go on such an
+impossible mission.
+<*********************>
+
+<p 02><a 42><n 4C>
+My name is George. As
+you can see, I'm a
+Hunter.
+<--------------------->
+
+Now I'm waiting for
+energy stores to
+arrive.
+<*********************>
+
+<p 02><a 42><n 4C>
+We're expecting 
+3 units.
+<*********************>
+
+<p 02><a 42><n 4C>
+Mechaniloids can sniff
+out energy from miles
+away.
+<--------------------->
+
+So, when moving energy
+stores around, we have
+to be very careful.
+<*********************>
+
+<p 02><a 42><n 4C>
+Especially now that
+Mavericks seem to be
+turning up everywhere.
+<--------------------->
+
+We're constantly on the
+lookout.
+<*********************>
+
+<p 02><a 42><n 4C>
+I never seriously
+thought Mechaniloids
+would actually show up.
+<*********************>
+
+<FIM>

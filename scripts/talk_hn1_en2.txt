@@ -1,0 +1,864 @@
+<script_info tipo='NPCs Hunters' personagem='Ashe' tamanho='8378' inicio_ponteiros='4' fim_ponteiros='101' inicio_textos='102' />
+<#####################>
+
+<p 02><a 4C><n 31>
+Hey, nice to meet you!
+My name is Jarke!
+<--------------------->
+
+<p 02><a 4C><n 31>
+If you're going to
+Legion,
+<--------------------->
+
+you should enter the
+door on the right!
+<*********************>
+
+<p 02><a 4C><n 31>
+You know, yesterday I
+took the train to
+Legion.
+<--------------------->
+
+The desolate landscape
+outside of
+<--------------------->
+
+Hunter's Camp looks
+pretty dreary. 
+<--------------------->
+
+It's a far cry from the
+bustling cityscape of
+Legion.
+<*********************>
+
+<p 02><a 4C><n 31>
+Are you really the
+Model A Chosen One?
+<--------------------->
+
+If so, you should be
+able to kick your way
+<--------------------->
+
+up that wall on the
+right!
+<--------------------->
+
+If you go up from here
+a ways, you'll come to
+a red door.
+<--------------------->
+
+There's a big tower
+covered in vines
+<--------------------->
+
+and a road that leads
+to the Ice Floes.
+<--------------------->
+
+And past that are the
+Oil Fields,
+<--------------------->
+
+where a lot of Hunters
+go and look for booty!
+<*********************>
+
+<p 02><a 4C><n 31>
+There are many places
+in this world
+<--------------------->
+
+that you can't get to
+by walking or on a
+train.
+<--------------------->
+
+But if the coordinates
+to a place are logged
+in,
+<--------------------->
+
+you can get to where
+you want to go via a
+transerver.
+<--------------------->
+
+Me, I prefer to keep my
+feet on the ground
+<--------------------->
+
+and travel the
+old-fashioned way.
+<*********************>
+
+<p 02><a 4C><n 31>
+You might want to visit
+places more than once;
+<--------------------->
+
+you might find
+something new there.
+<--------------------->
+
+Especially you, since
+you have that A-Trans
+ability,
+<--------------------->
+
+you definitely should
+visit a lot of places!
+<*********************>
+
+<p 02><a 4D><n 2C>
+What do you want
+with me!?
+<--------------------->
+
+<p 02><a 4D><n 2C>
+Alright, I'll go ahead
+and introduce myself
+then.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+I'm Roy! I've been a
+Hunter for 3 years and
+2 months.
+<--------------------->
+
+My hobby is cooking!
+<--------------------->
+
+<p 02><a 4D><n 2C>
+It's been a while since
+I got a mission request
+from Legion,
+<--------------------->
+
+so I bide my time
+cooking for the other
+Hunters.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+But, sorry I don't have
+anything for you!
+<*********************>
+
+<p 02><a 4D><n 2C>
+Lately, with Mavericks
+popping up all over the
+place,
+<--------------------->
+
+Legion has been paying
+bigger bounties.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+Thanks to Legion, we
+Hunters can put food on
+the table.
+<*********************>
+
+<p 02><a 4D><n 2C>
+Sorry about before. I
+was a little harsh.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+I'm not really good at
+controlling my
+emotions.
+<*********************>
+
+<p 02><a 4D><n 2C>
+Aah, I should've never
+become a Hunter.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+Always in constant
+danger. There's not
+much free time.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+You'd hurry up and quit
+if you knew what was
+good for you!
+<*********************>
+
+<p 02><a 4D><n 2C>
+There's been a lot of
+commotion outside
+lately.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+And sometimes there're
+strange sounds coming
+from underground.
+<--------------------->
+
+Is there some digging
+going on nearby?
+<*********************>
+
+<p 02><a 4D><n 2C>
+Is that a wish card
+you're holding?
+<--------------------->
+
+<p 02><a 4D><n 2C>
+If I could make a wish,
+I'd want to be
+<--------------------->
+
+the best Hunter slash
+cook in the world.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+I just finished making
+the world's most
+delicious apple pie.
+<*********************>
+
+<p 02><a 4D><n 2C>
+This apple was left
+over. If you want it,
+I'll give it you.
+<*********************>
+
+<p 02><a 4E><n 2D>
+...
+<--------------------->
+
+<p 02><a 69><n 2E>
+Hello!? Is this the
+first time we've met?
+<--------------------->
+
+My name is Blossom! And
+this is my daddy!
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<--------------------->
+
+<p 02><a 69><n 2E>
+Oh, my daddy's name is
+Warren!
+<*********************>
+
+<p 02><a 69><n 2E>
+Everyone in Hunter's
+Camp is searching
+<--------------------->
+
+for something called
+Biometal. They say it's
+very valuable.
+<--------------------->
+
+The mission request
+came from Legion.
+<--------------------->
+
+Isn't that right,
+Daddy?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<--------------------->
+
+<p 02><a 69><n 2E>
+Some of the Hunters
+have given up already;
+<--------------------->
+
+now they're looking for
+other treasure.
+<*********************>
+
+<p 02><a 69><n 2E>
+When I grow up, I'm
+going to be a great
+<--------------------->
+
+Hunter and look for
+booty too!
+<--------------------->
+
+Daddy, isn't that
+right?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<*********************>
+
+<p 02><a 69><n 2E>
+I think Daddy met Mommy
+when they were both
+hunting in the ruins...
+<--------------------->
+
+Right, Daddy?
+<--------------------->
+
+Did you propose to
+Mommy, or did Mommy
+propose to you?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<*********************>
+
+<p 02><a 69><n 2E>
+Daddy, what's Model W?
+Is it bad?
+<--------------------->
+
+Is that why all the
+Mavericks keep coming
+out everywhere?
+<--------------------->
+
+What's going to happen
+to all of us?
+<--------------------->
+
+What if the Mavericks
+try to get Mommy?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<--------------------->
+
+<p 02><a 69><n 2E>
+Daddy?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Don<72>t worry, flower.
+It's going to be OK.
+<--------------------->
+
+We have to believe in
+this Hunter.
+<*********************>
+
+<p 02><a 69><n 2E>
+Huh? A present for me?
+Thank you!
+<--------------------->
+
+It's sooo cuuuuute!
+Daddy, look what I got!
+A present!
+<*********************>
+
+<p 02><a 69><n 2E>
+You can have this!
+<--------------------->
+
+I made it using a
+recipe my mommy showed
+me! Try it!
+<*********************>
+
+<p 02><a 4F><n 2F>
+What are you looking
+at? Do I have something
+on my face?
+<--------------------->
+
+You must be 12 going on
+20 if you think you can
+talk to me!
+<--------------------->
+
+Remember that for the
+next time we meet!
+<*********************>
+
+<p 02><a 4F><n 2F>
+Don't get so close to
+me! You're crowding my
+space!
+<--------------------->
+
+Did I not just warn you
+about that kind of
+thing!?
+<--------------------->
+
+I don't want you
+breathing down my neck.
+I'm an elite Hunter!
+<*********************>
+
+<p 02><a 4F><n 2F>
+*hmph* So you're
+really going to accept
+<--------------------->
+
+that mission request
+from Legion?
+<--------------------->
+
+I got bored of it after
+3 days. I don't envy
+you. 
+<--------------------->
+
+The bounty is small,
+the risk is great, and
+for what?
+<--------------------->
+
+I just don't see any
+value in it!
+<*********************>
+
+<p 02><a 4F><n 2F>
+Eh? You met the Sage
+Trinity?
+<--------------------->
+
+That's something even
+my father would have
+trouble doing.
+<--------------------->
+
+How could someone the
+likes of you meet
+them!? 
+<--------------------->
+
+But I could care less!
+<*********************>
+
+<p 02><a 4F><n 2F>
+What is all of the
+commotion about here in
+Hunter's Camp?
+<--------------------->
+
+Is this Model W really
+all that valuable?
+<--------------------->
+
+Could it be worth more
+than the estate I used
+to live in?
+<*********************>
+
+<p 02><a 50><n 39>
+I'm Tina! I used to run
+with a group of
+bandits!
+<--------------------->
+
+Don't worry, that's all
+in my past.
+<--------------------->
+
+Now I make an honest
+living as a Hunter!
+<*********************>
+
+<p 02><a 50><n 39>
+It's kinda rough being
+here for so long...
+<--------------------->
+
+The days used to seem
+so much shorter when I
+was a bandit.
+<--------------------->
+
+Now it can get pretty
+boring. I miss the
+old days.
+<*********************>
+
+<p 02><a 50><n 39>
+There's some kind of
+makeshift barrier under
+this ladder. 
+<--------------------->
+
+It's just sewage down
+there. They put
+boulder's down there
+<--------------------->
+
+to keep kids from
+playing around there.
+<--------------------->
+
+Just as a precaution,
+they made it so that
+<--------------------->
+
+you need a green
+card key to get in.
+<*********************>
+
+<p 02><a 50><n 39>
+I used to think that
+there were some things
+<--------------------->
+
+you couldn't get unless
+you were a bandit.
+<--------------------->
+
+Looking back on it now,
+I think that was just
+me trying to
+<--------------------->
+
+rationalize and make
+excuses for what I was
+doing.
+<--------------------->
+
+I'm sorry. You're too
+young to understand
+this kind of talk.
+<*********************>
+
+<p 02><a 50><n 39>
+Looks like everybody's
+making a big fuss over
+this Model W thing.
+<--------------------->
+
+People are saying that
+it's the reason for
+all these Mavericks.
+<*********************>
+
+<p 02><a 51><n 41>
+Hey, did you come here
+looking for the booty
+too?
+<--------------------->
+
+I'm Meg, the antique
+Hunter!
+<*********************>
+
+<p 02><a 51><n 41>
+Dummy Conversation
+<*********************>
+
+<p 02><a 51><n 41>
+Dummy Conversation
+<*********************>
+
+<p 02><a 51><n 41>
+I once had a professor
+who always said "Know
+the old, know the new."
+<--------------------->
+
+Our job is not just
+chasing after the
+past...
+<--------------------->
+
+Remember the past to
+better understand the
+present. If you forget
+<--------------------->
+
+this, you become
+nothing more than a
+collector.
+<*********************>
+
+<p 02><a 51><n 41>
+I once had a professor
+who always said "Know
+the old, know the new."
+<--------------------->
+
+Our job is not just
+chasing after the
+past...
+<--------------------->
+
+Remember the past to
+better understand the
+present. If you forget
+<--------------------->
+
+this, you become
+nothing more than a
+collector.
+<*********************>
+
+<p 02><a 52><n 38>
+I'm Nick... Who are
+you?
+<--------------------->
+
+As you can see, I'm an
+old-model Reploid!
+<--------------------->
+
+Just because I'm old
+doesn't mean that my
+<--------------------->
+
+life cycle settings are
+any longer.
+<--------------------->
+
+It just means that I'm
+a previous generation
+Reploid.
+<*********************>
+
+<p 02><a 52><n 38>
+Dummy Conversation
+<*********************>
+
+<p 02><a 52><n 38>
+Dummy Conversation
+<*********************>
+
+<p 02><a 52><n 38>
+Dummy Conversation
+<*********************>
+
+<p 02><a 52><n 38>
+Dummy Conversation
+<*********************>
+
+<p 02><a 53><n 3F>
+Hey, I didn't know kids
+liked to drink coffee.
+<--------------------->
+
+I'm Jim, and this is my
+café.
+<--------------------->
+
+I used to make my
+living as a Hunter,
+<--------------------->
+
+but I wasn't very good
+with directions, you
+know.
+<--------------------->
+
+I realized that it just
+wasn't for me and got
+out.
+<*********************>
+
+<p 02><a 53><n 3F>
+I started this place
+hoping it'd be
+<--------------------->
+
+somewhere the Hunters
+could relax and enjoy
+themselves.
+<--------------------->
+
+I'm still learning the
+ropes of this business.
+<--------------------->
+
+And, making a lot of
+mistakes too.
+<*********************>
+
+<p 02><a 53><n 3F>
+Even now, though, I
+reminisce about the
+days when I used to
+<--------------------->
+
+travel around the
+world.
+<--------------------->
+
+If I can't be a Hunter,
+I want to be somebody
+who
+<--------------------->
+
+chases after romance,
+you know, a love
+Hunter...
+<--------------------->
+
+Nah, I was just
+kidding. Pretend you
+never heard that.
+<*********************>
+
+<p 02><a 53><n 3F>
+Those days working as a
+Hunter were brutal,
+<--------------------->
+
+every day getting all
+busted up...
+<--------------------->
+
+I remember falling off
+of a cliff while we
+were trekking in the
+<--------------------->
+
+mountains. I slid down
+a waterfall and got
+washed out to sea.
+<--------------------->
+
+I was always in the
+infirmary...
+<--------------------->
+
+to the point they
+called me a "frequent
+faller".
+<*********************>
+
+<p 02><a 53><n 3F>
+Anna who works in the
+infirmary... Now she's
+my type.
+<--------------------->
+
+But let's just keep
+that between me and
+you.
+<*********************>
+
+<p 02><a 54><n 3D>
+Who are you? They call
+me Pierre.
+<--------------------->
+
+I dunno where you're
+trying to get to,
+<--------------------->
+
+but there ain't nothing
+thataway.
+<--------------------->
+
+If you're trying to get
+to the station, it's in
+the opposite direction.
+<*********************>
+
+<p 02><a 54><n 3D>
+Are you a Hunter too?
+<--------------------->
+
+If you are, you've
+probably heard about
+me.
+<--------------------->
+
+What? You've haven't!?
+If you're gonna call
+yourself a Hunter,
+<--------------------->
+
+you at least need to
+know some basic
+information.
+<--------------------->
+
+I'd like to tell you
+all about the great
+things I've done,
+<--------------------->
+
+but that would be just
+tooting my own horn, so
+I won't.
+<*********************>
+
+<p 02><a 54><n 3D>
+They say you're the
+Chosen One for Model A,
+huh?
+<--------------------->
+
+This world is just full
+of ironies, ain't it?
+<--------------------->
+
+Seriously though, I'm
+probably more suited to
+being a Mega Man.
+<*********************>
+
+<p 02><a 54><n 3D>
+So, you know that
+manhole to the left,
+and up a ways?
+<--------------------->
+
+Underneath that is the
+Quarry. They say it's
+dangerous,
+<--------------------->
+
+so it's been double and
+triple locked to keep
+people out.
+<--------------------->
+
+Now if it was me, I
+could get through it
+no problem,
+<--------------------->
+
+but a regular Hunter
+probably couldn't get
+through it.
+<*********************>
+
+<p 02><a 54><n 3D>
+You know, you're
+lucky...
+<--------------------->
+
+If I was a Mega Man,
+you'd have to fight me.
+<--------------------->
+
+You understand what I
+mean?
+<--------------------->
+
+That's right! You just
+barely escaped with
+your life!
+<*********************>
+
+<FIM>

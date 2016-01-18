@@ -1,0 +1,881 @@
+<script_info tipo='Missão 3' personagem='Grey' tamanho='8808' inicio_ponteiros='4' fim_ponteiros='77' inicio_textos='78' />
+<#####################>
+
+<p 03><d A600><a 42><n 1F>
+For this mission, we
+have to take this
+container
+<--------------------->
+
+<d A700>
+to Legion
+Headquarters.
+<--------------------->
+
+<p 02><d A800><a 08><n 01>
+Legion...? I guess
+I've got a lot to
+learn.
+<--------------------->
+
+<p 03><d AA00><a 42><n 1F>
+...Man, you must've
+bumped your head pretty
+hard... Let's roll out!
+<*********************>
+
+<p 02><d AC00><a 42><n 1F>
+Legion is the
+coalition government
+created after the war
+<--------------------->
+
+<d AD00>
+several centuries ago,
+by representatives from
+every nation.
+<--------------------->
+
+<p 02><d AE00><a 42><n 1F>
+It makes laws that
+govern the lives of
+Humans and Reploids. 
+<--------------------->
+
+<d AF00>
+Basically, it's the
+most powerful
+organization on Earth. 
+<--------------------->
+
+<p 02><d B000><a 42><n 1F>
+I bet the Legion
+database has info about
+you too.
+<--------------------->
+
+<d B100>
+That's why I invited
+you to come along.
+<--------------------->
+
+<p 03><d B200><a 08><n 01>
+Isn't using a train for
+just one container
+overdoing it a little?
+<--------------------->
+
+<p 02><d B300><a 42><n 1F>
+The stuff in that
+container is called
+Biometal.
+<--------------------->
+
+<p 02><d B400><a 42><n 1F>
+It's very rare and very
+valuable. We recovered
+it from some Raiders
+<--------------------->
+
+<p 02><d B500><a 42><n 1F>
+who pillaged it from
+ancient ruins. Legion
+pays huge bounties
+<--------------------->
+
+<d B600>
+for Biometal. So,
+there's a reason we
+overdo it.
+<--------------------->
+
+<p 03><d B700><a 08><n 01>
+Hmm, Biometal... Why
+does that sound
+familiar?
+<*********************>
+
+<p 03><d B800><a 05><n 00>
+Does he know about
+me...?
+<*********************>
+
+<p 03><d B900><a 0F><n 01>
+Who said that!?
+<*********************>
+
+<p 03><d BA00><a 05><n 00>
+Hm? You can hear me?
+<*********************>
+
+<p 03><d BB00><a 08><n 01>
+What? Who's there...?
+<*********************>
+
+<p 03><d BC00><a 42><n 1F>
+Dang! Mavericks!
+<*********************>
+
+<p 02><d BD00><a 42><n 1F>
+They're going for the
+engine! You wait here!
+<*********************>
+
+<p 03><d BE00><a 0F><n 01>
+You!
+<--------------------->
+
+<p 02><d BF00><a 28><n 04>
+There you are...
+Defective Mega Man...
+<*********************>
+
+<p 01><p 03><d C000><a 25><n 00>
+Pandora, you couldn't
+dispose of this one
+measly imp?
+<--------------------->
+
+<p 01><p 02><d C100><a 28><n 04>
+My apologies,
+Prometheus.
+<--------------------->
+
+<p 01><p 03><d C200><a 25><n 03>
+No matter. We'll finish
+him off and take back
+the Biometal.
+<--------------------->
+
+<p 01><p 03><d C400><a 0B><n 01>
+I've had it! Do you
+think I'm just going to
+sit here
+<--------------------->
+
+<d C500>
+and let you two kill
+me when I don't even
+know why!?
+<*********************>
+
+<p 02><d C600><a 25><n 03>
+Just lay there and die
+quietly, scum.
+<--------------------->
+
+<p 03><d C700><a 0E><n 01>
+No way! I'm... I'm...
+<*********************>
+
+<p 03><d C800><a 05><n 00>
+Hey! Grey! If you want
+to live, do as I say.
+Since you can hear me,
+<--------------------->
+
+<p 03><d C900><a 05><n 00>
+we should be able to
+Megamerge! I'll lend
+you my strength!
+<--------------------->
+
+<p 03><d CA00><a 0F><n 01>
+W-Who are you?
+<--------------------->
+
+<p 03><d CB00><a 05><n 15>
+I'm Biometal Model A!
+Now I want you to
+focus.
+<--------------------->
+
+<p 03><d CC00><a 05><n 15>
+OK, yell, "MEGAMERGE!"
+as loud as you can!
+<*********************>
+
+<p 01><p 03><d CD00><a 08><n 01>
+This power coursing
+through me...
+What is it?
+<--------------------->
+
+<p 01><p 03><d CE00><a 08><n 01>
+I feel like I know 
+this power... This
+is Mega Man power!
+<*********************>
+
+<p 02><d CF00><a 28><n 04>
+Mega Man... Model A!
+<--------------------->
+
+<p 02><d D000><a 26><n 03>
+*guffaw* Well, isn't
+this a surprise! Our
+Defective just
+<--------------------->
+
+<p 02><d D100><a 25><n 03>
+Megamerged! I've got to
+hand it to you. It
+looks like you've
+<--------------------->
+
+<d D200>
+got what it takes to
+participate in this
+little game.
+<--------------------->
+
+<p 02><d D300><a 28><n 04>
+Prometheus...
+Isn't that kid...?
+<--------------------->
+
+<p 02><d D400><a 25><n 03>
+Hmph, no matter! So,
+Grey... You can keep
+the Model A, for now.
+<--------------------->
+
+<p 02><d D500><a 25><n 03>
+You've got a few more 
+encounters with other
+Mega Men ahead of you.
+<--------------------->
+
+<p 02><d D600><a 25><n 03>
+You must defeat them in
+battle! If you somehow
+manage to survive
+<--------------------->
+
+<d D700>
+until the end, then
+you'll know who you
+really are...
+<--------------------->
+
+<p 02><d D800><a 26><n 03>
+And perhaps all there
+is to know about the
+world!
+<--------------------->
+
+<d D900>
+So, let the game begin!
+HIS Game of Destiny!
+<*********************>
+
+<p 03><d DA00><a 0A><n 01>
+Game of Destiny? What's
+up with them...?
+<*********************>
+
+<p 02><d DB00><a 0F><n 01>
+Oh, shoot! I have to
+help the others!
+<--------------------->
+
+<p 02><d DC00><a 6B><n 15>
+Wait a minute!
+Shouldn't we be getting
+out of here!?
+<--------------------->
+
+<p 02><d DD00><a 0A><n 01>
+If you don't want to
+come, transform me back
+to normal,
+<--------------------->
+
+<d DE00>
+and I'll go by myself!
+<--------------------->
+
+<p 02><d DF00><a 6B><n 15>
+OK, OK, I'll go!
+<--------------------->
+
+<p 02><d E000><a 6B><n 15>
+Anything is better than
+what those guys were
+going to do to me!
+<--------------------->
+
+<p 02><d E100><a 6B><n 15>
+I'll help you... if you
+promise not to leave
+me. Deal?
+<--------------------->
+
+<p 02><d E200><a 0B><n 01>
+...OK! Let's go!
+<*********************>
+
+<p 03><d E300><a 36><n 00>
+*snort* *wheeze*!!
+<*********************>
+
+<p 03><d E400><a 36><n 00>
+Model A!
+You broke rule!
+
+<--------------------->
+
+<d E500>
+You make big mistake.
+The one you choose, no
+good!
+<--------------------->
+
+<p 03><d E600><a 36><n 00>
+He Defective! You lend
+him your power, no
+good!
+<--------------------->
+
+<p 02><d E700><a 6B><n 15>
+Mistake? What're you
+yapping about? You
+don't know me!
+<--------------------->
+
+<p 02><d E800><a 08><n 01>
+Who's this!? He's
+different from the
+other Mavericks...
+<--------------------->
+
+<p 03><d E900><a 36><n 08>
+Me not Maverick! Me
+Pseudoroid. Me
+Buckfire!
+<--------------------->
+
+<p 03><d EA00><a 36><n 08>
+You get away from
+Prometheus and Pandora,
+but not from I!
+<--------------------->
+
+<p 03><d EB00><a 36><n 08>
+Buckfire obey rule!
+Buckfire will pummel
+you into ground!
+<*********************>
+
+<p 03><d EC00><a 36><n 08>
+*snort* *wheeze*!! No
+mercy for traitors!
+That is rule!
+<*********************>
+
+<p 03><d ED00><a 36><n 08>
+You!... traitor...
+Our future... 
+Our world...!
+<--------------------->
+
+<p 03><d EE00><a 36><n 08>
+Yeeeoooow!
+<*********************>
+
+<p 02><d EF00><a 0F><n 01>
+W-What just happened?
+<--------------------->
+
+<p 02><d F000><a 6B><n 15>
+*chuckle* Do you want
+to see something cool?
+<--------------------->
+
+<p 02><d F100><a 6B><n 15>
+Touch the icon on the
+bottom screen!
+<*********************>
+
+<p 02><d F200><a 6B><n 15>
+This is my power,
+A-Trans!
+<--------------------->
+
+<d F300>
+I can morph into
+anyone whose DNA I
+copy!
+<*********************>
+
+<p 02><d F400><a 6B><n 15>
+Touch the icon on the
+bottom screen again,
+and I can change back!
+<*********************>
+
+<p 02><d F500><a 0F><n 01>
+Is that power why
+everyone wants
+Biometal so bad?
+<--------------------->
+
+<p 02><d F700><a 6B><n 15>
+Beats me. I'm not even
+sure why I was created.
+<--------------------->
+
+<p 02><d F800><a 6B><n 15>
+This train is all out
+of chug. So, let's head
+back to the camp
+<--------------------->
+
+<p 02><d F900><a 6B><n 15>
+and figure out another
+way to get to Legion
+Headquarters.
+<--------------------->
+
+<p 02><d FA00><a 08><n 01>
+Are you going to help
+me!?
+<--------------------->
+
+<p 02><d FB00><a 6B><n 15>
+Well, it's that or
+you'll leave me here,
+right?
+<--------------------->
+
+<p 02><d FC00><a 6B><n 15>
+Besides, we've got
+goons after us, and
+we don't know why.
+<--------------------->
+
+<d FD00>
+It's better for the
+both of us that we
+work together!
+<*********************>
+
+<p 02><d FE00><a 08><n 01>
+Thank you! First we
+have to help the people
+who are injured!
+<--------------------->
+
+<p 02><d FF00><a 6B><n 15>
+What? Forget about
+those Hunters and let's
+get back to camp.
+<--------------------->
+
+<p 02><d 0001><a 0A><n 01>
+No way! I'm not leaving
+them! If you don't want
+to come, I can go by...
+<--------------------->
+
+<p 02><d 0201><a 6B><n 15>
+OK, OK, alright
+already! For crying out
+loud!
+<--------------------->
+
+<d 0301>
+Why did you have to be
+the only one around I
+could Megamerge with?
+<*********************>
+
+<p 03><d 0401><a 42><n 1F>
+...Thanks, you hold on
+to Model A. That's
+probably safer.
+<--------------------->
+
+<p 03><d 0601><a 42><n 1F>
+But, I need you to go
+to the transerver and
+send a mission report.
+<--------------------->
+
+<p 03><d 0701><a 42><n 1F>
+No mission report
+for the client,
+no bounty.
+<--------------------->
+
+<p 03><d 0801><a 42><n 1F>
+Say, we're trying to
+fix the train, but we
+need a few more parts.
+<--------------------->
+
+<p 03><d 0901><a 42><n 1F>
+Tell 'em we won't let
+'em down, and to wait
+just a little longer.
+<*********************>
+
+<p 02><d 0A01><a 02><n 00>
+So, you're the one who
+submitted the mission
+report?
+<--------------------->
+
+<p 02><d 0B01><a 02><n 00>
+I'm connecting your
+transerver to Legion's
+via a secure channel.
+<*********************>
+
+<p 02><d 0C01><a 1D><n 00>
+So, you're the
+Biometal's Chosen
+One... a Mega Man.
+<--------------------->
+
+<p 03><d 0D01><a 08><n 01>
+...Who are you dudes?
+<*********************>
+
+<p 02><d 0F01><a 1C><n 00>
+*chuckle* "You dudes,"
+huh? I guess you really
+have lost your memory.
+<*********************>
+
+<p 02><d 1101><a 1E><n 00>
+Go easy on him,
+Mikhail. He doesn't
+know any better.
+<*********************>
+
+<p 02><d 1301><a 1D><n 00>
+We are called the Sage
+Trinity, and we
+<--------------------->
+
+<p 02><d 1401><a 1D><n 06>
+are the supreme
+authority of Legion.
+I'm Master Thomas.
+<--------------------->
+
+<p 02><d 1501><a 1C><n 07>
+And I'm Master Mikhail,
+nice to meet you, Mega
+Man.
+<--------------------->
+
+<p 02><d 1601><a 1E><n 05>
+And I am Master Albert.
+<--------------------->
+
+<p 02><d 1701><a 1E><n 05>
+How do you do, Grey?
+<--------------------->
+
+<p 03><d 1801><a 0B><n 01>
+How do you know my
+name? Have we met
+before!?
+<--------------------->
+
+<p 02><d 1A01><a 1D><n 06>
+Calm down. We know
+about you from the
+Hunters' report.
+<--------------------->
+
+<p 02><d 1B01><a 1D><n 06>
+We're running your file
+through the Legion
+database now.
+<--------------------->
+
+<p 02><d 1C01><a 1C><n 07>
+We'll soon know who you
+really are. Meanwhile,
+so you're not just
+<--------------------->
+
+<p 02><d 1D01><a 1C><n 07>
+sitting around
+waiting, we have a
+mission for you.
+<--------------------->
+
+<p 02><d 1E01><a 1C><n 07>
+We'd like you to bring
+the Biometal directly
+to us.
+<*********************>
+
+<p 02><d 2001><a 1E><n 05>
+It seems the train
+bound for Legion
+Headquarters
+<--------------------->
+
+<d 2101>
+was damaged.
+<--------------------->
+
+<p 02><d 2201><a 1E><n 05>
+That card key should
+allow you access
+to a new area.
+<--------------------->
+
+<p 02><d 2301><a 1E><n 05>
+There's a crashed
+Raider airship not far
+from you. Find it and
+<--------------------->
+
+<p 02><d 2401><a 1E><n 05>
+you should be able to
+get the parts you need
+to repair the train.
+<--------------------->
+
+<p 02><d 2501><a 1D><n 06>
+The Biometal holds
+technology and
+information
+<--------------------->
+
+<p 02><d 2601><a 1D><n 06>
+that we don't fully
+understand, like the
+M.E.G.A. mechanism
+<--------------------->
+
+<d 2701>
+which allows you to
+Megamerge and become
+a Mega Man.
+<--------------------->
+
+<p 02><d 2801><a 1C><n 07>
+And not to mention
+centuries worth of
+lost history!
+<--------------------->
+
+<p 02><d 2901><a 1E><n 05>
+That's enough, Mikhail.
+...We have a duty to
+study the Biometal
+<--------------------->
+
+<p 02><d 2A01><a 1E><n 05>
+so its secrets are
+never misused. Grey,
+can we count on you?
+<--------------------->
+
+<p 03><d 2B01><a 08><n 01>
+So, if I go to Legion,
+you'll tell me about
+Model A?
+<--------------------->
+
+<p 02><d 2D01><a 1D><n 06>
+That is correct. First,
+head for the crash
+site. Dangers abound,
+<--------------------->
+
+<p 02><d 2E01><a 1D><n 06>
+so give heed to the 
+directions of your 
+fellow Hunters.
+<*********************>
+
+<p 02><a 6B><n 15>
+If you mess around and
+hit one of
+those things,
+<--------------------->
+
+you'll get blown away!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Instead of shooting
+them,
+<--------------------->
+
+try pressing the Dash
+Button to go under 'em.
+<*********************>
+
+<p 02><a 6B><n 15>
+If you come across a
+wall or obstacle that's
+too high to jump over,
+<--------------------->
+
+try to kick your way
+over.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Press the Jump Button
+while pressing
+<--------------------->
+
+the <dpad>Control Pad in
+the direction of the
+wall.
+<*********************>
+
+<p 02><a 6B><n 15>
+It's gonna take more
+than one hit to bust
+through that!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Try holding down the
+Buster Shot Button and
+then releasing it.
+<--------------------->
+
+<p 02><a 6B><n 15>
+You can take 'em out
+with one shot.
+<*********************>
+
+<p 02><a 6B><n 15>
+Now, what have we here?
+<--------------------->
+
+<p 02><a 6B><n 15>
+At times like these,
+the Homing Shot really
+comes in handy.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Try holding down the
+Homing Shot Button.
+<--------------------->
+
+<p 02><a 6B><n 15>
+The Homing Shot range
+appears in front of
+you.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Enemies and any
+destructible items in
+range
+<--------------------->
+
+will be indicated by
+markers.
+<--------------------->
+
+<p 02><a 6B><n 15>
+But remember, you can
+only home in on up to 8
+targets.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Then all you have to do
+is release the Homing
+Shot Button,
+<--------------------->
+
+the rest is automatic.
+<--------------------->
+
+<p 02><a 6B><n 15>
+By the way, you can
+customize the controls
+<--------------------->
+
+on the Options
+sub-screen!
+<*********************>
+
+<p 02><a 6B><n 15>
+Hey, try pressing up
+on the <dpad>Control Pad
+while holding down
+<--------------------->
+
+<p 02><a 6B><n 15>
+the Attack Button and
+then releasing it.
+You can use this move
+<--------------------->
+
+to break objects above
+you.
+<--------------------->
+
+<p 02><a 6B><n 15>
+It's a bit advanced,
+but I'm sure 
+it will come in handy!
+<--------------------->
+
+<p 02><a 6B><n 15>
+And here's another
+great trick!
+
+<--------------------->
+
+Hold down and release
+the Attack Button
+while in mid-air,
+<--------------------->
+
+<p 02><a 6B><n 15>
+to kick down
+towards the ground.
+<--------------------->
+
+<p 02><a 6B><n 15>
+With this move
+you can break objects
+below you.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Why don't you try these
+moves on the two
+objects in here!?
+<--------------------->
+
+<p 02><a 6B><n 15>
+If you want to review
+them, just press the
+START
+<--------------------->
+
+and open the
+sub-screen. Take a
+look in
+<--------------------->
+
+<p 02><a 6B><n 15>
+the Profiles section.
+There, you will find
+detailed explanations
+<--------------------->
+
+of other
+moves as well.
+<*********************>
+
+<FIM>
