@@ -2,116 +2,120 @@
 <#####################>
 
 <p 02><d 0100><a 42><n 1A>
-Well? How's that lock
-coming?
+Bem, como está indo
+aí na fechadura?
 <--------------------->
 
 <p 03><d 0200><a 42><n 1B>
-This is one tough nut
-to crack... But I'm
-almost there.
+Essa daqui está osso
+duro de roer... Mas
+estou quase lá.
 <*********************>
 
 <p 02><d 0300><a 42><n 1B>
-Yes! Got it! We're in.
+Sim! Consegui!
+Estamos dentro.
 <*********************>
 
 <p 02><d 0400><a 42><n 1A>
-...Not again! It looks
-like this isn't it
-either.
+...De novo não! Parece
+que esse não é só mais
+outro qualquer.
 <--------------------->
 
 <p 02><d 0500><a 42><n 1A>
-I was hoping we'd find
-it on the first try,
+Eu esperava que a gente
+fosse encontrá-lo na
+primeira tentativa,
 <--------------------->
 
 <d 0600>
-and show it off
-to the guys back at
-Hunter's Camp.
+e mostrá-lo para a
+galera no Acampamento
+de Caçadores.
 <*********************>
 
 <p 03><d 0700><a 42><n 1B>
-Hey! There's something
-in there!
+Ei! Há alguma coisa
+ali!
 <*********************>
 
 <p 03><d 0800><a 42><n 1B>
-What the...!?
+O quê...!?
 <*********************>
 
 <p 02><d 0900><a 42><n 1A>
-...A Reploid kid? No
-way! What's it doing
-here?
+...Um garoto Replóide?
+Não pode ser! O que
+está havendo aqui?
 <*********************>
 
 <p 02><d 0A00><a 42><n 1B>
-Hey, don't touch it! If
-you trip the security,
+Ei, não toque nele!
+Se o alarme de
+segurança disparar,
 <--------------------->
 
 <d 0B00>
-we'll have Mechaniloids
-crawling all over us.
+teremos todos os
+Mecanilóides rastejando
+em cima de nós.
 <*********************>
 
 <p 02><d 0D00><a 0F><n 00>
-What the!?
-W-What... happened?
+O quê!?
+O-O que... aconteceu?
 <--------------------->
 
 <p 02><d 0E00><a 0F><n 00>
-Where am I?
-Who am I?
+Onde estou?
+Quem sou eu?
 <--------------------->
 
 <p 02><d 0F00><a 0D><n 00>
-Hnnngnn! I can't
-remember anything...
+Hnnngnn! Não consigo
+lembrar de nada...
 <*********************>
 
 <p 03><d 1000><a 0F><n 00>
-W-Who are you!?
+Q-Quem é você!?
 <*********************>
 
 <p 01><p 02><d 1100><a 28><n 04>
-I... am Pandora.
+Eu... sou Pandora.
 <--------------------->
 
 <p 01><p 02><d 1200><a 28><n 04>
-Grey... I'm here
-to dispose of you...
+Grey... Estou aqui para
+me livrar de você...
 <--------------------->
 
 <p 01><p 03><d 1300><a 08><n 01>
-Grey? Is that my
-name?
+Grey? Esse é o meu
+nome?
 <--------------------->
 
 <p 01><p 03><d 1400><a 0B><n 01>
-What do you mean
-dispose of me!?
+O que quer dizer com
+"me livrar de você!?
 <--------------------->
 
 <p 01><p 02><d 1500><a 28><n 04>
-You... are like me... A
-Mega Man... But you
-were awakened...
+Você... é como eu... Um
+Mega Man... Mas você
+foi despertado...
 <--------------------->
 
 <p 01><p 02><d 1600><a 28><n 04>
-before the mind control
-sequence was
-completed...
+antes da sequência de
+controle da mente ser
+concluída...
 <--------------------->
 
 <p 01><p 03><d 1700><a 0B><n 01>
-Mega Man? Mind
-control!? What have
-you done to me!?
+Mega Man? Controle da
+mente!? O que você
+fez comigo!?
 <*********************>
 
 <p 00><p 03><d 1800><a 0E><n 01>
@@ -119,14 +123,14 @@ Ugnnh!
 <*********************>
 
 <p 00><p 02><d 1900><a 28><n 04>
-Defectives must be
-disposed of...
+Os defeituosos devem
+ser eliminados...
 <--------------------->
 
 <p 03><d 1A00><a 0A><n 01>
-I don't think this
-guy will be needing
-his weapon anymore.
+Acho que esse cara não
+vai mais precisar da
+sua arma.
 <*********************>
 
 <p 03><d 1B00><a 0B><n 01>
@@ -134,15 +138,15 @@ Aaaagghh!
 <*********************>
 
 <p 02><d 1C00><a 0D><n 01>
-*pant*... *pant*...!
-Why did she call me
-defective!?
+*arf*... *arf*...!
+Por que ela me chamou
+de "defeituoso"!?
 <--------------------->
 
 <p 02><d 1D00><a 0A><n 01>
-Anyway, I have to find
-a way out of here
-before they kill me!
+Afinal, tenho que achar
+um jeito de sair daqui
+antes que me matem!
 <*********************>
 
 <p 02><d 1E00><a 0E><n 01>
@@ -150,121 +154,121 @@ Aaaagghh!
 <*********************>
 
 <p 03><d 1F00><a 0F><n 01>
-Mmmwwaaa!
+Mmmuuaaa!
 <*********************>
 
 <p 03><d 2000><a 08><n 01>
-Huh...? Where
-am I?
+Hã...?
+Onde estou?
 <*********************>
 
 <p 02><d 2100><a 42><n 1F>
-Whoa! Hey, let's
-just calm down, OK!?
+Opa! Ei, vamos se
+acalmar, OK!?
 <--------------------->
 
 <p 03><d 2200><a 0A><n 01>
-Are you here to kill
-me!?
+Você está aqui para me
+matar!?
 <--------------------->
 
 <p 02><d 2300><a 42><n 1F>
-I'm the one who found
-you outside the camp!
+Fui eu quem achou você
+no lado de fora do
+acampamento!
 <--------------------->
 
 <p 02><d 2400><a 42><n 1F>
-Put down your weapon!
-I'm not going to hurt
-you!
+Abaixe sua arma!
+Não vou te machucar!
 <*********************>
 
 <p 03><d 2500><a 08><n 01>
-You... helped me?
+Você... me ajudar?
 <*********************>
 
 <p 02><d 2600><a 42><n 1F>
-Yeah, don't mention
-it. What's your name?
+Sim, sem problema.
+Qual é o seu nome?
 <--------------------->
 
 <d 2700>
-And what the heck
-happened to you?
+E o que diabos
+aconteceu com você?
 <--------------------->
 
 <p 03><d 2800><a 08><n 01>
-Grey... At least,
-that's what she called
-me anyway.
+Grey... Pelo menos
+foi disso que ela me
+chamou, de todo modo.
 <--------------------->
 
 <p 03><d 2900><a 08><n 01>
-When I woke up, I was
-inside some kind of
-building...
+Quando acordei, eu
+estava dentro de algum
+tipo de prédio...
 <--------------------->
 
 <d 2A00>
-And there was a
-woman... She said her
-name was Pandora.
+E havia uma mulher...
+Ela disse que seu nome
+era Pandora.
 <--------------------->
 
 <p 03><d 2B00><a 0D><n 01>
-Right before she tried
-to kill me.
+Bem antes dela tentar
+me matar.
 <--------------------->
 
 <d 2C00>
-I ran... Everything
-after that is a blur.
+Eu corri... De tudo
+depois dessa confusão.
 <--------------------->
 
 <p 02><d 2D00><a 42><n 1F>
-Well, there must be
-some reason you
-can't remember...
+Bem, deve haver alguma
+razão para não se
+lembrar...
 <--------------------->
 
 <d 2E00>
-Don't let it get you
-down. It'll all come
-back to you.
+Não deixe isso te
+abater. Tudo vai
+mudar pra você.
 <--------------------->
 
 <p 02><d 2F00><a 42><n 1F>
-This is Hunter's Camp,
-a gathering place for
-bounty Hunters.
+Esse é o Acamp. de
+Caçadores, o local do
+caçador de recompensas.
 <--------------------->
 
 <p 02><d 3000><a 42><n 1F>
-They're a pretty rowdy
-bunch, but they're all
-good people.
+É um bando muito
+agitado, mas eles
+são boas pessoas.
 <--------------------->
 
 <d 3100>
-It's good to have guys
-like them around.
+É bom ter caras como
+eles ao redor.
 <--------------------->
 
 <p 02><d 3200><a 42><n 1F>
-Hey, you haven't had a
-chance to see the camp
-yet.
+Ei, você não teve a
+chance de ver o campo
+ainda.
 <--------------------->
 
 <p 02><d 3300><a 42><n 1F>
-OK, exit this room and
-meet me at the
-transerver next door.
+OK, saia dessa sala
+e me encontre no
+transervidor ao lado.
 <--------------------->
 
 <d 3400>
-There's something I
-wanna show you.
+Há algo que eu quero te
+mostrar.
 <*********************>
 
 <p 03><d 3500><a 08><n 01>
@@ -272,386 +276,384 @@ Uh... Um...!
 <*********************>
 
 <p 03><d 3600><a 0C><n 01>
-...Uh, thank you for
-saving me...
+...Uh, obrigado por me
+salvar...
 <--------------------->
 
 <p 02><d 3700><a 42><n 1F>
-*smile* Like I said,
-don't mention it.
+*sorriso* Como eu
+disse, não falei dele.
 <--------------------->
 
 <d 3800>
-I'm sure you would have
-done the same for me.
+Tenho certeza que teria
+feito o mesmo por mim.
 <*********************>
 
 <p 03><d 3900><a 42><n 1F>
-That machine's called a
-transerver. You can use
-it to save data.
+Essa máquina é chamada
+de transervidor. Use
+ela para salvar.
 <*********************>
 
 <p 03><d 3A00><a 42><n 1F>
-Go ahead, get up there
-and press up on the
-<dpad>Control Pad.
+Vá em frente, chegue lá
+em cima e pressione o
+<dpad> para cima.
 <*********************>
 
 <p 03><d 3C00><a 08><n 01>
-A Hunter's License? I
-don't get it...
+Uma Licença de Caçador?
+Não entendi...
 <--------------------->
 
 <p 02><d 3D00><a 42><n 1F>
-By accessing the
-server,
+Acessando o servidor,
 <--------------------->
 
 <p 02><d 3E00><a 42><n 1F>
-you've been officially
-registered as a Hunter.
+você foi oficialmente
+registrado como um
+Caçador.
 <--------------------->
 
 <d 3F00>
-There are transervers
-spread out all over the
-place.
+Há transervidores
+espalhados por todo
+lado.
 <--------------------->
 
 <d 4000>
-When you find one, be
-sure to save, and save
-often!
+Quando encontrar um,
+certifique-se de salvar
+e salvar muitas vezes!
 <--------------------->
 
 <p 03><d 4100><a 0F><n 01>
-Wait a minute! I never
-said that I wanted to
-be a Hunter...!
+Espere um minuto! Eu
+nunca disse que queria
+ser um Caçador...!
 <--------------------->
 
 <p 02><d 4200><a 42><n 1F>
-Just keep it. There are
-a lot of illegal 
-Hunters, Raiders and
+Basta continuar. Existe
+um monte de Caçadores
+ilegais, Saqueadores ou
 <--------------------->
 
 <p 02><d 4300><a 42><n 1F>
-such out there.
-You can't get into 
-Hunter's Camp
+coisa parecida lá fora.
+Você não pode entrar no
+Acampamento de Caçador
 <--------------------->
 
 <p 02><d 4400><a 42><n 1F>
-without your Hunter's
-License. Take a
-look around later on.
+sem sua Licença de
+Caçador. Dê uma olhada
+ao redor mais tarde.
 <--------------------->
 
 <d 4500>
-Oh, by the way! Do you
-wanna help me with a
-mission?
+Ah, a propósito! Quer
+me ajudar com uma
+missão?
 <--------------------->
 
 <p 03><d 4600><a 08><n 01>
-A mission?
+Uma missão?
 <--------------------->
 
 <p 02><d 4700><a 42><n 1F>
-Job requests we Hunters
-get now and then. You
-get paid 
+Temos solicitações
+de serviço de vez em
+quando. Você será pago
 <--------------------->
 
 <p 02><d 4800><a 42><n 1F>
-when you carry out a
-job successfully. Hey,
-it's a living.
+quando realizar um
+serviço com êxito.
+Ei, assim é a vida.
 <--------------------->
 
 <p 02><d 4900><a 42><n 1F>
-Anyway, I've got to get
-ready for the mission,
-so I'll be
+De todo modo, tenho
+que me preparar para a
+missão, então, estarei
 <--------------------->
 
 <d 4A00>
-at the station. Give me
-a holler when you're
-ready to go.
+na estação. Avise-me
+quando estiver pronto
+para ir.
 <*********************>
 
 <p 02><a 08><n 01>
-Use the Jump Button to
-get over bumps and
-obstacles.
+Use o Botão de Pular
+para passar de buracos
+e obstáculos.
 <--------------------->
 
 <p 02><a 08><n 01>
-Jump to the right or
-the left by pressing
-the Jump Button and
+Pule para direita ou
+esquerda, pressionando
+O Botão de Pular e
 <--------------------->
 
-the <dpad>Control Pad
-right or left.
-<--------------------->
-
-<p 02><a 08><n 01>
-You can jump higher by
-holding down the Jump
-Button.
+o <dpad> para direita
+ou esquerda.
 <--------------------->
 
 <p 02><a 08><n 01>
-The higher you jump,
-the further you can go.
+Você pode pular mais
+alto, segurando o Botão
+de Pular.
 <--------------------->
 
 <p 02><a 08><n 01>
-OK, first try to jump
-over that.
+Quanto mais alto pular,
+mais longe pode ir.
+<--------------------->
+
+<p 02><a 08><n 01>
+OK, primeiro tente
+pular sobre isso.
 <*********************>
 
 <p 02><a 08><n 01>
-I bet the weapon you're
-holding can destroy
-those
+Aposto que a arma que
+está segurando pode
+destruir aquelas
 <--------------------->
 
 <p 02><a 08><n 01>
-capsules up ahead. Give
-it a try! Press the
-Attack Button.
+cápsulas à frente.
+Tente fazer! Apertando
+o Botão de Ataque.
 <--------------------->
 
 <p 02><a 08><n 01>
-It looks like it can
-shoot 3 shots in a row.
+Parece que ele pode
+disparar 3 tiros em
+uma fileira.
 <*********************>
 
 <p 02><a 08><n 01>
-There is no way to jump
-over this big
-container.
+Não há como pular em
+cima desse grande
+recipiente.
 <--------------------->
 
 <p 02><a 08><n 01>
-You might be able to
-destroy it by
+Você será capaz
+de destruí-lo
 <--------------------->
 
-continuously
-pressing the Attack
-Button.
+pressionando
+continuamente o Botão
+de Ataque.
 <*********************>
 
 <p 02><a 08><n 01>
-But what about that
-container way
-up there?
+Mas e quanto aquela
+forma de recipiente
+lá em cima?
 <--------------------->
 
 <p 02><a 08><n 01>
-To shoot something that
-high up,
+Para atirar em algo que
+estiver no alto,
 <--------------------->
 
-press the Attack
-Button while jumping.
+pressione o Botão de
+Ataque ao pular.
 <*********************>
 
 <p 02><a 08><n 01>
-There's a ladder over
-there.
+Há uma escada ali.
 <--------------------->
 
 <p 02><a 08><n 01>
-Face the ladder and
-jump while pressing up
-on the <dpad>Control Pad,
+Encare a escada e pule
+enquanto segura o <dpad>
+pra cima,
 <--------------------->
 
-and you should be able
-to grab the ladder.
-<--------------------->
-
-<p 02><a 08><n 01>
-Once you grab hold of
-the ladder, press up or
-down on the
-<--------------------->
-
-<dpad>Control Pad to go up
-or down.
+e você será capaz de
+agarrar a escada.
 <--------------------->
 
 <p 02><a 08><n 01>
-Press the Attack Button
-in combination with
+Uma vez que agarrar a
+escada, pressione o <dpad>
+pra cima ou pra baixo
 <--------------------->
 
-right or left on the
-<dpad>Control Pad
-<--------------------->
-
-<p 02><a 08><n 01>
-to attack right or left
-while on the ladder.
+pra subir ou descer.
 <--------------------->
 
 <p 02><a 08><n 01>
-Press the Jump Button
-to get off of the
-ladder.
+Pressione o Botão de
+Ataque combinado com
+<--------------------->
+
+lado direito ou
+esquerdo no <dpad>
+<--------------------->
+
+<p 02><a 08><n 01>
+para atacar pra direita
+ou esquerda.
+<--------------------->
+
+<p 02><a 08><n 01>
+Pressione o Botão de
+Pular para sair da
+escada.
 <*********************>
 
 <p 02><a 08><n 01>
-That sound... Is that
-the sound of gas
+Esse som... Esse é o
+som de gás
 <--------------------->
 
-leaking from that
-pipe over there?
-<--------------------->
-
-<p 02><a 08><n 01>
-If you crouch down, you
-should be able to get
-by
-<--------------------->
-
-without touching the
-gas.
+vazando daquele cano
+ali?
 <--------------------->
 
 <p 02><a 08><n 01>
-You can crouch down by
-pressing down on the
-<dpad>Control Pad.
+Se você se agachar,
+conseguirá passar
+<--------------------->
+
+sem tocar no gás.
 <--------------------->
 
 <p 02><a 08><n 01>
-Press the <dpad>Control Pad
-right or left to walk
-while crouching.
+Você pode se agachar
+pressionando o <dpad>
+pra baixo.
+<--------------------->
+
+<p 02><a 08><n 01>
+Pressione o <dpad> pra
+direita ou esquerda pra
+andar agachado.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor pra voltar
+lá a qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que isso não
+está funcionando,
+
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver bastante
+E-Cristais, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-See? Pretty neat, huh?
-With this you can use 
+Entendeu? Bem claro,
+hein? Com isso você
+pode usar
 <--------------------->
 
-a transerver to come
-back anytime!
-<--------------------->
-
-<p 02><a 48><n 36>
-You can look at the map
-to see which areas are
-accessible.
+um transervidor para
+voltar a qualquer hora!
 <--------------------->
 
 <p 02><a 48><n 36>
-When you start up the
-Warp Point, the area
-will light up red. 
-<--------------------->
-
-So, you should be able
-to find it right away.
+Você pode olhar para
+o mapa pra ver quais
+áreas são acessíveis.
 <--------------------->
 
 <p 02><a 48><n 36>
-I wonder if you were 
-able to understand my
-explanation,
+Quando você iniciar o
+Ponto Warp, a área
+irá acender vermelho. 
 <--------------------->
 
-since I'm still in
-training.
-<--------------------->
-
-<p 02><a 48><n 36>
-Also, in Beginner Mode,
-all you have to do is
-touch it
-<--------------------->
-
-and it will start up
-automatically!
+Então, você será capaz
+de encontrá-lo de
+imediato.
 <--------------------->
 
 <p 02><a 48><n 36>
-If you don't understand
-something, please ask
-me again, OK?
+Gostaria de saber se
+você conseguiu entender
+a minha explicação,
+<--------------------->
+
+já que ainda estou em
+treinamento.
+<--------------------->
+
+<p 02><a 48><n 36>
+Além disso, no Modo
+Iniciante, tudo que
+tem que fazer é tocá-lo
+<--------------------->
+
+e ele irá iniciar
+automaticamente!
+<--------------------->
+
+<p 02><a 48><n 36>
+Se não entender alguma
+coisa, por favor,
+pergunte de novo, OK?
 <*********************>
 
 <FIM>
