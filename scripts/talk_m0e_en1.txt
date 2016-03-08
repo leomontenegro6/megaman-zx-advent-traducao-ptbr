@@ -2,98 +2,100 @@
 <#####################>
 
 <p 02><a 08><n 01>
-...Where am I?
+...Onde estou?
 <*********************>
 
 <p 03><a 08><n 01>
-I remember this place.
-This is the building I
-first woke up in...
+Lembro desse lugar.
+É o prédio onde acordei
+pela primeira vez...
 <--------------------->
 
 <p 03><a 6B><n 15>
-You were locked up
-here?
+Você estava trancado
+aqui?
 <*********************>
 
 <p 02><a 02><n 06>
-If this is where you
-received your Mega Man
-preparation,
+Se esse for o lugar que
+você recebeu a sua
+preparação de Mega Man,
 <--------------------->
 
 <p 02><a 02><n 06>
-there may be a clue
-about Albert's plan.
-Would you have a look?
+lá deve ter uma pista
+do plano de Albert.
+Poderia dar uma olhada?
 <*********************>
 
 <p 02><a 08><n 01>
-I don't think I've been
-in this building
-though...
+Acho que não estive
+nesse prédio, no
+entanto...
 <--------------------->
 
 <p 02><a 6B><n 15>
-OK, let's go check it
-out!
+Certo, vamos dar uma
+olhada!
 <*********************>
 
 <p 02><d CA03><a 08><n 01>
-This is just like the
-capsule I was in...
+Isso é exatamente igual
+a cápsula que eu
+estava...
 <--------------------->
 
 <p 02><d CB03><a 6B><n 15>
-Look at that panel.
-There's a message.
+Olhe para esse painel.
+Há uma mensagem.
 <*********************>
 
 <p 02><d CC03><a 04><n 00>
-DAN-001 "PROMETHEUS"
-TIME REMAINING BEFORE
-SHUTDOWN FOR
+DAN-001 "PROMETEUS"
+TEMPO RESTANTE ANTES DO
+DESLIGAMENTO PARA
 <--------------------->
 
 <d CD03>
-RECALIBRATION 246924
-SECONDS.
+RECALIBRAÇÃO 246924
+SEGUNDOS.
 <*********************>
 
 <p 02><d CE03><a 04><n 00>
 DAN-002 "PANDORA"
-TIME REMAINING BEFORE
-SHUTDOWN FOR
+TEMPO RESTANTE ANTES DO
+DESLIGAMENTO PARA
 <--------------------->
 
 <d CF03>
-RECALIBRATION 246939
-SECONDS.
+RECALIBRAÇÃO 246939
+SEGUNDOS.
 <*********************>
 
 <p 02><d D003><a 0F><n 01>
-These are Prometheus
-and Pandora's capsules!
+Essas são as cápsulas
+de Prometeus e Pandora!
 <--------------------->
 
 <d D103>
-Those two were made
-here too?
+Aqueles dois foram
+feitos aqui também?
 <*********************>
 
 <p 02><d D203><a 6B><n 15>
-Maybe they're what
-the data meant by 
-"Reploid siblings."
+Talves eles sejam o que
+os dados dizem
+"Irmãos Replóides."
 <--------------------->
 
 <p 02><d D303><a 6B><n 15>
-I bet the first two
-Mega Men Albert made
+Aposto que os primeiros
+dois Mega Mans feitos
+por Albert
 <--------------------->
 
 <d D403>
-were Prometheus and
+foram Prometeus e
 Pandora.
 <--------------------->
 
@@ -102,247 +104,251 @@ Pandora.
 <*********************>
 
 <p 02><d D603><a 02><n 06>
-There's no doubt about
-it.
+Não há nenhuma dúvida
+sobre isso.
 <--------------------->
 
 <d D703>
-These capsules are the
-chains that bound them.
+Essas cápsulas são as
+correntes que os
+prendiam.
 <--------------------->
 
 <p 02><d D803><a 02><n 06>
-So that they wouldn't
-go against Albert's
-plan.
+De modo que eles não
+fossem contra os planos
+de Albert.
 <--------------------->
 
 <p 02><d D903><a 08><n 01>
-Chains?
+Correntes?
 <--------------------->
 
 <p 02><d DA03><a 02><n 06>
-The counter on the
-panel is probably
-Prometheus's life.
+O contador no painel é
+provavelmente a vida de
+Prometeus.
 <--------------------->
 
 <d DB03>
-It's set pretty short.
-They're made so that
-they'll die
+Indica que está muito
+baixo. Eles são feitos
+de modo que morram
 <--------------------->
 
 <p 02><d DC03><a 02><n 06>
-if they don't go back
-into the capsules for
-maintenance
+se não voltarem para
+dentro das cápsulas
+para manutenção
 <--------------------->
 
 <d DD03>
-at regular intervals.
+em intervalos
+regulares.
 <--------------------->
 
 <p 02><d DE03><a 6B><n 15>
-In order to stay
-maintained, they have
-to do what Albert says.
+De modo a se manterem
+firmes, eles têm que
+fazer o que diz Albert.
 <--------------------->
 
 <p 02><d DF03><a 02><n 06>
-It looks like this
-building goes further
-in.
+Parece que esse prédio
+vai mais além do que
+isso.
 <--------------------->
 
 <p 02><d E003><a 02><n 06>
-There may be something
-left. Keep looking.
+Pode ser que tenha
+deixado alguma coisa.
+Continue procurando.
 <*********************>
 
 <p 03><d E103><a 3D><n 00>
-Hey, hey, that's as far
-as you go!
+Ei, ei, isso é o mais
+longe que você pode ir!
 <--------------------->
 
 <p 03><d E203><a 3D><n 00>
-Nobody gets past this
-point!
+Ninguém passa desse
+ponto!
 <--------------------->
 
 <d E303>
-I'm just following Mr.
-Albert's orders.
+Estou apenas seguindo
+ordens do Sr. Albert.
 <--------------------->
 
 <p 02><d E403><a 0B><n 01>
-So he's hiding
-something in here too!
+Então ele está
+escondendo alguma coisa
+aqui também!
 <--------------------->
 
 <d E503>
-Well you're just gonna
-have to get out of the
-way!
+Bem, você simplesmente
+vai ter que ficar fora
+do caminho!
 <--------------------->
 
 <p 03><d E603><a 3D><n 0F>
-Hey, hey! Do you think
-you can just ignore me,
-Hedgeshock!?
+Ei, ei! Acha que pode
+simplesmente me
+ignorar, Hedgeshock!?
 <--------------------->
 
 <p 03><d E703><a 3D><n 0F>
-You've got to face the
-penalty! A shocking
-penalty!
+Você tem que encarar a
+punição! Uma punição
+chocante!
 <--------------------->
 
 <p 03><d E803><a 3D><n 0F>
-Mr. Albert's orders are
-absolute!
+As ordens do Sr. Albert
+são absolutas!
 <*********************>
 
 <p 03><d E903><a 3D><n 0F>
-That's right! I am a
-faithful servant of Mr.
+É isso mesmo! Sou um
+servo leal do Sr.
 Albert!
 <*********************>
 
 <p 03><d EA03><a 3D><n 0F>
-Hey, hey! That kind of
-strength... is...
-cheating!
+Ei, ei! Esse tipo de
+força... é... trapaça!
 <--------------------->
 
 <p 03><d EB03><a 3D><n 0F>
-It's just like... 
-Mr. Albert's strength!
+É exatamente como... 
+A força do Sr. Albert!
 <--------------------->
 
 <p 03><d EC03><a 3D><n 0F>
-WAAAAAH!
+UAAAAAH!
 <*********************>
 
 <p 02><d ED03><a 08><n 01>
-Is there only this one
-capsule?
+Há somente essa única
+cápsula?
 <--------------------->
 
 <p 02><d EE03><a 6B><n 15>
-But it's empty. There's
-something showing on
-this panel, though.
+Mas está vazia. Há algo
+sendo mostrado nesse
+painel, entretanto.
 <*********************>
 
 <p 02><d EF03><a 04><n 00>
-DAN-000 <74>PROTOTYPE<74>
-FINAL VERSION COMPLETE.
-START FINAL PHASE.
+DAN-000 <74>PROTÓTIPO<74>
+VERSÃO FINAL COMPLETA.
+FASE FINAL INICIADA.
 <--------------------->
 
 <p 03><d F003><a 0F><n 01>
-There were Mega Men
-being made even before
-Prometheus and Pandora?
+Tinham Mega Mans sendo
+feitos antes mesmo de
+Prometeus e Pandora?
 <--------------------->
 
 <p 03><d F103><a 0F><n 01>
-The process is finished
-and the capsule is
-open...
+O processo está
+concluído e a cápsula
+está aberta...
 <--------------------->
 
 <p 03><d F203><a 6B><n 15>
-Huh? There's a disk
-still in this drive!
+Hã? Ainda há um disco
+nessa unidade!
 <*********************>
 
 <p 02><d F303><a 02><n 06>
-Very good, but all
-you managed to find
+Muito bem, mas tudo que
+você conseguiu achar
 <--------------------->
 
 <d F403>
-is an empty capsule and
-some incomplete data?
+foi uma cápsula vazia
+e alguns dados
+incompletos?
 <--------------------->
 
 <p 02><d F503><a 02><n 06>
-There might be some
-Mega Men that we don't
-know about.
+Pode ter alguns Mega
+Mans que nós não
+conhecemos aí.
 <--------------------->
 
 <p 02><d F603><a 02><n 06>
-We'll analyze the data
-here and see what we
-can find.
+Vamos analizar os dados
+aqui e ver o que
+podemos encontrar.
 <--------------------->
 
 <d F703>
-Send it with your
-mission report.
+Envie isso com o seu
+relatório de missão.
 <*********************>
 
 <p 02><a 6B><n 15>
-The passage up ahead is
-really low.
+A passagem à frente é
+realmente baixa.
 <--------------------->
 
-Crouching looks like
-the only way to get in.
-<--------------------->
-
-<p 02><a 6B><n 15>
-But, with these
-obstacles in the way,
-<--------------------->
-
-we can't get all the
-way through.
+Agachado parece o único
+modo de entrar.
 <--------------------->
 
 <p 02><a 6B><n 15>
-I've got it! Try
-morphing into
+Mas, com esses
+obstáculos no caminho,
+<--------------------->
+
+não podemos passar todo
+o caminho.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Já sei! Tente se
+transformar em
 Hedgeshock!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Then, hold down the
-<dpad>Control Pad and press
-Dash.
+Em seguida, segure o
+<dpad> pra baixo e aperte
+o Botão de Dash.
 <--------------------->
 
-That way you can
-slip under! 
-<--------------------->
-
-<p 02><a 6B><n 15>
-Hedgeshock's abilities
-aren't very good on the
-offensive,
-<--------------------->
-
-so you should avoid
-using her against
-enemies.
+Dessa forma você pode
+deslizar por baixo! 
 <--------------------->
 
 <p 02><a 6B><n 15>
-You can shoot balls of
-electricity by holding
-down the Attack Button
+As habilidades de
+Hedgeshock não são
+muito boas na ofensiva,
 <--------------------->
 
-and releasing it!
+então deve evitar
+usá-las contra os
+inimigos.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Well come on, let's
-use rolling dash to get
-into that passageway.
+Você pode atirar bolas
+elétricas segurando o
+Botão de Ataque
+<--------------------->
+
+e depois soltando-o!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Bem, venha, vamos usar
+o Dash de rotação para
+entrar nessa passagem.
 <*********************>
 
 <FIM>

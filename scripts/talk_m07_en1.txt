@@ -2,89 +2,89 @@
 <#####################>
 
 <p 02><a 0F><n 01>
-D-Did you hear that!?
-What was that loud
-noise?
+V-Você ouviu isso!?
+Que barulho foi esse?
 <--------------------->
 
 <p 02><a 6B><n 15>
-There's a shootout
-somewhere.
+Há um tiroteio em algum
+lugar.
 <--------------------->
 
-I wonder if Mavericks
-got the jump on us. I
-can't get through 
+Penso se os Mavericks
+já nos ultrapassaram.
+não consigo chegar até
 <--------------------->
 
 <p 02><a 6B><n 15>
-to the Sage Trinity.
-This doesn't look good.
+a Trindade Sábia. Isso
+não parece bom.
 <--------------------->
 
 <p 02><a 08><n 01>
-Legion Headquarters is
-this way! Let's hurry!
+O Quartel General da
+Legião é por aqui!
+Vamos, depressa!
 <*********************>
 
 <p 03><d E801><a 2D><n 14>
-TARGET ACQUIRED.
-INITIATE INFORMATION
-ANALYSIS.
+ALVO ADQUIRIDO.
+INICIAR ANÁLISE DE
+INFORMAÇÕES.
 <--------------------->
 
 <p 03><d E901><a 2D><n 14>
-COMMENCE PLANNED
-COMBAT PROCEDURE?
+INICIAR PROCEDIMENTO DE
+COMBATE PLANEJADO?
 <--------------------->
 
 <d EA01>
-INPUT
-RESPONSE...
+RESPOSTA DE
+ENTRADA...
 <--------------------->
 
 <p 02><d EB01><a 6B><n 15>
-Aw, man, this guy's the
-weirdest of 'em all.
+Ah, cara, esse sujeito
+é o mais estranho de
+todos eles.
 <--------------------->
 
 <p 03><d EC01><a 2D><n 14>
-INVALID INPUT. INPUT
-RESPONSE.
+ENTRADA INVÁLIDA.
+RESPOSTA DE ENTRADA.
 <--------------------->
 
 <p 02><d ED01><a 0A><n 01>
-Well, if this is the
-only way for me find
-out who I really am...
+Bem, se essa é a única
+forma de descobrir quem
+eu realmente sou...
 <--------------------->
 
 <p 03><d EE01><a 2D><n 14>
-RESPONSE ACCEPTED...
-COMMENCE COMBAT...!
+RESPOSTA ACEITADA...
+INICIAR COMBATE...!
 <*********************>
 
 <p 03><d EF01><a 2E><n 14>
-DESTRUCTION OF
-BIOLOGICAL TARGET
-CONFIRMED.
+DESTRUIÇÃO DO ALVO
+BIOLÓGICO CONFIRMADO.
 <--------------------->
 
 <p 03><d F001><a 2E><n 14>
-COMMENCING PLAN TO TAKE
-CONTROL OF LEGION
-HEADQUARTERS. *laugh* 
+INICIAR PLANO DE TOMAR
+O CONTROLE DO QUARTEL
+GEN. DA LEGIÃO. *riso* 
 <*********************>
 
 <p 03><d F101><a 2E><n 14>
-DAMAGE... CRITICAL!
-HAZARDOUS TO PROCEED
-WITH COMBAT ENGAGEMENT
+DANOS... CRÍTICO!
+PERIGO AO CONTINUAR COM
+EMPENHO DE COMBATE
 <--------------------->
 
 <p 03><d F201><a 2E><n 14>
-IN PRESENT CONDITION...
-RETREATING!
+NA CONDIÇÃO ATUAL...
+RECUANDO!
 <*********************>
 
 <p 02><d F301><a 0E><n 01>
@@ -92,354 +92,352 @@ Aaaaaaaaaah!
 <*********************>
 
 <p 02><a 03><n 00>
-EXTRACTING FROM CODE
-CE71 TO FC60. EXPANDING
-REPORT DATA.
+EXTRAINDO CÓDIGO DE
+CE71 A FC60. AMPLIANDO
+RELATÓRIO DE DADOS.
 <--------------------->
 
 <p 02><a 03><n 00>
-...You who have broken
-the second cipher now
-stand at a fateful
+...Você que quebrou a
+segunda cifra, agora
+está em uma encruzihada
 <--------------------->
 
 <p 02><a 03><n 00>
-crossroads. If you
-continue to read this
-data,
+decisiva. Se você
+continuar a leitura
+desses dados,
 <--------------------->
 
-there is no turning
-back.
+não haverá como voltar
+atrás.
 <*********************>
 
 <p 02><a 03><n 00>
-You too are part of
-this plan.
-Biometal has the
+Você também faz parte
+desse plano. O Biometal
+tem a capacidade
 <--------------------->
 
 <p 02><a 03><n 00>
-ability to give its
-"Chosen One" superhuman
-powers and combine to
+de dar ao "Escolhido"
+sua força sobre-humana
+e se combinam para se
 <--------------------->
 
 <p 02><a 03><n 00>
-become a new lifeform.
-This combination
-results in a Megamerge,
+tornarem uma nova forma
+de vida. Essa junção
+provem de Megamergir,
 <--------------------->
 
 <p 02><a 03><n 00>
-the transformation into
-a Mega Man. I've
-decided to select a new
+transformando-se em um
+Mega Man. Decidi
+escolher um novo
 <--------------------->
 
-Chosen One suitable for
-Model W, the next step
-in evolution.
+Escolhido adequado para
+o Modelo W, a próxima
+etapa na evolução.
 <--------------------->
 
-Finding a suitable
-candidate in this world
-is nearly impossible.
+Encontrar um candidato
+adequado neste mundo é
+quase impossível.
 <*********************>
 
 <p 02><a 03><n 00>
-But I can do it,
-because as one of
-Legion's Sage Trinity,
+Mas posso fazer isso,
+pois, como um dos Trin-
+dade Sábias da Legião,
 <--------------------->
 
 <p 02><a 03><n 00>
-I know everything
-about the world...
+Sei tudo sobre o
+mundo...
 <*********************>
 
 <p 02><d F401><a 0F><n 01>
-Model W was created by
-one of the Sage
-Trinity!?
+O Modelo W foi criado
+por um dos Trindade
+Sábias!?
 <--------------------->
 
 <p 02><d F501><a 6B><n 15>
-That means that he and
-Prometheus are
-connected somehow
+Isso significa que ele
+e Prometeus estão
+ligados de alguma forma
 <--------------------->
 
 <p 02><d F601><a 6B><n 15>
-behind the scenes.
-And it means that
-we can't even
+por trás dos panos.
+E isso quer dizer que
+não podemos nem mesmo
 <--------------------->
 
 <d F701>
-trust the Sage Trinity.
-Yet you still wanna go?
+confiar na Trindade
+Sábia. Ainda quer ir,
+apesar de tudo?
 <--------------------->
 
 <p 02><d F801><a 08><n 01>
-...Come on, Model A!
-They're the only ones
-who know about us.
+...venha, Modelo A!
+Eles são os únicos que
+sabem sobre nós.
 <--------------------->
 
 <p 02><d FA01><a 6B><n 15>
-The data recorded on me
-is getting more and
-more outrageous.
+Os dados registrados em
+mim estão ficando cada
+vez mais ultrajantes.
 <*********************>
 
 <p 02><d FB01><a 1C><n 07>
-I can't stand
-Mavericks!
+Não suporto Mavericks!
 <--------------------->
 
 <p 02><d FC01><a 1D><n 06>
-It's hard to believe
-that they're
-cooperating.
+É difícil acreditar que
+eles estão cooperando.
 <--------------------->
 
 <p 03><d FD01><a 1E><n 05>
-They may be taking
-orders from a leader.
+Eles podem estar
+recebendo ordens de um
+líder.
 <--------------------->
 
 <p 02><d FE01><a 1C><n 07>
-What do they want? To
-make enemies with every
-nation on the planet?
+O que eles querem?
+Fazer inimigos com
+cada nação do planeta?
 <*********************>
 
 <p 03><d FF01><a 1E><n 05>
-What? What if
-they're just fed up
-with the world.
+O quê? Eles só estão de
+saco cheio com o mundo.
 <--------------------->
 
 <p 02><d 0002><a 1D><n 06>
-What?
+O quê?
 <*********************>
 
 <p 03><d 0102><a 1E><n 05>
-A new rule... For the
-evolution of the
-ultimate Mega Man...
+Uma nova regra... Para
+a evolução do Mega Man
+Definitivo...
 <*********************>
 
 <p 03><d 0202><a 1E><n 05>
-And there's one
-scientist
+E há um cientista
 <--------------------->
 
 <d 0302>
-who wants to see that
-evolution through to
-its end.
+que quer ver essa
+evolução até o fim.
 <*********************>
 
 <p 02><d 0402><a 1C><n 07>
-What are you saying!?
-No... You didn't!
+O que está dizendo!?
+Não... Não acredito!
 <*********************>
 
 <p 01><p 03><d 0502><a 1F><n 05>
-I have a proposal. A
-proposal to this world
-I've led for centuries.
+Tenho uma proposta. Uma
+proposta pra esse mundo
+que lidero há séculos.
 <--------------------->
 
 <p 01><p 03><d 0602><a 1F><n 05>
-A system to come up
-with fair solutions
-based on the doctrine
+Um sistema para chegar
+a soluções justas, com
+base na doutrina
 <--------------------->
 
 <p 01><p 03><d 0702><a 20><n 05>
-of the Sage Trinity. If
-you're opposed, then
-just try and stop me.
+da Trindade Sábia. Se
+você é contra, então é
+só tentar me impedir.
 <*********************>
 
 <p 02><d 0802><a 6B><n 15>
-Hey, isn't that
+Ei, não é aquele
 Biometal!?
 <*********************>
 
 <p 03><d 0902><a 1F><n 05>
-Two of the ciphers have
-been broken. I wonder,
-just how much
+Duas cifras foram
+quebradas. Queria
+saber quanta
 <--------------------->
 
 <p 03><d 0B02><a 1F><n 05>
-information has been
-compromised? I wanted
-to dispose of you
+informação foi
+comprometida? Queria
+me desfazer de você
 <--------------------->
 
 <d 0C02>
-sooner, but things
-didn't go exactly
-as planned.
+mais cedo, mas as
+coisas não saíram como
+o planejado.
 <*********************>
 
 <p 02><d 0D02><a 0A><n 01>
-YOU are the one who's
-been trying to have us
-killed!?
+VOCÊ é aquele que está
+tentando nos matar!?
 <--------------------->
 
 <p 03><d 0E02><a 1F><n 05>
-Don't look so angry!
-Welcome to Legion.
+Não fique tão zangado!
+Bem-vindo à Legião.
 <--------------------->
 
 <p 03><d 0F02><a 20><n 05>
-...Defective.
+...Defeituoso.
 <*********************>
 
 <p 03><d 1002><a 1D><n 06>
-I see. I'll tell you
-everything we know.
+Entendo. Vou te dizer
+tudo o que sabemos.
 <--------------------->
 
 <p 03><d 1102><a 1D><n 06>
-With these mechanical
-bodies, we've been able
-to live for centuries.
+Com esses corpos mecâ-
+nicos, fomos capazes
+de viver por séculos.
 <--------------------->
 
 <p 03><d 1202><a 1D><n 06>
-When Albert became one
-of the Sage Trinity
-those centuries ago,
+Quando Albert tornou-se
+um dos Trindade Sábias
+há séculos atrás,
 <--------------------->
 
 <d 1302>
-he was already working
-on Model W.
+ele já estava
+trabalhando no Modelo
+W.
 <--------------------->
 
 <p 03><d 1402><a 1D><n 06>
-Also, I looked you up
-in our database, Grey.
+Além disso, olhei em
+nosso banco de dados,
+Grey.
 <*********************>
 
 <p 02><d 1502><a 0F><n 01>
-And what did you
-find out about me!?
+E o que descobriu sobre
+mim!?
 <--------------------->
 
 <p 03><d 1602><a 1D><n 06>
-Well, there was no data
-on you... It appears
-that you never existed.
+Bem, não havia dados
+sobre você... Ao que
+parece nunca existiu.
 <--------------------->
 
 <p 02><d 1702><a 0B><n 01>
-That's ridiculous!
-You're lying!
+Isso é ridículo!
+Você está mentindo!
 <--------------------->
 
 <p 03><d 1802><a 1D><n 06>
-I'm not sure what you
-are... But Albert said
-that you were made
+Não sei bem o que você
+é... Mas Albert disse
+que você foi feito
 <--------------------->
 
 <p 03><d 1902><a 1D><n 06>
-in his image. I'm
-afraid that because you
-showed up,
+à sua imagem. Tenho
+medo do porque você ter
+aparecido,
 <--------------------->
 
 <p 03><d 1A02><a 1D><n 06>
-he had to speed up his
-plan. I'm not exactly
-sure why, though.
+ele teve que acelerar o
+seu plano. Não sei ao
+certo por que, contudo.
 <*********************>
 
 <p 02><d 1C02><a 0D><n 01>
-I come all this way, go
-through all of that,
-almost get killed,
+Cheguei até aqui,
+passei por tudo isso,
+quase morrendo,
 <--------------------->
 
 <d 1D02>
-and all you can tell me
-is that you don't know
-anything?
+e tudo que pode me
+dizer é que você não
+sabe de nada?
 <--------------------->
 
 <p 02><d 1E02><a 6B><n 15>
-...*sigh*
+...*suspiro*
 <*********************>
 
 <p 03><d 1F02><a 1C><n 07>
-Gentlemen, bad news. We
-have Mavericks showing
-up all over the world.
+Senhores, más notícias.
+Temos Mavericks apare-
+cendo em todo mundo.
 <--------------------->
 
 <p 03><d 2002><a 1C><n 07>
-Albert has started
-hunting for food for
-his Model W.
+Albert começou a caçar
+alimento para seu
+Modelo W.
 <--------------------->
 
 <p 02><d 2102><a 6B><n 15>
-He knows the jig is up!
-He's going for a Hail
-Mary! Let's go, Grey!
+Ele sabe que a festa
+acabou! Ele está indo,
+Ave Maria! Vamos, Grey!
 <--------------------->
 
 <p 02><d 2202><a 0D><n 01>
-But... I...
+Mas... Eu...
 <--------------------->
 
 <p 02><d 2302><a 6B><n 15>
-C'mon, let's go make
-Albert tell us 
-everything he knows.
+Venha, vamos fazer
+Albert nos contar tudo
+o que sabe.
 <--------------------->
 
 <p 02><d 2402><a 6B><n 15>
-And yeah, we
-can do heroic rescues
-along the way!
+E sim, podemos fazer
+resgates heróicos ao
+longo do caminho!
 <--------------------->
 
 <p 02><d 2502><a 0D><n 01>
-I can't... I don't
-know anything about
-myself or the world.
+Não posso... Não sei
+nada sobre mim ou o
+mundo.
 <--------------------->
 
 <p 02><d 2602><a 0D><n 01>
-How can I stand up to
-Albert, who knows
-everything...
+Como posso superar
+Albert, que sabe sobre
+tudo...
 <*********************>
 
 <p 03><d 2702><a 6B><n 15>
-But I know you!
+Mas eu te conheço!
 <--------------------->
 
 <p 03><d 2802><a 6B><n 15>
-You're a tough-talking
-stubborn kid who helps
-people he doesn't know
+Você é um rapaz teimoso
+e falastrão que ajuda
+gente que não conhece,
 <--------------------->
 
 <p 03><d 2A02><a 6B><n 15>
-without expecting
-anything in return. A
-kind, crazy fool!
+sem esperar nada em
+troca. Do tipo,
+demente!
 <--------------------->
 
 <p 02><d 2B02><a 08><n 01>
@@ -447,173 +445,173 @@ kind, crazy fool!
 <--------------------->
 
 <p 03><d 2C02><a 6B><n 15>
-Are you just gonna let
-people suffer? Some
-conscience you have!
+Vai simplesmente deixar
+as pessoas sofrerem?
+Tem consciência disso?
 <--------------------->
 
 <p 03><d 2E02><a 6B><n 15>
-What happened to "I
-shouldn't need a
-reason to save lives"?
+O que houve com o "Não
+precisaria de uma razão
+para salvar vidas"?
 <--------------------->
 
 <p 02><d 3002><a 0A><n 01>
-You're right, there's
-still something I can
-do... Let's go Model A!
+Tem razão, ainda há
+algo que posso fazer...
+Vamos lá Modelo A!
 <*********************>
 
 <p 02><d 3202><a 0B><n 01>
-Maybe we can't win,
+Talvez não possamos
+ganhar,
 <--------------------->
 
 <d 3302>
-but we're the only ones
-who stand a chance of
-beating Albert!
+mas somos os únicos que
+tem chance de derrotar
+Albert!
 <*********************>
 
 <p 03><d 3402><a 1D><n 06>
-Thank you, Grey. I'd
-like you to go on
-another mission.
+Obrigado, Grey. Eu
+gostaria que você fosse
+para outra missão.
 <--------------------->
 
 <p 03><d 3502><a 1D><n 06>
-I want you to stop
-Albert's plan and save
-our world.
+Quero que você pare os
+planos de Albert e
+salve o mundo.
 <--------------------->
 
 <p 03><d 3602><a 1D><n 06>
-I've added new
-transport destinations
-to the transerver.
+Eu adicionei novos
+destinos de transporte
+ao transervidor.
 <--------------------->
 
 <d 3702>
-...I'm counting on you.
+...Estou contando com
+você.
 <*********************>
 
 <p 03><a 1D><n 06>
-There are 4 new
-transport destinations.
-The transerver is
+Há 4 novos destinos de
+transporte.
+O transervidor está
 <--------------------->
 
-located just past the
-elevator when you exit
-the door on the right.
+localizado logo após o
+elevador ao sair da
+porta à direita.
 <*********************>
 
 <p 03><a 1C><n 07>
-Albert is a terrifying
-fellow.
+Albert é um indivíduo
+aterrorizante.
 <*********************>
 
 <p 02><a 6B><n 15>
-What is this place? I
-can't see a thing in
-here!
+Que lugar é esse? Não
+consigo enxergar nada
+aqui!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Try morphing into
-Siarnaq. Maybe that'll
-help.
+Tente se transformar em
+Siarnaq. Talvez isso
+vai ajudar.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Touch the Siarnaq icon
-on lower right of the
-bottom screen,
+Toque no ícone de
+Siarnaq no canto de
+baixo da tela de toque,
 <--------------------->
 
 <p 02><a 6B><n 15>
-The bottom screen will
-change into a radar
-scope.
+A tela de toque vai
+mudar dentro do alcance
+do radar.
 <--------------------->
 
-You'll be able to see
-the landscape and enemy
-positions!
-<--------------------->
-
-<p 02><a 6B><n 15>
-You should be able to
-attack enemies by
-touching
-<--------------------->
-
-their location
-indicators on the
-bottom screen.
+Você será capaz de ver
+os cenários e posições
+do inimigo!
 <--------------------->
 
 <p 02><a 6B><n 15>
-But unfortunately,
-there's no way out of
-this room...
+Você deve ser capaz de
+atacar os inimigos
+tocando
+<--------------------->
+
+seus indicadores de
+localização na tela de
+toque.
 <--------------------->
 
 <p 02><a 6B><n 15>
-I know!
+Mas infeizmente, não
+tem como sair dessa
+sala...
 <--------------------->
 
 <p 02><a 6B><n 15>
-Jump and press up on
-the <dpad>Control Pad. With
-Siarnaq's ability,
-<--------------------->
-
-you should be able
-to grab onto that
-contraption.
+Eu sei!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Give it a try. Just
-press up on the
-<dpad>Control Pad while
+Pule e pressione o <dpad>
+pra cima. Com a
+habilidade de Siarnaq,
 <--------------------->
 
-you're in mid-jump!
-<--------------------->
-
-<p 02><a 6B><n 15>
-Depending on what
-you've grabbed onto,
-you can press
-<--------------------->
-
-the <dpad>Control Pad up
-twice quickly to jump
-on top of it.
+você será capaz de se
+agarrar nessa
+geringonça.
 <--------------------->
 
 <p 02><a 6B><n 15>
-You can also press the
-<dpad>Control Pad down
-twice quickly to hang.
+Faça uma tentativa.
+Basta pressionar o <dpad>
+pra cima enquanto
+<--------------------->
+
+estiver em pleno ar!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Hold the Attack Button
-and release it to throw
-a Cross Star!
+Dependendo do que se
+agarrou, você pode
+pressionar
+<--------------------->
+
+o <dpad> pra cima duas
+vezes rapidamente para
+pular no topo do mesmo.
 <--------------------->
 
 <p 02><a 6B><n 15>
-If there's something
-you don't quite
-understand,
+Também pode apertar <dpad>
+pra cima duas vezes bem
+rápido para se agarrar.
 <--------------------->
 
-just take a look at
-Profile on the
-sub screen!
+<p 02><a 6B><n 15>
+Segure o Botão de
+Ataque e solte-o para
+jogar uma Shuriken!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Se tem algo que não
+entendeu muito bem,
+<--------------------->
+
+basta dar uma olhada no
+Perfil na sub-tela!
 <*********************>
 
 <FIM>

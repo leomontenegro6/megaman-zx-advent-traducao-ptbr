@@ -2,200 +2,201 @@
 <#####################>
 
 <p 02><d 8B04><a 17><n 19>
-Things have gotten
-pretty hectic, haven't
-they?
+As coisas ficaram
+bastante agitadas, não
+é?
 <--------------------->
 
 <p 02><d 8C04><a 16><n 19>
-So that's the ultimate
-Biometal... Ouroboros.
+Então esse é o Biometal
+Definitivo...
+Ouroboros.
 <--------------------->
 
 <p 02><d 8D04><a 16><n 19>
-All of the Mavericks
-that came out of that
-thing
+Todos os Mavericks que
+saíram daquela coisa
 <--------------------->
 
 <d 8E04>
-are wreaking havoc.
+estão causando
+estragos.
 <--------------------->
 
 <p 02><d 8F04><a 16><n 19>
-I managed to smash a
-few of them, but they
-just keep coming.
+Consegui esmagar alguns
+deles, mas eles
+continuam chegando.
 <*********************>
 
 <p 03><d 9004><a 0D><n 01>
-There aren't anymore
-airships left... What
-should we do!?
+Não restou mais
+dirigíveis... O que
+devemos fazer!?
 <*********************>
 
 <p 01><p 02><d 9204><a 16><n 19>
-Pull yourself together!
+Recomponha-se!
 <--------------------->
 
 <d 9304>
-Didn't I say there was
-something I wanted to
-show you?
+Não falei que havia
+algo que queria te
+mostrar?
 <--------------------->
 
 <p 01><p 02><d 9404><a 16><n 19>
-You want to go and take
-back your destiny,
-don't you?
+Você quer ir e tomar de
+volta seu destino, não
+é?
 <*********************>
 
 <p 01><p 03><d 9504><a 0F><n 01>
-W-What's that...?
+O-O que é isso...?
 <--------------------->
 
 <p 01><p 02><d 9604><a 16><n 19>
-She belongs to me and
-my crew... She's the
-Guardian Base!
+Ela pertence a mim e
+minha equipe... Ela é a
+Base da Guardiã!
 <--------------------->
 
 <p 01><p 02><d 9704><a 16><n 19>
-There's only one thing
-left that we can do...
+Só há uma coisa que
+podemos fazer...
 <--------------------->
 
 <d 9804>
-Use the Guardian Base
-to board Ouroboros.
+Use a Base da Guardiã
+para revelar Ouroboros.
 <--------------------->
 
 <p 01><p 02><d 9904><a 17><n 19>
-We must take Albert
-down!
+Devemos derrubar o
+Albert!
 <*********************>
 
 <p 00><p 02><d 9A04><a 42><n 1F>
-Hey! Wait!
+Ei! Espere!
 <*********************>
 
 <p 02><d 9B04><a 42><n 1F>
-You're going after the
-ringleader, right?
+Você vai após o líder,
+certo?
 <--------------------->
 
 <d 9C04>
-Let us have a piece of
-the action too!
+Deixe-nos ter um pouco
+de ação também!
 <--------------------->
 
 <p 02><d 9D04><a 42><n 49>
-What do think the
-bounty might be on
-booty that big!?
+Acha que a recompensa
+pode ser em grande
+quantia!?
 <--------------------->
 
 <p 02><d 9E04><a 42><n 49>
-I'm getting excited
-just thinking about it!
+Estou ficando animado
+só de pensar nisso!
 <--------------------->
 
 <p 03><d 9F04><a 0F><n 01>
-H-Hey! This isn't some
-kind of bounty
-mission...!
+E-Ei! Isso não é nenhum
+tipo de missão de
+recompensa...!
 <--------------------->
 
 <p 03><d A004><a 1D><n 06>
-Oh, yes it most
-certainly is...
+Ah, sim, com certeza
+é...
 <--------------------->
 
 <d A104>
-An official
-mission from Legion
-Headquarters.
+Uma missão oficial do
+Quartel General da
+Legião.
 <*********************>
 
 <p 02><d A204><a 0F><n 01>
-Master Thomas!
+Mestre Thomas!
 <--------------------->
 
 <p 03><d A304><a 1D><n 06>
-...How brave you all
-are...
+...Como todos vocês
+são corajosos...
 <--------------------->
 
 <d A404>
-You wouldn't be
-satisfied unless the
-mission was official.
+Você não estaria
+satisfeito a menos que
+a missão fosse oficial.
 <--------------------->
 
 <p 03><d A504><a 1D><n 06>
-Legion is having
-trouble
+A Legião está tendo
+problemas
 <--------------------->
 
 <d A604>
-supplying enough
-manpower to fight the
-Mavericks.
+de fornecimento de mão
+de obra suficiente para
+lutar contra Mavericks.
 <--------------------->
 
 <p 03><d A704><a 1D><n 06>
-Grey... I'm putting you
-in charge.
+Grey... Estou te
+colocando no comando.
 <--------------------->
 
 <p 02><d A804><a 08><n 01>
-Everybody...!
+Todo mundo...!
 <*********************>
 
 <p 02><d A904><a 16><n 19>
-You want to find
-something worth
-protecting, right!?
+Você quer encontrar
+algo que vale a pena
+proteger, certo!?
 <*********************>
 
 <p 02><d AA04><a 17><n 19>
-Let's go, follow me!
+Vamos lá, siga-me!
 <*********************>
 
 <p 03><d AB04><a 19><n 19>
-Once we grab a hold
-onto Ouroboros,
+Assim que agarrarmos
+firme no Ouroboros,
 <--------------------->
 
 <d AC04>
-expect Mavericks to
-take to us like flies
-to you-know-what!
+esperamos os Mavericks
+nos levar como moscas
+para sabe lá aonde!
 <--------------------->
 
 <p 03><d AD04><a 19><n 19>
-It's up to all of you
-to defend the Guardian
-Base!
+Cabe a todos vocês
+defenderem a Base da
+Guardiã!
 <--------------------->
 
 <p 03><d AE04><a 19><n 19>
-We're going home
-victorious, got it!?
+Estamos indo para casa
+vitoriosos, entendido!?
 <*********************>
 
 <p 03><d AF04><a 18><n 19>
-Grey! You go ahead!
+Grey! Vá em frente!
 <--------------------->
 
 <p 03><d B004><a 19><n 19>
-I'll handle things here
-and catch up to you!
+Vou cuidar das coisas
+aqui e te alcançar!
 <--------------------->
 
 <p 02><d B104><a 0B><n 01>
-OK! Let's go...
-Model A!
+Certo! Vamos lá...
+Modelo A!
 <--------------------->
 
 <p 02><d B304><a 6B><n 15>
@@ -203,20 +204,20 @@ OK!
 <*********************>
 
 <p 03><d B404><a 03><n 05>
-I'd have never guessed
+Nunca teria imaginado
 
 <--------------------->
 
 <d B504>
-that they would come
-after the Ouroboros in
-an airship.
+que eles viriam depois
+dos Ouroboros em um
+dirigível.
 <--------------------->
 
 <p 03><d B604><a 03><n 05>
-The ways of those who
-can't keep up with
-progress are savage.
+O rumo daqueles que não
+podem acompanhar o pro-
+gresso é a selvageria.
 <*********************>
 
 <p 02><d B704><a 0A><n 01>
@@ -224,57 +225,58 @@ Albert!
 <--------------------->
 
 <p 03><d B804><a 21><n 05>
-By the way, there
-are some people here 
-to see you.
+A propósito, há algumas
+pessoas aqui que querem
+vê-lo.
 <--------------------->
 
 <d B904>
-Would you be so kind as
-to make their
-acquaintance?
+Você teria a gentileza
+de ir lá e fazer
+amizade com eles?
 <*********************>
 
 <p 03><d BA04><a 36><n 08>
-Traitor Model A... I
-will destroy you!
+Modelo A, traidor...
+Vou te destruir!
 <*********************>
 
 <p 03><d BB04><a 37><n 09>
 *Ha ha ha*
-I've been waiting to
-get my revenge.
+Estive esperando para
+ter minha vingança.
 <*********************>
 
 <p 03><d BC04><a 3E><n 0A>
-It's so nice to see you
-again, boy!
+É tão bom te ver de
+novo, garoto!
 <*********************>
 
 <p 03><d BD04><a 39><n 0C>
-Oh, allow me to give 
-you a proper welcome!
+Ah, permita-me te dar
+as boas vindas
+adequadas!
 <*********************>
 
 <p 03><d BE04><a 38><n 0B>
-Back for an encore, are
-you?
+Voltou para mais um
+bis, não foi?
 <*********************>
 
 <p 03><d BF04><a 3B><n 0D>
-We won't be beaten
-again.
+Não seremos derrotados
+novamente.
 <*********************>
 
 <p 03><d C004><a 3D><n 0F>
-You've still got a
-shock coming!
+Ainda tem um choque te
+esperando!
 <*********************>
 
 <p 03><d C104><a 3A><n 10>
-For your disloyalty to
-the king, you shall
-perish!
+Por sua deslealdade
+para com o rei, você
+perecerá!
 <*********************>
 
 <p 02><d C204><a 6B><n 15>
@@ -282,330 +284,333 @@ A-Trans...!?
 <--------------------->
 
 <p 02><d C304><a 0F><n 01>
-Why do you have the
-same copy ability as
-Model A?
+Por que você tem a
+mesma habilidade de
+copiar do Modelo A?
 <--------------------->
 
 <p 03><d C404><a 21><n 05>
-I told you that you
-were made in my image.
+Eu te disse que você
+foi feito à minha
+imagem.
 <--------------------->
 
 <p 03><d C504><a 21><n 05>
-But my real power
-is not in my copy
-ability.
+Mas o meu verdadeiro
+poder não está na minha
+habilidade de copiar.
 <--------------------->
 
 <p 03><d C604><a 21><n 05>
-The spirit of
-everything Model W eats
-lives on inside me.
+Os espíritos de todos
+os Modelos W devoram
+vidas dentro de mim.
 <--------------------->
 
 <p 03><d C704><a 21><n 05>
-The power to control
-all life.
+O poder de controlar
+toda a vida.
 <--------------------->
 
 <d C804>
-That is the power of
-the ultimate Mega Man.
+Esse é o poder do Mega
+Man definitivo.
 <--------------------->
 
 <p 03><d C904><a 22><n 05>
-The real A-Trans!
+O verdadeiro A-Trans!
 <--------------------->
 
 <p 03><d CA04><a 21><n 05>
-They're waiting for you
-inside with their new
-bodies.
+Eles estão esperando
+por você lá dentro com
+seus novos corpos.
 <--------------------->
 
 <d CB04>
-Please go in and play
-with them.
+Por favor, entre e
+brinque com eles.
 <--------------------->
 
 <p 03><d CC04><a 21><n 05>
-If you can make your
-way to me, I'll tell
-you everything.
+Se puder chegar até mim
+do seu jeito, vou te
+contar tudo.
 <--------------------->
 
 <p 03><d CD04><a 21><n 05>
-on how, even being
-incomplete, you can
-still use A-Trans.
+Saber como, mesmo sendo
+incompleto, ainda poder
+usar o A-Trans.
 <--------------------->
 
 <p 03><d CE04><a 22><n 05>
-and who you really
-are.
+E saber quem você
+realmente é.
 <*********************>
 
 <p 03><d CF04><a 36><n 08>
-*snort* *wheeze*!!
+*grunhido* *grunhido*!!
 <*********************>
 
 <p 03><d D004><a 36><n 08>
-New king born!
-New world be
-born soon!
+Nasce o novo rei!
+O novo mundo nascerá
+em breve!
 <--------------------->
 
 <d D104>
-You not needed!
+Você não é necessário!
 <*********************>
 
 <p 03><d D204><a 36><n 08>
-I upheld law! I stomped
-traitor!
+Manterei a lei!
+Pisarei no traidor!
 <*********************>
 
 <p 03><d D304><a 36><n 08>
-You... broke... law...!
-Go... and receive...
-King's... punishment!
+Você... quebrou... a
+lei...! Vá... receba...
+a punição... do Rei!
 <*********************>
 
 <p 03><d D404><a 37><n 09>
-*Ha ha ha* Shall we
-begin our time of bliss
-together?
+*Ha ha ha* Devemos
+iniciar nossos momentos
+de alegria juntos?
 <--------------------->
 
 <p 03><d D504><a 37><n 09>
-I'm going to take my
-time manhandling you!
+Vou gastar meu tempo te
+surrando!
 <*********************>
 
 <p 03><d D604><a 37><n 09>
-Spend the rest of
-eternity wandering in
-darkness!
+Passe o resto da
+eternidade vagando na
+escuridão!
 <*********************>
 
 <p 03><d D704><a 37><n 09>
-You can't stop the flow
-of time!
+Você não pode parar o
+fluxo do tempo!
 <--------------------->
 
 <d D804>
-Just let yourself be
-swallowed by the tidal
-wave of a new era...!
+Só permita-se ser engo-
+lido pela enorme onda
+de uma nova era...!
 <*********************>
 
 <p 02><d D904><a 3E><n 0A>
-I'm so happy to see you
-again, boy!
+Estou tão feliz de te
+ver de novo, garoto!
 <--------------------->
 
 <p 02><d DA04><a 3E><n 0A>
-Show me your beautiful,
-torn soul!
+Mostre-me sua linda,
+alma despedaçada!
 <*********************>
 
 <p 03><d DB04><a 3F><n 0A>
-Let's become one, and
-together lift our souls
-to the Mega Man King!
+Vamos nos tornar um só,
+e juntar nossas almas
+elevando Mega Man Rei!
 <*********************>
 
 <p 03><d DD04><a 3F><n 0A>
-Oh... Why...
-do you refuse...!?
+Oh... Por que...
+recusou...!?
 <--------------------->
 
 <d DE04><n 0A>
-Oh... A world with no
-evolution... no light!
+Oh... Um mundo sem
+evolução... sem luz!
 <*********************>
 
 <p 03><d DF04><a 38><n 0B>
-You'll be getting the
-VIP treatment this
-time...
+Você receberá
+tratamento VIP dessa
+vez...
 <--------------------->
 
 <p 03><d E004><a 38><n 0B>
-I have a special
-requiem for you!
+Tenho um réquiem
+especial para você!
 <*********************>
 
 <p 03><d E104><a 38><n 0B>
-You are about to play
-for an audience in
-oblivion!
+Você está prestes a
+divertir um público
+em esquecimento!
 <*********************>
 
 <p 03><d E204><a 38><n 0B>
-I'm going to
-retire... Now it's up
-to you...
+Vou me aposentar...
+Agora é com você...
 <--------------------->
 
 <d E304>
-Carry on with the
-show... Give 'em a Mega
+Continue com o show...
+Dê a eles uma Mega
 performance...
 <*********************>
 
 <p 01><p 03><d E404><a 39><n 0C>
-There's going to be a
-great party tonight...
+Vai ser uma grande
+festa hoje à noite...
 <--------------------->
 
 <d E504>
-You should celebrate
-with us.
+Você deveria comemorar
+conosco.
 <--------------------->
 
 <p 01><p 03><d E604><a 39><n 0C>
-A new king has been
-crowned.
+Um novo rei foi
+coroado.
 <--------------------->
 
 <d E704>
-It's definitely
-going to be a night to
-remember!
+Vai ser definitivamente
+uma noite para
+recordar!
 <*********************>
 
 <p 01><p 03><d E804><a 39><n 0C>
-Oh, I guess the sweet
-nectar of terror
+Oh, acho que o doce
+néctar do terror
 <--------------------->
 
 <d E904>
-was a little too strong
-for you...
+foi um pouco forte
+demais para você...
 <*********************>
 
 <p 01><p 03><d EA04><a 39><n 0C>
-Are we reduced to
-colluding
+Somos reduzidos à
+intrigas
 <--------------------->
 
 <d EB04>
-with the evolutionarily
-inferior...? Hmph!
+com os evolutivamente
+inferiores...? Hmph!
 <*********************>
 
 <p 00><p 03><d EC04><a 3A><n 10>
-When it comes down to
-it, you're nothing
+Quando se trata dele,
+você não passa
 <--------------------->
 
 <d ED04>
-but a small fish in a
-big pond.
+de um pequeno peixe
+num grande lago.
 <--------------------->
 
 <p 03><d EE04><a 3A><n 10>
-So just make it easy on
-yourself
+Então, facilite as
+coisas para você mesmo
 <--------------------->
 
 <d EF04>
-and let me end it for
-you quick and easy!
+e deixe-me finalizar
+isso para você de uma
+forma rápida e fácil!
 <*********************>
 
 <p 03><d F004><a 3A><n 10>
-You were born in the
-house of the king
+Você nasceu na casa do
+rei
 <--------------------->
 
 <d F104>
-and still managed to go
-far astray...
-Defective, indeed!
+e ainda conseguiu se
+distanciar...
+Defeituoso, de fato!
 <*********************>
 
 <p 03><d F204><a 3A><n 10>
-Born in the shadow of
-the king, you can never
-make a world of light!
+Nascido na sombra do
+rei, você nunca poderá
+criar um mundo de luz!
 <*********************>
 
 <p 03><d F304><a 3D><n 0F>
-It's my turn! It's my
-turn!
+É a minha vez! É a
+minha vez!
 <--------------------->
 
 <p 03><d F404><a 3D><n 0F>
-Here I go! Here I go!
-I'm going to punish you
-good!
+Aqui vou eu! Aqui vou
+eu! Vou puni-lo muito
+bem!
 <*********************>
 
 <p 03><d F504><a 3D><n 0F>
-It's time to say
-goodbye to you and
-hello to the new world!
+É hora de dizer adeus
+a você e olá ao novo
+mundo!
 <*********************>
 
 <p 03><d F604><a 3D><n 0F>
-It's all over! It's all
-over! Either way...
+Está tudo acabado! Está
+tudo acabado!
+De qualquer jeito...
 <--------------------->
 
 <d F704>
-Mr. Albert will get you
-in the end!
+Sr. Albert vai te pegar
+no final!
 <*********************>
 
 <p 03><d F804><a 3B><n 0D>
-Only those who are
-loyal to the new king
-may pass.
+Somente aqueles que são
+leais ao novo rei podem
+passar.
 <--------------------->
 
 <p 02><d F904><a 3C><n 0E>
-*grunt*
+*grunhido*
 <--------------------->
 
 <p 03><d FA04><a 3B><n 0D>
-There's only one way
-you're getting
-through...
+Há apenas uma forma de
+você conseguir
+atravessar...
 <--------------------->
 
 <d FB04>
-That's as a sacrifice
-to the king!
+Isso é como um
+sacrifício para o rei!
 <--------------------->
 
 <p 02><d FC04><a 3C><n 0E>
-Meet your end!
+Conheça seu fim!
 <*********************>
 
 <p 03><d FD04><a 3B><n 0D>
-We're the guardians of
-the new world!
+Somos os guardiões do
+novo mundo!
 <--------------------->
 
 <d FE04>
-There's no way we can
-let you pass again!
+Não há nenhuma maneira
+de deixarmos
+você passar de novo!
 <--------------------->
 
 <p 02><d FF04><a 3C><n 0E>
-*grunt*
+*grunhido*
 <*********************>
 
 <p 03><d 0005><a 3B><n 0D>
-Very well... you may
-pass...
+Muito bem... você pode
+passar...
 <--------------------->
 
 <d 0105>
-We throw ourselves
-before your feet...!
+Nos atiramos diante de
+seus pés...!
 <--------------------->
 
 <p 02><d 0205><a 3C><n 0E>
@@ -613,501 +618,503 @@ Graaah!
 <*********************>
 
 <p 03><d 0305><a 34><n 11>
-You made a foolish
-choice... You should
-have stayed away.
+Você fez uma escolha
+tola... Você devia ter
+ficado de fora.
 <*********************>
 
 <p 02><d 0405><a 32><n 12>
-We've got some
-unfinished business to
-take care of!
+Temos alguns negócios
+inacabados para cuidar!
 <--------------------->
 
 <d 0505>
-I'm not just going to
-let you waltz out of
-here!
+Eu não vou deixar você
+sair daqui!
 <*********************>
 
 <p 02><d 0605><a 2C><n 13>
-This is as far as you
-go!
+Isso é o mais longe que
+você foi!
 <*********************>
 
 <p 02><d 0705><a 2E><n 14>
-TACTICAL ADVANTAGE,
-FOUR TO ONE...
+VANTAGEM TÁTICA, QUATRO
+A UM...
 <--------------------->
 
 <d 0805>
-COMMENCE COMPLETE
-DESTRUCTION OF TARGET!
+INICIADA A DESTRUIÇÃO
+COMPLETA DO ALVO!
 <*********************>
 
 <p 02><d 0905><a 0A><n 01>
-Listen...! Albert has
-been using all of you!
+Escutem...! Albert
+esteve usando
+todos vocês!
 <--------------------->
 
 <p 02><d 0A05><a 0B><n 01>
-He was planning to
-become king all along!
+Ele planejava se tornar
+rei desde o princípio!
 <--------------------->
 
 <d 0B05>
-So why do you still
-insist on fighting!?
+Então por que vocês
+ainda insistem em
+lutar!?
 <--------------------->
 
 <p 03><d 0C05><a 34><n 11>
-A mere trifling
-technicality... The
-winner out of all of us
+Um mero insignificante
+detalhe técnico... O
+vencedor de todos nós
 <--------------------->
 
 <d 0D05>
-need only to defeat
-Albert to become king.
+só precisa derrotar
+Albert para se tornar
+rei.
 <--------------------->
 
 <p 03><d 0E05><a 34><n 11>
-Those are the rules
-that Albert himself
-laid down.
+Essas são as regras que
+o próprio Albert
+estabeleceu.
 <--------------------->
 
 <p 02><d 0F05><a 0A><n 01>
-Oh... You idiots!
+Ah... Seus idiotas!
 <*********************>
 
 <p 03><d 1005><a 18><n 19>
-I'll take over from
-here, Grey! You go on
-ahead!
+Vou assumir a partir
+daqui, Grey! Vá em
+frente!
 <*********************>
 
 <p 03><d 1105><a 34><n 11>
-Why, you...!
+Por que, você...!
 <--------------------->
 
 <p 02><d 1205><a 19><n 19>
-You have something I
-want.
+Você tem algo que eu
+quero.
 <--------------------->
 
 <p 02><d 1305><a 19><n 19>
-I need you to hand over
-all of your Biometals!
+Preciso que entregem
+todos os seus
+Biometais!
 <*********************>
 
 <p 03><d 1405><a 21><n 05>
-I thought you might
-come right about now...
+Pensei que você poderia
+vir agora mesmo...
 <--------------------->
 
 <d 1505>
-Or should I say I
-needed you to come.
+Ou devo dizer que eu
+precisava de você para
+vir.
 <--------------------->
 
 <p 03><d 1605><a 21><n 05>
-In the end, you've
-proven that my plan was
-perfect.
+No fim, você provou que
+meu plano era perfeito.
 <--------------------->
 
 <p 02><d 1805><a 08><n 01>
-What do you mean...?
+O que quer dizer...?
 <--------------------->
 
 <p 03><d 1905><a 21><n 05>
-What? Model A, you
-haven't told him yet?
+O quê? Modelo A, você
+ainda não disse a ele?
 <--------------------->
 
 <d 1A05>
-You should remember
-everything by now. 
+Você deve se lembrar de
+tudo agora. 
 <--------------------->
 
 <p 02><d 1B05><a 6B><n 15>
-H-Hey! Don't listen to
-him, Grey! Waste him!
+E-Ei! Não escute ele,
+Grey! Acabe com ele!
 <*********************>
 
 <p 03><d 1C05><a 21><n 05>
-*laugh* How cruel you
-are... Grey, I'll tell
-you the truth.
+*risada* Como você é
+cruel... Grey, vou te
+dizer a verdade.
 <--------------------->
 
 <d 1D05>
-You are my successor!
+Você é meu successor!
 <--------------------->
 
 <p 03><d 1E05><a 21><n 05>
-I made you in my image
-to be like a son.
+Fiz você a minha imagem
+para ser como um filho.
 <--------------------->
 
 <d 1F05>
-If anything were to 
-happen to me, this
-throne would be yours!
+Se algo acontecer
+comigo, esse trono
+seria seu!
 <--------------------->
 
 <p 03><d 2005><a 22><n 05>
-The ultimate Mega Man I
-created, that spare
-body...
+O Mega Man Definitivo
+que criei, reserva
+o corpo que...
 <--------------------->
 
 <d 2105>
-That was your identity,
-Grey.
+Essa era sua
+identidade, Grey.
 <--------------------->
 
 <p 02><d 2205><a 0A><n 01>
-Me...!? A spare
-ultimate Mega Man!?
+Eu...!? Um Mega Man
+Definitivo reserva!?
 <--------------------->
 
 <p 03><d 2305><a 21><n 05>
-You see, I created
-Model A to tell you,
+Entenda, eu criei o
+Modelo A para te dizer,
 <--------------------->
 
 <d 2405>
-the Chosen One, about
-the plan...
+o Escolhido, sobre o
+plano...
 <--------------------->
 
 <p 03><d 2505><a 21><n 05>
-A backup system that
-contains my plan and my
-knowledge.
+Um sistema de backup
+que contém o meu plano
+e meu conhecimento.
 <--------------------->
 
 <p 03><d 2705><a 22><n 05>
-Model A... In other
-words, Model Albert.
+Modelo A... Em outras
+palavras, Modelo
+Albert.
 <--------------------->
 
 <p 02><d 2805><a 6B><n 15>
-I hate that name!
+Eu odeio esse nome!
 <--------------------->
 
 <p 03><d 2905><a 22><n 05>
-Don't say that.
+Não diga isso.
 <--------------------->
 
 <d 2A05>
-Soon that name and what
-it stands for will be
-gone.
+Logo esse nome e o que
+ele representa terá
+desaparecido.
 <*********************>
 
 <p 01><p 03><d 2B05><a 21><n 05>
-Now that my plan is
-finished, you are no
-longer of use to me...
+Agora esse meu plano
+chegou ao fim, você não
+é mais útil para mim...
 <--------------------->
 
 <p 01><p 03><d 2D05><a 21><n 05>
-There only need be one
-ultimate Mega Man...
-Me!
+Só precisa existir um
+Mega Man Definitivo...
+Eu!
 <*********************>
 
 <p 01><p 03><d 2F05><a 22><n 05>
-You disgust me,
-Defective... Consider
-yourself... disowned!
+Você me dá nojo,
+Defeituoso... Se
+considere... renegado!
 <*********************>
 
 <p 00><p 03><d 3105><a 21><n 05>
-I wanted to know what
-it meant to be the
-ultimate...
+Queria saber o que
+significa ser o
+definitivo...
 <--------------------->
 
 <d 3205>
-To be at evolution's
-extreme...
+É estar na evolução
+extrema...
 <--------------------->
 
 <p 03><d 3305><a 21><n 05>
-as one of the Sage
-Trinity, but above all
-as a scientist.
+como um dos Trindade
+Sábias, mas acima de
+tudo como um cientista.
 <--------------------->
 
 <p 03><d 3505><a 21><n 05>
-At evolution's
-extreme... there is
-emptiness and misery.
+Na evolução extrema...
+Não há vazio e miséria.
 <--------------------->
 
 <p 03><d 3605><a 21><n 05>
-Man will eventually
-begin to fight again.
+O homem eventualmente
+vai começar a lutar
+novamente.
 <--------------------->
 
 <p 03><d 3705><a 21><n 05>
-For peace... for
-righteousness...
+Pela Paz... Pela
+justiça...
 <--------------------->
 
 <d 3805>
-Man will continue to
-find ways to justify
-fighting.
+O homem continuará
+encontrando maneiras de
+justificar a luta.
 <--------------------->
 
 <p 03><d 3905><a 21><n 05>
-I've come to understand
-that nothing can come
-of this world...
+Cheguei a entender que
+nada pode vir de outro
+mundo...
 <--------------------->
 
 <d 3A05>
-but an empty, miserable
-future...
+mas, um miserável
+futuro vazio...
 <--------------------->
 
 <p 02><d 3B05><a 0B><n 01>
-So, you just decided to
-make yourself
-Ruler...!?
+Então, decidiu
+tornar-se
+governante...!?
 <--------------------->
 
 <p 03><d 3D05><a 21><n 05>
-Ruler? No, no, no...
-Talk about a life of
-emptiness...
+Governante? Não, não,
+não... Falo sobre uma
+vida de vazio...
 <*********************>
 
 <p 03><d 3F05><a 21><n 05>
-I am trying to create a
-new world.
+Estou tentando criar um
+novo mundo.
 <--------------------->
 
 <p 03><d 4005><a 21><n 05>
-I want to bring new
-life into the world and
-protect its future.
+Quero trazer uma nova
+vida ao mundo e
+proteger seu futuro.
 <--------------------->
 
 <p 02><d 4105><a 0B><n 01>
-Don't make me laugh! So
-now you think you're a
-god or something!?
+Não me faça rir! Então
+você acha que agora é
+um deus ou algo assim!?
 <*********************>
 
 <p 01><p 03><d 4305><a 23><n 05>
-The world that you live
-in itself is defective.
+O mundo em que você
+mesmo vive é
+defeituoso.
 <--------------------->
 
 <p 01><p 03><d 4405><a 23><n 05>
-Before a new world can
-be made, this world
-must be reset.
+Antes de um novo mundo
+poder ser feito, ele
+deve ser redefinido.
 <--------------------->
 
 <p 01><p 03><d 4505><a 23><n 05>
-That's where the
-ultimate power of
-Model W comes in.
+É aí que entra o poder
+definitivo do Modelo W.
 <--------------------->
 
 <p 01><p 03><d 4605><a 23><n 05>
-I have already decided
-the fate of the world
-as its god.
+Já decidi o destino do
+mundo tal como o seu
+deus.
 <--------------------->
 
 <d 4705>
-The destiny of
-destruction cannot be
-changed!
+O destino da destruição
+não pode ser mudado!
 <*********************>
 
 <p 02><d 4805><a 0A><n 01>
-Even if you did make
-this world, we make our
-own destiny!
+Mesmo se você não mudar
+esse mundo, fazemos o
+nosso prórprio destino!
 <--------------------->
 
 <p 02><d 4905><a 0B><n 01>
-I'm going to bring you
-down and take back my
-destiny!
+Vou derrubá-lo e tomar
+de volta o meu destino!
 <--------------------->
 
 <p 01><p 03><d 4A05><a 23><n 05>
-There it is... that
-empty misery...
-It disgusts me!
+Aí está... esse vazio
+miserável... Isso me dá
+nojo!
 <--------------------->
 
 <p 01><p 03><d 4B05><a 23><n 05>
-That's why I made
-Mega Men, to evolve!
+É por isso que criei
+os Mega Mans, para
+evoluir!
 <--------------------->
 
 <p 01><p 03><d 4C05><a 23><n 05>
-You, who couldn't
-become a god...
+Você, que não poderia
+se tornar um deus...
 <--------------------->
 
 <d 4D05>
-You're not even a
-Mega Man, you're a
-mere mortal!
+Você não é nem mesmo um
+Mega Man, é um mero
+mortal!
 <*********************>
 
 <p 01><p 03><d 4E05><a 23><n 05>
-All life will become
-one with me, and be
-reborn...
+Passará o resto da vida
+junto a mim, e
+renascerá...
 <--------------------->
 
 <p 01><p 03><d 4F05><a 23><n 05>
-All is me... And I am
-all!
+Tudo sou eu... E eu sou
+tudo!
 <*********************>
 
 <p 00><p 02><d 5005><a 08><n 01>
-Yeah, you're right, I
-am Defective. I'm just
-a person named Grey.
+Sim, está certo, sou
+Defeituoso. Sou só uma
+pessoa chamada Grey.
 <--------------------->
 
 <p 02><d 5105><a 08><n 01>
-You couldn't even
-change the destiny of a
-regular boy like me.
+Você nem sequer poderia
+mudar o destino de um
+garoto normal como eu.
 <--------------------->
 
 <p 02><d 5305><a 0B><n 01>
-This is the destiny
-that I've chosen...
+Esse é o destino que eu
+escolhi...
 <--------------------->
 
 <d 5405>
-To live together with
-the people of this
-world!
+Para conviver com as
+pessoas deste mundo!
 <--------------------->
 
 <p 03><d 5505><a 24><n 05>
-Is that what the "other
-me" would have said...?
+É isso que o "outro eu"
+teria dito...?
 <--------------------->
 
 <p 03><d 5705><a 24><n 05>
-Goodbye, ultimate
-Defective!
+Adeus, Defeituoso
+Definitivo!
 <--------------------->
 
 <p 03><d 5905><a 24><n 05>
-You can have your
-gentle peace... and
-leisurely rot in it!
+Você pode ter sua suave
+paz... e vagarosamente
+se apodrecer nela!
 <*********************>
 
 <p 02><d 5A05><a 6B><n 15>
-We're in trouble! This
-flying fortress is
-going down!
+Estamos com problemas!
+Essa fortaleza voadora
+está indo abaixo!
 <--------------------->
 
 <p 02><d 5B05><a 0D><n 01>
-*pant*... *pant*...
-This is the end...
+*arf*... *arf*...
+Isso é o fim...
 <--------------------->
 
 <p 02><d 5D05><a 0D><n 01>
-I'm... getting...
-tired...
+Estou.. ficando...
+cansado...
 <--------------------->
 
 <d 5E05>
-Let's... hurry... back
-to... the... oth...
-ers...
+Vamos... depressa...
+voltar para... os...
+ou... tros...
 <*********************>
 
 <p 03><d 5F05><a 6B><n 15>
-Hey... Hey! Grey! Get a
-hold of yourself! Grey!
+Ei... Ei! Grey!
+Conseguiu se superar!
+Grey!
 <*********************>
 
 <p 03><d 6005><a 6C><n 16>
-Aile! It's too
-dangerous here! We have
-to go help Grey!
+Aile! É muito perigoso
+aqui! Temos que ir
+ajudar Grey!
 <--------------------->
 
 <p 03><d 6105><a 19><n 19>
-I know... but four
-against one isn't gonna
-be easy...!
+Eu sei... mas quatro
+contra um não vai ser
+fácil...!
 <*********************>
 
 <p 03><d 6205><a 6D><n 17>
-...Go ahead. I'll stay
-here and hold them
-back.
+...Vá em frente. Vou
+ficar aqui e irei
+segurá-los.
 <--------------------->
 
 <p 03><d 6305><a 1B><n 19>
-No... What are you
-talking about!? Don't
-be crazy, Model Z!
+Não... Do que você está
+falando!? Não seja
+louco, Modelo Z!
 <--------------------->
 
 <p 03><d 6405><a 6D><n 17>
-No worries, today's not
-my day to meet my
-maker.
+Não se preocupe, hoje
+não é o meu dia de
+conhecer meu criador.
 <*********************>
 
 <p 03><d 6505><a 6C><n 16>
-Come on, Aile!
+Vamos, Aile!
 <--------------------->
 
 <p 03><d 6605><a 1B><n 19>
-I'm gonna hold you to
-your word!
+Eu vou manter a sua
+palavra!
 <*********************>
 
 <p 02><d 6705><a 34><n 11>
-Such beautiful
-resolve...
+Tão linda essa
+determinação...
 <--------------------->
 
 <d 6805>
-To throw away your life
-for a friend.
+Para jogar fora sua
+vida por um amigo.
 <--------------------->
 
 <p 03><d 6905><a 6D><n 17>
-Like I said, today
-ain't my day to die...
+Como eu disse, hoje não
+é meu dia de morrer...
 <*********************>
 
 <p 03><d 6A05><a 6D><n 17>
-I know more about
-Biometals than you.
+Sei mais sobre
+Biometais do que vocês.
 <--------------------->
 
 <p 02><d 6B05><a 32><n 12>
-Agh... What!? My...
-body... feels...
-heavy... Model L...!
+Agh... O que!? Meu...
+corpo... se sente...
+pesado... Modelo L...!
 <--------------------->
 
 <p 02><d 6C05><a 2C><n 13>
@@ -1115,13 +1122,12 @@ Biometal!
 <--------------------->
 
 <p 02><d 6D05><a 2F><n 14>
-INCOMPREHENSIBLE...!
-INCOMPREHENSIBLE...!?
+INCOMPREENSÍVEL...!
+INCOMPREENSÍVEL...!?
 <*********************>
 
 <p 03><d 6E05><a 6D><n 17>
-Aile, take care of
-Grey!
+Aile, cuide de Grey!
 <*********************>
 
 <p 03><d 6F05><a 0F><n 01>
@@ -1129,18 +1135,18 @@ Aaaagh!
 <*********************>
 
 <p 03><d 7005><a 08><n 01>
-Huh...? Where am
-I...?
+Hã...? Onde estou...?
 <*********************>
 
 <p 02><d 7105><a 6B><n 15>
-Grey! You're finally
-awake! I'm so glad!
+Grey! Você finalmente
+acordou! Estou tão
+feliz!
 <--------------------->
 
 <p 02><d 7205><a 6B><n 15>
-I was worried sick
-about you!
+Eu estava preocupado
+com você!
 <--------------------->
 
 <p 03><d 7305><a 0F><n 01>
@@ -1148,182 +1154,184 @@ about you!
 <--------------------->
 
 <p 02><d 7405><a 6B><n 15>
-W-What's wrong? Are you
-still hurt?
+O-O que há de errado?
+Você ainda está ferido?
 <--------------------->
 
 <p 03><d 7505><a 0F><n 01>
-Model A? Worried
-about someone?
+Modelo A? Preocupado
+com alguém?
 <--------------------->
 
 <p 02><d 7605><a 6B><n 15>
-Y-You got a problem
-with that!? All I could
-do was watch and hope.
+T-Tem algum problema
+com isso!? Eu só podia
+observar e esperar.
 <--------------------->
 
 <p 02><d 7705><a 6B><n 15>
-Of course I was
-worried.
+É claro que eu estava
+preocupado.
 <--------------------->
 
 <p 03><d 7805><a 09><n 01>
-*laugh* Thank you...
-Model A.
+*risada* Obrigado...
+Modelo A.
 <--------------------->
 
 <p 02><d 7905><a 6B><n 15>
-Y-Yeah, anyways, let's
-go outside! Aile's
-waiting for you!
+S-Sim, de toda forma,
+vamos lá pra fora! Aile
+está te esperando!
 <*********************>
 
 <p 02><d 7A05><a 16><n 19>
-Are you OK? It was
-tough carrying you out
-of there.
+Você está bem? Foi
+dureza te carregar de
+lá.
 <--------------------->
 
 <p 03><d 7B05><a 0F><n 01>
-Yeah, what happened to
-Ouroboros and Model W!?
+Sim, o que aconteceu
+com o Ouroboros e o
+Modelo W!?
 <--------------------->
 
 <p 02><d 7D05><a 16><n 19>
-Ouroboros went down
-without a trace.
+O Ouroboros afundou sem
+deixar vestígios.
 <--------------------->
 
 <d 7E05>
-And there's no sign
-of Model W anywhere.
+E não há nenhum sinal
+do Modelo W em parte
+alguma.
 <--------------------->
 
 <p 02><d 7F05><a 16><n 19>
-Its wreckage just sank
-in the ocean...
+Seus destroços
+afundaram no oceano...
 <--------------------->
 
 <d 8005>
-Grey, it's all thanks
-to you!
+Grey, é tudo graças a
+você!
 <--------------------->
 
 <p 03><d 8105><a 08><n 01>
-No, it wasn't just me.
+Não, não foi só eu.
 <--------------------->
 
 <p 03><d 8305><a 09><n 01>
-It was everyone... This
-world belongs to
-everyone.
+Todo mundo foi... Esse
+mundo pertence a todos.
 <--------------------->
 
 <p 03><d 8405><a 08><n 01>
-Aile, where're you
-gonna go now?
+Aile, Onde você vai
+agora?
 <--------------------->
 
 <p 02><d 8505><a 16><n 19>
-I want to go around the
-world in the Guardian
-Base...
+Quero ir ao redor do
+mundo na Base da
+Guardiã...
 <--------------------->
 
 <d 8605>
-There are a lot of
-things that need
-finding.
+Há um monte de coisas
+que preciso encontrar.
 <--------------------->
 
 <p 02><d 8705><a 16><n 19>
-What about you, Grey?
+O que acha, Grey?
 <--------------------->
 
 <p 03><d 8805><a 08><n 01>
-I haven't really given
-it much thought...
+Realmente não pensei
+muito nisso...
 <--------------------->
 
 <d 8905>
-But it is my destiny. I
-can decide it, right?
+Mas é o meu destino.
+Posso decidi-lo, certo?
 <--------------------->
 
 <p 03><d 8A05><a 08><n 01>
-I want to go on a
-trip...
+Quero seguir para uma
+viagem...
 <--------------------->
 
 <p 03><d 8C05><a 08><n 01>
-How far I will go. What
-I will do. I don't know
-yet.
+Até onde eu irei. O
+que eu farei. Eu não
+sei ainda.
 <--------------------->
 
 <p 03><d 8D05><a 08><n 01>
-But I want to find out
-who I am.
+Mas quero descobrir
+quem eu sou.
 <*********************>
 
 <p 02><d 8F05><a 6B><n 15>
-Hey? So, what am I
-supposed to do?
+Ei? Então, o que eu
+devo fazer?
 <--------------------->
 
 <p 02><d 9005><a 16><n 19>
-That's your destiny,
-right?
+Esse é o seu destino,
+certo?
 <*********************>
 
 <p 02><d 9105><a 6B><n 15>
-Oh! Uh, well then...
+Ah! Hã, pois bem...
 <*********************>
 
 <p 02><d 9205><a 6B><n 15>
-Grey, I wanna go too.
-Take me with you!
+Grey, eu quero ir. Me
+leve com você!
 <--------------------->
 
 <p 03><d 9305><a 09><n 01>
-OK, let's go together,
-Model A. Let's find our
-place in the world!
+Certo, vamos juntos,
+Modelo A. Vamos achar o
+nosso lugar no mundo!
 <*********************>
 
 <p 03><d 9505><a 16><n 19>
-I hope we'll meet
-again!
+Espero que nós nos
+encontremos novamente!
 <--------------------->
 
 <p 01><p 02><d 9605><a 09><n 01>
-We can meet anytime...
-Because this world
-belongs to us!
+Podemos nos encontrar a
+qualquer hora... Porque
+o mundo nos pertence!
 <*********************>
 
 <p 02><a 18><n 19>
-Go ahead, Grey! I'll
-catch up in a minute!
+Vá em frente, Grey! Vou
+te acompanhar em um
+minuto!
 <*********************>
 
 <p 02><a 42><n 1F>
-I'll back you up.
+Eu estarei contigo.
 <*********************>
 
 <p 02><a 42><n 1F>
-I'll back you up.
+Eu estarei contigo.
 <*********************>
 
 <p 02><a 42><n 49>
-We split the booty
-evenly!
+Dividimos a recompensa
+uniformemente!
 <*********************>
 
 <p 02><a 42><n 4D>
-Hey, don't forget to
-leave us some scraps!
+Ei, não se esqueça de
+nos deixar algumas
+sobras!
 <*********************>
 
 <FIM>

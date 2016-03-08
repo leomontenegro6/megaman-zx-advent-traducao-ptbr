@@ -2,290 +2,289 @@
 <#####################>
 
 <p 02><a 02><n 07>
-Can you hear me? It's
-me, Mikhail.
+Pode me ouvir? Sou eu,
+Mikhail.
 <--------------------->
 
 <p 02><a 02><n 07>
-It looks like you've
-stepped into some rough
-terrain.
+Parece que você andou
+em algum terreno
+acidentado.
 <--------------------->
 
 <p 02><a 02><n 07>
-You should be able to
-cut a path through
-the chunks of ice,
+Você pode cortar
+caminho através dos
+pedaços de gelo,
 <--------------------->
 
 <p 02><a 02><n 07>
-but the areas that
-allow access to the
-crash site are limited.
+mas as áreas que dão
+acessso ao local do
+acidente são limitadas.
 <--------------------->
 
 <p 02><a 02><n 07>
-Mega Man, you must find
-a way to break through.
+Mega Man, você deve
+achar um jeito de
+atravessar.
 <*********************>
 
 <p 03><d 3401><a 2A><n 00>
-Prometheus said he
-found someone
-interesting.
+Prometeus disse que
+encontrou alguém
+interessante.
 <--------------------->
 
 <d 3501>
-I came to see who it
-was.
+Eu vim para ver quem
+era.
 <--------------------->
 
 <p 03><d 3601><a 2A><n 00>
-Thetis, he's nothing
-more than a kid, like
-you.
+Tétis, ele é nada mais
+do que um garoto, como
+você.
 <*********************>
 
 <p 03><d 3701><a 30><n 00>
-Hey, you're not that
-much older than me.
+Ei, você não é muito
+mais velho do que eu.
 <--------------------->
 
 <p 02><d 3801><a 0F><n 01>
-W-What is it with you
-people!?
+O-O que há com esse
+povo!?
 <*********************>
 
 <p 03><d 3901><a 31><n 00>
-Didn't Prometheus tell
-you that you'd meet
-other Mega Men?
+Prometeus não te disse
+que conheceu outros
+Mega Mans?
 <--------------------->
 
 <p 03><d 3A01><a 31><n 12>
-My name is Thetis, the
-Ice Mega Man... Chosen
-One for Model L.
+Me chamo Tétis, o Mega
+Man de Gelo...Escolhido
+pelo Modelo L.
 <--------------------->
 
 <p 02><d 3B01><a 2B><n 13>
-I'm Atlas, the Flame
-Mega Man... Chosen One
-for Model F.
+Sou Atlas, a Mega Man
+de Fogo... Escolhida
+pelo Modelo F.
 <--------------------->
 
 <p 02><d 3C01><a 2B><n 13>
-Don't tell me you don't
-know about the Game of
-Destiny,
+Não me diga que você
+não sabe sobre o Jogo
+do Destino,
 <--------------------->
 
 <d 3D01>
-in which the winner
-becomes the king of the
-world?
+no qual o vencedor se
+torna o rei do mundo?
 <--------------------->
 
 <p 02><d 3E01><a 6B><n 15>
-King of the world? This
-just gets bigger and
-bigger!
+Rei do mundo? Isso só
+fica cada vez mais
+exagerado!
 <--------------------->
 
 <p 02><d 3F01><a 0A><n 01>
-Look, I don't care
-about that. All I know
-is that if I beat them,
+Olha, não me importo
+com isso. Tudo que sei
+é que se eu vencê-los,
 <--------------------->
 
 <d 4001>
-I get to find out who
-I am and where I came
-from.
+vou conseguir descobrir
+quem sou e de onde vim.
 <*********************>
 
 <p 03><d 4101><a 31><n 12>
-Sorry, I'm not in the
-mood to fight you right
-now.
+Desculpe, Não estou com
+disposição para lutar
+com você agora.
 <--------------------->
 
 <p 03><d 4301><a 31><n 12>
-We've got other things
-to do.
+Temos outras coisas
+para fazer.
 <--------------------->
 
 <p 03><d 4401><a 2B><n 13>
-I've got no time for
-some kid who became a
-Mega Man by accident.
+Não tenho tempo para um
+garoto que se tornou um
+Mega Man por acidente.
 <--------------------->
 
 <p 03><d 4501><a 2C><n 13>
-You look like you
-could use a nice,
-cold dip.
+Parece que você poderia
+tomar um agradável,
+banho gelado.
 <*********************>
 
 <p 03><d 4601><a 37><n 00>
-*Ha ha ha* Welcome to
-my sub-zero world where
-even time freezes!
+*Ha ha ha* Bem-vindo ao
+meu mundo sub-zero onde
+até o tempo congela!
 <--------------------->
 
 <p 03><d 4701><a 37><n 00>
-You've got some nerve
-calling yourself a Mega
-Man, Defective!
+Você tem muita coragem
+de se chamar de Mega
+Man, seu Defeituoso!
 <--------------------->
 
 <p 03><d 4901><a 37><n 09>
-I, Chronoforce will
-take that Biometal off
-your hands!
+Eu, Chronoforce irei
+retirar o Biometal das
+suas mãos!
 <*********************>
 
 <p 03><d 4A01><a 37><n 09>
-It appears things have
-turned out badly for
-you! *Ha ha ha*
+Parece que as coisas
+saíram mal pra você!
+*Ha ha ha*
 <--------------------->
 
 <d 4B01>
-You'll be forgotten
-here along with time
-itself! So chill out!
+Você será esquecido
+aqui junto ao próprio
+tempo! Então, relaxa!
 <*********************>
 
 <p 03><d 4C01><a 37><n 09>
-...You are nothing more
-than a pawn in the
-palm... of HIS hand.
+...Você não é mais do
+que um peão na palma...
+de SUA mão.
 <--------------------->
 
 <p 03><d 4D01><a 37><n 09>
-...All you can hope to
-do is just flail about
+...Tudo que você pode
+fazer, é só se matar
 <--------------------->
 
 <d 4E01>
-in the little time you
-have left! *cackle*
+no pouco tempo que te
+resta! *gargalhada*
 <*********************>
 
 <p 02><d 4F01><a 08><n 01>
-Who is this HE, HIS,
-HIM guy everyone keeps
-talking about?
+Quem é "ELE", "ESSE" 
+"O" cara que todo mundo
+continua falando?
 <--------------------->
 
 <p 02><d 5101><a 6B><n 15>
-I bet he's the one
-calling the shots
+Aposto que é ele quem
+manda
 <--------------------->
 
 <d 5201>
-behind those other
-Mega Men.
+por trás daqueles
+outros Mega Mans.
 <--------------------->
 
 <p 02><d 5301><a 6B><n 15>
-Game of Destiny...
-King of the world...
+Jogo do Destino...
+Rei do mundo...
 <--------------------->
 
 <d 5401>
-This is all getting
-complicated...
+Isso está ficando
+complicado...
 <*********************>
 
 <p 02><a 6B><n 15>
-You've got
-Chronoforce's power!
+Você ganhou o poder
+de Chronoforce!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Morph into Chronoforce
-and you can use Swim in
-the water all the time.
+Transforme-se em
+Chronoforce para usar
+direto "Nadar" na água.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Use the <dpad>Control Pad
-to move around in the
-water, and press the
+Use o <dpad> para se mover
+ao redor da água, e
+pressione o
 <--------------------->
 
-Dash Button to propel
-yourself quickly
-through the current.
-<--------------------->
-
-<p 02><a 6B><n 15>
-Press the Attack Button
-to shoot an
-ice arrow
-<--------------------->
-
-and freeze enemies
-solid!
+Botão de Dash para se
+impulsionar rapidamente
+através do mesmo.
 <--------------------->
 
 <p 02><a 6B><n 15>
-But be careful, on land
-you'll become totally
-immobile.
+Pressione o Botão de
+Ataque para atirar uma
+flecha de gelo
+<--------------------->
+
+e congelar inimigos
+sólidos!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Chronoforce's hard
-shell protects him from
-attacks from above.
+Mas tenha cuidado, na
+terra você ficará
+totalmente imóvel.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Just get under one of
-those falling icicles
-and see.
+A concha dura de
+Chronoforce te protege
+de ataques por cima.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Basta ficar debaixo
+daqueles pingentes de
+gelo e verá.
 <*********************>
 
 <p 02><a 6B><n 15>
-Chronoforce's Charge
-Attack is awesome!
+O Ataque carregado do
+Chronoforce é incrível!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Hold down the Attack
-Button till the meter
-is fully charged, 
+Segure o Botão de
+Ataque até o medidor
+carregar completamente, 
 <--------------------->
 
-then release it to
-activate the Time Bomb!
-<--------------------->
-
-<p 02><a 6B><n 15>
-Time Bomb freezes time
-for everything around
-you,
+em seguida, solte-o pra
+ativar a Bomba-Relógio!
 <--------------------->
 
 <p 02><a 6B><n 15>
-and slows down the
-movements of enemies.
-Cool, huh?
+A Bomba-Relógio congela
+o tempo pra tudo ao seu
+redor,
 <--------------------->
 
 <p 02><a 6B><n 15>
-Oh yeah, it's not only
-enemies that slow
-down...
+e retarda os movimentos
+dos inimigos. Legal,
+hein?
 <--------------------->
 
 <p 02><a 6B><n 15>
-You can use Time Bomb
-to slow down falling
-objects like icicles.
+Ah sim, não são só os
+inimigos que
+retardam...
+<--------------------->
+
+<p 02><a 6B><n 15>
+Pode usar a Bomba-
+Relógio pra retardar a
+queda de pingentes.
 <*********************>
 
 <FIM>

@@ -2,104 +2,103 @@
 <#####################>
 
 <p 02><a 05><n 5E>
-ALERT! ALERT! SECURITY
-SYSTEM MALFUNCTION!
+ALERTA! ALERTA!
+FALHA NO SISTEMA DE
+SEGURANÇA!
 <--------------------->
 
 <p 02><a 05><n 5E>
-ALERT CONDITION 3 IN
-EFFECT! SEAL ALL EXITS!
+3 CONDIÇÕES DE ALERTA
+EM VIGOR! FECHAR TODAS
+AS SAÍDAS!
 <*********************>
 
 <p 02><a 6B><n 15>
-Y-Yo this isn't
-good!
+I-Isso não é bom!
 <*********************>
 
 <p 03><a 0F><n 01>
-It's no use, the doors
-are locked! We can't
-get out!
+Não adianta, as portas
+estão trancadas! Não
+podemos sair!
 <*********************>
 
 <p 02><a 02><n 05>
-This is Albert! Are you
-alright Grey?
+Aqui é Albert! Você
+está bem Grey?
 <--------------------->
 
 <p 02><a 02><n 05>
-That old tower was
-built to surveil the
-surrounding area.
+Essa velha torre foi
+construída para vigiar
+áreas circundantes.
 <--------------------->
 
 <p 02><a 02><n 05>
-The security has been
-fortified against
+A segurança foi
+reforçada contra
 Mavericks,
 <--------------------->
 
-but there
-seems to be a
-malfunction.
+mas parece ter um
+defeito.
 <--------------------->
 
 <p 02><a 02><n 05>
-There should be a
-computer at the top
+Deveria haver um
+computador no topo
 <--------------------->
 
-that controls the
-security system.
+que controla o sistema
+de segurança.
 <--------------------->
 
 <p 02><a 02><n 05>
-You must get there and
-disarm the system,
+Você deve chegar lá e
+desarmar o sistema,
 Grey.
 <*********************>
 
 <p 03><d 5E01><a 3E><n 00>
-For a Raider to make it
-this far is quite
-something...
+Pra um Saqueador chegar
+até aqui, já é bastante
+coisa...
 <--------------------->
 
 <p 03><d 5F01><a 3E><n 00>
-*evil laugh*
-I like you!
+*ridada maligna*
+Gosto de você!
 <--------------------->
 
 <p 03><d 6001><a 3E><n 00>
-Accept my thorny
-embrace and allow your
-soul
+Aceite meu abraço
+espinhoso e permita que
+sua alma
 <--------------------->
 
 <d 6101>
-to be scattered
-like petals on
-the breeze!
+seja espalhada como
+pétalas na brisa!
 <*********************>
 
 <p 02><d 6201><a 40><n 21>
-*Aargh*! S-Stay away
-from me!
+*Aargh*! F-Fique longe
+de mim!
 <--------------------->
 
 <p 03><d 6301><a 0B><n 01>
-Stop!
+Pare!
 <*********************>
 
 <p 02><d 6401><a 3E><n 00>
-Like honeybees,
-one by one they
-are drawn to my nectar.
+Como abelhas, elas são
+atraídas de uma a uma
+para meu néctar.
 <--------------------->
 
 <p 02><d 6501><a 3E><n 00>
-You're quite a handsome
-boy. I like you.
+Você é um garoto muito
+formoso. Gosto de você.
 <*********************>
 
 <p 02><d 6701><a 40><n 21>
@@ -107,79 +106,79 @@ Graaah!
 <*********************>
 
 <p 03><d 6801><a 0A><n 01>
-So, you're the one who
-caused the security
-system to malfunction!
+Então, foi você quem
+causou o defeito do
+sistema de segurança!
 <*********************>
 
 <p 02><d 6A01><a 3E><n 00>
-I'm planting a seed! A
-seed that will lay the
-foundation
+Estou plantando uma
+semente! Uma semente
+que estabelecerá bases
 <--------------------->
 
 <d 6B01>
-for the new world and
-the new king! It grows
-by feeding on
+para o novo mundo e o
+novo rei! Ela cresce se
+alimentando
 <--------------------->
 
 <p 02><d 6C01><a 3E><n 00>
-the fear of those
-unfortunate enough to
-wander into this tower.
+do medo daqueles
+desgraçados que vagam
+nessa torre.
 <*********************>
 
 <p 01><p 02><d 6D01><a 3F><n 0A>
-I am Rospark.
+Sou o Rospark.
 <--------------------->
 
 <p 01><p 02><d 6F01><a 3F><n 0A>
-Come and cry in my
-bosom. Cry out in
-terror and pain!
+Venha e chore no meu
+colo. Chore de terror e
+dor!
 <*********************>
 
 <p 03><d 7101><a 3F><n 0A>
-Haaahaaa! You cry so
-good, boy!
+Haaahaaa! Você chora
+tão bem, garoto!
 <*********************>
 
 <p 03><d 7201><a 3F><n 0A>
-I underestimated you! I
-had no idea your power
-was so fiery...!
+Subestimei você! Eu não
+sabia que seu poder era
+tão ardente...!
 <--------------------->
 
 <p 03><d 7301><a 3F><n 0A>
-I'm wilting... wilting!
-Yeeeargh!
+Estou murchando...
+murchando! Ieeeargh!
 <*********************>
 
 <p 02><d 7401><a 40><n 21>
-*Ugh* You're one of
-the gang who attacked
-our airship,
+*Ugh* Vocês são uma das
+gangues que atacaram
+nosso dirigível,
 <--------------------->
 
 <p 02><d 7501><a 40><n 21>
-aren't you!? No...
-Stop... Stay away...!
+não são!? Não...
+Pare... Fique longe...!
 <--------------------->
 
 <p 03><d 7601><a 6B><n 15>
-It's no use... He's in
-a total panic.
+Não adianta... Ele está
+totalmente em pânico.
 <--------------------->
 
 <p 03><d 7701><a 08><n 01>
-Calm down! I'm here to
-help you!
+Acalme-se! Estou aqui
+para ajudá-lo!
 <--------------------->
 
 <p 02><d 7801><a 40><n 21>
-S-S-Stay back,
-get away!
+A-A-Afaste-se,
+fique longe!
 <*********************>
 
 <p 02><d 7901><a 40><n 21>
@@ -187,211 +186,211 @@ Eeeagghhhh!
 <*********************>
 
 <p 03><d 7A01><a 0F><n 01>
-W-What the heck just
-happened!?
+O-O que diabos acabou
+de acontecer!?
 <*********************>
 
 <p 02><d 7B01><a 33><n 00>
-Total and utter
-defeat... That man,
+Derrota total e
+absoluta...
+Aquele cara,
 <--------------------->
 
 <d 7C01>
-unable to endure the
-terror, fell victim to
-Model W.
+foi incapaz de suportar
+o terror, derrubado
+vítima do Modelo W.
 <--------------------->
 
 <p 03><d 7D01><a 6B><n 15>
-Model W!? This
-humongous thing is a
-Biometal!?
+Modelo W!? Essa coisa
+enorme é um Biometal!?
 <--------------------->
 
 <p 02><d 7E01><a 2D><n 00>
-CROSSCHECKING... DATA
-MATCH FOUND... SUBJECT
-IS MEGA MAN MODEL A.
+VERIFICAÇÃO COMPLETA...
+PARTIDA ENCONTRADA...
+É O MEGA MAN MODELO A.
 <--------------------->
 
 <p 03><d 7F01><a 08><n 01>
-What the heck are you
-guys!?
+O que diabos são
+vocês!?
 <*********************>
 
 <p 01><p 03><d 8001><a 34><n 00>
-You, the Chosen One
-for Model A? What a
-disappointment!
+Você, o Escolhido pelo
+Modelo A? Que decepção!
 <--------------------->
 
 <p 01><p 03><d 8101><a 34><n 11>
-I am Aeolus, the Wind
-Mega Man, Model H.
+Sou Aeolus, o Mega Man
+do Vento, Modelo H.
 <--------------------->
 
 <p 02><d 8201><a 2E><n 14>
-CODENAME: SIARNAQ.
-SHADOW MEGA MAN,
-MODEL P.
+CODINOME: SIARNAQ.
+MEGA MAN DAS SOMBRAS,
+MODELO P.
 <--------------------->
 
 <p 01><p 03><d 8301><a 6B><n 15>
-Model H, Model P... Are
-these the other
-Mega Men
+Modelo H, Modelo P...
+Esses são os outros
+Mega Mans
 <--------------------->
 
 <d 8401>
-Prometheus was
-talking about!?
+que Prometeus estava
+falando!?
 <--------------------->
 
 <p 02><d 8501><a 2E><n 14>
-OPERATIONAL TIME LIMIT
-EXCEEDED. RETRIEVE
-MODEL W.
+EXCEDEU O TEMPO LIMITE
+OPERACIONAL. RESTAURAR
+MODELO W.
 <--------------------->
 
 <p 01><p 03><d 8601><a 0B><n 01>
-Wait! You think you
-can just run away!?
+Espere! Acha que pode
+simplesmente fugir!?
 <*********************>
 
 <p 02><d 8701><a 34><n 11>
-Us? Run away? Don't be
-stupid!
+Nós? Fugirmos? Não seja
+estúpido!
 <--------------------->
 
 <p 02><d 8801><a 34><n 11>
-We're letting
-you go... for now.
+Deixaremos você ir...
+por enquanto.
 <--------------------->
 
 <p 02><d 8A01><a 2E><n 14>
-PRESENT PRIMARY
-OBJECTIVE IS
-DEVELOPMENT AND
+O ATUAL OBJETIVO
+PRIMÁRIO É O
+DESENVOLVIMENTO E
 <--------------------->
 
 <d 8B01>
-RETRIEVAL OF BIOMETAL
-MODEL W. ENGAGING MEGA
-MAN MODEL A IN COMBAT
+RESTAURAÇÃO DO BIOMETAL
+MODELO W. PÔR O MEGA
+MAN MODELO A EM COMBATE
 <--------------------->
 
 <p 02><d 8C01><a 2E><n 14>
-DOES NOT FALL WITHIN
-STRATEGIC OPERATIONAL
-PARAMETERS.
+NÃO ENTRA DENTRO DOS
+PARÂMETROS OPERACIONAIS
+ESTRATÉGICOS.
 <--------------------->
 
 <p 03><d 8E01><a 6B><n 15>
-What? So, you're just
-going to ignore us,
-huh!?
+O quê? Então, você vai
+só nos ignorar, hein!?
 <--------------------->
 
 <p 02><d 8F01><a 34><n 11>
-You understand
-correctly. We can end
-you at any time.
+Entendeu exatamente.
+Podemos acabar com você
+a qualquer hora.
 <--------------------->
 
 <p 02><d 9101><a 34><n 11>
-You would do well to
-hone your skills by the
-next time we meet.
+Faria bem elevar suas
+técnicas na próxima vez
+que nos encontrarmos.
 <*********************>
 
 <p 02><d 9201><a 02><n 05>
-Finally, we were able
-to reach you. Are you
-OK?
+Finalmente, conseguimos
+alcançá-lo. Você está
+bem?
 <--------------------->
 
 <p 02><d 9301><a 02><n 05>
-We've verified that the
-security system has
-indeed been disarmed. 
+Já verificamos que o
+sistema de segurança de
+fato foi desarmado. 
 <--------------------->
 
 <p 02><d 9401><a 02><n 05>
-Now, you should be able
-to continue.
+Agora, você deve
+conseguir continuar.
 <*********************>
 
 <p 02><a 6B><n 15>
-Be careful, Grey! There
-are thorns everywhere.
+Tenha cuidado, Grey!
+Há espinhos por toda
+parte.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Oh yeah! You can morph
-into Rospark!
+Oba! Você pode se
+transformar em Rospark!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Press the <dpad>Control Pad
-up in front of vines
-and poles,
+Pressione o <dpad> para
+cima em frente aos
+cipós e postes,
 <--------------------->
 
-and Rospark will
-grab hold of them.
-<--------------------->
-
-<p 02><a 6B><n 15>
-You can also move
-sideways, vine to vine,
-or pole to pole.
+e Rospark se agarrará
+a eles.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Just press the Attack
-Button while holding
-the <dpad>Control Pad
-<--------------------->
-
-left or right to whip
-out Rospark's arms.
+Você pode se mover para
+os lados, cipó a cipó,
+ou de poste a poste.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Hold the Attack Button
-and release it to do an
-electric attack!
+Basta pressionar o
+Botão de Ataque
+enquanto segura <dpad>
+<--------------------->
+
+pra esquerda ou direita
+para sacar os chicotes
+dos braços de Rospark.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Oh? It looks like
-Rospark has one more
-attack!
+Segure o Botão de
+Ataque e solte-o para
+fazer ataque elétrico!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Press the other Attack
-Button to extend
-Rospark's thorns.
+Hã? Parece que Rospark
+tem mais um ataque!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Holding this Attack
-Button and releasing it
-<--------------------->
-
-will also do an
-electric attack!
+Pressione o outro Botão
+de Ataque para estender
+os espinhos do Rospark.
 <--------------------->
 
 <p 02><a 6B><n 15>
-It's a lot to remember
-all at once,
+Segurar o Botão de
+Ataque e soltá-lo
 <--------------------->
 
-so have a look at it
-again on the Profile
-Screen.
+também irá fazer um
+Ataque elétrico!
+<--------------------->
+
+<p 02><a 6B><n 15>
+É muita coisa para se
+lembrar tudo de uma
+vez,
+<--------------------->
+
+então, dê uma olhada
+nisso de novo na Tela
+de Perfil.
 <*********************>
 
 <FIM>

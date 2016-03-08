@@ -2,96 +2,95 @@
 <#####################>
 
 <p 02><a 6B><n 15>
-Do you feel it, Grey?
+Sentiu isso, Grey?
 <--------------------->
 
 <p 02><a 0A><n 01>
-Yeah, I sense something
-just up ahead.
-It must be Model W!
+Sim, pressinto alguma
+coisa à frente. Deve
+ser o Modelo W!
 <*********************>
 
 <p 02><d 3304><a 0F><n 01>
-No... All of these
-are Model Ws!?
+Não... Todos eles são
+Modelos W!?
 <*********************>
 
 <p 03><d 3404><a 20><n 05>
-Hahaha... Are you
-surprised, Grey?
+Hahaha... Você está
+surpreso, Grey?
 <*********************>
 
 <p 03><d 3504><a 1F><n 05>
-Do you have any idea
-how much time I've
-invested in this plan?
+Tem alguma idéia de
+quanto tempo tenho
+investido nesse plano?
 <--------------------->
 
 <p 03><d 3604><a 1F><n 05>
-Did you think you could
-foil my plan
+Pensou que poderia
+estragar meu plano,
 <--------------------->
 
 <d 3704>
-by destroying one or
-two of my Model Ws? Not
-a chance.
+destruindo um ou dois
+de meus Modelos W?
+Sem chance.
 <*********************>
 
 <p 02><d 3804><a 25><n 03>
-We'll see about that.
+É o que vamos ver.
 <*********************>
 
 <p 02><d 3904><a 0F><n 01>
-Prometheus!
+Prometeus!
 Pandora!
 <--------------------->
 
 <p 02><d 3A04><a 25><n 03>
-So this is where he's
-been keeping the
-recovered Model Ws.
+Então esse é o lugar
+onde ele guarda os
+Modelos W recuperados.
 <--------------------->
 
 <p 02><d 3B04><a 25><n 03>
-I never thought you
-would have found this
-place for us.
+Nunca pensei que você
+fosse encontrar esse
+lugar para nós.
 <--------------------->
 
 <p 02><d 3C04><a 28><n 04>
-Thank you Mega Man
-Model A...
+Obrigado Mega Man
+Modelo A...
 <*********************>
 
 <p 02><d 3D04><a 25><n 03>
-How many centuries has
-it been since we 
-last met like this,
+Quantos séculos se
+passaram desde o nosso
+último encontro assim,
 <--------------------->
 
 <d 3E04>
-Master Albert!
+Mestre Albert!
 <--------------------->
 
 <p 02><d 3F04><a 26><n 03>
-You look even more
-ridiculous in person
+Você parece ainda mais
+ridículo em pessoa
 <--------------------->
 
 <d 4004>
-than you do
-on that monitor!
+do que no monitor!
 <--------------------->
 
 <p 03><d 4104><a 1F><n 05>
-What do you all think
-you're doing?
+O que vocês pensam que
+estão fazendo?
 <--------------------->
 
 <p 02><d 4204><a 26><n 03>
-This is what we're
-doing!
+Isso é o que estamos
+fazendo!
 <*********************>
 
 <p 02><d 4304><a 26><n 03>
@@ -99,189 +98,189 @@ HA HA HA HA HA!
 <--------------------->
 
 <p 02><d 4404><a 25><n 03>
-To be defeated by the
-very first Mega Man you
-ever made!
+Ser derrotado pelo
+primeiro Mega Man,
+você sempre fez!
 <--------------------->
 
 <d 4504>
-How fitting, for the
-scum that you are!
+Que apropriado, para um
+covarde que você é!
 <--------------------->
 
 <p 02><d 4604><a 6B><n 15>
-What the!? What's going
-on!?
+O que!? O que está
+acontecendo!?
 <*********************>
 
 <p 03><d 4704><a 25><n 03>
-You were being used by
-us all along.
+Vocês estavam sendo
+usados por nós esse
+tempo todo.
 <--------------------->
 
 <p 03><d 4804><a 25><n 03>
-From the day we first
-awoke,
+Desde o primeiro dia
+que nos acordou,
 <--------------------->
 
 <d 4904>
-we were Mega Men
-destined to fight each
-other...
+nós éramos Mega Mans
+destinados a lutar
+entre si...
 <--------------------->
 
 <p 03><d 4A04><a 25><n 03>
-To further Albert's
-insane plan to create
-the ultimate Mega Man.
+Para favorecer o insano
+plano de Albert à criar
+o Mega Man Definitivo.
 <--------------------->
 
 <p 03><d 4B04><a 28><n 04>
-So we decided... to
-take revenge on Albert.
+Então decidimos... nos
+vingarmos de Albert.
 <--------------------->
 
 <p 02><d 4C04><a 0F><n 01>
-Revenge!?
+Vingança!?
 <--------------------->
 
 <p 03><d 4D04><a 25><n 03>
-We found many Mega Men
-and brought them into
-this fight.
+Encontramos muitos Mega
+Mas e os trouxemos para
+essa luta.
 <--------------------->
 
 <p 03><d 4E04><a 25><n 03>
-We knew that if we were
-successful, Albert
-would show up.
+Sabíamos que, se
+fôssemos bem sucedidos,
+Albert iria aparecer.
 <--------------------->
 
 <p 03><d 4F04><a 25><n 03>
-And then you tracked
-him down, allowing us
-to exact our revenge.
+E então você localizou
+ele, nos permitindo
+exigir nossa vingança.
 <--------------------->
 
 <p 02><d 5004><a 6B><n 15>
-I didn't think this is
-how the game would
-end...
+Acho que não era assim
+que o jogo deveria
+terminar...
 <--------------------->
 
 <p 03><d 5104><a 25><n 03>
-*laughter* What are you
-talking about... It's
-not over yet...!
+*risada* O que você
+está falando... Não
+acabou ainda...!
 <*********************>
 
 <p 03><d 5204><a 26><n 03>
-We're still here. The
-garbage left behind by
-that scum!
+Ainda estamos aqui. O
+lixo deixado para trás
+por aquele covarde!
 <--------------------->
 
 <p 01><p 03><d 5304><a 28><n 04>
-We can't get our old
-bodies back... We can't
-change our destiny...
+Não dá para trazer nos-
+so antigo corpo. Não há
+como mudar o destino...
 <--------------------->
 
 <p 01><p 03><d 5404><a 28><n 04>
-So we'll hasten the
-destiny of
-destruction...
+Então vamos acelerar
+a destruição do
+destino...
 <--------------------->
 
 <p 00><p 03><d 5504><a 25><n 03>
-We will destroy all
-that Albert made. That
-is our revenge!
+Vamos destruir tudo o
+que Albert fez. Essa é
+nossa vingança!
 <--------------------->
 
 <p 03><d 5604><a 26><n 03>
-So let's have some fun,
-why don't we? And go 
-out with a bang!
+Então vamos nos animar
+um pouco, por que não?
+E sair com um estrondo!
 <*********************>
 
 <p 03><d 5704><a 28><n 04>
-Soon... It will all be
-over. Everything...
+Em breve... Tudo isso
+vai acabar. Tudo...
 <--------------------->
 
 <p 03><d 5804><a 26><n 03>
-HAHAHAHAHA! Meet your
-doooom! Burrrrrrrrn!
+HAHAHAHAHA! Receba seu
+castiiigo! Queeeeeeime!
 <*********************>
 
 <p 02><d 5904><a 0B><n 01>
-That's enough! This
-fighting is senseless!
+Já chega! Essa luta não
+tem sentido!
 <--------------------->
 
 <p 03><d 5A04><a 25><n 03>
-That's right... Even
-you can see that this
-fight is pointless!
+É isso mesmo... Até
+mesmo você pode ver que
+essa luta é inútil!
 <--------------------->
 
 <p 03><d 5B04><a 28><n 04>
-Mavericks terrorize
-humans, and in turn
+Mavericks aterrorizam
+humanos, e por sua vez
 <--------------------->
 
 <d 5C04>
-Model Ws absorb that
-anguish.
+os Modelos W absorvem
+essa angústia.
 <--------------------->
 
 <p 03><d 5D04><a 28><n 04>
-Albert used Legion as
-a front to go about
-selecting Chosen Ones.
+Albert usa a Legião
+como fachada para
+seleção de Escolhidos.
 <--------------------->
 
 <p 03><d 5E04><a 28><n 04>
-A world where Mega Men
-are created to destroy
-each other
+Um mundo onde os Mega
+Mans são criados para
+destruir uns aos outros
 <--------------------->
 
 <d 5F04>
-all for Albert's
-satisfaction.
+tudo pela satisfação
+de Albert.
 <--------------------->
 
 <p 03><d 6004><a 25><n 03>
-It was all a farce!
-Albert prepared every-
-thing in this world
+Foi tudo uma farsa!
+Albert preparou tudo
+nesse mundo
 <--------------------->
 
 <d 6104>
-according to his own
-plan.
+de acordo com seu
+próprio plano.
 <--------------------->
 
 <p 03><d 6204><a 26><n 03>
-He said Mega Men are
-the natural evolution
-of Man!?
+Ele disse que os Mega
+Mans são a evolução
+natural dos Homens!?
 <--------------------->
 
 <d 6304>
-Don't make me laugh!
+Não me faça rir!
 <--------------------->
 
 <p 03><d 6404><a 26><n 03>
-What an epic sham!
+É um épico impostor!
 <--------------------->
 
 <d 6504>
-I'm going to demolish
-this whole wretched
-world!
+Vou demolir todo esse
+mundo miserável!
 <*********************>
 
 <p 03><d 6604><a 27><n 03>
@@ -293,109 +292,111 @@ AAAAAAAAAAHHH!
 <*********************>
 
 <p 02><d 6804><a 6B><n 15>
-Hey... could this
-be...!?
+Ei... poderia ser
+isso...!?
 <--------------------->
 
 <p 02><d 6904><a 0F><n 01>
-All of the Model Ws are
-awake!
+Todos os Modelos W
+estão acordados!
 <*********************>
 
 <p 01><p 03><d 6A04><a 21><n 00>
-Prometheus...
+Prometeus...
 Pandora...
 <--------------------->
 
 <p 01><p 03><d 6B04><a 21><n 00>
-Your centuries of
-anger... suffering...
-hate... and insanity
+Seus séculos de
+raiva... sofrimento...
+ódio... e insanidade
 <--------------------->
 
 <p 01><p 03><d 6C04><a 21><n 00>
-along with your battles
-against other Mega Men
+juntamente com suas
+batalhas contra outros
+Mega Mans
 <--------------------->
 
 <d 6D04>
-have given me the data
-I need!
+deram-me os dados que
+eu preciso!
 <--------------------->
 
 <p 01><p 02><d 6E04><a 0B><n 01>
-That voice... No way...
-Master Albert!
+Essa voz... Não pode
+ser... Mestre Albert!
 <--------------------->
 
 <p 01><p 02><d 6F04><a 6B><n 15>
-So who was it that
-Prometheus
-defeated...!?
+Então quem foi que
+derrotou o
+Prometeus...!?
 <--------------------->
 
 <p 01><p 03><d 7004><a 21><n 05>
-That was a decoy. A
-dummy body that worked
+Isso foi uma isca. Um
+corpo falso que
+trabalhou
 <--------------------->
 
 <d 7104>
-as one of the Sage
-Trinity in my stead.
+como um dos Trindade
+Sábias em meu lugar.
 <*********************>
 
 <p 03><d 7204><a 21><n 05>
-I am DAN-000 the
+Eu sou DAN-000 o
 "Original"...
 <--------------------->
 
 <p 03><d 7304><a 22><n 05>
-This me is the genuine
-article, the real
-Master Albert!
+Isso me é o artigo
+genuíno, o verdadeiro
+Mestre Albert!
 <*********************>
 
 <p 03><d 7404><a 22><n 05>
-Just as I planned!
-Soon all of the Model
-Ws will begin to merge!
+Assim como planejei!
+Em breve os Modelos W
+começarão a mergir!
 <--------------------->
 
 <p 03><d 7504><a 22><n 05>
-I will become the
-ultimate Mega Man
+Vou me tornar o Mega
+Man Definitivo.
 <--------------------->
 
 <d 7604>
-and the plan will be
-complete! 
+e o plano estará
+completo! 
 <*********************>
 
 <p 02><d 7704><a 6B><n 15>
-This place won't last
-long! We need to hurry
-and get out of here!
+Esse lugar não durará
+muito! Precisamos nos
+apressar e sair daqui!
 <--------------------->
 
 <p 02><d 7804><a 0B><n 01>
-But Prometheus and
+Mas Prometeus e
 Pandora...!
 <--------------------->
 
 <p 02><d 7904><a 6B><n 15>
-What are you saying!?
-We can't carry both of
-them!
+O que está dizendo!?
+Não podemos levar os
+dois!
 <--------------------->
 
 <p 02><d 7A04><a 6B><n 15>
-If you don't make it,
-who's going to deal
-with Albert!?
+Se você não fizer isso,
+quem vai lidar com o
+Albert!?
 <--------------------->
 
 <p 02><d 7B04><a 0A><n 01>
-Dang!
+Droga!
 <*********************>
 
 <p 03><d 7C04><a 22><n 05>
@@ -403,47 +404,47 @@ HAHAHAHAHAHAHA!
 <*********************>
 
 <p 03><d 7D04><a 42><n 1F>
-H-Hey! What's that!?
+E-Ei! O que é aquilo!?
 <*********************>
 
 <p 01><p 02><d 7E04><a 6B><n 15>
-That's all of the
-Model Ws merged
-together... Ouroboros!
+Aquilo são todos os
+Modelos W mergidos
+juntos... Ouroboros!
 <--------------------->
 
 <p 01><p 02><d 7F04><a 0A><n 01>
-Albert must be
-inside!
+Albert deve estar
+dentro!
 <*********************>
 
 <p 00><p 02><d 8004><a 0B><n 01>
-Say, is that airship
-still at Hunter's
-Camp!?
+Diga, esse dirigível
+ainda está no acampa-
+mento de Caçadores!?
 <--------------------->
 
 <p 02><d 8104><a 0B><n 01>
-Take me to it!
+Leve-me até ele!
 <*********************>
 
 <p 03><d 8204><a 42><n 1F>
-...There's not even one
-left.
+...Não restou sequer
+um.
 <--------------------->
 
 <p 03><d 8304><a 42><n 1F>
-Mavericks destroyed
-them all.
+Os Mavericks destruíram
+todos eles.
 <--------------------->
 
 <p 02><d 8404><a 6B><n 15>
-There's nothing left we
-can do!
+Não há mais nada que
+possamos fazer!
 <*********************>
 
 <p 02><d 8504><a 16><n 19>
-No, there is one thing!
+Não, há uma coisa!
 <*********************>
 
 <p 03><d 8704><a 0F><n 01>
@@ -451,21 +452,21 @@ Aile!
 <*********************>
 
 <p 02><d 8804><a 16><n 19>
-We meet again. There's
-something I've been
-wanting to show you.
+Nós nos encontramos de
+novo. Tem uma coisa que
+quero te mostrar.
 <--------------------->
 
 <p 02><d 8904><a 17><n 19>
-But remember... From
-here, there's no 
-turning back!
+Mas lembre-se... A
+partir daqui, não
+haverá como voltar!
 <--------------------->
 
 <p 02><d 8A04><a 16><n 19>
-I'll be waiting for you
-here. Call me when
-you're ready.
+Estarei esperando por
+você aqui. Me chame
+quando estiver pronto.
 <*********************>
 
 <FIM>

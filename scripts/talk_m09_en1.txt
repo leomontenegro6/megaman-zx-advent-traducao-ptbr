@@ -2,182 +2,180 @@
 <#####################>
 
 <p 02><a 02><n 07>
-There are people being
-chased by Mavericks on
-that Highway ahead.
+Há pessoas sendo perse-
+guidas por Mavericks
+na Rodovia adiante.
 <--------------------->
 
 <p 02><a 02><n 07>
-It looks like all the
-people trying to flee
-in their cars have
+Parece que todas as
+pessoas tentando fugir
+em seus carros
 <--------------------->
 
-caused a traffic jam.
-The situation is
-gridlock. Drive back
+causaram um engarrafa-
+mento. É um impasse.
+Conduza de volta
 <--------------------->
 
 <p 02><a 02><n 07>
-the Mavericks and buy
-time for the people
-down there to escape.
+os Mavericks e ganhe
+tempo para as pessoas
+lá em baixo escaparem.
 <*********************>
 
 <p 03><a 6A><n 56>
-Hey, move it! We're
-sitting ducks here!
+Ei, mexa-se! Somos
+alvos fáceis aqui!
 <--------------------->
 
 <p 02><a 0B><n 01>
-Leave the Mavericks to
-me!
+Deixe os Mavericks para
+mim!
 <--------------------->
 
 <p 02><a 0B><n 01>
-When it's clear, I want
-you to go!
+Quando estiver limpo,
+quero que você vá!
 <--------------------->
 
 <p 03><a 6A><n 56>
-I don't know who you
-are, but thank you!
+Não sei quem é você,
+mas obrigado!
 <--------------------->
 
 <p 03><a 6A><n 56>
-There are still cars
-stopped back there!
-They need your help!
+Ainda há carros parados
+lá atrás! Eles precisam
+de sua ajuda!
 <*********************>
 
 <p 02><a 6B><n 15>
-It looks like the
-people made it through.
+Parece que o povo
+conseguiu chegar.
 <--------------------->
 
 <p 02><a 0A><n 01>
-Let's keep going. We
-have to fight off the
+Vamos indo. Temos que
+lutar contra os
 Mavericks.
 <*********************>
 
 <p 02><d 7602><a 08><n 01>
-Thetis!?
+Tétis!?
 <*********************>
 
 <p 03><d 7702><a 30><n 12>
-I'm flattered. You
-remembered my name!
+Estou lisonjeado. Você
+lembrou do meu nome!
 <*********************>
 
 <p 03><d 7802><a 31><n 12>
-Come, there's something
-I want to show you.
+Venha, tem uma coisa
+que quero te mostrar.
 <*********************>
 
 <p 02><d 7902><a 6B><n 15>
-Model W!? You attacked
-the Highway to feed
-that thing!?
+Modelo W!? Você atacou
+a Rodovia pra alimentar
+essa coisa!?
 <--------------------->
 
 <p 03><d 7A02><a 31><n 12>
-That's right. But what
-I want to show you is
-further down...
+É isso mesmo. Mas o que
+quero te mostrar está
+mais abaixo...
 <--------------------->
 
 <d 7B02>
-At the bottom of this
-dirty sea.
+No fundo desse mar
+imundo.
 <--------------------->
 
 <p 03><d 7C02><a 31><n 12>
-The sea during the war
-was no place for living
-creatures. 
+O mar durante a guerra
+não era lugar para
+criaturas vivas. 
 <--------------------->
 
 <p 03><d 7D02><a 32><n 12>
-After the war, the
-sea's beauty was
-restored.
+Após a guerra, a beleza
+do mar foi restaurada.
 <--------------------->
 
 <d 7E02>
-However, as humans
-repopulated, the sea
-once again grew filthy.
+No entanto, os humanos
+o repovoaram, o mar
+ficou imundo outra vez.
 <--------------------->
 
 <p 03><d 7F02><a 32><n 12>
-You see, humans have to
-desecrate the Earth to
-live on it.
+Entenda, os humanos
+profanam a Terra para
+viver nela.
 <--------------------->
 
 <p 02><d 8002><a 0B><n 01>
-So you take innocent
-lives!? You kill humans
-just like yourself.
+Então você tirou vidas
+inocentes!? Matou
+humanos como você.
 <--------------------->
 
 <p 03><d 8202><a 31><n 12>
-Like me? No, me and
-the others are no
-ordinary humans,
+Como eu? Não, eu e os
+outros não somos
+humanos comuns,
 <--------------------->
 
 <d 8302>
-we are Mega Men!
+somos Mega Mans!
 <--------------------->
 
 <p 03><d 8402><a 31><n 12>
-And after I finish you
-off, I will be even
-more powerful.
+E depois que eu acabar
+com você, serei ainda
+mais poderoso.
 <--------------------->
 
 <p 03><d 8602><a 32><n 12>
-When I am the Mega Man
-King,
+Quando eu me tornar o
+Mega Man Rei,
 <--------------------->
 
 <d 8702>
-I will rid the Earth of
-self-serving humans!
+Livrarei a Terra de
+humanos egoístas!
 <*********************>
 
 <p 03><d 8802><a 31><n 12>
-Just preserving life is
-not what's right.
+Preservar vida não é
+exatamente o certo.
 <--------------------->
 
 <p 03><d 8902><a 31><n 12>
-Fix the ones that can
-be fixed and abandon
-the rest!
+Corrigir aqueles que
+podem ser corrigidos e
+abandonar o resto!
 <*********************>
 
 <p 03><d 8A02><a 32><n 12>
-It's too bad... I
-thought you, at least,
+É uma pena... Pensei
+que você, ao menos
 <--------------------->
 
 <d 8B02>
-would understand
-what I'm trying to 
-accomplish!
+entenderia o que estou
+tentando fazer!
 <--------------------->
 
 <p 03><d 8C02><a 32><n 12>
-I won't give up. I
-shall awaken Model W
+Não vou desistir. Devo
+despertar o Modelo W
 <--------------------->
 
 <d 8D02>
-and change this world
-for the better!
+e mudar esse mundo para
+melhor!
 <*********************>
 
 <p 02><d 8E02><a 0E><n 01>
@@ -185,89 +183,86 @@ Aaaagh!
 <*********************>
 
 <p 01><p 02><a 03><n 00>
-EXTRACTING FROM CODE
-FC61 TO UC79. EXPANDING
-REPORT DATA.
+EXTRAINDO CÓDIGO DE
+FC61 A UC79. AMPLIANDO
+RELATÓRIOS DE DADOS.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-In order to find a
-Biomatch for Biometal
-Model W,
+De modo a achar um
+Biomatch para o
+Biometal Modelo W,
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-first I created sibling
-Reploids.
+primeiro criei os
+Irmãos replóides.
 <*********************>
 
 <p 01><p 02><a 03><n 00>
-As well as giving them
-a portion of Model W's
-power,
+Como também dando a 
+eles uma parte do
+poder do Modelo W,
 <--------------------->
 
-I gave them 1
-commandment.
-<--------------------->
-
-<p 01><p 02><a 03><n 00>
-That was to deterimine
-the most powerful
-Mega Man.
+Dei a eles 1 comando.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-A commandment to
-Biomatch each of my
-Chosen Ones
-<--------------------->
-
-to a Biometal.
+Isso foi para definir
+o mais poderoso Mega
+Man.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-And have them fight
-until only one of them
-was left.
+Um comando de Biomatch
+para cada um de meus
+Escolhidos
+<--------------------->
+
+a um Biometal.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-The survivor of this
-contest will attain the
-power of Model W,
-<--------------------->
-
-and become the ultimate
-Mega Man.
+E eles tem que lutar
+até que apenas um deles
+seja deixado.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-Yes, the new King of
-the world, the Mega Man
-King.
+O sobrevivente dessa
+disputa alcançará o
+poder do Modelo W,
+<--------------------->
+
+e se tornará o Mega Man
+Definitivo.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+Sim, o novo Rei do
+mundo, o Mega Man Rei.
 <*********************>
 
 <p 00><p 02><d 8F02><a 6B><n 15>
-We broke another
-cipher.
+Nós quebramos outra
+cifra.
 <--------------------->
 
 <p 02><d 9002><a 6B><n 15>
-Now I understand why
-Mega Men fight each
-other.
+Agora entendo porque os
+Mega Mans lutam entre
+si.
 <--------------------->
 
 <d 9102>
-But where is the
-information about us?
+Mas onde está a
+informação sobre nós?
 <--------------------->
 
 <p 02><d 9202><a 6B><n 15>
-And what the heck are
-the two Reploid
-siblings?
+E o que diabos são os
+dois irmãos Replóides?
 <--------------------->
 
 <p 02><d 9302><a 08><n 01>
@@ -275,107 +270,110 @@ siblings?
 <--------------------->
 
 <p 02><d 9402><a 6B><n 15>
-Hey, can you hear me?
-What happened? Why
-the frown?
+Ei, pode me ouvir?
+O que aconteceu? Por
+que a cara-fechada?
 <--------------------->
 
 <p 02><d 9502><a 0F><n 01>
-Huh? It's nothing...
+Hã? Não é nada...
 <*********************>
 
 <p 02><d 9602><a 02><n 07>
-It seems you got
-everyone out of there
-safely.
+Parece que você deixou
+todo mundo de lá em
+segurança.
 <--------------------->
 
 <p 02><d 9702><a 02><n 07>
-Just what we'd expect
-from a Chosen One.
+Só o que esperaríamos
+de um Escolhido.
 <--------------------->
 
 <p 02><d 9802><a 08><n 01>
-(Thetis said that
-Mega Men fight to
-change the world.)
+(Tétis disse que Mega
+Mans lutam para mudar
+o mundo.)
 <--------------------->
 
 <p 02><d 9A02><a 08><n 01>
-(Is it OK that I'm only
-fighting to learn about
-myself?)
+(É verdade que só estou
+lutando para aprender
+sobre mim mesmo?)
 <--------------------->
 
 <p 02><d 9B02><a 08><n 01>
-(Mega Man... The power
-wielded by a Chosen
-One.)
+(Mega Man... O poder é
+exercido por um
+Escolhido.)
 <*********************>
 
 <p 02><a 6B><n 15>
-Hey, Grey! Morph into
-Thetis and water
-becomes your home.
+Ei, Grey! Transforme-se
+em Tétis e a água se
+tornará seu lar.
 <--------------------->
 
-You can swim around
-freely underwater.
-<--------------------->
-
-<p 02><a 6B><n 15>
-Underwater, press the
-Jump Button once
-<--------------------->
-
-to get into your
-swimming position!
+Você pode nadar por aí
+livremente debaixo
+d'água.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Then, you can move
-around by using the
-<dpad>Control Pad.
+Debaixo d'água, aperte
+o Botão de Pular logo
+que
 <--------------------->
 
-You can dart through
-the water by pressing
-the Dash Button!
-<--------------------->
-
-<p 02><a 6B><n 15>
-Hold the Attack Button
-and release it to
-perform an ice move.
+chegar em sua posição
+de natação!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Ice attacks can
-penetrate the
-landscape,
+Em seguida, você poderá
+se mover em torno da
+água usando o <dpad>.
 <--------------------->
 
-so that's probably a
-good thing to remember.
-<--------------------->
-
-<p 02><a 6B><n 15>
-Also, Thetis has the
-ability
-<--------------------->
-
-to show where items are
-located on the bottom
-screen!
+Você pode se lançar
+pela água, pressionando
+o Botão de Dash!
 <--------------------->
 
 <p 02><a 6B><n 15>
-If you're somewhere
-you're not sure about,
+Segure o Botão de
+Ataque e solte-o para
+fazer um golpe de gelo.
 <--------------------->
 
-morph into Thetis to
-find items!
+<p 02><a 6B><n 15>
+Ataques de gelo podem
+passar por dentro do
+cenário,
+<--------------------->
+
+então provavelmente
+isso é uma coisa boa
+para se lembrar.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Além disso, Tétis tem a
+habilidade
+<--------------------->
+
+de mostrar onde os
+itens estão localizados
+na tela inferior!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Se você estiver em um
+lugar que não conhece,
+<--------------------->
+
+transforme-se em Tétis
+para encontrar itens!
 <*********************>
 
 <FIM>

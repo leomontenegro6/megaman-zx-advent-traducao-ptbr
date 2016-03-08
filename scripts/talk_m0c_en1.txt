@@ -2,143 +2,145 @@
 <#####################>
 
 <p 02><a 02><n 06>
-This is Thomas. Albert
-seems to be retrieving
+Aqui é o Thomas.
+Albert parece estar
+recuperando
 <--------------------->
 
-Model Ws from
-everywhere.
-<--------------------->
-
-<p 02><a 02><n 06>
-Actually, we've just
-gotten confirmation of
-Model W activity in the
-<--------------------->
-
-Quarry at Hunter's
-Camp.
+Modelos W de toda
+parte.
 <--------------------->
 
 <p 02><a 02><n 06>
-Hunters have Mavericks
-pinned down, but they
-can't move in any
+Na verdade, acabamos de
+receber confirmação de
+atividade do Modelo W
 <--------------------->
 
-further because of the
-rough terrain.
-<--------------------->
-
-<p 02><a 02><n 06>
-It's up to you to get
-into the Quarry,
-<--------------------->
-
-then find and retrieve
-the Model W.
+na Pedreira no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 02><n 06>
-Our reports tell us
-that there's a large
+Os Caçadores prenderam
+os Mavericks, mas eles
+não podem se mexer
 <--------------------->
 
-airship closing in on
-the Quarry.
+para mais nenhum lugar
+por causa do terreno
+acidentado.
 <--------------------->
 
 <p 02><a 02><n 06>
-Albert may already be
-aware of what's going
-on, so be careful.
+Cebe a você entrar na
+Pedreira,
+<--------------------->
+
+e em seguida, encontrar
+o Modelo W.
+<--------------------->
+
+<p 02><a 02><n 06>
+Nossos relatórios nos
+dizem que há um grande
+<--------------------->
+
+dirigível chegando
+perto da Pedreira.
+<--------------------->
+
+<p 02><a 02><n 06>
+Albert já pode estar
+ciente do que acontece,
+então tome cuidado.
 <*********************>
 
 <p 03><a 6B><n 15>
-Who could have done all
-of this? Another
-Mega Man?
+Quem poderia ter feito
+tudo isso? Outro Mega
+Man?
 <--------------------->
 
 <p 03><a 6B><n 15>
-But Albert's guys
-shouldn't have to fight
-Mavericks...
+Mas os homens de Albert
+não deveriam lutar
+contra os Mavericks...
 <--------------------->
 
 <p 03><a 08><n 01>
-Whoever did this must
-be after the Model W.
-We better hurry.
+Quem fez isso está à
+frente do Modelo W. É
+melhor nos apressarmos.
 <*********************>
 
 <p 03><d 0903><a 0B><n 01>
-Who are you!?
+Quem é você!?
 <*********************>
 
 <p 02><d 0A03><a 17><n 00>
-What's this kid doing
-here?
+O que esse garoto está
+fazendo aqui?
 <*********************>
 
 <p 02><d 0B03><a 6C><n 00>
-Careful, Aile! I sense
-Biometal on him.
+Cuidado, Aile! Sinto um
+Biometal com ele.
 <*********************>
 
 <p 02><d 0C03><a 6D><n 00>
-I've never sensed
-anything like this
-before. What is he?
+Nunca senti algo assim
+antes. O que é ele?
 <*********************>
 
 <p 03><d 0D03><a 6B><n 15>
-Two Biometals!?
-Is she a Mega Man!?
+Dois Biometais!?
+Ela é um Mega Man!?
 <--------------------->
 
 <p 03><d 0E03><a 0B><n 01>
-*gulp* Step away from
-that Model W!
+*gulp* Afaste-se desse
+Modelo W!
 <--------------------->
 
 <p 02><d 1003><a 17><n 19>
-What do you want with
-this Model W?
+O que você quer com
+esse Modelo W?
 <--------------------->
 
 <p 03><d 1103><a 0A><n 01>
-I'm here to retrieve
-it! I won't hand it
-over you!
+Estou aqui para
+recuperá-lo! Não vou
+entregá-lo a você!
 <--------------------->
 
 <p 02><d 1303><a 16><n 19>
-I figured as much. Well
-in that case... You
-leave me no choice.
+Como imaginei. Bem,
+nesse caso... Você não
+me deixa escolha.
 <*********************>
 
 <p 01><p 02><d 1403><a 19><n 19>
-Sorry, but I can't let
-you have the Model W.
+Desculpe, mas não posso
+deixar você ter o
+Modelo W.
 <--------------------->
 
 <p 01><p 02><d 1603><a 18><n 19>
-Especially if you're a
-Mega Man!
+Especialmente se você é
+um Mega Man!
 <*********************>
 
 <p 00><p 03><d 1703><a 19><n 19>
-The Game of Destiny
-Prometheus spoke of is
-still going on. 
+Prometeus falou que o
+Jogo do Destino ainda
+está em andamento. 
 <--------------------->
 
 <d 1803>
-But I can't stop until
-all Model Ws have been
-destroyed!
+Mas não posso parar até
+que todos os Modelos W
+tenham sido destruídos!
 <*********************>
 
 <p 02><d 1903><a 0E><n 01>
@@ -146,561 +148,570 @@ Aaaaagh!
 <*********************>
 
 <p 03><d 1A03><a 1A><n 19>
-Gyaaagh! What's...
-this!?
+Guiaagh! O que é...
+isso!?
 <--------------------->
 
 <p 03><d 1B03><a 6D><n 17>
-He's resonating...!
-Could it be because
-of his Biometal?
+Ele está ressoando...!
+Poderia ser por causa
+de seu Biometal?
 <--------------------->
 
 <p 03><d 1C03><a 6C><n 16>
-Be careful, Aile!
+Tenha cuidado, Aile!
 <--------------------->
 
 <d 1D03>
-There's some kind of
-data pouring out from
-his Biometal!
+Há alguns tipos de
+dados jorrando de seu
+Biometal!
 <*********************>
 
 <p 02><a 03><n 00>
-EXTRACTING FROM CODE
-AC196 TO TC2343.
-EXPANDING REPORT DATA.
+EXTRAINDO CÓDIGO DE
+AC196 A TC2343. AMPLI-
+ANDO RELAT. DE DADOS.
 <--------------------->
 
 <p 02><a 03><n 00>
-This is the last
-cipher.
+Essa é a última cifra.
 <--------------------->
 
 <p 02><a 03><n 00>
-You, who knows all
-about the plan.
+Você, aquele que sabe
+tudo sobre o plano.
 <--------------------->
 
-You have earned the 
-right to receive the
-ultimate Biometal.
+Ganhou o direito de 
+receber o Biometal
+definitivo.
 <--------------------->
 
 <p 02><a 03><n 00>
-Sleeping Model Ws
-everywhere feed on the
-fear of humans,
+Modelos W dormem em
+toda parte suprindo o
+medo dos humanos,
 <--------------------->
 
-waiting for their day
-of awakening.
+esperando o dia do
+despertar.
 <*********************>
 
 <p 01><p 02><a 03><n 00>
-And when all Model Ws
-have combined,
+E quando todos os
+Modelos W se
+combinarem,
 <--------------------->
 
-the ultimate Biometal
-will be born.
+o Biometal definitivo
+irá nascer.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-Its name will be
+Seu nome será
 Ouroboros...
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-The one who holds the
-Ouroboros will evolve
+Aquele que possuir o
+Ouroboros irá evoluir
 <--------------------->
 
-beyond the mere fusion
-of man and machine.
-<--------------------->
-
-<p 01><p 02><a 03><n 00>
-What I seek is to
-become the ultimate
-Mega Man.
+além da mera fusão de
+homem e máquina.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-My name is Master
+O que procuro é
+completar o Mega Man
+Definitivo.
+<--------------------->
+
+<p 01><p 02><a 03><n 00>
+Meu nome é Mestre
 Albert.
 <--------------------->
 
-And I decide how things
-are going to be.
+E eu decido como as
+coisas vão ser.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-You, who will usher in
-a new way of life in
-a new world...
+Você, que dará início a
+uma nova forma de vida
+em um novo mundo...
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-I hope that one day my
-research will pave the
+Espero que um dia minha
+pesquisa abra
 <--------------------->
 
-way to a new course of
-evolution. 
+caminho para um novo
+curso de evolução. 
 <*********************>
 
 <p 00><p 02><d 1E03><a 0A><n 01>
-Ouroboros and the
-ultimate Mega Man...
-That's Albert's plan!
+Ouroboros e o Mega Man
+definitivo... Esse é o
+plano de Albert!
 <--------------------->
 
 <p 02><d 1F03><a 6B><n 15>
-Now I get it... The
-reason why we
-were created.
+Agora entendi...
+A razão pela qual fomos
+criados.
 <--------------------->
 
 <p 02><d 2003><a 6B><n 15>
-Why you can Megamerge
-with me...
+Por que você pode
+Megamergir comigo...
 <--------------------->
 
 <p 02><d 2103><a 0F><n 01>
-Model A! Do you
-remember? Do you know
-about me?
+Modelo A! Você lembra?
+Sabe sobre mim?
 <--------------------->
 
 <p 03><d 2203><a 17><n 19>
-Can someone explain it
-to me too?
+Alguém pode explicar
+isso para mim também?
 <--------------------->
 
 <d 2303>
-When I resonated with
-you just now, I saw a
-lot of data.
+Quando sintonizei com
+você agora mesmo, vi um
+monte de dados.
 <--------------------->
 
 <p 03><d 2403><a 17><n 19>
-That man, Master Albert
-created Model W right?
-So who are you?
+Ele, o Mestre Albert
+criou o Modelo W, OK?
+Então quem é você?
 <--------------------->
 
 <p 02><d 2503><a 6B><n 15>
-That's kinda hard to
-explain...
+Isso é meio difícil de
+explicar...
 <*********************>
 
 <p 03><d 2603><a 6C><n 16>
-Uh oh! Model W!
+Uh oh! Modelo W!
 <--------------------->
 
 <p 03><d 2703><a 6D><n 17>
-It must've taken some
-damage in the fighting.
+Ele deve ter levado
+algum dano em combate.
 <*********************>
 
 <p 02><d 2803><a 0A><n 01>
-Tell me, Model A, who
-am I?
+Diga-me, Modelo A, quem
+sou eu?
 <*********************>
 
 <p 02><d 2903><a 6B><n 15>
-I'm sorry... I can't
-tell you now...
+Sinto muito... Não
+posso te dizer agora...
 <*********************>
 
 <p 02><d 2A03><a 0B><n 01>
-Model A!
+Modelo A!
 <*********************>
 
 <p 03><d 2B03><a 17><n 19>
-Stop it! That's not
-fair to the Biometal.
+Pare! Isso não é justo
+para o Biometal.
 <--------------------->
 
 <d 2C03>
-And this isn't the time
-for that. While we're
-wasting time here,
+E este não é o momento
+para isso. Enquanto
+perdemos tempo aqui,
 <--------------------->
 
 <p 03><d 2D03><a 17><n 19>
-that Model W is making
-more Mavericks,
+aquele Modelo W está
+fazendo mais Mavericks,
 <--------------------->
 
 <d 2E03>
-which is going to make
-it tough to get close.
+que está tornando ele
+difícil de se chegar
+perto.
 <*********************>
 
 <p 02><d 2F03><a 0D><n 01>
-I know. Sorry
-Model A...
-Let's keep moving.
+Eu sei. Desculpe
+Modelo A...
+Vamos em frente.
 <--------------------->
 
 <p 03><d 3103><a 16><n 19>
-You're a good kid.
+Você é um bom garoto.
 <--------------------->
 
 <p 02><d 3303><a 0C><n 01>
-Hey! Don't make fun
-of me.
+Ei! Não faça piadas
+comigo.
 <*********************>
 
 <p 03><d 3403><a 16><n 19>
-Aren't you going to try
-and stop me?
+Você não vai tentar me
+impedir?
 <--------------------->
 
 <p 02><d 3503><a 08><n 01>
-That's not why I'm
-here.
+Não é por isso que
+estou aqui.
 <*********************>
 
 <p 01><p 03><d 3603><a 6B><n 15>
-Hey, what are we
-supposed to do?
+Ei, o que devemos
+fazer?
 <--------------------->
 
 <d 3703>
-They can't expect us to
-take this thing back!
+Eles mal podem espera
+que levemos essa coisa
+de volta!
 <--------------------->
 
 <p 00><p 03><d 3803><a 0A><n 01>
-We have no choice. We
-have to destroy it!
+Não temos escolha.
+Temos que destruí-lo!
 <*********************>
 
 <p 01><p 03><d 3903><a 0A><n 01>
-Dang! How is this thing
-still able to move!?
+Droga! Como essa coisa
+ainda tem capacidade
+para se mover!?
 <--------------------->
 
 <d 3A03>
-Is this the strength of
-Model W!?
+É essa a força do
+Modelo W!?
 <*********************>
 
 <p 00><p 03><d 3B03><a 0F><n 01>
-Why did you help me?
-Didn't you come here to
-kill me?
+Por que me ajudou?
+Você não veio aqui para
+me matar?
 <--------------------->
 
 <p 02><d 3C03><a 18><n 19>
-That isn't why I came
-here either.
+Não é por isso que vim
+aqui também.
 <--------------------->
 
 <p 02><d 3D03><a 19><n 19>
-My objective has always
-been to destroy
-Model W,
+Meu objetivo sempre
+foi o de destruir o
+Modelo W,
 <--------------------->
 
 <p 02><d 3E03><a 19><n 19>
-and stop the Game of
-Destiny, where Mega Men
-fight each other.
+e parar o Jogo do
+Destino, onde os Mega
+Mans lutam entre si.
 <--------------------->
 
 <d 3F03>
-What is your name?
+Qual é o seu nome?
 <--------------------->
 
 <p 03><d 4003><a 0F><n 01>
-Huh?
+Hã?
 <--------------------->
 
 <p 02><d 4103><a 18><n 19>
-You're not my enemy...
-I forgot to ask who you
-are.
+Você não é o meu
+inimigo... Esqueci de
+perguntar quem é você.
 <*********************>
 
 <p 03><d 4203><a 08><n 01>
-I'm Grey and this is
-Model A. And what the
-heck is your story?
+Sou Grey e esse é o
+Modelo A. E como diabos
+é a sua história?
 <--------------------->
 
 <p 02><d 4403><a 18><n 19>
-Is that any way to talk
-to a girl you just met?
+Isso é jeito de falar
+com uma garota que você
+acabou de conhecer?
 <*********************>
 
 <p 02><d 4503><a 16><n 19>
-My name is Aile. This
-blue Biometal is
-Model X.
+Meu nome é Aile. Esse
+Biometal azul é o
+Modelo X.
 <--------------------->
 
 <p 02><d 4603><a 16><n 19>
-And this red one is
-Model Z. It's not mine,
+E esse vermelho é um
+Modelo Z. Ele não é
+meu,
 <--------------------->
 
 <d 4703>
-it's a memento from
-someone who was very
-dear to me.
+é uma lembrança de
+alguém que era muito
+querido por mim.
 <--------------------->
 
 <p 02><d 4803><a 16><n 19>
-Anyway let's go back to
-the camp. We can talk
-on the way.
+Enfim, vamos voltar ao
+acampamento. Podemos
+conversar no caminho.
 <*********************>
 
 <p 03><d 4903><a 17><n 19>
-So let me get this
-straight. Master
-Albert, Prometheus,
+Então deixe-me ver se
+entendi. Mestre Albert,
+Prometeus,
 <--------------------->
 
 <p 03><d 4A03><a 17><n 19>
-Pandora and 4 Mega Men.
-Hm, so that's what hap-
-pened to the Biometals
+Pandora e 4 Mega Mans.
+Hm, então foi isso que
+aconteceu aos Biometais
 <--------------------->
 
 <d 4B03>
-that were stolen from
-the lab.
+que foram roubados do
+laboratório.
 <--------------------->
 
 <p 03><d 4C03><a 6C><n 16>
-Unfortunately those
-Biometals
+Infelizmente esses
+Biometais
 <--------------------->
 
 <d 4D03>
-probably have the
-consciousness of their
-four Chosen Ones.
+provavelmente tem
+consciência de seus
+quatro Escolhidos.
 <--------------------->
 
 <p 03><d 4E03><a 6C><n 16>
-Biometals gave us
-strength when we fought
-the Model W.
+Os Biometais nos deram
+força quando lutamos
+contram o Modelo W.
 <--------------------->
 
 <p 03><d 4F03><a 6D><n 17>
-We followed the stolen
-Biometals here.
+Seguimos os Biometais
+roubados até aqui.
 <--------------------->
 
 <p 03><d 5003><a 16><n 19>
-That's when we found
-the Model W and you.
+Foi quando encontramos
+o Modelo W e você.
 <--------------------->
 
 <p 02><d 5103><a 08><n 01>
-Why are you dudes
-fighting Model W?
+Por que os guris estão
+lutando Modelo W?
 <--------------------->
 
 <p 03><d 5203><a 16><n 19>
-"You dudes"? *sigh*
-Anyway, just the same
-as you.
+"Guris"? *suspiro*
+De toda forma, somos
+exatamenete como você.
 <--------------------->
 
 <p 03><d 5303><a 16><n 19>
-Before I knew it I was
-just caught up in it.
+Antes de perceber, eu
+já estava presa nisso.
 <--------------------->
 
 <p 03><d 5403><a 17><n 19>
-I lost a lot of close
-people in the battles
+Perdi um monte de
+pessoas conhecidas nas
+batalhas
 <--------------------->
 
 <d 5503>
-with Mavericks and
-Model Ws...
+com Mavericks e
+Modelos W...
 <--------------------->
 
 <p 02><d 5603><a 08><n 01>
-Revenge...
+Vingança...
 <--------------------->
 
 <p 03><d 5703><a 16><n 19>
-No... I just don't want
-any more people to
-suffer like I have.
+Não... Só não quero que
+mais pessoas sofram
+como eu sofri.
 <*********************>
 
 <p 03><d 5803><a 16><n 19>
-So I decided to destroy
-all Model Ws
+Então decidi destruir
+todos os Modelos W
 <--------------------->
 
 <d 5903>
-in order to put an end
-to the Game of Destiny.
+com finalidade de pôr
+um fim ao Jogo do
+Destino.
 <--------------------->
 
 <p 03><d 5A03><a 16><n 19>
-I decided to become a
-Mega Man because I
-wanted to help people.
+Decidi me tornar uma
+Mega Man. porque queria
+ajudar as pessoas.
 <*********************>
 
 <p 03><d 5C03><a 16><n 19>
-You're fighting because
-you're trying to find
-out who you are,
+Está lutando porque
+está tentando descobrir
+quem é você,
 <--------------------->
 
 <d 5D03>
-but don't forget.
+mas não se esqueça.
 <--------------------->
 
 <p 03><d 5E03><a 16><n 19>
-Only you can decide
-your own destiny.
+Só você pode decidir
+seu próprio destino.
 <--------------------->
 
 <d 5F03>
-No matter what anyone
-says you are.
+Não importa o que
+alguém diga de você.
 <--------------------->
 
 <p 03><d 6003><a 16><n 19>
-The power you contain
-within is the key to
-creating your future.
+O poder que está dentro
+de você é a chave para
+criar seu futuro.
 <--------------------->
 
 <p 03><d 6103><a 16><n 19>
-That's what a special
-person said to me.
+Foi isso que uma pessoa
+especial me disse.
 <--------------------->
 
 <p 02><d 6203><a 08><n 01>
-My destiny... My
-future.
+Meu destino... Meu
+futuro.
 <--------------------->
 
 <p 03><d 6403><a 16><n 19>
-Oh by the way, here.
-I'll give you this.
+Ah, a propósito, aqui.
+Vou te dar isso.
 <*********************>
 
 <p 03><d 6503><a 16><n 19>
-There was Pseudoroid
-activity in the area
-that key opens.
+Houve atividade
+Pseudoróide na área que
+a chave abre.
 <--------------------->
 
 <p 03><d 6603><a 16><n 19>
-I was going to check it
-out myself,
+Eu mesma estava indo
+verificá-la,
 <--------------------->
 
 <d 6703>
-but I think it would be
-better if you held on
-to the key.
+mas acho que seria
+melhor se guardasse
+a chave com você.
 <--------------------->
 
 <p 03><d 6803><a 16><n 19>
-I'm going to join the
-others and go
-after the Biometals.
+Vou me juntar aos
+outros e depois ir
+atrás dos Biometais.
 <--------------------->
 
 <p 03><d 6903><a 16><n 19>
-We'll probably meet
-again,
+Provavelmente nos
+encontraremos de novo,
 <--------------------->
 
 <d 6A03>
-since... we're fighting
-the same enemy.
+desde que... lutemos
+contra o mesmo inimigo.
 <*********************>
 
 <p 02><d 6B03><a 6B><n 15>
-Grey... I...
+Grey... Eu...
 <--------------------->
 
 <p 02><d 6C03><a 08><n 01>
-I'm sorry about before.
-It doesn't matter about
-my past.
+Sinto muito pelo
+acontecido. Meu passado
+não importa.
 <--------------------->
 
 <p 02><d 6D03><a 08><n 01>
-I want to use my power
-and fight for the
-people that helped me.
+Quero usar meu poder e
+lutar pelas pessoas que
+me ajudaram.
 <--------------------->
 
 <p 02><d 6F03><a 08><n 01>
-I'm ready to listen to
-whatever you have to
-say
+Estou pronto para ouvir
+o que você tiver que
+dizer
 <--------------------->
 
 <d 7003>
-when you're ready to
-say it.
+quando estiver pronta
+para dizer.
 <*********************>
 
 <p 02><d 7103><a 02><n 06>
-Good work. It's
-unfortunate that we
+Bom trabalho. É
+lamentável
 <--------------------->
 
 <d 7203>
-couldn't bring back the
-Model W in one piece.
+não podermos trazer de
+volta o Modelo W
+inteiro.
 <--------------------->
 
 <p 02><d 7303><a 02><n 06>
-But the destruction of
-a Model W should put a
+Mas a destruição de um
+Modelo W deve colocar
 <--------------------->
 
 <d 7403>
-wrench in Albert's
-plan.
+uma chave no plano de
+Albert.
 <--------------------->
 
 <p 02><d 7503><a 02><n 06>
-I'd like to use this
-opportunity to our
-advantage somehow,
+Gostaria de usar essa
+oportunidade a nosso
+favor de alguma forma,
 <--------------------->
 
 <d 7603>
-but unfortunately, we
-don't have any leads.
+mas infelizmente, não
+temos nenhuma
+liderança.
 <--------------------->
 
 <p 02><d 7703><a 02><n 06>
-Use your new key and
-search areas you
-haven't been to yet.
+Use sua nova chave e
+procure áreas que você
+ainda não esteve.
 <--------------------->
 
 <d 7803>
-Something may turn up.
+Alguma coisa pode
+aparecer.
 <--------------------->
 
 <p 02><d 7903><a 02><n 06>
-We're counting on you,
-Grey.
+Estamos contando com
+você, Grey.
 <*********************>
 
 <FIM>
