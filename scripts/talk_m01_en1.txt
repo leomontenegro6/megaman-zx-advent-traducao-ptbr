@@ -396,11 +396,11 @@ e obstáculos.
 <p 02><a 08><n 01>
 Pule para direita ou
 esquerda, pressionando
-O Botão de Pular e
+o Botão de Pular e
 <--------------------->
 
-o <dpad> para direita
-ou esquerda.
+o <dpad> para direita ou
+esquerda.
 <--------------------->
 
 <p 02><a 08><n 01>
@@ -496,13 +496,13 @@ Pressione o Botão de
 Ataque combinado com
 <--------------------->
 
-lado direito ou
+o lado direito ou
 esquerdo no <dpad>
 <--------------------->
 
 <p 02><a 08><n 01>
 para atacar pra direita
-ou esquerda.
+ou esquerda na escada.
 <--------------------->
 
 <p 02><a 08><n 01>
@@ -580,7 +580,7 @@ haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Mas parece que isso não
+Mas parece que esse não
 está funcionando,
 
 <--------------------->
@@ -622,7 +622,7 @@ o mapa pra ver quais
 <p 02><a 48><n 36>
 Quando você iniciar o
 Ponto Warp, a área
-irá acender vermelho. 
+irá acender vermelho.
 <--------------------->
 
 Então, você será capaz
@@ -652,7 +652,7 @@ automaticamente!
 
 <p 02><a 48><n 36>
 Se não entender alguma
-coisa, por favor,
+coisa, por favor, me
 pergunte de novo, OK?
 <*********************>
 
