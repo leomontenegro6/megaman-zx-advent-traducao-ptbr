@@ -2,131 +2,135 @@
 <#####################>
 
 <p 02><a 42><n 4A>
-Oh? So you're the
-Hunter who holds the
-Idaten title, huh?
+Hã? Então você é o
+Caçador que mantém o
+título da Idaten, hein?
 <--------------------->
 
 <p 02><a 42><n 4A>
-How'd you like to race
-the champion?
+O que acha de correr
+com um campeão?
 <--------------------->
 
 <p 02><a 42><n 4A>
-As always, the first
-one to reach the
-finish line wins.
+Como sempre, o primeiro
+que cruzar a linha de
+chegada ganha.
 <--------------------->
 
 <p 02><e 63><a 42><n 4A>
-Race?
-  Yes
-  No
+Correr?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4A>
-That's the spirit!
-Let's get ready to
-rock!
+Esse é o espírito!
+Vamos nos preparar para
+o rock!
 <*********************>
 
 <p 02><a 42><n 4A>
-Oh? Is that a booster
-you have?
+Hã? É um impulsionador
+que você tem?
 <--------------------->
 
-You can use that to
-tune up your ride!
-<--------------------->
-
-<p 02><a 42><n 4A>
-You can take off like a
-rocket right off the
-starting line!
+Você pode usar isso
+para aprimorar sua
+montaria!
 <--------------------->
 
 <p 02><a 42><n 4A>
-But it's so powerful,
-that once you use it,
+Você pode decolar como
+um foguete da linha de
+partida de imediato!
 <--------------------->
 
-it destroys the
-booster.
+<p 02><a 42><n 4A>
+Mas é tão poderoso, que
+assim que você usá-lo,
+<--------------------->
+
+ele destruirá o
+impulsionador.
 <--------------------->
 
 <p 02><e 63><a 42><n 4A>
-Use your booster?
-  Yes
-  No
+Usar seu impulsionador?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4A>
-Oh, well... Come back
-when you feel up to it!
+Oh, bem... Volte quando
+você sentir vontade!
 <*********************>
 
 <p 03><a 42><n 4A>
-Grey, the challenger
-WINS!
+O desafiante Grey
+GANHOU!
 <--------------------->
 
 <p 03><a 42><n 4A>
-That was magnificent!
-Here is your title and
-your prize money!
-<*********************>
-
-<p 02><a 42><n 4A>
-Be sure to come back!
-Defend your title next
-race
-<--------------------->
-
-and you'll be known as
-the "Speed King"!
-<*********************>
-
-<p 03><a 42><n 4A>
-Sorry... This one goes
-to the Galleon Rider.
-<--------------------->
-
-<p 03><a 42><n 4A>
-...Yeah, a champion
-can't afford to make
-any mistakes.
-<--------------------->
-
-<p 03><a 42><n 4A>
-I'd say it's about time
-you souped up your
-ride.
-<--------------------->
-
-<p 03><a 42><n 4A>
-You might do better if
-you get yourself some
-mods.
+Isso foi magnífico!
+Aqui está seu título e
+seu prêmio em dinheiro!
 <*********************>
 
 <p 02><a 42><n 4A>
-You gotta take this
-loss and eat it.
+Não deixe de voltar!
+Defenda sua próxima
+corrida pelo título
 <--------------------->
 
-Use it for fuel to win
-next time!
+e você será conhecido
+como o "Rei da
+Velocidade"!
+<*********************>
+
+<p 03><a 42><n 4A>
+Lamento... Essa vai
+para o Galleon Rider.
+<--------------------->
+
+<p 03><a 42><n 4A>
+...Sim, um campeão não
+pode se dar ao luxo de
+cometer erros.
+<--------------------->
+
+<p 03><a 42><n 4A>
+Eu diria que é hora de
+você envenenar sua
+montaria.
+<--------------------->
+
+<p 03><a 42><n 4A>
+Você pode fazer melhor
+se arranjar algumas
+modificações.
 <*********************>
 
 <p 02><a 42><n 4A>
-Alright, booster is on.
-Let's start the race!
+Você tem que assumir
+essa derrota e engolir
+ela.
+<--------------------->
+
+Use combustível para
+ganhar da próxima vez!
 <*********************>
 
 <p 02><a 42><n 4A>
-Alright, Let's start
-the race with no
-booster.
+Tudo bem, impulsionador
+ligado. Vamos começar a
+corrida!
+<*********************>
+
+<p 02><a 42><n 4A>
+Tudo bem, vamos começar
+a corrida sem
+impulsionador.
 <*********************>
 
 <FIM>

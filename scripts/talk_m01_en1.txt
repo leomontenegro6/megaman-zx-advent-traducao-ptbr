@@ -32,7 +32,7 @@ primeira tentativa,
 <d 0600>
 e mostrá-lo para a
 galera no Acampamento
-de Caçadores.
+de Caçador.
 <*********************>
 
 <p 03><d 0700><a 42><n 1B>
@@ -571,8 +571,8 @@ chamado de Ponto Warp.
 
 <p 02><a 48><n 36>
 Você pode usar o
-transervidor pra voltar
-lá a qualquer hora
+transervidor aí a
+qualquer hora
 <--------------------->
 
 para ir aonde quer que
@@ -582,7 +582,6 @@ haja um Ponto Warp.
 <p 02><a 48><n 36>
 Mas parece que esse não
 está funcionando,
-
 <--------------------->
 
 porque está tudo
@@ -590,8 +589,8 @@ desligado.
 <--------------------->
 
 <p 02><a 48><n 36>
-Se tiver bastante
-E-Cristais, você pode
+Se tiver Cristais
+o bastante, você pode
 pressionar pra cima no
 <--------------------->
 
@@ -651,7 +650,7 @@ automaticamente!
 <--------------------->
 
 <p 02><a 48><n 36>
-Se não entender alguma
+Se não entendeu alguma
 coisa, por favor, me
 pergunte de novo, OK?
 <*********************>

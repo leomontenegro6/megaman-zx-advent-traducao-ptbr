@@ -2,238 +2,245 @@
 <#####################>
 
 <p 02><a 4C><n 31>
-Hey, nice to meet you!
-My name is Jarke!
+Ei, prazer em
+conhecê-lo!
+Meu nome é Jarke!
 <--------------------->
 
 <p 02><a 4C><n 31>
-If you're going to
-Legion,
+Se você estiver indo
+para a Legião,
 <--------------------->
 
-you should enter the
-door on the right!
+você deve entrar pela
+porta à direita!
 <*********************>
 
 <p 02><a 4C><n 31>
-You know, yesterday I
-took the train to
-Legion.
+Sabe, ontem eu peguei o
+trem para a Legião.
 <--------------------->
 
-The desolate landscape
-outside of
+A paisagem desolada
+fora do
 <--------------------->
 
-Hunter's Camp looks
-pretty dreary. 
+Acampamento de Caçador
+parece muito triste. 
 <--------------------->
 
-It's a far cry from the
-bustling cityscape of
-Legion.
+Fica bem longe da
+movimentada paisagem
+urbana da Legião.
 <*********************>
 
 <p 02><a 4C><n 31>
-Are you really the
-Model A Chosen One?
+Você realmente é o
+Escolhido do Modelo A?
 <--------------------->
 
-If so, you should be
-able to kick your way
+Sendo assim, você deve
+conseguir chegar do seu
+jeito
 <--------------------->
 
-up that wall on the
-right!
+até aquela parede à
+direita!
 <--------------------->
 
-If you go up from here
-a ways, you'll come to
-a red door.
+Se você subir por aqui
+de algum jeito, chegará
+a uma porta vermelha.
 <--------------------->
 
-There's a big tower
-covered in vines
+Há uma grande torre
+cobertas de videiras
 <--------------------->
 
-and a road that leads
-to the Ice Floes.
+e uma estrada que leva
+aos Blocos de Gelo.
 <--------------------->
 
-And past that are the
-Oil Fields,
+E além disso são os
+Campos de Óleo,
 <--------------------->
 
-where a lot of Hunters
-go and look for booty!
+onde um monte de
+Caçadores vão e
+buscam por recompensa!
 <*********************>
 
 <p 02><a 4C><n 31>
-There are many places
-in this world
+Existem muitos lugares
+nesse mundo
 <--------------------->
 
-that you can't get to
-by walking or on a
-train.
+que você não consegue
+chegar a pé ou em um
+trem.
 <--------------------->
 
-But if the coordinates
-to a place are logged
-in,
+Mas se as coordenadas
+de um lugar estão
+logadas,
 <--------------------->
 
-you can get to where
-you want to go via a
-transerver.
+você pode chegar onde
+quer ir através de um
+transervidor.
 <--------------------->
 
-Me, I prefer to keep my
-feet on the ground
+Eu, prefiro manter meus
+pés no chão
 <--------------------->
 
-and travel the
-old-fashioned way.
+e viajar à moda antiga.
 <*********************>
 
 <p 02><a 4C><n 31>
-You might want to visit
-places more than once;
+Você pode querer
+visitar lugares mais de
+uma vez;
 <--------------------->
 
-you might find
-something new there.
+você pode encontrar
+algo novo lá.
 <--------------------->
 
-Especially you, since
-you have that A-Trans
-ability,
+Especialmente você,
+desde que tenha essa
+habilidade A-Trans,
 <--------------------->
 
-you definitely should
-visit a lot of places!
+definitivamente deve
+visitar um monte de
+lugares!
 <*********************>
 
 <p 02><a 4D><n 2C>
-What do you want
-with me!?
+O que você quer
+comigo!?
 <--------------------->
 
 <p 02><a 4D><n 2C>
-Alright, I'll go ahead
-and introduce myself
-then.
+Tudo bem, vou em frente
+e vou me apresentar em
+seguida.
 <--------------------->
 
 <p 02><a 4D><n 2C>
-I'm Roy! I've been a
-Hunter for 3 years and
-2 months.
+Eu sou Roy! Eu fui um
+Caçador por 3 anos e
+2 meses.
 <--------------------->
 
-My hobby is cooking!
-<--------------------->
-
-<p 02><a 4D><n 2C>
-It's been a while since
-I got a mission request
-from Legion,
-<--------------------->
-
-so I bide my time
-cooking for the other
-Hunters.
+Meu hobby é cozinhar!
 <--------------------->
 
 <p 02><a 4D><n 2C>
-But, sorry I don't have
-anything for you!
+Já faz um tempo desde
+que recebi um pedido de
+missão da Legião,
+<--------------------->
+
+então eu passo o tempo
+cozinhando para os
+outros Caçadores.
+<--------------------->
+
+<p 02><a 4D><n 2C>
+Mas, desculpe, não
+tenho nada pra você!
 <*********************>
 
 <p 02><a 4D><n 2C>
-Lately, with Mavericks
-popping up all over the
-place,
+Ultimamente, com
+Mavericks aparecendo
+em todo lugar,
 <--------------------->
 
-Legion has been paying
-bigger bounties.
+A Legião vem pagando
+maiores recompensas.
 <--------------------->
 
 <p 02><a 4D><n 2C>
-Thanks to Legion, we
-Hunters can put food on
-the table.
+Graças a Legião, nós
+Caçadores podemos
+colocar comida na mesa.
 <*********************>
 
 <p 02><a 4D><n 2C>
-Sorry about before. I
-was a little harsh.
+Primeiramente desculpe.
+Eu fui um pouco grosso.
 <--------------------->
 
 <p 02><a 4D><n 2C>
-I'm not really good at
-controlling my
-emotions.
+Realmente não sou muito
+bom em controlar minhas
+emoções.
 <*********************>
 
 <p 02><a 4D><n 2C>
-Aah, I should've never
-become a Hunter.
+Aah, eu nunca deveria
+ter me tornado um
+Caçador.
 <--------------------->
 
 <p 02><a 4D><n 2C>
-Always in constant
-danger. There's not
-much free time.
+Sempre em constante
+perigo. Não há muito
+tempo livre.
 <--------------------->
 
 <p 02><a 4D><n 2C>
-You'd hurry up and quit
-if you knew what was
-good for you!
+Você iria se apressar e
+sair se soubesse o que
+era bom pra você!
 <*********************>
 
 <p 02><a 4D><n 2C>
-There's been a lot of
-commotion outside
-lately.
+Tem havido muita
+agitação lá fora
+ultimamente.
 <--------------------->
 
 <p 02><a 4D><n 2C>
-And sometimes there're
-strange sounds coming
-from underground.
+E às vezes há sons
+estranhos vindos do
+subsolo.
 <--------------------->
 
-Is there some digging
-going on nearby?
+Existe alguma escavação
+acontecendo nas
+proximidades?
 <*********************>
 
 <p 02><a 4D><n 2C>
-Is that a wish card
-you're holding?
+Isso é um
+cartão de
+desejo que você está
+segurando?
 <--------------------->
 
 <p 02><a 4D><n 2C>
-If I could make a wish,
-I'd want to be
+Se eu pudesse fazer um
+desejo, iria querer ser
 <--------------------->
 
-the best Hunter slash
-cook in the world.
+o melhor Caçador
+cozinheiro no mundo.
 <--------------------->
 
 <p 02><a 4D><n 2C>
-I just finished making
-the world's most
-delicious apple pie.
+Acabei de fazer a torta
+de maçã mais deliciosa
+do mundo.
 <*********************>
 
 <p 02><a 4D><n 2C>
-This apple was left
-over. If you want it,
-I'll give it you.
+Sobrou essa maçã. Se
+quiser, posso te dar
+ela.
 <*********************>
 
 <p 02><a 4E><n 2D>
@@ -241,39 +248,12 @@ I'll give it you.
 <--------------------->
 
 <p 02><a 69><n 2E>
-Hello!? Is this the
-first time we've met?
+Olá!? Essa é a primeira
+vez que nos conhecemos?
 <--------------------->
 
-My name is Blossom! And
-this is my daddy!
-<--------------------->
-
-<p 02><a 4E><n 2D>
-...
-<--------------------->
-
-<p 02><a 69><n 2E>
-Oh, my daddy's name is
-Warren!
-<*********************>
-
-<p 02><a 69><n 2E>
-Everyone in Hunter's
-Camp is searching
-<--------------------->
-
-for something called
-Biometal. They say it's
-very valuable.
-<--------------------->
-
-The mission request
-came from Legion.
-<--------------------->
-
-Isn't that right,
-Daddy?
+Meu nome é Blossom! E
+esse é meu papai!
 <--------------------->
 
 <p 02><a 4E><n 2D>
@@ -281,65 +261,26 @@ Daddy?
 <--------------------->
 
 <p 02><a 69><n 2E>
-Some of the Hunters
-have given up already;
-<--------------------->
-
-now they're looking for
-other treasure.
+Ah, o nome do meu papai
+é Warren!
 <*********************>
 
 <p 02><a 69><n 2E>
-When I grow up, I'm
-going to be a great
+Todo mundo no
+Acampamento de Caçador
+está procurando
 <--------------------->
 
-Hunter and look for
-booty too!
+por algo chamado
+Biometal. Dizem que é
+muito valioso.
 <--------------------->
 
-Daddy, isn't that
-right?
+O pedido de missão veio
+da Legião.
 <--------------------->
 
-<p 02><a 4E><n 2D>
-...
-<*********************>
-
-<p 02><a 69><n 2E>
-I think Daddy met Mommy
-when they were both
-hunting in the ruins...
-<--------------------->
-
-Right, Daddy?
-<--------------------->
-
-Did you propose to
-Mommy, or did Mommy
-propose to you?
-<--------------------->
-
-<p 02><a 4E><n 2D>
-...
-<*********************>
-
-<p 02><a 69><n 2E>
-Daddy, what's Model W?
-Is it bad?
-<--------------------->
-
-Is that why all the
-Mavericks keep coming
-out everywhere?
-<--------------------->
-
-What's going to happen
-to all of us?
-<--------------------->
-
-What if the Mavericks
-try to get Mommy?
+Não é mesmo, Papai?
 <--------------------->
 
 <p 02><a 4E><n 2D>
@@ -347,518 +288,595 @@ try to get Mommy?
 <--------------------->
 
 <p 02><a 69><n 2E>
-Daddy?
+Alguns dos Caçadores já
+desistiram;
+<--------------------->
+
+agora eles estão à
+procura de outro
+tesouro.
+<*********************>
+
+<p 02><a 69><n 2E>
+Quando eu crescer, vou
+ser um grande
+<--------------------->
+
+Caçador e procurar por
+recompensa também!
+<--------------------->
+
+Papai, não é mesmo?
 <--------------------->
 
 <p 02><a 4E><n 2D>
-Don<72>t worry, flower.
-It's going to be OK.
-<--------------------->
-
-We have to believe in
-this Hunter.
+...
 <*********************>
 
 <p 02><a 69><n 2E>
-Huh? A present for me?
-Thank you!
+Acho que Papai conheceu
+a Mamãe quando ambos
+caçavam nas ruínas...
 <--------------------->
 
-It's sooo cuuuuute!
-Daddy, look what I got!
-A present!
+Certo, Papai?
+<--------------------->
+
+Você pediu a Mamãe, ou
+Mamãe pediu você em
+casamento?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
 <*********************>
 
 <p 02><a 69><n 2E>
-You can have this!
+Papai, o que é Modelo
+W? Isso é mal?
 <--------------------->
 
-I made it using a
-recipe my mommy showed
-me! Try it!
+É por isso que todos os
+Mavericks continuam
+vindo de toda parte?
+<--------------------->
+
+O que vai acontecer com
+todos nós?
+<--------------------->
+
+E se os Mavericks
+tentarem pegar a Mamãe?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+...
+<--------------------->
+
+<p 02><a 69><n 2E>
+Papai?
+<--------------------->
+
+<p 02><a 4E><n 2D>
+Nã<72>o se preocupe,
+flor, vai ficar bem.
+<--------------------->
+
+Temos que acreditar
+nesse Caçador.
+<*********************>
+
+<p 02><a 69><n 2E>
+Hã? Um presente pra
+mim? Obrigado!
+<--------------------->
+
+É tããão foooofo! Papai,
+olha o que eu ganhei!
+Um presente!
+<*********************>
+
+<p 02><a 69><n 2E>
+Você pode levar isso!
+<--------------------->
+
+Fiz isso usando uma
+receita que minha Mamãe
+me mostrou! Prove!
 <*********************>
 
 <p 02><a 4F><n 2F>
-What are you looking
-at? Do I have something
-on my face?
+O que está olhando? Tem
+alguma coisa no meu
+rosto?
 <--------------------->
 
-You must be 12 going on
-20 if you think you can
-talk to me!
+Deve estar 12 indo pra
+20 se acha que pode
+falar comigo!
 <--------------------->
 
-Remember that for the
-next time we meet!
+Lembre-se disso da
+próxima vez que nos
+encontrarmos!
 <*********************>
 
 <p 02><a 4F><n 2F>
-Don't get so close to
-me! You're crowding my
-space!
+Não fique tão perto de
+mim! Você está ocupando
+meu espaço!
 <--------------------->
 
-Did I not just warn you
-about that kind of
-thing!?
+Eu simplesmente não te
+avisei sobre esse tipo
+de coisa!?
 <--------------------->
 
-I don't want you
-breathing down my neck.
-I'm an elite Hunter!
+Não quero você na minha
+cola. Sou um Caçador de
+elite!
 <*********************>
 
 <p 02><a 4F><n 2F>
-*hmph* So you're
-really going to accept
+*hmph* Então realmente
+você vai aceitar
 <--------------------->
 
-that mission request
-from Legion?
+esse pedido de missão
+da Legião?
 <--------------------->
 
-I got bored of it after
-3 days. I don't envy
-you. 
+Fiquei entediado dele
+depois de 3 dias. Não
+tenho inveja de você. 
 <--------------------->
 
-The bounty is small,
-the risk is great, and
-for what?
+A recompensa é pequena,
+o risco é grande, e
+pelo quê?
 <--------------------->
 
-I just don't see any
-value in it!
+Simplesmente não vejo
+qualquer valor nele!
 <*********************>
 
 <p 02><a 4F><n 2F>
-Eh? You met the Sage
-Trinity?
+Hã? Você conheceu a
+Trindade Sábia?
 <--------------------->
 
-That's something even
-my father would have
-trouble doing.
+Isso é algo que nem meu
+pai tem problema para
+fazer.
 <--------------------->
 
-How could someone the
-likes of you meet
-them!? 
+Como poderia alguém
+como você gostar de
+conhecê-los!? 
 <--------------------->
 
-But I could care less!
+Mas eu poderia me
+importar menos!
 <*********************>
 
 <p 02><a 4F><n 2F>
-What is all of the
-commotion about here in
-Hunter's Camp?
+O que é toda essa
+agitação aqui no
+Acampamento de Caçador?
 <--------------------->
 
-Is this Model W really
-all that valuable?
+Esse realmente é o
+Modelo W que vale tudo
+isso?
 <--------------------->
 
-Could it be worth more
-than the estate I used
-to live in?
+Poderia valer mais do
+que a propriedade que
+eu costumava morar?
 <*********************>
 
 <p 02><a 50><n 39>
-I'm Tina! I used to run
-with a group of
-bandits!
+Sou a Tina! Eu
+costumava fugir com um
+grupo de bandidos!
 <--------------------->
 
-Don't worry, that's all
-in my past.
+Não se preocupe, isso
+é tudo do passado.
 <--------------------->
 
-Now I make an honest
-living as a Hunter!
+Agora eu ganho a vida
+honestamente como uma
+Caçadora!
 <*********************>
 
 <p 02><a 50><n 39>
-It's kinda rough being
-here for so long...
+É um bocado difícil
+estar aqui por tanto
+tempo...
 <--------------------->
 
-The days used to seem
-so much shorter when I
-was a bandit.
+Os dias costumavam
+parecer bem mais curtos
+quando eu era bandida.
 <--------------------->
 
-Now it can get pretty
-boring. I miss the
-old days.
+Agora pode ficar muito
+entediante. Sinto falta
+dos velhos tempos.
 <*********************>
 
 <p 02><a 50><n 39>
-There's some kind of
-makeshift barrier under
-this ladder. 
+Há algum tipo de
+barreira improvisada
+debaixo dessa escada.
 <--------------------->
 
-It's just sewage down
-there. They put
-boulder's down there
+É só esgoto lá em
+baixo. Colocaram um
+pedregulho lá em baixo
 <--------------------->
 
-to keep kids from
-playing around there.
+para impedir que
+crianças brinquem por
+lá.
 <--------------------->
 
-Just as a precaution,
-they made it so that
+Só por precaução,
+fizeram isso para que
 <--------------------->
 
-you need a green
-card key to get in.
+você precise de um
+cartão-chave verde para
+entrar.
 <*********************>
 
 <p 02><a 50><n 39>
-I used to think that
-there were some things
+Eu costumava pensar que
+havia algumas coisas
 <--------------------->
 
-you couldn't get unless
-you were a bandit.
+que você não poderia
+obter se não fosse um
+bandido.
 <--------------------->
 
-Looking back on it now,
-I think that was just
-me trying to
+Olhando pra trás agora,
+Acho que foi só eu
+tentar
 <--------------------->
 
-rationalize and make
-excuses for what I was
-doing.
+raciocinar e inventar
+desculpas para o que
+eu estava fazendo.
 <--------------------->
 
-I'm sorry. You're too
-young to understand
-this kind of talk.
+Desculpe. Você é muito
+jovem para entender
+esse tipo de conversa.
 <*********************>
 
 <p 02><a 50><n 39>
-Looks like everybody's
-making a big fuss over
-this Model W thing.
+Parece que todos estão
+fazendo um vasto alarde
+desse tal de Modelo W.
 <--------------------->
 
-People are saying that
-it's the reason for
-all these Mavericks.
+As pessoas dizem que
+esse é o motivo para
+todos esses Mavericks.
 <*********************>
 
 <p 02><a 51><n 41>
-Hey, did you come here
-looking for the booty
-too?
+Ei, veio aqui à
+procura da recompensa
+também?
 <--------------------->
 
-I'm Meg, the antique
-Hunter!
+Eu sou Meg, o Caçador
+de antiguidade!
 <*********************>
 
 <p 02><a 51><n 41>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 51><n 41>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 51><n 41>
-I once had a professor
-who always said "Know
-the old, know the new."
+Tive um um professor
+que sempre dizia "Sabe
+o antigo, sabe o novo."
 <--------------------->
 
-Our job is not just
-chasing after the
-past...
+Nosso trabalho não é
+só correr atrás do
+passado...
 <--------------------->
 
-Remember the past to
-better understand the
-present. If you forget
+Lembre-se do passado
+para entender melhor o
+presente. Se esquecer
 <--------------------->
 
-this, you become
-nothing more than a
-collector.
+disso, você se torna
+nada mais do que um
+colecionador.
 <*********************>
 
 <p 02><a 51><n 41>
-I once had a professor
-who always said "Know
-the old, know the new."
+Tive um um professor
+que sempre dizia "Sabe
+o antigo, sabe o novo."
 <--------------------->
 
-Our job is not just
-chasing after the
-past...
+Nosso trabalho não é
+só correr atrás do
+passado...
 <--------------------->
 
-Remember the past to
-better understand the
-present. If you forget
+Lembre-se do passado
+para entender melhor o
+presente. Se esquecer
 <--------------------->
 
-this, you become
-nothing more than a
-collector.
+disso, você se torna
+nada mais do que um
+colecionador.
 <*********************>
 
 <p 02><a 52><n 38>
-I'm Nick... Who are
-you?
+Eu sou Nick... Quem é
+você?
 <--------------------->
 
-As you can see, I'm an
-old-model Reploid!
+Como pode ver, eu sou
+um velho-modelo de
+Replóide!
 <--------------------->
 
-Just because I'm old
-doesn't mean that my
+Só porque sou velho não
+significa que minhas
 <--------------------->
 
-life cycle settings are
-any longer.
+definições de ciclo de
+vida são mais ainda.
 <--------------------->
 
-It just means that I'm
-a previous generation
-Reploid.
+Significa apenas que
+sou de uma geração
+anteriror de Replóide.
 <*********************>
 
 <p 02><a 52><n 38>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 52><n 38>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 52><n 38>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 52><n 38>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 53><n 3F>
-Hey, I didn't know kids
-liked to drink coffee.
+Ei, não sabia que
+crianças gostavam de
+tomar café.
 <--------------------->
 
-I'm Jim, and this is my
-café.
+Eu sou Jim, e essa é
+minha cafeteria.
 <--------------------->
 
-I used to make my
-living as a Hunter,
+Eu costumava ganhar a
+vida como um Caçador,
 <--------------------->
 
-but I wasn't very good
-with directions, you
-know.
+mas eu não fui muito
+bom com direções, você
+entende.
 <--------------------->
 
-I realized that it just
-wasn't for me and got
-out.
+Simplesmente percebi
+que não era pra mim e
+saí.
 <*********************>
 
 <p 02><a 53><n 3F>
-I started this place
-hoping it'd be
+Comecei nesse lugar
+esperando que em algum
 <--------------------->
 
-somewhere the Hunters
-could relax and enjoy
-themselves.
+momento os Caçadores
+pudessem relaxar e se
+divertir.
 <--------------------->
 
-I'm still learning the
-ropes of this business.
+Ainda estou aprendendo
+as coisas desse
+negócio.
 <--------------------->
 
-And, making a lot of
-mistakes too.
+E, cometendo um monte
+de erros também.
 <*********************>
 
 <p 02><a 53><n 3F>
-Even now, though, I
-reminisce about the
-days when I used to
+Até agora, entretanto,
+lembrei dos dias em que
+costumava
 <--------------------->
 
-travel around the
-world.
+viajar ao redor do
+mundo.
 <--------------------->
 
-If I can't be a Hunter,
-I want to be somebody
-who
+Se não posso ser um
+Caçador, quero ser
+alguém que
 <--------------------->
 
-chases after romance,
-you know, a love
-Hunter...
+corra atrás de romance,
+sabe, um amor
+Caçador...
 <--------------------->
 
-Nah, I was just
-kidding. Pretend you
-never heard that.
+Não, eu só estava
+brincando. Finja que
+nunca ouviu isso.
 <*********************>
 
 <p 02><a 53><n 3F>
-Those days working as a
-Hunter were brutal,
+Nesses dias trabalhando
+como Caçador foram
+brutais,
 <--------------------->
 
-every day getting all
-busted up...
+cada dia ficando mais
+quebrado...
 <--------------------->
 
-I remember falling off
-of a cliff while we
-were trekking in the
+Lembro de cair de um
+penhasco enquanto
+estávamos andando nas
 <--------------------->
 
-mountains. I slid down
-a waterfall and got
-washed out to sea.
+montanhas. Deslizei e
+caí em uma cachoeira e
+fui levado para o mar.
 <--------------------->
 
-I was always in the
-infirmary...
+Eu estava sempre na
+enfermaria...
 <--------------------->
 
-to the point they
-called me a "frequent
-faller".
+ao ponto deles me
+chamarem de "caidor
+frequente".
 <*********************>
 
 <p 02><a 53><n 3F>
-Anna who works in the
-infirmary... Now she's
-my type.
+Anna, que trabalha na
+enfermaria... Agora ela
+faz meu tipo.
 <--------------------->
 
-But let's just keep
-that between me and
-you.
+Mas vamos manter isso
+entre mim e você.
 <*********************>
 
 <p 02><a 54><n 3D>
-Who are you? They call
-me Pierre.
+Quem é você? Chamam-me
+de Pierre.
 <--------------------->
 
-I dunno where you're
-trying to get to,
+Não sei onde você está
+tentando chegar,
 <--------------------->
 
-but there ain't nothing
-thataway.
+mas não há nada nessa
+direção.
 <--------------------->
 
-If you're trying to get
-to the station, it's in
-the opposite direction.
+Se está tentando chegar
+à estação, ela fica na
+direção oposta.
 <*********************>
 
 <p 02><a 54><n 3D>
-Are you a Hunter too?
+Você também é um
+Caçador?
 <--------------------->
 
-If you are, you've
-probably heard about
-me.
+Se for mesmo, você
+provavelmente já ouviu
+falar de mim.
 <--------------------->
 
-What? You've haven't!?
-If you're gonna call
-yourself a Hunter,
+O quê? Não ouviu!?
+Se quer se chamar de
+Caçador,
 <--------------------->
 
-you at least need to
-know some basic
-information.
+você precisa ao menos
+saber de algumas
+informações básicas.
 <--------------------->
 
-I'd like to tell you
-all about the great
-things I've done,
+Gostaria de te dizer
+tudo sobre as grandes
+coisas que fiz,
 <--------------------->
 
-but that would be just
-tooting my own horn, so
-I won't.
+mas eu só estaria me
+gabando, então não
+direi.
 <*********************>
 
 <p 02><a 54><n 3D>
-They say you're the
-Chosen One for Model A,
-huh?
+Dizem que você é o
+Escolhido pelo Modelo
+A, hein?
 <--------------------->
 
-This world is just full
-of ironies, ain't it?
+Esse mundo é cheio de
+ironias, não é?
 <--------------------->
 
-Seriously though, I'm
-probably more suited to
-being a Mega Man.
+Sério, provavelmente eu
+sou o cara adequado a
+ser um Mega Man.
 <*********************>
 
 <p 02><a 54><n 3D>
-So, you know that
-manhole to the left,
-and up a ways?
+Então, sabia que aquele
+bueiro à esquerda, leva
+a outros rumos?
 <--------------------->
 
-Underneath that is the
-Quarry. They say it's
-dangerous,
+Debaixo disso fica a
+Pedreira. Dizem que é
+perigoso,
 <--------------------->
 
-so it's been double and
-triple locked to keep
-people out.
+então foi bloqueado
+duas ou três vezes para
+manter as pessoas fora.
 <--------------------->
 
-Now if it was me, I
-could get through it
-no problem,
+Agora, se fosse eu,
+conseguria passar por
+alí sem problemas,
 <--------------------->
 
-but a regular Hunter
-probably couldn't get
-through it.
+mas um Caçador regular
+provavelmente não
+poderia passar.
 <*********************>
 
 <p 02><a 54><n 3D>
-You know, you're
-lucky...
+Sabe, você é sortudo...
 <--------------------->
 
-If I was a Mega Man,
-you'd have to fight me.
+Se eu fosse um Mega
+Man, você teria que
+lutar comigo.
 <--------------------->
 
-You understand what I
-mean?
+Entende o que eu digo?
 <--------------------->
 
-That's right! You just
-barely escaped with
-your life!
+Está certo! Você
+escapou com vida por
+pouco!
 <*********************>
 
 <FIM>

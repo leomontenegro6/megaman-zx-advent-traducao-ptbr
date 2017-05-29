@@ -5,85 +5,82 @@
 ...
 <--------------------->
 
-Oh hi, it's you! I
-didn't notice you
-there.
+Ah, oi, é você! Não
+percebi você aí.
 <--------------------->
 
-Hmm... I'm sooo
-stressing out right
-now.
+Hmm... Estou tããão 
+estressado agora.
 <--------------------->
 
-Never mind, I'm just
-having a personal
-problem.
+Deixa pra lá, só estou
+tendo um problema
+pessoal.
 <--------------------->
 
-There's someone I like,
+Eu gosto de uma pessoa,
 <--------------------->
 
-but I don't know how I
-can get her to notice
-me.
+mas não sei como fazer
+ela me notar.
 <--------------------->
 
-They say there's a
-Magical Fruit... And
-that if you eat it,
+Dizem que existe uma
+Fruta Mágica... E se
+você comê-la,
 <--------------------->
 
-you'll fall in love
-with the person who
-gave it to you.
+se apaixonará pela
+pessoa que deu pra
+você.
 <--------------------->
 
-If I could only get
-that fruit and make
-juice out of it,
+Se eu conseguisse essa
+fruta e fizesse suco
+dela,
 <--------------------->
 
-then I could give it to
-the girl I like to
-drink.
+eu poderia então dá-lo
+pra garota que eu gosto
+para ela beber.
 <--------------------->
 
-Hey, could you do me a
+Ei, poderia me fazer um
 favor?
 <--------------------->
 
-They say you can find
-the Magical Fruit at
-the Tower of Verdure.
+Dizem que se consegue
+achar a Fruta Mágica na
+Torre do Verdor.
 <--------------------->
 
-Could you go and find
-it for me?
+Você poderia achá-la
+para mim?
 <*********************>
 
 <p 02><a 53><n 3F>
-I wonder if that fruit
-is really even at the
-Tower of Verdure.
+Quero saber se essa
+fruta é mesmo de fato
+da Torre do Verdor.
 <--------------------->
 
-I've heard that the
-fruit is very delicate.
+Ouvi dizer que a fruta
+é muito delicada.
 <--------------------->
 
-And if you're not
-careful while picking
-it, you can ruin it.
+E se você não tiver
+cuidado ao pegá-la,
+poderá estragá-la.
 <*********************>
 
 <p 02><a 53><n 3F>
-You got it for me!? But
-it just looks like an
-ordinary green apple.
+Você está me dando!?
+Mas parece uma maçã
+verde comum.
 <--------------------->
 
-Oh well. Anyway, thank
-you very much!
+Ah, bem. De toda forma,
+muito obrigado!
 <*********************>
 
 <FIM>

@@ -2,157 +2,159 @@
 <#####################>
 
 <p 02><a 62><n 30>
-Hey, my daddy says that
-in the olden days there
-used to be supercool
+Ei, meu pai disse que
+antigamente costumava
+haver super-heróis
 <--------------------->
 
-superheroes. Did you
-know that!?
+super legais. Você
+sabia disso!?
 <--------------------->
 
-But he said that was
-long, long ago,
+Mas ele disse que foi
+há muito, muito tempo,
 <--------------------->
 
-so there aren't many
-pictures of them left.
+então não há muitas
+fotos deles deixadas.
 <--------------------->
 
-Aah... I sure would
-like to see a legendary
-superhero.
+Aah... Eu com certeza
+gostaria de ver um
+super-herói lendário.
 <--------------------->
 
-Do you know any
-superheroes?
+Você conhece alguns
+super-heróis?
 <--------------------->
 
-I know! Could you find
-somebody
+Eu conheço! Você
+poderia encontrar
+alguém
 <--------------------->
 
-who has some legendary
-superhero stuff!?
+que tem alguns objetos
+do super-herói
+lendário!?
 <--------------------->
 
-Pleeease! I'll give you
-my favorite pin from my
-pin collection.
+Por favooor! Vou te dar
+meu alfinete favorito
+da minha coleção.
 <*********************>
 
 <p 02><a 62><n 30>
-I'm so excited! I
-wonder what legendary
-superheroes were like.
+Estou tão animado!
+Queria saber como eram
+os heróis lendários.
 <--------------------->
 
-If I get my hands on
-some legendary
-superhero stuff,
+Se eu colocar minhas
+mãos em alguns objetos
+de super-herói,
 <--------------------->
 
-I'm gonna keep it
-forever.
+vou guardá-los para
+sempre.
 <*********************>
 
 <p 02><a 62><n 30>
-Huh? Secret Disk...?
-This flying disc toy
-thing?
+Hã? Disco Secreto...?
+Esse disco voador de
+brinquedo?
 <--------------------->
 
-The picture on the
-package was scary,
+A imagem no pacote era
+assustadora,
 <--------------------->
 
-it didn't look like a
-legendary hero to me.
+não parecia com um
+herói lendário.
 <--------------------->
 
-It sure wasn't the kind
-of superhero I had
-imagined.
+Com certeza não era o
+tipo de super-herói que
+eu tinha imaginado.
 <--------------------->
 
-I'm sorry I put you to
-the trouble. Here, I'll
-give you this disk. 
+Desculpe por te colocar
+em apuros. Aqui, vou te
+dar esse disco. 
 <--------------------->
 
-But I want my pin back
-though!
+Mas apesar disso, quero
+meu alfinete de volta!
 <*********************>
 
 <p 02><a 4B><n 45>
-Legendary superhero
-stuff?
+Objeto de super-herói
+Lendário?
 <--------------------->
 
-Oh, I was kind of
-short on cash a while
-back,
+Ah, eu estava meio que
+sem dinheiro um tempo
+atrás,
 <--------------------->
 
-so I sold all that
-stuff.
+então eu vendi todos
+esses objetos.
 <--------------------->
 
-That Hunter Tina said
-she wanted to see some
-pics of cool guys.
+A Caçadora Tina disse
+que queria ver algumas
+fotos de caras legais.
 <--------------------->
 
-I didn't want to give
-it to her, but she
-wanted it sooo bad.
+Eu não queria dar para
+ela, mas ela queria
+taaanto.
 <*********************>
 
 <p 02><a 50><n 39>
-Huh? You're looking for
-some legendary
-superhero stuff?
+Hã? Você está a procura
+de alguns objetos de
+super-herói lendário?
 <--------------------->
 
-Let me think... Did I
-have something like
-that...?
+Deixe-me pensar...
+Será que eu tenho algo
+parecido com isso...?
 <--------------------->
 
-Aah, you must be
-thinking about that
-secret disk.
+Aah, você deve está
+querendo aquele disco
+secreto.
 <--------------------->
 
-I gave that away to one
-of the kids in Hunter's
-Camp!
+Eu dei para uma das
+crianças no Acampamento
+de Caçador!
 <--------------------->
 
-I heard it had some
-pictures of nice guy's
-on it,
+Ouvi dizer que tinha
+algumas imagens de
+caras legais,
 <--------------------->
 
-so I bought it for 300
-EC!
+então eu comprei por
+300 CE!
 <*********************>
 
 <p 02><a 50><n 39>
-That Ray guy really got
-me on that one!
+Aquele cara, o Ray, me
+pegou nessa!
 <*********************>
 
 
-Dummy
+Boneco
 <*********************>
 
 
-Dummy
+Boneco
 <*********************>
 
 
-Dummy
+Boneco
 <*********************>
 
 <FIM>

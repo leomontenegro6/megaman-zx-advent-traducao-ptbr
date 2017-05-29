@@ -20,6 +20,7 @@ echo PHP_EOL;
 
 aviso('Verificando quantidade de scripts...', false);
 $scripts = glob('scripts/originais/*.bin', GLOB_BRACE);
+//$scripts = glob('scripts/originais/m_sub_en.bin', GLOB_BRACE);
 $total_scripts = count($scripts);
 aviso($total_scripts);
 if($total_scripts > 0){
@@ -96,14 +97,38 @@ if($total_scripts > 0){
 						$flag_fim_string = true;
 						$char = '<FIM>';
 					} else {
-						// Caractere diferente dos acima.
-						// Nesse caso, voltar um byte no arquivo e ativar a flag de parâmetros,
-						// para o decoder extrair corretamente o texto do script em si,
-						// em função da tabela de caracteres
-						fwrite($texto, PHP_EOL);
-						$flag_parametros = true;
+						// Verificando se há duas ocorrências sucedidas
+						// da tag <FE> no script.
+						$byte_seguinte = lerByteHex($script);
 						voltar1Byte($script);
-						continue;
+						if($byte == 'FE' && $byte_seguinte == 'FE'){
+							$char = PHP_EOL . '<00>' . PHP_EOL . '<*********************>' . PHP_EOL . PHP_EOL;
+							
+							// Obtendo posição atual do arquivo
+							$posicao = ftell($script);
+							
+							// Voltando 3 bytes para obter o byte anterior ao atual
+							voltar3Bytes($script);
+							$byte_anterior = lerByteHex($script);
+							
+							// Retornando à posição atual do arquivo
+							fseek($script, $posicao);
+							
+							// Workaround para adicionar tag adicional de fim de texto,
+							// no contexto específico de ocorrências sucedidas da tag <FE>.
+							if($byte_anterior != 'FE'){
+								$char .= PHP_EOL . '<00>' . PHP_EOL . '<*********************>' . PHP_EOL . PHP_EOL;
+							}
+						} else {
+							// Caractere diferente dos acima.
+							// Nesse caso, voltar um byte no arquivo e ativar a flag de parâmetros,
+							// para o decoder extrair corretamente o texto do script em si,
+							// em função da tabela de caracteres
+							fwrite($texto, PHP_EOL);
+							$flag_parametros = true;
+							voltar1Byte($script);
+							continue;
+						}
 					}
 				} else {
 					if($byte == 'E0'){ // D-Pad
@@ -125,7 +150,35 @@ if($total_scripts > 0){
 						if($byte2 == 'E5'){
 							$char = "<btn_b>";
 						} else {
-							$char = "<E2><$byte2>";
+							$char = "<E4><$byte2>";
+						}
+					} elseif($byte == 'E6'){ // Botão X
+						$byte2 = lerByteHex($script);
+						if($byte2 == 'E7'){
+							$char = "<btn_x>";
+						} else {
+							$char = "<E6><$byte2>";
+						}
+					} elseif($byte == 'E8'){ // Botão Y
+						$byte2 = lerByteHex($script);
+						if($byte2 == 'E9'){
+							$char = "<btn_y>";
+						} else {
+							$char = "<E8><$byte2>";
+						}
+					} elseif($byte == 'EA'){ // Botão L
+						$byte2 = lerByteHex($script);
+						if($byte2 == 'EB'){
+							$char = "<btn_l>";
+						} else {
+							$char = "<EA><$byte2>";
+						}
+					} elseif($byte == 'EC'){ // Botão R
+						$byte2 = lerByteHex($script);
+						if($byte2 == 'ED'){
+							$char = "<btn_r>";
+						} else {
+							$char = "<EC><$byte2>";
 						}
 					} elseif($byte == 'EE'){ // Seta para cima
 						$char = "<cima>";
@@ -148,9 +201,27 @@ if($total_scripts > 0){
 					} elseif($byte == 'FA'){ // Nome do protagonista
 						$char = "<nome>";
 					} elseif($byte == 'FC'){ // Quebra de linha
-						$char = PHP_EOL;
+						$byte2 = lerByteHex($script);
+						voltar1Byte($script);
+						if($byte2 == 'FE'){
+							// Workaround para script m_sub_en.txt, onde há algumas tags <FC>
+							// sucedidas de um <FE>, o que estava gerando alguns comportamentos
+							// imprevistos na hora de dumpá-los.
+							$char = '<FC>';
+						} else {
+							$char = PHP_EOL;
+						}
 					} elseif($byte == 'FD'){ // Quebra de seção
-						$char = PHP_EOL . '<--------------------->' . PHP_EOL . PHP_EOL;
+						$byte2 = lerByteHex($script);
+						voltar1Byte($script);
+						if($byte2 == 'FE'){
+							// Workaround para script m_sub_en.txt, onde há algumas tags <FD>
+							// sucedidas de um <FE>, o que estava gerando alguns comportamentos
+							// imprevistos na hora de dumpá-los.
+							$char = '<FD>';
+						} else {
+							$char = PHP_EOL . '<--------------------->' . PHP_EOL . PHP_EOL;
+						}
 					} elseif($byte == 'FE'){ // Fim de texto
 						$flag_parametros = false;
 						$char = PHP_EOL . '<*********************>' . PHP_EOL . PHP_EOL;

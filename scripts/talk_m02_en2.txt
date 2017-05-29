@@ -2,164 +2,163 @@
 <#####################>
 
 <p 02><d 4B00><a 72><n 1C>
-...Alright, you guys!
-Are you ready?
+...Tudo bem, pessoal!
+Vocês estão prontos?
 <--------------------->
 
 <p 03><d 4C00><a 74><n 1D>
-You still don't see
-that Raider airship
-yet?
+Você ainda não viu
+esse dirigível de
+Saqueador até agora?
 <--------------------->
 
 <d 4D00>
-We're getting
-jumpy!
+Estamos ficando
+nervosos!
 <--------------------->
 
 <p 02><d 4E00><a 72><n 1C>
-Calm down. I'll go
-check on the mission
-now.
+Acalmem-se. Vou checar
+na missão agora.
 <--------------------->
 
 <p 02><d 4F00><a 72><n 1C>
-The client is the
-illustrious coalition
-government, Legion.
+O cliente é o ilustre
+governo de coalizão,
+a Legião.
 <--------------------->
 
 <p 02><d 5000><a 72><n 1C>
-Some top world leaders
-want the help of us, a
-lowly hunter's guild.
+Alguns líderes mundiais
+querem nos ajudar, uma
+mera guilda de caçador.
 <--------------------->
 
 <p 02><d 5100><a 72><n 1C>
-Do you know what
-Biometal is?
+Vocês sabem o que é um
+Biometal?
 <*********************>
 
 <p 03><d 5200><a 73><n 1E>
-Yeah, I heard that it's
-some kind of cursed
-stone
+Sim, ouvi dizer que é
+algum tipo de pedra
+amaldiçoada
 <--------------------->
 
 <d 5300>
-that eats humans
-spirits.
+que devora espíritos de
+humanos.
 <--------------------->
 
 <p 03><d 5400><a 74><n 1D>
-Ha! That's a good one!
-I bet Legion has a
-huge bounty on that.
+Ha! Isso é bom! Aposto
+que a Legião tem um
+enorme prêmio por isso.
 <--------------------->
 
 <p 02><d 5500><a 72><n 1C>
-They say that Biometal
-was found in some
-ruins.
+Dizem que o Biometal
+foi encontrado em
+algumas ruínas.
 <--------------------->
 
 <p 02><d 5600><a 72><n 1C>
-Found by those illegal
-Hunters who don't
-belong to the guild.
+Encontrado por aqueles
+Caçadores ilegais que
+não pertencem à guilda.
 <--------------------->
 
 <p 02><d 5700><a 72><n 1C>
-Our mission is to take
-back the Biometal
+Nossa missão é tomar de
+volta o Biometal
 <--------------------->
 
 <d 5800>
-and bring it to Legion
-Headquarters.
+e trazê-lo para o
+Quartel General da
+Legião.
 <*********************>
 
 <p 03><d 5900><a 74><n 1D>
-So now that your
-appetites have been
-whet for booty,
+Então, agora que seus
+apetites foram aguçados
+pela recompensa,
 <--------------------->
 
 <d 5A00>
-let's get this show
-on the road! This time
+vamos começar esse show
+na estrada! Dessa vez
 <--------------------->
 
 <p 03><d 5B00><a 74><n 1D>
-I'm gonna beat Ashe to
-the treasure! By the
-way, where is she?
+acharei o tesouro antes
+de Ashe! A propósito,
+onde está ela?
 <*********************>
 
 <p 02><d 5C00><a 01><n 00>
-Uh... Ahem!
+Uh... Aham!
 <--------------------->
 
 <p 02><d 5D00><a 01><n 00>
-Everyone! Calm down!
+Pessoal! Acalmem-se!
 <--------------------->
 
 <p 02><d 5E00><a 72><n 1C>
-That voice... Ashe, is
-that you? Where are
-you?
+Essa voz... Ashe, essa
+é você? Onde você está?
 <*********************>
 
 <p 01><p 02><d 5F00><a 08><n 02>
-It was getting kinda
-hot in there, so I went
-outside to cool off.
+Estava ficando um pouco
+quente aí, então fui
+lá fora me refrescar.
 <--------------------->
 
 <p 01><p 02><d 6000><a 09><n 02>
-We've almost caught up
-to the Raider airship
-with the booty on it.
+Quase conseguimos
+recompensa com o
+dirigível de Saqueador.
 <--------------------->
 
 <p 01><p 02><d 6100><a 0C><n 02>
-I'm going to go ahead
-and meet our booty
-face to face.
+Vou indo em frente e
+conhecer nossa
+recompensa cara a cara.
 <*********************>
 
 <p 02><d 6500><a 08><n 02>
-This is Ashe, I've
-successfully docked
-with the airship.
+Aqui é a Ashe, pousei
+com sucesso no
+dirigível.
 <--------------------->
 
 <p 02><d 6600><a 0C><n 02>
-Time to find out
-where the booty is.
+Hora de descobrir onde
+está a recompensa.
 <*********************>
 
 <p 02><d 6700><a 01><n 1C>
-Aw, man... Doesn't she
-know by now
+Ah, cara... Será que
+até agora ela não sabe
 <--------------------->
 
 <d 6800>
-that the booty is
-always in the lead
-airship?
+que a recompensa está
+sempre no dirigível
+principal?
 <--------------------->
 
 <p 02><d 6900><a 01><n 1C>
-We always go in from
-the back and end up
-messing it all up!
+Sempre entramos pela
+parte de trás e termina
+estragando tudo!
 <--------------------->
 
 <p 02><d 6A00><a 09><n 02>
-You guys be careful!
-OK, here we go!
-It's on!
+Vocês tenham cuidado!
+OK, aqui vamos nós!
+É isso aí!
 <*********************>
 
 <p 02><d 6B00><a 0A><n 02>
@@ -167,463 +166,467 @@ It's on!
 <--------------------->
 
 <p 02><d 6C00><a 0A><n 02>
-This is Ashe. Do you
-see any Mavericks on
-the radar?
+Aqui é a Ashe. Você vê
+alguns Mavericks no
+radar?
 <*********************>
 
 <p 02><d 6D00><a 01><n 1D>
-It looks like there's a
-Mechaniloid ship among
-them! 
+Parece que há uma nave
+Mecanilóide entre eles!
 <--------------------->
 
 <p 02><d 6E00><a 01><n 1D>
-They could be after the
-Biometal!
+Eles poderiam estar
+atrás do Biometal!
 <--------------------->
 
 <p 02><d 6F00><a 0A><n 02>
-Yeah, could be. Looks
-like the competition
-is high this time.
+Sim, pode ser. Parece
+que a concorrência é
+alta nessa hora.
 <--------------------->
 
 <d 7000>
-Everyone, be
-careful!
+Pessoal, tenham
+cuidado!
 <*********************>
 
 <p 02><d 7100><a 0C><n 02>
-I've landed! OK, I
-guess the booty is
-inside.
+Pousei! OK, acho que a
+recompensa está ali
+dentro.
 <*********************>
 
 <p 01><p 03><d 7200><a 25><n 00>
-It seems the Biometal
-has attracted a bug.
+Parece que o Biometal
+atraiu um inseto.
 <--------------------->
 
 <p 01><p 03><d 7300><a 25><n 00>
-Shoo, pest!
+Xô, praga!
 <--------------------->
 
 <p 01><p 02><d 7400><a 08><n 02>
-Hey, what did you just
-call me!?
+Ei, o que você acabou
+de me chamar!?
 <--------------------->
 
 <d 7500>
-You've got some
-nerve, talking to
-me like that.
+Tem muita coragem de
+falar assim comigo.
 <--------------------->
 
 <p 01><p 02><d 7600><a 0A><n 02>
-You don't look like a
-Hunter... Are you after
-the Biometal?
+Você não parece com um
+Caçador... Está atrás
+do Biometal?
 <--------------------->
 
 <p 01><p 03><d 7700><a 25><n 00>
-Don't group me together
-with those money-hungry
-Hunters.
+Não me agrupo junto
+aqueles Caçadores
+famintos por dinheiro.
 <--------------------->
 
 <p 01><p 03><d 7800><a 25><n 00>
-You're not worthy of
-the Biometal! Why don't
-you just go away?
+Você não é digna do
+Biometal! Por que
+apenas não vai embora?
 <*********************>
 
 <p 02><d 7900><a 72><n 1C>
-Sorry! We can't do
-that!
+Sinto muito! Não
+podemos fazer isso!
 <*********************>
 
 <p 02><d 7A00><a 74><n 1D>
-We finally made it.
-Let us join the party!
+Finalmente chegamos.
+Vamos participar da
+festa!
 <--------------------->
 
 <p 02><d 7B00><a 73><n 1E>
-Who the heck is this
-guy? A Hunter? A
+Quem diabos é esse
+cara? Um caçador? Um
 Maverick?
 <*********************>
 
 <p 02><d 7C00><a 0A><n 02>
-Everybody be careful!
-He's not just anybody!
+Todos tenham cuidado!
+Ele não é só mais um
+qualquer!
 <*********************>
 
 <p 03><d 7D00><a 25><n 00>
-*sigh* How irritating! 
-OK, prepare to draw
-your last breaths! 
+*suspiro* Que chato!
+OK, prepare seus
+últimos suspiros! 
 <*********************>
 
 <p 03><d 7E00><a 25><n 03>
-I am Prometheus, and I
-control the power of
-this Biometal...
+Eu sou Prometeus, e eu
+controlo o poder desse
+Biometal...
 <*********************>
 
 <p 03><d 7F00><a 26><n 03>
-The power of Mega Man!
+O poder do Mega Man!
 <*********************>
 
 <p 03><d 8000><a 0D><n 02>
-Uh... What is this
-place?
+Hã... Que lugar é esse?
 <*********************>
 
 <p 02><d 8100><a 72><n 1C>
-Hey, you're awake.
+Ei, você está acordada.
 <--------------------->
 
 <p 02><d 8200><a 72><n 1C>
-These Hunters... They
-helped you.
+Esses Caçadores... Eles
+ajudaram você.
 <--------------------->
 
 <p 02><d 8300><a 72><n 1C>
-They found you
-unconscious outside.
+Eles encontraram você
+inconsciente lá fora.
 <--------------------->
 
 <d 8400>
-Luckily you were near
-Hunter's Camp.
+Felizmente você estava
+perto do Acampamento de
+Caçador.
 <*********************>
 
 <p 03><d 8500><a 0F><n 02>
-Um, what happened to
-our booty... the
-Biometal!?
+Hum, o que aconteceu
+com nossa recompensa...
+o Biometal!?
 <--------------------->
 
 <p 02><d 8600><a 72><n 1C>
-They managed to
-recover the whole
-container
+Eles conseguiram
+recuperar o recipiente
+inteiro
 <--------------------->
 
 <d 8700>
-and bring it here!
+e trazê-lo aqui!
 <--------------------->
 
 <p 02><d 8800><a 72><n 1C>
-I told them everything
-that happened with the
-airship and all that...
+Contei tudo o que
+aconteceu com o
+dirigível e tudo que...
 <--------------------->
 
 <d 8900>
-They're planning to
-take it by train to
-Legion Headquarters.
+Eles estão planejando
+levá-lo de trem para o
+QG da Legião.
 <--------------------->
 
 <p 03><d 8A00><a 0B><n 02>
-What? Are they planning
-to collect on our
-bounty?
+O quê? Eles estão
+planejando coletar em
+nossa recompensa?
 <--------------------->
 
 <p 02><d 8B00><a 72><n 1C>
-Is that what you're
-worried about?
+Isso é o que está
+preocupando você?
 <--------------------->
 
 <d 8C00>
-You should consider
-yourself lucky just to
-be alive.
+Você simplesmente deve
+se considerar sortuda
+por estar viva.
 <--------------------->
 
 <p 02><d 8D00><a 72><n 1C>
-If you had that
+Se você tivesse esse
 Biometal,
 <--------------------->
 
 <p 02><d 8E00><a 72><n 1C>
-that Prometheus guy
-might come looking for
-you. Sorry,
+aquele cara, Prometeus,
+pode vir atrás de você.
+Sinto muito,
 <--------------------->
 
 <d 8F00>
-I don't care if the
-client is Legion, it
-ain't worth it!
+Não me importo se o
+cliente for a Legião, 
+não vale a pena!
 <*********************>
 
 <p 03><d 9000><a 08><n 02>
-Oh, you're pathetic!
-I'll follow the train
-by myself if I have to!
+Oh, você é patético!
+Vou seguir o trem eu
+mesma se for preciso!
 <--------------------->
 
 <p 03><d 9100><a 0A><n 02>
-On top of being called
-a bug,
+Depois de ser chamada
+de inseto,
 <--------------------->
 
 <d 9200>
-there's no way
-I'm going to give up
-that bounty!
+não tem nem como eu
+desistir dessa
+recompensa!
 <--------------------->
 
 <p 02><d 9300><a 72><n 1C>
-Oh, brother! There's
-just no changing you.
+Ah, mano! Simplesmente
+não há como te mudar.
 <--------------------->
 
 <d 9400>
-If you want to go that
-bad, I won't try to
-stop you.
+Se você quiser ir do
+seu jeito, não vou
+tentar pará-la.
 <--------------------->
 
 <p 02><d 9500><a 72><n 1C>
-Before you go, why
-don't you save your
-data, just in case?
+Antes de ir, por que
+não salva seus dados,
+no caso?
 <--------------------->
 
 <p 02><d 9600><a 72><n 1C>
-There's a transerver
-next door. Follow me!
+Há um transervidor ao
+lado. Siga-me!
 <*********************>
 
 <p 03><d 9700><a 72><n 1C>
-Hm? It looks
-like you lost your
-Hunter's License.
+Hm? Parece que você
+perdeu a sua Licença de
+Caçador.
 <--------------------->
 
 <p 03><d 9800><a 72><n 1C>
-So, you should go to
-the transerver and have
-it reissued.
+Então, você deve ir ao
+transervidor e fazer
+uma nova emissão.
 <--------------------->
 
 <p 03><d 9900><a 72><n 1C>
-If you don't have your
-Hunter's License,
+Se não tiver a sua
+Licença de Caçador,
 <--------------------->
 
 <d 9A00>
-you can't get in and
-out of the camp.
+você não pode entrar e
+sair do acampamento.
 <*********************>
 
 <p 03><d 9B00><a 72><n 1C>
-Stand in front of the
-transerver and press up
-on the <dpad>Control Pad.
+Fique em frente ao
+transervidor e aperte
+pra cima no <dpad>.
 <--------------------->
 
 <p 03><d 9C00><a 72><n 1C>
-Once you use it, a
-license will be issued
-for you.
+Uma vez que usá-lo, uma
+licença será emitida
+para você.
 <--------------------->
 
 <d 9D00>
-Don't forget
-to save often.
+Não se esqueça de
+salvar muitas vezes.
 <*********************>
 
 <p 03><d 9E00><a 08><n 02>
-Now I'm set!
+Agora estou pronta!
 <--------------------->
 
 <p 02><d 9F00><a 72><n 1C>
-Those guys who took our
-Biometal are probably
+Aqueles caras que
+levaram nosso Biometal
+provavelmente estão
 <--------------------->
 
 <d A000>
-at the station getting
-the train ready.
+na estação preparando
+o trem.
 <--------------------->
 
 <p 02><d A100><a 72><n 1C>
-Be sure to let me know
-how it goes, OK?
+Certifique-se de me
+avisar como vai ser,
+OK?
 <--------------------->
 
 <p 02><d A200><a 72><n 1C>
-I wanna tell everybody
-that I went on an
-adventure with you.
+Quero dizer a todos que
+fui em uma aventura com
+você.
 <--------------------->
 
 <p 03><d A300><a 0C><n 02>
-Leave it to me! People
-are gonna be talking
+Deixa comigo! As
+pessoas vão estar
+falando
 <--------------------->
 
 <d A400>
-about me all around the
-world.
+de mim no mundo
+inteiro.
 <*********************>
 
 <p 02><a 01><n 1C>
-Use the Jump Button to
-get over bumps and
-obstacles.
+Use o Botão de Pular
+para passar de buracos
+e obstáculos.
 <--------------------->
 
 <p 02><a 01><n 1C>
-Jump to the right or
-the left by pressing
-the Jump Button
+Pule para direita ou
+esquerda, pressionando
+o Botão de Pular e
 <--------------------->
 
-and the <dpad>Control Pad
-right or left.
-<--------------------->
-
-<p 02><a 01><n 1C>
-You can jump higher by
-holding down the Jump
-Button.
+o <dpad> para direita ou
+esquerda.
 <--------------------->
 
 <p 02><a 01><n 1C>
-The higher you jump,
-the further you can go.
+Você pode pular mais
+alto, segurando o Botão
+de Pular.
 <--------------------->
 
 <p 02><a 01><n 1C>
-You'd better practice
-this action
+Quanto mais alto pular,
+mais longe pode ir.
 <--------------------->
 
-since you'll be using
-it a lot.
+<p 02><a 01><n 1C>
+Seria melhor você
+praticar essa ação
+<--------------------->
+
+já que vai usá-la
+muito.
 <*********************>
 
 <p 02><a 01><n 1D>
-Don't go easy on
+Não pegue leve com os
 Mavericks!
 <--------------------->
 
 <p 02><a 01><n 1D>
-Press the Attack Button
-to use your weapon.
+Pressione o Botão de
+Ataque para usar sua
+arma.
 <--------------------->
 
 <p 02><a 01><n 1D>
-To shoot something
-that's high up,
+Para atirar em algo que
+estiver no alto,
 <--------------------->
 
-press the Attack Button
-while jumping...
-<--------------------->
-
-<p 02><a 01><n 1D>
-You should be able to
-use this to hit
-enemies above you.
+pressione o Botão de
+Ataque ao pular...
 <--------------------->
 
 <p 02><a 01><n 1D>
-Remember to just keep
-shooting! Offense is
-the best defense!
+Você será capaz de usar
+isso para acertar os
+inimigos acima de você.
+<--------------------->
+
+<p 02><a 01><n 1D>
+Lembre-se de continuar
+atirando! O ataque é a
+melhor defesa!
 <*********************>
 
 <p 02><a 01><n 1E>
-If you get in front of
-the ladder and press up
-on the <dpad>Control Pad,
+Se chegar na frente
+da escada e pressionar
+pra cima no <dpad>,
 <--------------------->
 
-you can grab the
-ladder.
-<--------------------->
-
-<p 02><a 01><n 1E>
-You can press up or
-down on the
-<dpad>Control Pad
-<--------------------->
-
-to go up or down.
+você pode agarrar a
+escada.
 <--------------------->
 
 <p 02><a 01><n 1E>
-Press the Attack Button
-in combination with
-right or left on the
+Você pode pressionar
+pra cima ou pra baixo
+no <dpad>
+<--------------------->
+
+para ir pra cima ou pra
+baixo.
 <--------------------->
 
 <p 02><a 01><n 1E>
-<dpad>Control Pad to attack
-right or left while on
-the ladder.
+Pressione o Botão de
+Ataque combinado com
+direita ou esquerda no
 <--------------------->
 
 <p 02><a 01><n 1E>
-Also, to get off of the
-ladder, just jump.
-Remember that!
+<dpad> para atacar pra
+direita ou esquerda na
+escada.
+<--------------------->
+
+<p 02><a 01><n 1E>
+Além disso, para sair
+da escada, basta pular.
+Lembre-se disso!
 <*********************>
 
 <p 02><a 01><n 1C>
-Ashe! We've got hostile
-Mavericks incoming with
-lasers hot!
+Ashe! Temos Mavericks
+hostis entrando com
+intensos lasers!
 <--------------------->
 
 <p 02><a 01><n 1C>
-Listen! When you're
-under attack,
+Escute! Quando estiver
+sob ataque,
 <--------------------->
 
-press down on the
-<dpad>Control Pad to
-crouch down.
-<--------------------->
-
-<p 02><a 01><n 1C>
-It's dangerous to stand
-up while under attack.
-<--------------------->
-
-Hold down the
-<dpad>Control Pad till
-the enemy
-<--------------------->
-
-stops shooting.
+pressione pra baixo no
+<dpad> para se agachar.
 <--------------------->
 
 <p 02><a 01><n 1C>
-When you release the
-<dpad>Control Pad, you'll
-stand up,
+É perigoso se levantar
+enquanto estiver sob
+ataque.
 <--------------------->
 
-so be careful.
+segure o <dpad> até o
+inimigo
+<--------------------->
+
+parar de atirar.
 <--------------------->
 
 <p 02><a 01><n 1C>
-To move right or left
-while crouching,
+Quando soltar o <dpad>,
+você vai ficar de pé,
 <--------------------->
 
-press the <dpad>Control Pad
-diagonally down
-right or left.
+então, tenha cuidado.
+<--------------------->
+
+<p 02><a 01><n 1C>
+Para se mover pra
+direita ou esquerda,
+agachado.
+<--------------------->
+
+pressione o <dpad>
+diagonalmente pra baixo
+à direita ou esquerda.
 <*********************>
 
 <FIM>

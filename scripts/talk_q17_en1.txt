@@ -2,27 +2,28 @@
 <#####################>
 
 <p 02><a 69><n 2E>
-Blossom's self intro
+Auto-intro de Blossom
 <--------------------->
 
 <p 02><a 4E><n 2D>
-Warren's self intro
+Auto-intro de Warren
 <*********************>
 
 <p 02><a 69><n 2E>
-I want to go pick some
-pretty flowers for my
-mommy,
+Quero buscar algumas
+lindas flores para
+minha mamãe,
 <--------------------->
 
 <p 02><a 69><n 2E>
-but Daddy says it's too
-dangerous to leave
-Hunter's Camp.
+mas Papai disse que é
+muito perigoso sair do
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 69><n 2E>
-Could you go instead?
+Você poderia ir no meu
+lugar?
 <--------------------->
 
 <p 02><a 4E><n 2D>
@@ -30,24 +31,24 @@ Could you go instead?
 <*********************>
 
 <p 02><a 69><n 2E>
-Mommy really likes
-lilies!
+Mamãe gosta muito de
+lírios!
 <--------------------->
 
 <p 02><a 69><n 2E>
-I think that lilies
-only grow out in the
-wild.
+Acho que lírios só
+crescem no meio
+selvagem.
 <--------------------->
 
 <p 02><a 69><n 2E>
-You can find them in
-areas
+Você pode encontrá-los
+em áreas
 <--------------------->
 
-where there are a lot
-of other plants, and
-near waterfalls.
+onde há muitas outras
+plantas, e perto de
+cachoeiras.
 <--------------------->
 
 <p 02><a 4E><n 2D>
@@ -55,82 +56,83 @@ near waterfalls.
 <*********************>
 
 <p 02><a 69><n 2E>
-Oh, thank you so much!
+Ah, muito obrigado!
 <--------------------->
 
 <p 02><a 69><n 2E>
-Look, I made Mommy's
-grave pretty while you
-were gone.
+Olha, fiz uma sepultura
+da Mamãe enquanto você
+estava fora.
 <--------------------->
 
 <p 02><a 69><n 2E>
-I lost my mommy to
-Mavericks in the desert
-when I was two.
+Perdi minha mamãe para
+Mavericks no deserto
+quando tinha dois anos.
 <--------------------->
 
 <p 02><a 69><n 2E>
-She's in heaven now...
+Ela está no céu
+agora...
 <--------------------->
 
-But I know she'll like
-the flowers the Hunter
-picked, right Daddy?
+Mas sei que ela gostará
+das flores pegadas pelo
+Caçador, certo Papai?
 <--------------------->
 
 <p 02><a 4E><n 2D>
-Yeah...
+Sim...
 <--------------------->
 
 <p 02><a 69><n 2E>
-Oh yeah, these are for
-you!
+Ah sim, esses são para
+você!
 <--------------------->
 
 <p 02><a 69><n 2E>
-These E-Crystals are
-from Daddy, and this
-chip is from me.
+Esses Cristais são do
+Papai, e esse chip é
+meu.
 <*********************>
 
 <p 02><a 69><n 2E>
-Normal Conversation0
+Diálogo Normal0
 Blossom
 <--------------------->
 
 <p 02><a 4E><n 2D>
-Normal Conversation0
+Diálogo Normal0
 Warren
 <*********************>
 
 <p 02><a 69><n 2E>
-Normal Conversation1
+Diálogo Normal1
 Blossom
 <--------------------->
 
 <p 02><a 4E><n 2D>
-Normal Conversation1
+Diálogo Normal1
 Warren
 <*********************>
 
 <p 02><a 69><n 2E>
-Normal Conversation2
+Diálogo Normal2
 Blossom
 <--------------------->
 
 <p 02><a 4E><n 2D>
-Normal Conversation2
+Diálogo Normal2
 Warren
 <*********************>
 
 <p 02><a 69><n 2E>
-Normal Conversation3
+Diálogo Normal3
 Blossom
 <--------------------->
 
 <p 02><a 4E><n 2D>
-Normal Conversation3
+Diálogo Normal3
 Warren
 <*********************>
 

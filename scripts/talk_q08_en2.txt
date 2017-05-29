@@ -2,128 +2,130 @@
 <#####################>
 
 <p 02><a 42><n 4A>
-Welcome champion! We've
-been expecting you.
+Bem-vindo campeã! Nós
+estávamos te esperando.
 <--------------------->
 
 <p 02><a 42><n 4A>
-This is a race to prove
-that you are worthy of
-your title.
+Essa é uma corrida para
+provar que você é digna
+de seu título.
 <--------------------->
 
 <p 02><a 42><n 4A>
-But be careful. If you
-lose, you'll be
-stripped of your title.
+Mas tenha cuidado. Se
+perder, você vai ser
+deposta de seu título.
 <--------------------->
 
 <p 02><e 01><a 42><n 4A>
-Race?
-  Yes
-  No
+Correr?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4A>
-That's the spirit!
-Let's get ready to
-rock!
+Esse é o espírito!
+Vamos nos preparar para
+o rock!
 <*********************>
 
 <p 02><a 42><n 4A>
-Oh? Is that a booster
-you have?
+Hã? É um impulsionador
+que você tem?
 <--------------------->
 
-You can use that to
-tune up your ride!
-<--------------------->
-
-<p 02><a 42><n 4A>
-You can take off like a
-rocket off of the
-starting line!
+Você pode usar isso
+para aprimorar sua
+montaria!
 <--------------------->
 
 <p 02><a 42><n 4A>
-But it's so powerful,
-that once you use it,
+Você pode decolar como
+um foguete da linha de
+partida de imediato!
 <--------------------->
 
-it destroys the
-booster.
+<p 02><a 42><n 4A>
+Mas é tão poderoso, que
+assim que você usá-lo,
+<--------------------->
+
+ele destruirá o
+impulsionador.
 <--------------------->
 
 <p 02><e 63><a 42><n 4A>
-Use your booster?
-  Yes
-  No
+Usar seu impulsionador?
+  Sim
+  Não
 <*********************>
 
 <p 02><s 01><a 42><n 4A>
-Oh, well...  Come back
-when you feel up to it!
+Oh, bem... Volte quando
+você sentir vontade!
 <*********************>
 
 <p 03><a 42><n 4A>
-The champiooon, Ashe!
+Ashe, a campeããã!
 <--------------------->
 
 <p 03><a 42><n 4A>
-You are the champion
-without a doubt.
+Você é a campeã, sem
+dúvida.
 <--------------------->
 
-Congratulations on
-defending your title.
+Parabéns por defender
+seu título.
 <*********************>
 
 <p 02><a 42><n 4A>
-It's always a pleasure
-to watch you race.
+É sempre um prazer te
+ver correr.
 <--------------------->
 
-Can't wait to see your
-next one.
+Mal posso esperar para
+ver a próxima.
 <*********************>
 
 <p 03><a 42><n 4A>
-Sorry... This one goes
-to the Galleon Rider.
+Lamento... Essa vai
+para o Galleon Rider.
 <--------------------->
 
 <p 03><a 42><n 4A>
-You've lost the title
-for now,
+Você perdeu seu título
+no momento,
 <--------------------->
 
-but you'll get a chance
-to win it back.
+mas você terá uma
+chance de recuperá-lo.
 <--------------------->
 
 <p 03><a 42><n 4A>
-Heavy is the head that
-wears the crown,
+Pesada é a cabeça que
+usa a coroa,
 <--------------------->
 
-maybe that's what
-slowed you down.
+talvez seja isso que
+tenha te desacelerado.
 <*********************>
 
 <p 02><a 42><n 4A>
-Come back when you're
-in top form.
+Volte quando estiver em
+sua melhor forma.
 <*********************>
 
 <p 02><a 42><n 4A>
-Alright, booster is on.
-Let's start the race!
+Tudo bem, impulsionador
+ligado. Vamos começar a
+corrida!
 <*********************>
 
 <p 02><a 42><n 4A>
-Alright, Let's start
-the race with no
-booster.
+Tudo bem, vamos começar
+a corrida sem
+impulsionador.
 <*********************>
 
 <FIM>

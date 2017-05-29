@@ -2,8 +2,9 @@
 <#####################>
 
 <p 02><a 02><n 06>
-É o Thomas. Tivemos
-sucesso ao analizar
+Aqui é o Thomas.
+Tivemos sucesso ao
+analizar
 <--------------------->
 
 um arquivo nos dados
@@ -162,9 +163,9 @@ mundo.
 <--------------------->
 
 <p 03><d 1704><a 3A><n 10>
-Mas por enquanto, Mega 
-Man Modelo A, devo
-exterminar você!
+Mas por enquanto, Mega
+Man Modelo A, devo te
+exterminar!
 <--------------------->
 
 <p 03><d 1804><a 3A><n 10>
@@ -272,8 +273,8 @@ Siiim! Funcionou!
 
 <p 03><d 2B04><a 6B><n 15>
 Supeito que o covil de
-Albert vai estar nesse
-transervidor.
+Albert estará no traje-
+to desse transervidor.
 <--------------------->
 
 <p 03><d 2C04><a 6B><n 15>

@@ -36,12 +36,20 @@ function converterCharByte($char, $tabela_invertida){
 	return $byte;
 }
 
+function avancar1Byte($arq){
+	fseek($arq, (ftell($arq) + 1));
+}
+
 function voltar1Byte($arq){
 	fseek($arq, (ftell($arq) - 1));
 }
 
 function voltar2Bytes($arq){
 	fseek($arq, (ftell($arq) - 2));
+}
+
+function voltar3Bytes($arq){
+	fseek($arq, (ftell($arq) - 3));
 }
 
 function voltarComeco($arq){
@@ -65,7 +73,7 @@ function checkAlfanumerico($texto){
 }
 
 function checkSinalPontuacao($caractere){
-	return in_array($caractere, array('.', '?', '!', '-', '/', ':', '\''));
+	return in_array($caractere, array('.', '?', '!', '-', '/', ':', '\'', '+'));
 }
 
 function lerTabelaCaracteres($invertida=false){

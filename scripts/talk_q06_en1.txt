@@ -2,141 +2,146 @@
 <#####################>
 
 <p 02><a 42><n 4A>
-Oh? So you're the
-Hunter who holds the
-Hayate title?
+Hã? Então você é o
+Caçador que mantém o
+título da Hayate?
 <--------------------->
 
 <p 02><a 42><n 4A>
-How'd you like to race
-an even tougher
-opponent
+O que acha de correr
+com um oponente ainda
+mais difícil
 <--------------------->
 
-than last time?
+do que da última vez?
 <--------------------->
 
 <p 02><a 42><n 4A>
-The rules are the same.
-The first one to the
-finish line wins.
+As regras são as
+mesmas. O primeiro que
+chegar ganha.
 <--------------------->
 
 <p 02><e 63><a 42><n 4A>
-Race?
-  Yes
-  No
+Correr?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4A>
-That's the spirit!
-Let's get ready to
-rock!
+Esse é o espírito!
+Vamos nos preparar para
+o rock!
 <*********************>
 
 <p 02><a 42><n 4A>
-Oh? Is that a booster
-you have?
+Hã? É um impulsionador
+que você tem?
 <--------------------->
 
-You can use that to
-tune up your ride!
-<--------------------->
-
-<p 02><a 42><n 4A>
-You can take off like a
-rocket right off the
-starting line!
+Você pode usar isso
+para aprimorar sua
+montaria!
 <--------------------->
 
 <p 02><a 42><n 4A>
-But it's so powerful,
-that once you use it,
+Você pode decolar como
+um foguete da linha de
+partida de imediato!
 <--------------------->
 
-it destroys the
-booster.
+<p 02><a 42><n 4A>
+Mas é tão poderoso, que
+assim que você usá-lo,
+<--------------------->
+
+ele destruirá o
+impulsionador.
 <--------------------->
 
 <p 02><e 63><a 42><n 4A>
-Use your booster?
-  Yes
-  No
+Usar seu impulsionador?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4A>
-Oh, well... Come back
-when you feel up to it!
+Oh, bem... Volte quando
+você sentir vontade!
 <*********************>
 
 <p 03><a 42><n 4A>
-Grey, the challenger
-WINS!
+O desafiante Grey
+GANHOU!
 <--------------------->
 
 <p 03><a 42><n 4A>
-Congratulations! Here
-is your title and your
-prize money!
+Parabéns! Aqui está seu
+título e seu prêmio em
+dinheiro!
 <*********************>
 
 <p 02><a 42><n 4A>
-We'll see you again in
-the next race, when
-you'll race for the
+Vamos vê-lo de novo na
+próxima corrida, quando
+você for correr pelo
 <--------------------->
 
-championship title of
+título do campeonato da
 Idaten!
 <*********************>
 
 <p 03><a 42><n 4A>
-Sorry... This one goes
-to the Galleon Rider.
+Lamento... Essa vai
+para o Galleon Rider.
 <--------------------->
 
 <p 03><a 42><n 4A>
-Well, let me give you
-one piece of advice.
+Bem, deixa eu te dar um
+conselho.
 <--------------------->
 
 <p 03><a 42><n 4A>
-You may not have known
-that Galleon Riders use
+Você pode não ter
+percebido esses Galleon
+Riders usarem
 <--------------------->
 
-fire to charge up their
-power.
+fogo para carregar seus
+poderes.
 <--------------------->
 
 <p 03><a 42><n 4A>
-If you see flames on
-the course, you'd
-better put 'em out,
+Se você ver chamas no
+percurso, é melhor
+apagá-las,
 <--------------------->
 
-or you'll find yourself
-eating Galleon dust.
+senão vai se ver
+comendo poeira de
+Galleon.
 <*********************>
 
 <p 02><a 42><n 4A>
-You gotta take this
-loss and eat it.
+Você tem que assumir
+essa derrota e engolir
+ela.
 <--------------------->
 
-Use it for fuel to win
-next time!
+Use combustível para
+ganhar da próxima vez!
 <*********************>
 
 <p 02><a 42><n 4A>
-Alright, booster is on.
-Let's start the race!
+Tudo bem, impulsionador
+ligado. Vamos começar a
+corrida!
 <*********************>
 
 <p 02><a 42><n 4A>
-Alright, Let's start
-the race with no
-booster.
+Tudo bem, vamos começar
+a corrida sem
+impulsionador.
 <*********************>
 
 <FIM>

@@ -2,845 +2,846 @@
 <#####################>
 
 
-You got a <c 03>Life Up<c 00>!
+Encontrou <c 03>Coração<c 00>!
 <*********************>
 
 
-You got a <c 03>Sub Tank<c 00>!
+Encontrou <c 03>Sub-Tanque<c 00>!
 <*********************>
 
 
-You got a <c 03>BM Upgrade<c 00>!
+Obteve <c 03>Aprimoramento de BM<c 00>!
 <*********************>
 
 
-You got a <c 03>Secret Disk<c 00>!
+Encontrou <c 03>Disco Secreto<c 00>!
 <*********************>
 
 
-You got a <c 03>Red Card Key<c 00>!
+Obteve <c 03>Cartão-Chave Vermelho<c 00>!
 <*********************>
 
 
-You got a <c 03>Blue Card Key<c 00>!
+Obteve <c 03>Cartão-Chave Azul<c 00>!
 <*********************>
 
 
-You got a <c 03>Green Card Key<c 00>!
+Obteve <c 03>Cartão-Chave Verde<c 00>!
 <*********************>
 
 
-You got a <c 03>Purple Card Key<c 00>!
+Obteve <c 03>Cartão-Chave Roxo<c 00>!
 <*********************>
 
 
-You got a <c 03>Yellow Card Key<c 00>!
+Obteve <c 03>Cartão-Chave Amarelo<c 00>!
 <*********************>
 
 
-You got a <c 03>White Card Key<c 00>!
+Obteve <c 03>Cartão-Chave Branco<c 00>!
 <*********************>
 
 
-You got a <c 03>Hunter's License<c 00>!
+Recebeu <c 03>Licença de Caçador<c 00>!
 <*********************>
 
 
-You got <c 03>Data File A<c 00>!
+Obteve <c 03>Arquivo de Dados A<c 00>!
 <*********************>
 
 
-You got <c 03>Data File B<c 00>!
+Obteve <c 03>Arquivo de Dados B<c 00>!
 <*********************>
 
 
-You got an <c 03>Init. Key<c 00>!
+Obteve <c 03>Chave de Inic.<c 00>!
 <*********************>
 
 
-<c 03>Data File A<c 00> Transferred!
+<c 03>Arquivo de Dados A<c 00> Transferido!
 <*********************>
 
 
-<c 03>Data File B<c 00> Transferred!
+<c 03>Arquivo de Dados B<c 00> Transferido!
 <*********************>
 
 
-You got a <c 03>Frog<c 00>!
+Obteve <c 03>Chip Sapo<c 00>!
 <*********************>
 
 
-You got an <c 03>Eraser<c 00>!
+Obteve <c 03>Chip Corta-Projéteis<c 00>!
 <*********************>
 
 
-You got <c 03>Ice Boots<c 00>!
+Obteve <c 03>Chip Botas de Gelo<c 00>!
 <*********************>
 
 
-You got <c 03>Wind Boots<c 00>!
+Obteve <c 03>Chip Botas de Vento<c 00>!
 <*********************>
 
 
-You got a <c 03>Featherweight<c 00>!
+Obteve <c 03>Chip Peso Pena<c 00>!
 <*********************>
 
 
-You got an <c 03>Extender<c 00>!
+Obteve <c 03>Chip Extensor<c 00>!
 <*********************>
 
 
-You got an <c 03>Absorber<c 00>!
+Obteve <c 03>Chip Absorsor<c 00>!
 <*********************>
 
 
-You got a <c 03>F. Range Key<c 00>!
+Ganhou <c 03>Chave do C.T.<c 00>!
 <*********************>
 
 
-You returned the <c 03>F. Range Key<c 00>!
+Devolveu <c 03>Chave do C.T.<c 00>!
 <*********************>
 
 
-The "<c 03>Hayate<c 00>" title is yours!
+O título "<c 03>Hayate<c 00>" é seu!
 <*********************>
 
 
-The "<c 03>Idaten<c 00>" title is yours!
+O título "<c 03>Idaten<c 00>" é seu!
 <*********************>
 
 
-You're now the "<c 03>Speed King<c 00>"!
+Agora é o "<c 03>Rei Velocista<c 00>"!
 <*********************>
 
 
-You're no longer "<c 03>Speed King<c 00>"!
+Não é mais "<c 03>Rei Velocista<c 00>"!
 <*********************>
 
 
-You accepted <c 03>Mission Request<c 00>!
+Aceitou <c 03>Pedido<c 00>!
 <*********************>
 
 
-You got a <c 03>Legendary Pickaxe<c 00>!
+Obteve <c 03>Picareta Lendária<c 00>!
 <*********************>
 
 
-You handed over <c 03>L. Pickaxe<c 00>!
+Entregou a <c 03>Picareta Lendária<c 00>!
 <*********************>
 
 
-You got <c 03>Wrench<c 00>!
+Ganhou a <c 03>Chave Inglesa<c 00>!
 <*********************>
 
 
-You handed over <c 03>Wrench<c 00>!
+Entregou a <c 03>Chave Inglesa<c 00>!
 <*********************>
 
 
-You got a <c 03>Moth Queen<c 00>!
+Obteve <c 03>Mariposa-Rainha<c 00>!
 <*********************>
 
 
-You handed over <c 03>Moth Queen<c 00>!
+Entregou a <c 03>Mariposa-Rainha<c 00>!
 <*********************>
 
 
-You got a <c 03>Backpack<c 00>!
+Obteve <c 03>Mochila<c 00>!
 <*********************>
 
 
-You got a <c 03>Disk<c 00>!
+Encontrou <c 03>Disco<c 00>!
 <*********************>
 
 
-You handed over <c 03>Backpack<c 00>!
+Entregou a <c 03>Mochila<c 00>!
 <*********************>
 
 
-You handed over <c 03>Disk<c 00>!
+Entregou o <c 03>Disco<c 00>!
 <*********************>
 
 
-You got a <c 03>Disk<c 00>!
+Encontrou <c 03>Disco<c 00>!
 <*********************>
 
 
-You got a <c 03>Pin<c 00>!
+Obteve <c 03>Alfinete<c 00>!
 <*********************>
 
 
-You gave back the <c 03>Pin<c 00>!
+Devolveu o <c 03>Alfinete<c 00>!
 <*********************>
 
 
-You got a <c 03>Green Apple<c 00>!
+Obteve <c 03>Maçã Verde<c 00>!
 <*********************>
 
 
-You handed over <c 03>Green Apple<c 00>!
+Entregou a <c 03>Maçã Verde<c 00>!
 <*********************>
 
 
-You caught a <c 03>Nightingale<c 00>!
+Pegou um <c 03>Rouxinol<c 00>!
 <*********************>
 
 
-You returned the <c 03>Nightingale<c 00>!
+Devolveu o <c 03>Rouxinol<c 00>!
 <*********************>
 
 
-You got 1000 EC!
+Ganhou 1000 CE!
 <*********************>
 
 
-You handed over 1000 EC!
+Entregou 1000 CE!
 <*********************>
 
 
-You got a <c 03>Bucket<c 00>!
+Obteve <c 03>Balde<c 00>!
 <*********************>
 
 
-You got a <c 03>Potted Plant<c 00>!
+Obteve <c 03>Vaso de Planta<c 00>!
 <*********************>
 
 
-You handed over <c 03>Potted Plant<c 00>!
+Entregou <c 03>Vaso de Planta<c 00>!
 <*********************>
 
 
-You <c 03>watered<c 00> the plant!
+<c 03>Regou<c 00> a planta!
 <*********************>
 
 
-You got a <c 03>Berry<c 00>!
+Obteve <c 03>Fruto<c 00>!
 <*********************>
 
 
-You got 200 EC!
+Ganhou 200 CE!
 <*********************>
 
 
-You got a <c 03>Comic (Green)<c 00>!
+Obteve <c 03>HQ (Verde)<c 00>!
 <*********************>
 
 
-You got a <c 03>Comic (Blue)<c 00>!
+Obteve <c 03>HQ (Azul)<c 00>!
 <*********************>
 
 
-You got a <c 03>Comic (Orange)<c 00>!
+Obteve <c 03>HQ (Laranja)<c 00>!
 <*********************>
 
 
-You handed over <c 03>Comic<c 00>!
+Entregou a <c 03>HQ<c 00>!
 <*********************>
 
 
-You got <c 03>Pudding<c 00>!
+Obteve <c 03>Pudim<c 00>!
 <*********************>
 
 
-You handed over <c 03>Pudding<c 00>!
+Entregou o <c 03>Pudim<c 00>!
 <*********************>
 
 
-You got a <c 03>Model Train<c 00>!
+Obteve <c 03>Modelo de Trem<c 00>!
 <*********************>
 
 
-You handed over <c 03>Model Train<c 00>!
+Entregou o <c 03>Modelo de Trem<c 00>!
 <*********************>
 
 
-You got a <c 03>Micro Transmitter<c 00>!
+Obteve <c 03>Micro Transmissor<c 00>!
 <*********************>
 
 
-You set the <c 03>Micro Transmitter<c 00>!
+Colocou o <c 03>Micro Transmissor<c 00>!
 <*********************>
 
 
-You got an <c 03>L Tank<c 00>!
+Obteve <c 03>L-Tank<c 00>!
 <*********************>
 
 
-You got a <c 03>Pinwheel<c 00>!
+Obteve <c 03>Cata-Vento<c 00>!
 <*********************>
 
 
-You got an <c 03>Old Balancer<c 00>!
+Obteve <c 03>Balanceador Antigo<c 00>!
 <*********************>
 
 
-You got a <c 03>Light Bulb<c 00>!
+Obteve <c 03>Lâmpada<c 00>!
 <*********************>
 
 
-You got <c 03>Blueprints<c 00>!
+Obteve <c 03>Diagramas<c 00>!
 <*********************>
 
 
-You handed over <c 03>Blueprints<c 00>!
+Entregou os <c 03>Diagramas<c 00>!
 <*********************>
 
 
-You got a <c 03>Lily<c 00>!
+Obteve <c 03>Lírio<c 00>!
 <*********************>
 
 
-You handed over <c 03>Lily<c 00>!
+Entregou <c 03>Lírio<c 00>!
 <*********************>
 
 
-You rescued <c 03>Lazarus<c 00>!
+Resgatou <c 03>Lazarus<c 00>!
 <*********************>
 
 
-You rescued <c 03>Red<c 00>!
+Resgatou <c 03>Red<c 00>!
 <*********************>
 
 
-You got an <c 03>Engine<c 00>!
+Obteve <c 03>Motor<c 00>!
 <*********************>
 
 
-You got an <c 03>Ignition<c 00>!
+Obteve <c 03>Ignição<c 00>!
 <*********************>
 
 
-You got <c 03>Titanium Alloy<c 00>!
+Ganhou <c 03>Liga de Titânio<c 00>!
 <*********************>
 
 
-You got a <c 03>Booster<c 00>!
+Obteve <c 03>Impulsionador<c 00>!
 <*********************>
 
 
-You handed over <c 03>Junk<c 00>!
+Entregou <c 03>Lixo<c 00>!
 <*********************>
 
 
-You got a <c 03>Pendant<c 00>!
+Obteve <c 03>Pingente<c 00>!
 <*********************>
 
 
-You handed over <c 03>Pendant<c 00>!
+Entregou <c 03>Pingente<c 00>!
 <*********************>
 
 
-You got a <c 03>Birdcage<c 00>!
+Obteve <c 03>Gaiola<c 00>!
 <*********************>
 
 
-You got <c 03>Bird in Cage<c 00>!
+Obteve <c 03>Pássaro na Gaiola<c 00>!
 <*********************>
 
 
-You set <c 03>Birdcage<c 00>!
+Colocou a <c 03>Gaiola<c 00>!
 <*********************>
 
 
-You handed over <c 03>Bird in Cage<c 00>!
+Entregou <c 03>Pássaro na Gaiola<c 00>!
 <*********************>
 
 
-Handed over <c 03>Mystery Present<c 00>!
+Entregou <c 03>Presente Misterioso<c 00>!
 <*********************>
 
 
-You got a <c 03>Gift Certificate<c 00>!
+Obteve <c 03>Cartão de Presente<c 00>!
 <*********************>
 
 
-You got a <c 03>Demon Buster<c 00>!
+Obteve <c 03>Pistola Diabólica<c 00>!
 <*********************>
 
 
-You got a <c 03>Baby Doll<c 00>!
+Obteve <c 03>Boneca<c 00>!
 <*********************>
 
 
-You got a <c 03>Lollipop<c 00>!
+Obteve <c 03>Pirulito<c 00>!
 <*********************>
 
 
-You got a <c 03>Warrior Helmet<c 00>!
+Obteve <c 03>Capacete de Guerreiro<c 00>!
 <*********************>
 
 
-You got a <c 03>Soccer Ball<c 00>!
+Obteve <c 03>Bola de Futebol<c 00>!
 <*********************>
 
 
-You got a <c 03>Wish Card<c 00>!
+Obteve <c 03>Cartão de Desejo<c 00>!
 <*********************>
 
 
-You used <c 03>Wish Card<c 00>!
+Usou o <c 03>Cartão de Desejo<c 00>!
 <*********************>
 
 
-You got <c 03>Watermelon<c 00>!
+Obteve <c 03>Melancia<c 00>!
 <*********************>
 
 
-You got a <c 03>Rice Cake<c 00>!
+Obteve <c 03>Bolo de Arroz<c 00>!
 <*********************>
 
 
-You got a <c 03>Magic Pumpkin<c 00>!
+Obteve <c 03>Abóbora Mágica<c 00>!
 <*********************>
 
 
-You got <c 03>Laughy Taffy<c 00>!
+Obteve <c 03>Caramelo Risonho<c 00>!
 <*********************>
 
 
-You got a <c 03>Mystery Present<c 00>!
+Obteve <c 03>Presente Misterioso<c 00>!
 <*********************>
 
 
-You got an <c 03>E Tank<c 00>!
+Obteve <c 03>E-Tank<c 00>!
 <*********************>
 
 
-You got <c 03>Shortcake<c 00>!
+Obteve <c 03>Bolo de Morango<c 00>!
 <*********************>
 
 
-You got an <c 03>Apple<c 00>!
+Obteve <c 03>Maçã<c 00>!
 <*********************>
 
 
-You got <c 03>Candy<c 00>!
+Obteve <c 03>Doce<c 00>!
 <*********************>
 
 
-You got <c 03>Bread<c 00>!
+Obteve <c 03>Pão<c 00>!
 <*********************>
 
 
-You got an <c 03>Orange<c 00>!
+Obteve <c 03>Laranja<c 00>!
 <*********************>
 
 
-Got a <c 03>M.Request<c 00> from Doug!
+Recebeu <c 03>Pedido<c 00> do Doug!
 <*********************>
 
 
-Doug signed your <c 03>M.Request<c 00>.
+Doug assinou seu <c 03>Pedido<c 00>.
 <*********************>
 
 
-Got a <c 03>M.Request<c 00> from Chuck!
+Recebeu <c 03>Pedido<c 00> do Chuck!
 <*********************>
 
 
-Chuck signed your <c 03>M.Request<c 00>.
+Chuck assinou seu <c 03>Pedido<c 00>.
 <*********************>
 
 
-Got a <c 03>M.Request<c 00> from Roger!
+Recebeu <c 03>Pedido<c 00> do Roger!
 <*********************>
 
 
-Roger signed your <c 03>M.Request<c 00>.
+Roger assinou seu <c 03>Pedido<c 00>.
 <*********************>
 
 
-Got a <c 03>M.Request<c 00> from Kirk!
+Recebeu <c 03>Pedido<c 00> do Kirk!
 <*********************>
 
 
-Kirk signed your <c 03>M.Request<c 00>.
+Kirk assinou seu <c 03>Pedido<c 00>.
 <*********************>
 
 
-Got a <c 03>M.Request<c 00> from Kyrian!
+Recebeu <c 03>Pedido<c 00> do Kyrian!
 <*********************>
 
 
-Kyrian signed your <c 03>M.Request<c 00>.
+Kyrian assinou seu <c 03>Pedido<c 00>.
 <*********************>
 
 
-Got a <c 03>M.Request<c 00> from Tim!
+Recebeu <c 03>Pedido<c 00> do Tim!
 <*********************>
 
 
-Tim signed your <c 03>M.Request<c 00>.
+Tim assinou seu <c 03>Pedido<c 00>.
 <*********************>
 
 
-Got a <c 03>M.Request<c 00> from Abe!
+Recebeu <c 03>Pedido<c 00> do Abe!
 <*********************>
 
 
-Abe signed your <c 03>M.Request<c 00>.
+Abe assinou seu <c 03>Pedido<c 00>.
 <*********************>
 
 
-Got a <c 03>M.Request<c 00> from Ben!
+Recebeu <c 03>Pedido<c 00> do Ben!
 <*********************>
 
 
-Ben signed your <c 03>M.Request<c 00>.
+Ben assinou seu <c 03>Pedido<c 00>.
 <*********************>
 
 
-<c 03>Gem Buster<c 00> appeared!
+O <c 03>Gem Buster<c 00> apareceu!
 <*********************>
 
 
-You got 10 EC!
+Ganhou 10 CE!
 <*********************>
 
 
-You got 50 EC!
+Ganhou 50 CE!
 <*********************>
 
 
-You got 100 EC!
+Ganhou 100 CE!
 <*********************>
 
 
-You got 200 EC!
+Ganhou 200 CE!
 <*********************>
 
 
-You got 300 EC!
+Ganhou 300 CE!
 <*********************>
 
 
-You got 350 EC!
+Ganhou 350 CE!
 <*********************>
 
 
-You got 400 EC!
+Ganhou 400 CE!
 <*********************>
 
 
-You got 450 EC!
+Ganhou 450 CE!
 <*********************>
 
 
-You got 500 EC!
+Ganhou 500 CE!
 <*********************>
 
 
-You got 550 EC!
+Ganhou 550 CE!
 <*********************>
 
 
-You got 600 EC!
+Ganhou 600 CE!
 <*********************>
 
 
-You got 700 EC!
+Ganhou 700 CE!
 <*********************>
 
 
-You got 800 EC!
+Ganhou 800 CE!
 <*********************>
 
 
-You copied Buckfire's data!
+Copiou dados do Buckfire!
 <*********************>
 
 
-You copied Chronoforce's data!
+Copiou dados do Chronoforce!
 <*********************>
 
 
-You copied Rospark's data!
+Copiou dados do Rospark!
 <*********************>
 
 
-You copied Queenbee's data!
+Copiou dados da Queenbee!
 <*********************>
 
 
-You copied Vulturon's data!
+Copiou dados do Vulturon!
 <*********************>
 
 
-You copied Argoyle's data!
+Copiou dados do Argoyle!
 <*********************>
 
 
-You copied Hedgeshock's data!
+Copiou dados da Hedgeshock!
 <*********************>
 
 
-You copied Bifrost's data!
+Copiou dados do Bifrost!
 <*********************>
 
 
-You copied Model ZX's data!
+Copiou dados do Modelo ZX!
 <*********************>
 
 
-You copied Model H's data!
+Copiou dados do Modelo H!
 <*********************>
 
 
-You copied Model F's data!
+Copiou dados do Modelo F!
 <*********************>
 
 
-You copied Model L's data!
+Copiou dados do Modelo L!
 <*********************>
 
 
-You copied Model P's data!
+Copiou dados do Modelo P!
 <*********************>
 
 
-You need a Hunter's License.
+Precisa da Licença de Caçador.
 <*********************>
 
 <a 05><n 5E>
-DUE TO AN AIRSHIP CRASH
-IN THIS AREA, SAFETY
-LOCKS ARE IN OPERATION.
+DEVIDO A UM ACIDENTE DE
+DIRIGÍVEL NESSA ÁREA,
+TRAVAS ESTÃO OPERANDO.
 <--------------------->
 
 <a 05><n 5E>
-LOCKS CAN BE DISENGAGED
-BY DEACTIVATING THE 3
-ELEMENTAL SWITCHES.
+TRAVAS PODEM SER
+ABERTAS DESATIVANDO 3
+DISJUNTORES ELEMENTAIS.
 <--------------------->
 
 <a 05><n 5E>
-TO DEACTIVATE, EXPLOIT
-THE VULNERABLE
-ATTRIBUTES OF EACH
+PARA DESATIVAR, EXPLORE
+OS ATRIBUTOS
+VULNERÁVEIS DE CADA
 <--------------------->
 
 <a 05><n 5E>
-ELEMENTAL SWITCH.
-ELECTRICITY IS
-EFFECTIVE AGAINST FIRE,
+DISJUNTOR ELEMENTAL.
+ELETRICIDADE É EFICAZ
+CONTRA FOGO,
 <--------------------->
 
 <a 05><n 5E>
-ICE AGAINST
-ELECTRICITY, AND FIRE
-AGAINST ICE.
+GELO CONTRA
+ELETRICIDADE, E FOGO
+CONTRA GELO.
 <*********************>
 
 <a 05><n 5E>
-ELEMENTAL SWITCHES
-DEACTIVATED. SAFETY
-LOCKS DISENGAGED.
+DISJUNTORES ELEMENTAIS
+DESATIVADOS. TRAVA DE
+SEGURANÇA DESTRAVADA.
 <*********************>
 
 <e 63><a 05><n 5D>
-Choose action.
-  Data Management
-  Transport
+Escolha a ação.
+  Gerenciar Dados
+  Transportar
 <*********************>
 
 <e 63><a 05><n 5D>
-Choose action.
-  Data Management
-  Exit
+Escolha a ação.
+  Gerenciar Dados
+  Sair
 <*********************>
 
 <m><a 05><n 5D>
-  Save Data
-  Load Data
-  Erase Data
+  Salvar dados
+  Carregar Dados
+  Deletar Dados
 <*********************>
 
 <a 05><n 5D>
-Select Transport
-Destination from the
-Bottom Screen.
+Escolha o Destino de
+Transporte pela
+Tela Inferior.
 <*********************>
 
 <e 63><a 05><n 5D>
-Transport?
-  Yes
-  No
+Transportar?
+  Sim
+  Não
 <*********************>
 
 <a 05><n 5D>
-There is no Transport
-Destination.
+Não há Destino de
+Transporte.
 <*********************>
 
 <a 05><n 5D>
-This transerver is one
-way only, to the
-Mysterious Lab.
+Esse transervidor só
+leva a um lugar, para o
+Laboratório Misterioso.
 <--------------------->
 
 <e 63><a 05><n 5D>
-Transport?
-  Yes
-  No
+Transportar?
+  Sim
+  Não
 <*********************>
 
 <e 63><a 05><n 5F>
-Warp Point: Free
-  Activate
-  Exit
+Ponto Warp: Gratuito
+  Ativar
+  Sair
 <*********************>
 
 <e 63><a 05><n 5F>
-Warp Point: 100 EC
-  Activate
-  Exit
+Ponto Warp: 100 CE
+  Ativar
+  Sair
 <*********************>
 
 <e 63><a 05><n 5F>
-Warp Point: 500 EC
-  Activate
-  Exit
+Ponto Warp: 500 CE
+  Ativar
+  Sair
 <*********************>
 
 <a 05><n 5F>
-You need 100 EC to
-activate this Warp
-Point.
+Você precisa de 100 CE
+para ativar esse Ponto
+Warp.
 <*********************>
 
 <a 05><n 5F>
-You need 500 EC to
-activate this Warp
-Point.
+Você precisa de 500 CE
+para ativar esse Ponto
+Warp.
 <*********************>
 
 <e 63><a 5B><n 48>
-View the database?
-  Yes
-  No
+Ver a Base de Dados?
+  Sim
+  Não
 <*********************>
 
 <p 01><a 05><n 5C>
-Expert Mode is now
-available!
+Modo Expert está
+desponível agora!
 <*********************>
 
 <p 01><a 05><n 5C>
-Unused
+Não usado
 <*********************>
 
 <p 01><a 05><n 5C>
-Now you can morph into
-Model X even after you
-get Model ZX.
+Agora você pode se
+transformar no Modelo X
+mesmo após obter o ZX.
 <*********************>
 
 <p 01><e 50><a 05><n 5C>
-Save clear game data?
-  Yes
-  No
+Salvar jogo finalizado?
+  Sim
+  Não
 <*********************>
 
 <p 01><a 05><n 5C>
-Mini Game:
+Mini Jogo:
 Quiz Advent
-has been unlocked.
+foi desbloqueado.
 <*********************>
 
 <p 01><a 05><n 5C>
-Mini Game:
-Survival Road
-has been unlocked.
+Mini Jogo:
+Via da Sobrevivência
+foi desbloqueado.
 <*********************>
 
 <p 01><a 05><n 5C>
-Mini Game:
-Mega Man a
-has been unlocked.
+Mini Jogo:
+Um Mega Man
+foi desbloqueado.
 <*********************>
 
 <a 05><n 5D>
-Hunter's License has
-been issued.
+A Licença de Caçador
+foi emitida.
 <*********************>
 
 <a 05><n 5D>
-Hunter's License has
-been issued.
+A Licença de Caçador
+foi emitida.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Mission Report has been
-submitted.
+O Relatório da Missão
+foi enviado.
 <*********************>
 
 <a 05><n 5D>
-Event 11 Mission Report
+Relatório da Missão do
+Evento 11
 <*********************>
 
 <FIM>

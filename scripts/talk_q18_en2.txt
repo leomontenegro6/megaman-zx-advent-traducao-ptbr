@@ -2,543 +2,561 @@
 <#####################>
 
 <p 02><a 42><n 23>
-Looks like Buckfire
-is back on the Train.
+Parece que Buckfire
+apareceu de novo no
+Trem.
 <--------------------->
 
-Legion has a bounty
-out on him, but I don't
-think I can beat him.
+A Legião deu recompensa
+nele, mas acho que não
+consigo vencê-lo.
 <--------------------->
 
-I think you'd be better
-for the job,
+Acho que você seria a
+melhor para o trabalho,
 <--------------------->
 
-so I'll give you the
-request form.
+então vou te dar o
+formulário do pedido.
 <*********************>
 
 <p 02><a 42><n 23>
-There are different
-medals you can get,
+Há diferentes medalhas
+que você pode receber,
 <--------------------->
 
-depending on how you
-take down a Pseudoroid.
+dependendo da forma
+que você derrotar um
+Pseudoróide.
 <*********************>
 
 <p 02><a 42><n 23>
-Beat Buckfire by
-touching Siarnaq's BM
-Screen
+Derrote Buckfire
+tocando a tela de BM de
+Siarnaq
 <--------------------->
 
-and hitting him with
-the Kunai to get a Gold
-Medal.
+e acertando ele com a
+Kunai para receber
+Medalha de Ouro.
 <*********************>
 
 <p 02><a 42><n 23>
-Beat Buckfire by
-hitting his weak spot,
+Derrote Buckfire
+acertando seu ponto
+fraco,
 <--------------------->
 
-the mane, to get a
-Silver Medal.
+a crina, para receber
+Medalha de Prata.
 <*********************>
 
 <p 02><a 42><n 23>
-Finish Buckfire off
-with a Hedgeshock
-Rolling attack 
+Finalize Buckfire com
+um ataque Rotativo de
+Hedgeshock
 <--------------------->
 
-to get a Bronze
-Medal.
+para conseguir uma
+Medalalha de Bronze.
 <*********************>
 
 <p 02><a 42><n 23>
-Thank you. You are the
-Model A Chosen One
-indeed! 
+Obrigado. Realmente
+você é a Escolhida do
+Modelo! 
 <*********************>
 
 <p 02><a 42><n 23>
-Hand the mission
-request to Ward for
-some E-Crystals.
+Entregue o pedido de
+missão para Ward para
+receber os Cristais.
 <*********************>
 
 <p 02><a 42><n 24>
-Looks like Chronoforce
-is back at the Arctic
-Ice Floe.
+Parece que Chronoforce
+apareceu de novo na
+Banquisa Ártica.
 <--------------------->
 
-Legion just sent us a
-mission request to
-subjugate the target.
+A Legião nos enviou
+um pedido de missão
+para subjulgar o alvo.
 <--------------------->
 
-But our guys can't
-survive in that cold
-water.
+Mas os nosso pessoal
+não consegue sobreviver
+em água fria.
 <--------------------->
 
-I know that's something
-you can handle,
+Sei que isso é algo que
+você consegue lidar,
 <--------------------->
 
-so I'm giving you this
-mission request.
+então estou te dando
+esse pedido de missão.
 <*********************>
 
 <p 02><a 42><n 24>
-There are different
-medals you can get,
+Há diferentes medalhas
+que você pode receber,
 <--------------------->
 
-depending on how you
-take down a Pseudoroid.
+dependendo da forma
+que você derrotar um
+Pseudoróide.
 <*********************>
 
 <p 02><a 42><n 24>
-Beat Chronoforce using
-only Queenbee attacks
-to get a Gold Medal.
+Derrotar Chronoforce só
+com ataques de Queenbee
+recebe Medalha de Ouro.
 <*********************>
 
 <p 02><a 42><n 24>
-Finish Chronoforce off
-with the Buckfire Slash
-Dash
+Finalize Chronoforce
+com o Dash Cortante de
+Buckfire
 <--------------------->
 
-to get a Silver
-Medal. 
+para receber uma
+Medalha de Prata. 
 <*********************>
 
 <p 02><a 42><n 24>
-Finish Chronoforce off
-with the Model ZX
-Charge Saber
+Finalize Chronoforce
+com o Sabre Carregado
+do Model ZX
 <--------------------->
 
-to get a Bronze Medal.
+para receber uma
+Medalha de Bronze.
 <*********************>
 
 <p 02><a 42><n 24>
-Did you neutralize
+Você neutralizou o
 Chronoforce!?
 <--------------------->
 
-I appreciate what
-you've done!
+Agradeço o que você
+fez!
 <*********************>
 
 <p 02><a 42><n 24>
-Now all you need to do
-is take that mission
-request to Ward
+Agora tudo que você
+precisa fazer é levar
+esse pedido de missão
 <--------------------->
 
-at the café!
+para Ward na cafeteria!
 <*********************>
 
 <p 02><a 42><n 25>
-Looks like Rospark is
-back at the Tower of
-Verdure.
+Parece que Rospark
+apareceu de novo na
+Torre do Verdor.
 <--------------------->
 
-Legion just issued us
-an official mission
-request
+A Legião acabou de nos
+enviar um pedido de
+missão oficial
 <--------------------->
 
-to solve the problem.
+para resolver o
+problema.
 <--------------------->
 
-As you know, it's very
-high up. It doesn't
-look like we're going
+Você sabe, é bem alto.
+Parece que não vamos
 <--------------------->
 
-to be able to go up
-there. This one's up to
-you.
+coseguir subir lá. Isso
+é com você.
 <*********************>
 
 <p 02><a 42><n 25>
-There are different
-medals you can get,
+Há diferentes medalhas
+que você pode receber,
 <--------------------->
 
-depending on how you
-take down a Pseudoroid.
+dependendo da forma
+que você derrotar um
+Pseudoróide.
 <*********************>
 
 <p 02><a 42><n 25>
-Beat Rospark using
-Rospark's own attacks
-to get a Gold Medal.
+Derrotar Rospark usando
+só ataques de Rospark
+recebe Medalha de Ouro.
 <*********************>
 
 <p 02><a 42><n 25>
-Beat Rospark using
-Argoyle & Ugoyle
-attacks
+Derrote Rospark usando
+ataques de Argoyle e
+Ugoyle
 <--------------------->
 
-to get a Silver Medal. 
+para receber uma
+Medalha de Prata.
 <*********************>
 
 <p 02><a 42><n 25>
-Finish off Rospark
-while he's in bulb form
-to get a Bronze Medal.
+Finalisar Rospark só em
+forma de bulbo recebe
+Medalha de Bronze.
 <*********************>
 
 <p 02><a 42><n 25>
-Thank you very much.
-You're definitely
-everything we expected
+Muito obrigado. Você é
+definitivamente tudo
+que esperávamos
 <--------------------->
 
-of the Model A Chosen
-One!
+do Escolhido do Modelo
+A!
 <*********************>
 
 <p 02><a 42><n 25>
-Give the mission
-request to Ward at the
-café
+Entregue o pedido de
+missão para Ward, na
+cafeteria,
 <--------------------->
 
-in exchange for 
-E-Crystals.
+para receber os
+Cristais.
 <*********************>
 
 <p 02><a 42><n 26>
-Looks like Queenbee is
-back at the Control
-Center.
+Parece que Queenbee
+apareceu de novo no
+Centro de Controle.
 <--------------------->
 
-This Legion mission
-request just came in.
-They need somebody
+Esse pedido de missão
+da Legião acaba de vir.
+Eles precisam de alguém
 <--------------------->
 
-to go over there and do
-something about the
-problem.
+para ir até lá e fazer
+alguma coisa sobre o
+problema.
 <--------------------->
 
-You're as good a Hunter
-as anybody.
+Você é tão bom Caçador
+quanto qualquer outro.
 <--------------------->
 
-You might as well take
-the request.
+Você pode muito bem
+levar o pedido.
 <*********************>
 
 <p 02><a 42><n 26>
-There are different
-medals you can get,
+Há diferentes medalhas
+que você pode receber,
 <--------------------->
 
-depending on how you
-take down a Pseudoroid.
+dependendo da forma
+que você derrotar um
+Pseudoróide.
 <*********************>
 
 <p 02><a 42><n 26>
-Beat Queenbee by only
-attacking her body to
-get a Gold Medal.
+Derrotar Queenbee só
+atacando o corpo dela
+recebe Medalha de Ouro.
 <*********************>
 
 <p 02><a 42><n 26>
-Beat Queenbee without
-destroying any of her
-stinger missles
+Derrote Queenbee sem
+destruir nenhum dos
+seus mísseis ferrões
 <--------------------->
 
-to get a Silver Medal. 
+para receber uma
+Medalha de Prata.
 <*********************>
 
 <p 02><a 42><n 26>
-Beat Queenbee by
-attacking only her
-container
+Derrote Queenbee
+atacando apenas seu
+contêiner
 <--------------------->
 
-to get a Bronze Medal.
+para receber uma
+Medalha de Bronze.
 <*********************>
 
 <p 02><a 42><n 26>
-Thank you for toppling
+Obrigado por derrubar
 Queenbee!
 <*********************>
 
 <p 02><a 42><n 26>
-Take the mission
-request to Ward at the
-café.
+Leve o pedido de missão
+para Ward na cafeteria.
 <*********************>
 
 <p 02><a 42><n 27>
-Looks like Vulturon is
-back at the Scrapyard.
+Parece que Vulturon
+apareceu de novo no
+Ferro-Velho.
 <--------------------->
 
-He thinks he's gonna do
-an encore performance.
+Ele acha que vai fazer
+uma outra performance.
 <--------------------->
 
-Go and pull the plug on
-'em!
+Vá e puxe a tomada
+dele!
 <*********************>
 
 <p 02><a 42><n 27>
-There are different
-medals you can get,
+Há diferentes medalhas
+que você pode receber,
 <--------------------->
 
-depending on how you
-take down a Pseudoroid.
+dependendo da forma
+que você derrotar um
+Pseudoróide.
 <*********************>
 
 <p 02><a 42><n 27>
-Beat Vulturon using
-only Giga Crush to get
-a Gold Medal.
+Derrotar Vulturon
+usando só Giga Crush
+recebe Medalha de Ouro.
 <*********************>
 
 <p 02><a 42><n 27>
-Finish Vulturon off
-with the Aeolus Sonic
-Boom
+Finalize Vulturon com
+o Sonic Boom de Aeolus
 <--------------------->
 
-to get a Silver
-Medal. 
+para receber uma
+Medalha de Prata. 
 <*********************>
 
 <p 02><a 42><n 27>
-Survive more than 120
-seconds and defeat
+Sobreviva mais de 120
+segundos e derrote
 <--------------------->
 
-Vulturon to get a
-Bronze Medal.
+Vulturon para receber
+uma Medalha de Bronze.
 <*********************>
 
 <p 02><a 42><n 27>
-Thanks for canceling
-that guy's concert!
+Obrigado por cancelar o
+concerto daquele cara!
 <*********************>
 
 <p 02><a 42><n 27>
-Now give the mission
-request to Ward at the
-café.
+Agora entregue o pedido
+de missão para Ward na
+cafeteria.
 <*********************>
 
 <p 02><a 42><n 28>
-Looks like Hedgeshock
-is back at the
-Mysterious Lab.
+Parece que Hedgeshock
+apareceu de novo no
+Lab. Misterioso.
 <--------------------->
 
-This is the mission
-request issued to us by
-Legion.
+Esse é o pedido de
+missão enviado pra nós
+pela Legião.
 <--------------------->
 
-Here, I'm giving this
-mission to you.
+Aqui, estou te dando
+essa missão.
 <*********************>
 
 <p 02><a 42><n 28>
-There are different
-medals you can get,
+Há diferentes medalhas
+que você pode receber,
 <--------------------->
 
-depending on how you
-take down a Pseudoroid.
+dependendo da forma
+que você derrotar um
+Pseudoróide.
 <*********************>
 
 <p 02><a 42><n 28>
-Beat Hedgeshock without
-A-Trans or megamerging
-to get a Gold Medal.
+Derrotar Hedgeshock sem
+A-Trans ou megamergir
+recebe Medalha de Ouro.
 <*********************>
 
 <p 02><a 42><n 28>
-Finish off Hedgeshock
-by hitting her little
-rat followers
+Finalize Hedgeshock
+acertando seus pequenos
+ratos seguidores
 <--------------------->
 
-to get a Silver Medal.
+para receber uma
+Medalha de Prata.
 <*********************>
 
 <p 02><a 42><n 28>
-Finish Hedgeshock off
-with Chronoforce to get
-a Bronze Medal.
+Finalize Hedgeshock com
+Chronoforce pra receber
+uma Medalha de Bronze.
 <*********************>
 
 <p 02><a 42><n 28>
-Hey, thanks for
-grounding Hedgeshock
-once and for all.
+Ei, obrigado por
+aterrar Hedgeshock de
+uma vez por todas.
 <*********************>
 
 <p 02><a 42><n 28>
-Make sure you give the
-mission request to
-Ward.
+Não se esqueça de
+entregar o pedido de
+missão para Ward.
 <*********************>
 
 <p 02><a 42><n 29>
-Looks like Argoyle &
-Ugoyle are back at the
-Waterfall Ruins.
+Parece que Argoyle e
+Ugoyle voltaram para as
+Ruínas da Cascata.
 <--------------------->
 
-Legion is asking us
-Hunters to handle the
-situation.
+A Legião está pedindo a
+nós Caçadores para
+cuidar da situação.
 <--------------------->
 
-Here's the mission
-request.
+Aqui está o pedido de
+missão.
 <--------------------->
 
-I'd like you to go and
-check it out for me. 
+Eu gostaria que você
+fosse verificar para
+mim.
 <*********************>
 
 <p 02><a 42><n 29>
-There are different
-medals you can get,
+Há diferentes medalhas
+que você pode receber,
 <--------------------->
 
-depending on how you
-take down a Pseudoroid.
+dependendo da forma
+que você derrotar um
+Pseudoróide.
 <*********************>
 
 <p 02><a 42><n 29>
-Beat Argoyle & Ugoyle
-at the same time with
+Derrote Argoyle e
+Ugoyle ao mesmo tempo
+com
 <--------------------->
 
-the Buckfire Double
-Tomahawk to get a
-Gold Medal.
+o Duplo Tomahawk de
+Buckfire para receber
+uma Medalha de Ouro.
 <*********************>
 
 <p 02><a 42><n 29>
-Beat Argoyle & Ugoyle
-at the same time with
+Derrote Argoyle e
+Ugoyle ao mesmo tempo
+com
 <--------------------->
 
-the Hedgeshock Spark
-Ball to get a Silver
-Medal. 
+a Bola de Faísca de
+Hedgeshock para receber
+uma Medalha de Prata. 
 <*********************>
 
 <p 02><a 42><n 29>
-Beat Argoyle & Ugoyle
-at the same time with
-the Giga Crush
+Derrote Argoyle e
+Ugoyle ao mesmo tempo
+com o Giga Crush
 <--------------------->
 
-to get a Bronze Medal.
+para receber uma
+Medalha de Bronze.
 <*********************>
 
 <p 02><a 42><n 29>
-Thank you! I knew you'd
-get the job done.
+Obrigado! Eu sabia que
+você faria o trabalho.
 <*********************>
 
 <p 02><a 42><n 29>
-You should take the
-mission request to Ward
-at the café.
+Você deve levar o
+pedido de missão para
+Ward na cafeteria.
 <*********************>
 
 <p 02><a 42><n 2A>
-Looks like Bifrost is
-back at the Bio Lab.
+Parece que Bifrost
+apareceu de novo no
+Lab. Biológico.
 <--------------------->
 
-This mission request to
-take him out just came
-in.
+Leve esse pedido de
+missão que acabou de
+chegar.
 <--------------------->
 
-The thing is, we're not
-prepared to take on a
-monster like that.
+Nesse caso, não estamos
+preparados para encarar
+um monstro como esse.
 <--------------------->
 
-I know it's a lot to
-ask,
+Eu sei que é pedir
+demais,
 <--------------------->
 
-but could you go and
-settle this one for us?
+mas você poderia ir
+resolver isso para nós?
 <*********************>
 
 <p 02><a 42><n 2A>
-There are different
-medals you can get,
+Há diferentes medalhas
+que você pode receber,
 <--------------------->
 
-depending on how you
-take down a Pseudoroid.
+dependendo da forma
+que você derrotar um
+Pseudoróide.
 <*********************>
 
 <p 02><a 42><n 2A>
-Beat Bifrost using only
-the Model A Homing Shot
-to get a Gold Medal.
+Derrotar Bifrost usando
+Tiro Tele. do Modelo A
+recebe Medalha de Ouro.
 <*********************>
 
 <p 02><a 42><n 2A>
-Beat Bifrost using only
-Buckfire attacks to get
-a Silver Medal. 
+Derrotar Bifrost usando
+ataque de Buckfire re-
+cebe Medalha de Prata. 
 <*********************>
 
 <p 02><a 42><n 2A>
-Beat Bifrost using only
-Queenbee attacks to get
-a Bronze Medal.
+Derrotar Bifrost usando
+ataque de Queenbee re-
+cebe medalha de Bronze.
 <*********************>
 
 <p 02><a 42><n 2A>
-Thank you! I guess they
-don't call you the
+Obrigado! Acho que não
+te chamam de
 <--------------------->
 
-Model A Chosen One for
-nothing! 
+Escolhido do Modelo A
+à toa! 
 <*********************>
 
 <p 02><a 42><n 2A>
-Take that mission
-request to a guy at the
-café named Ward.
+Leve esse pedido de
+missão para um cara da
+cafeteria chamado Ward.
 <*********************>
 
 <p 02><a 59><n 46>
-Great work! Here's your
-bounty!
+Ótimo trabalho! Aqui
+está sua recompensa!
 <*********************>
 
 <FIM>

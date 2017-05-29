@@ -42,7 +42,7 @@ têm até explir.
 
 <p 02><a 02><n 06>
 Faça algo para assumir
-o comando do Centro de 
+o comando do Centro de
 Controle.
 <*********************>
 
@@ -188,8 +188,8 @@ jeito que ela fez?
 <*********************>
 
 <p 02><a 02><n 06>
-Ele parece ter mudado
-seu subsistema de
+Parece que seu
+subsistema mudou de
 alguma forma,
 <--------------------->
 

@@ -2,83 +2,85 @@
 <#####################>
 
 <p 02><a 4A><n 40>
-Oh... what am I going
-to do?
+Ah... o que eu vou
+fazer?
 <--------------------->
 
-I caught a Moth Queen
-but it got away...
+Eu peguei uma Mariposa-
+Rainha, mas ela
+fugiu...
 <--------------------->
 
-Aah... won't someone
-catch it for me?
-*wink*
+Aah... Alguém não
+poderia pegar para mim?
+*piscada*
 <*********************>
 
 <p 02><a 4A><n 40>
-I'd have to able to fly
-to reach way up
-there...
+Eu teria que poder voar
+para chegar lá em
+cima...
 <--------------------->
 
-I bet a Hunter would be
-able to catch it for
-me... *wink*
+Aposto que um Caçador
+conseguiria pegá-lo
+para mim... *piscada*
 <*********************>
 
 <p 02><a 4A><n 40>
-My Moth Queen... you
-caught it for me!
+Minha Mariposa-
+Rainha... Você a pegou
+para mim!
 <--------------------->
 
-You ARE a Hunter!
-Oh, thank you!
+Você É uma Caçadora!
+Ah, obrigado!
 <--------------------->
 
-I'm so glad you came to
-my aid! It isn't
-much...
+Estou tão feliz por
+você ter vindo me
+ajudar! Não é muito...
 <--------------------->
 
-but I want you to have
-this.
+mas quero que você
+fique com isso.
 <*********************>
 
 <p 02><a 4A><n 40>
-They say Moth Queens
-are popular with
-celebrities
+Dizem que Mariposas-
+Rainha são populares
+com celebridades
 <--------------------->
 
-because they're so
-beautiful.
+porque elas são muito
+bonitas.
 <--------------------->
 
-I'm going to sell these
-beauties to earn enough
-money 
+Vou vender essas
+belezinhas para ganhar
+bastante dinheiro
 <--------------------->
 
-to become a Hunter
-someday.
+para me tornar um
+Caçador algum dia.
 <*********************>
 
 <p 02><a 4A><n 40>
-It's really cold here.
+Realmente está frio
+aqui.
 <--------------------->
 
-This hood, I usually
-just wear it because it
-looks cute...
+Essa capa, geralmente
+só uso porque parece
+legalzinha...
 <--------------------->
 
-But it's nice to have
-on days like this.
+Mas é bom ter em dias
+como esse.
 <--------------------->
 
-And, it's good for
-hearing far-away
-sounds.
+E, é bom para ouvir
+sons distantes.
 <*********************>
 
 <FIM>

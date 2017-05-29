@@ -53,8 +53,8 @@ vamos sair daqui!
 <--------------------->
 
 <p 02><a 08><n 01>
-...O dirigível é desse
-jeito, certo?
+...O dirigível está
+nessa direção, certo?
 <--------------------->
 
 <p 02><a 6B><n 15>
@@ -162,7 +162,6 @@ a história da guerra...
 <d B601>
 E agora, o mais forte
 daqueles
-
 <--------------------->
 
 <d B701>
@@ -298,7 +297,7 @@ uma nova evolução.
 
 <p 02><a 03><n 00>
 Biometal Modelo W...
-Aquele que o detém, 
+Aquele que o detém,
 <--------------------->
 
 terá o poder para
@@ -385,7 +384,7 @@ de nossos rapazes
 
 <d D001>
 para o Acampamento de
-Caçadores para fazer os
+Caçador para fazer os
 reparos.
 <--------------------->
 
@@ -404,7 +403,7 @@ você tão
 <d D301>
 honestamente quanto os
 bondosos Caçadores
-de recompensa. 
+de recompensa.
 <--------------------->
 
 <p 02><d D401><a 6B><n 15>
@@ -530,8 +529,8 @@ usando a tela inferior.
 
 <p 02><a 6B><n 15>
 Você pode acessar essa
-função pelo primeiro
-"Status" selecionado
+função selecionando
+primeiramente "Status"
 <--------------------->
 
 na sub-tela.
@@ -543,7 +542,7 @@ trajetória de cada um
 tocando as caixas
 <--------------------->
 
-ou usando o <dpad>. 
+ou usando o <dpad>.
 <--------------------->
 
 <p 02><a 6B><n 15>
@@ -568,7 +567,7 @@ naquelas salas.
 
 Há algo estranho
 acontecendo com o
-suprimento de energia. 
+suprimento de energia.
 <--------------------->
 
 Algumas das portas não
@@ -633,7 +632,7 @@ naquela sala.
 
 Há algo estranho
 acontecendo com o
-poder. 
+suprimento de energia.
 <--------------------->
 
 Algumas das portas não

@@ -2,1278 +2,1298 @@
 <#####################>
 
 <p 02><a 5F><n 33>
-Yo! Are you a Hunter
-too? My name is Kidd!
+Ei! Você também é um
+Caçador? Meu nome é
+Kidd!
 <--------------------->
 
-We've been drilling
-here, trying to find
+Estivemos perfurando
+aqui, tentando
+encontrar
 <--------------------->
 
-some lost technology or
-something.
+alguma tecnologia
+perdida ou algo assim.
 <--------------------->
 
-It takes a heckuva
-lotta energy just to
-run the drill.
+É preciso de muita
+energia para a broca
+funcionar.
 <--------------------->
 
-It ain't worth it, in
-my opinion!
+Não vale a pena, na
+minha opinião!
 <--------------------->
 
-But we found this place
-that looks like it was
-used as a room,
+Mas encontramos esse
+lugar que parece ter
+sido usado como sala,
 <--------------------->
 
-buried under the earth
-and sand.
+enterrado debaixo de
+terra e areia.
 <--------------------->
 
-We can't give up cause
-there could be
-something down there.
+Não podemos desistir
+porque pode haver algo
+lá em baixo.
 <*********************>
 
 <p 02><a 5F><n 33>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 5F><n 33>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 5F><n 33>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 5F><n 33>
-Thanks to your help, I
-was able to dig a hole
-this big!
+Graças à sua ajuda,
+consegui cavar um
+buraco desse tamanho!
 <--------------------->
 
-Not too bad despite
-being so little, huh?
+Não está tão ruim
+apesar de ser tão
+pequeno, hein?
 <*********************>
 
 <p 02><a 60><n 34>
-My name is Lem! And I
-suppose you're the
-Model A Chosen One?
+Meu nome é Lem! E eu
+suponho que você seja o
+Escolhido do Modelo A?
 <--------------------->
 
-When I heard that the
-lost technology was
-around here,
+Quando eu soube que a
+tecnologia perdida
+estava por aqui,
 <--------------------->
 
-I could hardly believe
-my ears, so I came to
-see for myself.
+eu mal podia acreditar
+no que ouvi, então eu
+mesmo vim para ver.
 <--------------------->
 
-I had no idea this huge
-underground place was
-even here.
+Não sabia desse lugar
+subterrâneo enorme que
+estava mesmo aqui.
 <--------------------->
 
-If we dig just a little
-more, there should be a
-door down here.
+Se cavarmos mais um
+pouco, deverá haver
+uma porta aqui debaixo.
 <*********************>
 
 <p 02><a 60><n 34>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 60><n 34>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 60><n 34>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 60><n 34>
-I've been down here so
-long now that I don't
+Estive tanto tempo aqui
+em baixo que nem sei
 <--------------------->
 
-even know what's going
-on up top.
+o que está acontecendo
+lá em cima.
 <*********************>
 
 <p 02><a 60><n 34>
-These passageways down
-here snake all over the
-place.
+Essas passagens aqui
+em baixo tem cobras por
+todo lado.
 <--------------------->
 
-I'm thinking about
-digging a shortcut.
+Estou pensando em cavar
+um atalho.
 <--------------------->
 
-But the drill I'm using
-is running low on
-energy.
+Mas a broca que estou
+usando está ficando com
+pouca energia.
 <--------------------->
 
-I'm just about out of
-ideas...
+Estou quase sem
+ideias...
 <--------------------->
 
-Could you help me out
-with 200 EC so I can
-get some energy?
+Poderia me ajudar com
+200 CE para mim obter
+um pouco energia?
 <--------------------->
 
 <p 02><e 01><a 60><n 34>
-Give 200 E-Crystals?
-  Yes
-  No
+Dar 200 Cristais?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 60><n 34>
-Thanks! I owe you one!
+Obrigado! Eu te devo
+uma!
 <--------------------->
 
-Well, I'll get to back
-to digging. So, come
-back again!
+Bem, voltarei a cavar.
+Então, volte outra vez!
 <*********************>
 
 <p 02><s 01><a 60><n 34>
-Aw man! Well, I guess I
-got no choice but to
-give up...
+Ah cara! Bem, acho que
+não tenho escolha a não
+ser desistir...
 <*********************>
 
 <p 02><a 60><n 34>
-As you can see, I'm a
-whizz with the drill.
+Como pode ver, sou um
+gênio com a broca.
 <*********************>
 
 <p 02><a 60><n 34>
-Thanks for the
-thought...
+Obrigado pela idéia...
 <--------------------->
 
-But you don't have
-enough E-Crystals.
+Mas você não tem
+Cristais suficientes.
 <*********************>
 
 <p 02><a 61><n 00>
-Self-intro
+Auto-intro
 <*********************>
 
 <p 02><a 61><n 00>
-Normal Conversation1
+Diálogo Normal1
 <*********************>
 
 <p 02><a 61><n 00>
-Normal Conversation2
+Diálogo Normal2
 <*********************>
 
 <p 02><a 61><n 00>
-Normal Conversation3
+Diálogo Normal3
 <*********************>
 
 <p 02><a 61><n 00>
-Normal Conversation4
+Diálogo Normal4
 <*********************>
 
 <p 02><a 62><n 30>
-Who are you?
+Quem é você?
 <--------------------->
 
-They call me Chris! I'm
-a real Hunter, make no
-mistake about it!
+Chamam-me de Chris! Sou
+um verdadeiro Caçador,
+não se engane com isso!
 <--------------------->
 
-But, what I really want
-more than some lost
-technology
+Mas, o que realmente
+quero mais do que uma
+tecnologia perdida
 <--------------------->
 
-is some toys!
+é alguns brinquedos!
 <*********************>
 
 <p 02><a 62><n 30>
-Why am I way up here,
-you ask?
+Por que estou aqui em
+cima, você pergunta?
 <--------------------->
 
-Well you see, I climbed
-up this wall, but I
-can't get down!
+Veja bem, eu subi essa
+parede, mas não consigo
+descer!
 <*********************>
 
 <p 02><a 62><n 30>
-My dad says that a
-Hunter needs to be
-tough. So, I tried to
+Meu pai diz que um
+Caçador precisa ser
+duro. Então, tentei
 <--------------------->
 
-get to the top of the
-ridge to test my
-toughness.
+chegar ao topo do cume
+para testar a minha
+resistência.
 <--------------------->
 
-But, it was a lot
-scarier than I thought.
+Mas, foi muito mais
+assustador do que eu
+pensava.
 <--------------------->
 
-The view IS nice from
-up here...
+A vista É bonita daqui
+de cima...
 <--------------------->
 
-I think I'll make this
-my secret place.
+Acho que vou fazer
+desse local meu lugar
+secreto.
 <*********************>
 
 <p 02><a 62><n 30>
-My dad told me that if
-I want to be an elite
-Hunter,
+Meu pai me disse que se
+eu quiser ser um
+Caçador de elite,
 <--------------------->
 
-I have to be daring and
-bold.
+eu tenho que ser ousado
+e corajoso.
 <--------------------->
 
-I tried to open the
-manhole cover at the
+Tentei abrir a tampa do
+bueiro no
 <--------------------->
 
-far end of Hunter's
-Camp.
+final do Acampamento de
+Caçador.
 <--------------------->
 
-But, it wouldn't budge!
-I wonder...
+Mas, ela não se mexia!
+Eu me pergunto...
 <--------------------->
 
-If I tried to pry it
-open with something,
-would it open?
+Se eu tentasse abri-la
+com alguma coisa, ela
+teria abrido?
 <*********************>
 
 <p 02><a 62><n 30>
-From up here, if you
-look way over there,
+Daqui de cima, se você
+olhar por ali,
 <--------------------->
 
-you can see the
-Mavericks closing in.
+você consegue ver os
+Mavericks chegando.
 <--------------------->
 
-It's really scary, but
-I don't freak out.
+É realmente assustador,
+mas não enlouqueço.
 <--------------------->
 
-Because I'm a Hunter!
+Porque sou um Caçador!
 <*********************>
 
 <p 02><a 62><n 30>
-A present for me? Why
-all of a sudden?
+Um presente pra mim?
+Por que de repente?
 <--------------------->
 
-Wow, the mini airship
-that I wanted!
+Uau, o mini dirigível
+que eu queria!
 <*********************>
 
 <p 02><a 62><n 30>
-Thank you! It's not
-much, but please take
-this!
+Obrigado! Não é muito,
+mas por favor, leve
+isso!
 <*********************>
 
 <p 02><a 63><n 00>
-Self-intro
+Auto-intro
 <*********************>
 
 <p 02><a 63><n 00>
-Normal Conversation1
+Diálogo Normal1
 <*********************>
 
 <p 02><a 63><n 00>
-Normal Conversation2
+Diálogo Normal2
 <*********************>
 
 <p 02><a 63><n 00>
-Normal Conversation3
+Diálogo Normal3
 <*********************>
 
 <p 02><a 63><n 00>
-Normal Conversation4
+Diálogo Normal4
 <*********************>
 
 <p 02><a 64><n 00>
-Self-intro
+Auto-intro
 <*********************>
 
 <p 02><a 64><n 00>
-Normal Conversation1
+Diálogo Normal1
 <*********************>
 
 <p 02><a 64><n 00>
-Normal Conversation2
+Diálogo Normal2
 <*********************>
 
 <p 02><a 64><n 00>
-Normal Conversation3
+Diálogo Normal3
 <*********************>
 
 <p 02><a 64><n 00>
-Normal Conversation4
+Diálogo Normal4
 <*********************>
 
 <p 02><a 65><n 00>
-Normal Conversation0
+Diálogo Normal0
 <*********************>
 
 <p 02><a 65><n 00>
-Normal Conversation1
+Diálogo Normal1
 <*********************>
 
 <p 02><a 65><n 00>
-Normal Conversation2
+Diálogo Normal2
 <*********************>
 
 <p 02><a 65><n 00>
-Normal Conversation3
+Diálogo Normal3
 <*********************>
 
 <p 02><a 65><n 00>
-Normal Conversation4
+Diálogo Normal4
 <*********************>
 
 <p 02><a 66><n 32>
-I had no idea there was
-such a big room down
-here.
+Não fazia idéia que
+havia uma sala tão
+grande aqui em baixo.
 <--------------------->
 
-Did you find the
-Legendary Pickaxe?
+Você encontrou a
+Picareta Lendária?
 <--------------------->
 
-Now that's a
-surprise. My name's
-Romeo! It's a pleasure!
+Agora isso foi uma
+surpresa. Meu nome é
+Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 66><n 32>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 66><n 32>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 66><n 32>
-I hear it's getting
-rough outside.
-Is that true?
+Ouvir dizer que está
+ficando complicado lá
+fora. Isso é verdade?
 <--------------------->
 
-Here, we're probably
-safe from Mavericks,
+Aqui, provavelmente
+estamos a salvo dos
+Mavericks,
 <--------------------->
 
-but it's hard to shake
-this bad feeling.
+mas é difícil se livrar
+dessa má sensação.
 <*********************>
 
 <p 02><a 67><n 5B>
-Oh, Hey! My name is
+Oh, ei! Meu nome é
 Julian!
 <--------------------->
 
-I'm glad I was able to
-become a Hunter,
+Estou contente por eu
+ter conseguido me
+tornar um Caçador,
 <--------------------->
 
-but I never knew it was
-such a hard job.
+mas eu nunca soube que
+era um trabalho tão
+duro.
 <--------------------->
 
-Today's my day off, so
-I've been playing video
-games.
+Hoje é meu dia de
+folga, então estive
+jogando videogame.
 <--------------------->
 
-I'll let you borrow one
-if you want. It's fun
-to face off one-on-one!
+Posso te emprestar um
+se quiser. É divertido
+enfrentar um ao outro!
 <*********************>
 
 <p 02><a 67><n 5B>
-I'm glad you liked that
-game I lent you.
+Estou feliz que tenha
+gostado desse jogo que
+eu te emprestei.
 <*********************>
 
 <p 02><a 67><n 5B>
-Why don't you play
-Gem Buster with one
-of your friends?
+Por que você não joga
+Gem Buster com seus
+amigos?
 <*********************>
 
 <p 02><a 67><n 5B>
-They say I'm the
-biggest video game fan
-in Hunter's Camp.
+Dizem que sou o maior
+fã de videogames no
+Acampamento de Caçador.
 <--------------------->
 
-I really like to play
-challenging games!
-Don't you?
+Realmente gosto de
+jogar jogos
+desafiantes! Não acha?
 <*********************>
 
 <p 02><a 67><n 5B>
-Looks like Mavericks
-are closing in on this
-area.
+Parece que os Mavericks
+estão se aproximando
+dessa área.
 <--------------------->
 
-But if we Hunters all
-work together,
+Mas se nós Caçadores
+trabalharmos todos
+juntos,
 <--------------------->
 
-we should be able to
-hold them off.
+devemos conseguir
+segurá-los.
 <*********************>
 
 <p 02><a 68><n 00>
-Self-intro
+Auto-intro
 <*********************>
 
 <p 02><a 68><n 00>
-Normal Conversation1
+Diálogo Normal1
 <*********************>
 
 <p 02><a 68><n 00>
-Normal Conversation2
+Diálogo Normal2
 <*********************>
 
 <p 02><a 68><n 00>
-Normal Conversation3
+Diálogo Normal3
 <*********************>
 
 <p 02><a 68><n 00>
-Normal Conversation4
+Diálogo Normal4
 <*********************>
 
 <p 02><a 96><n 50>
-A-Are you a H-Hunter?
+V-Você é um C-Caçador?
 <--------------------->
 
-You're here just in
-time!
+Você chegou aqui na
+hora certa!
 <--------------------->
 
-Uhh... Oh no... I lost
-my train of thought.
-What was I saying?
+Uhh... Oh não... Perdi
+a cabeça. O que foi que
+eu disse?
 <*********************>
 
 <p 02><a 96><n 50>
-With all the Mavericks
-around,
+Com todos os Mavericks
+por aí,
 <--------------------->
 
-it's getting difficult
-to get to Legion.
+está ficando difícil de
+chegar a Legião.
 <*********************>
 
 <p 02><a 96><n 50>
-The chip I just gave
-you is called Spike
-Wind.
+O chip que eu acabei de
+te dar é chamado de
+"Chip Botas de Vento".
 <--------------------->
 
 <p 02><a 96><n 50>
-I believe it will come
-in handy!
+Acredito que virá a
+calhar!
 <*********************>
 
 <p 02><a 96><n 50>
-With all the Mavericks
-around, it's getting
+Com todos os Mavericks
+por aí, está ficando
 <--------------------->
 
-difficult to get to
-Legion.
+difícil de chegar a
+Legião.
 <*********************>
 
 <p 02><a 96><n 50>
-With all the Mavericks
-around, it's getting
+Com todos os Mavericks
+por aí, está ficando
 <--------------------->
 
-difficult to get to
-Legion.
+difícil de chegar a
+Legião.
 <*********************>
 
 <p 02><a 42><n 23>
-My name is Doug!
+Meu nome é Doug!
 <*********************>
 
 <p 02><a 42><n 23>
-You're the talk of
-Hunter's Camp!
+Você é o assunto do
+Acampamento de Caçador!
 <*********************>
 
 <p 02><a 42><n 23>
-What's my job? I stand
-guard to make sure no
+O que é meu trabalho?
+Fico de guarda para
+garantir que nenhum
 <--------------------->
 
-Mechaniloids come
-close.
+Mechanilóide chegue
+perto.
 <*********************>
 
 <p 02><a 42><n 23>
-Lately, there's been
-the smell of
+Ultimamente, tem havido
+cheiro de
 <--------------------->
 
-Mechaniloids in the
-air.
+Mechanilóides no ar.
 <*********************>
 
 <p 02><a 42><n 23>
-Maverick rampages are
-happening all over.
+Alvoroços de Mavericks
+estão acontecendo por
+toda parte.
 <--------------------->
 
-We've got to be
-careful.
+Temos que ter cuidado.
 <*********************>
 
 <p 02><a 42><n 24>
-Yo! My name is Chuck!
+Oi! Meu nome é Chuck!
 <*********************>
 
 <p 02><a 42><n 24>
-Me and my friends were
-just talking about you.
+Eu e meu amigo
+acabavámos de falar
+sobre você.
 <*********************>
 
 <p 02><a 42><n 24>
-They say you're the
-Mega Man Model A Chosen
-One.
+Dizem que você é o
+Escolhido do Mega Man
+Modelo A.
 <--------------------->
 
-That's cool! What do
-you gotta do to be a
-Chosen One?
+Isso é legal! O que
+você tem que fazer para
+ser um Escolhido?
 <*********************>
 
 <p 02><a 42><n 24>
-They say you've been
-kickin' Pseudoroid butt
-left and right.
+Dizem que você chuta o
+lado esquerdo e direito
+de Pseudoróide.
 <--------------------->
 
-But we can't let our
-guard down,
+Mas não podemos baixar
+a guarda,
 <--------------------->
 
-just in case those
-suckers try and make a
-comeback.
+só no caso desses
+otários tentarem fazer
+um retorno.
 <*********************>
 
 <p 02><a 42><n 24>
-I wonder if we can
-defend this place all
-by ourselves.
+Eu me pergunto se
+podemos defender esse
+lugar sozinhos.
 <*********************>
 
 <p 02><a 42><n 25>
-My name is Roger.
+Meu nome é Roger.
 <*********************>
 
 <p 02><a 42><n 25>
-I know I'm way up here,
-but actually, I'm
-acrophobic.
+Sei que estou aqui em
+cima, mas na verdade,
+eu sou acrofóbico.
 <--------------------->
 
-That means that I'm
-afraid of heights. If I
-just look down,
+Isso significa que
+tenho medo de altura.
+só de olhar pra baixo,
 <--------------------->
 
-I get the shakes
-something awful.
+eu fico agitado com
+alguma coisa horrível.
 <*********************>
 
 <p 02><a 42><n 25>
-This job keeps me on my
-feet all day. My feet
-hurt something fierce.
+Esse trabalho me mantém
+de pé o dia todo. Meus
+pés doem terrívelmente.
 <--------------------->
 
-I wish somebody would
-hurry up and relieve me
-of my post.
+Quem me derá alguém se
+apressasse e me
+aliviasse do meu posto.
 <*********************>
 
 <p 02><a 42><n 25>
-If the Mavericks come,
+Se os Mavericks virem,
 <--------------------->
 
-how am I supposed to
-face 'em down with this
-puny weapon?
+Como é que eu vou
+enfrentá-los com essa
+arma insignificante?
 <*********************>
 
 <p 02><a 42><n 25>
-Dang! As if me being
-acrophobic wasn't
-enough,
+Droga! Como se ser
+acrofóbico não fosse
+suficiente,
 <--------------------->
 
-now these Mavericks
-show up... *sigh*
+agora aqueles Mavericks
+apareceram... *suspiro*
 <*********************>
 
 <p 02><a 42><n 26>
-My name is Kirk. I'm a
-Hunter just like you!
+Meu nome é Kirk. Sou
+um Caçador assim
+como você!
 <*********************>
 
 <p 02><a 42><n 26>
-I keep watch over
-Hunter's Camp from
-sunup to sundown.
+Eu vigio o Acampamento
+de Caçador do nascer do
+sol ao pôr do sol.
 <*********************>
 
 <p 02><a 42><n 26>
-If I had a better
-weapon,
+Se eu tivesse uma arma
+melhor,
 <--------------------->
 
-I could take out those
-Pseudoroids easy!
+eu poderia fácilmente
+pegar esses
+Pseudoróides!
 <*********************>
 
 <p 02><a 42><n 26>
-It's pretty boring just
-standing guard at
-Hunter's Camp.
+É bem chato só ficar de
+guarda no Acampamento
+de Caçador.
 <--------------------->
 
-I want to take on a big
-mission request like
-you.
+Quero pegar um pedido
+de missão grande como
+o seu.
 <*********************>
 
 <p 02><a 42><n 26>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 42><n 27>
-I'm Kyrian. Nice to
-meet you!
+Eu sou Kyrian. Prazer
+em conhecê-lo!
 <*********************>
 
 <p 02><a 42><n 27>
-Hey, are you a Hunter
-too?
+Ei, você também é um
+Caçador?
 <*********************>
 
 <p 02><a 42><n 27>
-Uh? What are we doing
-here in a place like
-this?
+Hã? O que estamos
+fazendo aqui em um
+lugar como esse?
 <--------------------->
 
-Hunters without mission
-requests split up and
+Caçadores sem pedidos
+de missão se dividem e
 <--------------------->
 
-spread out to defend
-the camp!
+se espalham para
+defender o acampamento!
 <*********************>
 
 <p 02><a 42><n 27>
-It seems like there are
-more and more of these
-Mavericks every day.
+Parece que há cada vez
+mais desse Mavericks
+todos os dias.
 <--------------------->
 
-I'm worried that we
-might not be able to
-hold them all off.
+Estou preocupado que
+talvez não possamos
+mantê-los afastados.
 <*********************>
 
 <p 02><a 42><n 27>
-Things are about to get
-ugly around here.
+As coisas estão prestes
+a ficarem feias por
+aqui.
 <*********************>
 
 <p 02><a 42><n 28>
-My name is Tim. I may
-not look it,
+Meu nome é Tim. Posso
+não parecer,
 <--------------------->
 
-but I've been a Hunter
-for a long time!
+mas fui um Caçador por
+um longo tempo!
 <*********************>
 
 <p 02><a 42><n 28>
-It's a dangerous job,
-but for me,
+É um trabalho perigoso,
+mas pra mim,
 <--------------------->
 
-there's nothing else
-I'd rather do.
+não há mais nada que eu
+prefira fazer.
 <*********************>
 
 <p 02><a 42><n 28>
-So, you're going to
-meet the Sage Trinity?
-That's impressive!
+Então, vai se encontrar
+com a Tindade Sábia?
+Isso é impressionante!
 <*********************>
 
 <p 02><a 42><n 28>
-Word gets around about
-everything you do!
+As notícias correm
+sobre tudo o que você
+faz!
 <--------------------->
 
-It shows that you're
-the Model A Chosen One!
+Isso mostra que você é
+o Escolhido do Modelo
+A!
 <*********************>
 
 <p 02><a 42><n 28>
-The Maverick activity
-increased just as we
-got here.
+A atividade Maverick
+aumentou assim como a
+nossa chegada até aqui.
 <--------------------->
 
-Could it be because of
-that Biometal Model W?
+Poderia ser por causa
+daquele Biometal Modelo
+W?
 <*********************>
 
 <p 02><a 42><n 29>
-I'm Abe. Glad to meet
-you!
+Eu sou Abe. Prazer em
+conhecê-lo!
 <*********************>
 
 <p 02><a 42><n 29>
-You're a new face in
-these parts. Are you a
-Hunter?
+Você é um rosto novo
+por essas bandas. Você
+é um Caçador?
 <*********************>
 
 <p 02><a 42><n 29>
-Well just try to keep
-up with the others and
-do your job. Good luck!
+Bem, só tente ficar com
+os outros e faça seu
+trabalho. Boa sorte!
 <*********************>
 
 <p 02><a 42><n 29>
-So, you're the Model A
-Chosen One everybody's
-talking about.
+Então, você é o
+Escolhido do Modelo A
+que todos falam.
 <--------------------->
 
-I didn't know; I'm kind
-of out of touch with
-the latest news.
+Não sabia; Estou meio
+que fora de contato com
+as últimas notícias.
 <*********************>
 
 <p 02><a 42><n 29>
-Lately, I've had run-in
-after run-in with
-Mavericks.
+Ultimamente, eu tive
+encontro após encontro
+com Mavericks.
 <--------------------->
 
-There were some pretty
-close calls.
+Havia algumas chamadas
+muito próximas.
 <*********************>
 
 <p 02><a 42><n 2A>
-My name is Ben!
-Lately, you've been the
-talk of Hunter's Camp!
+Meu nome é Ben! Ultima-
+mente, você foi assunto
+do Acamp. de Caçador!
 <*********************>
 
 <p 02><a 42><n 2A>
-By the way, how ya
-feelin'?
+A propósito, como está
+se sentindo?
 <*********************>
 
 <p 02><a 42><n 2A>
-Frankly, I'd rather be
-out there stompin' on
-some Mechaniloids
+Francamente, preferia
+estar lá fora pisando
+em alguns Mechanilóides
 <--------------------->
 
-than standin' around
-waitin' for the enemy
-to come to me.
+do que ficar parado
+esperando o inimigo vir
+até mim.
 <*********************>
 
 <p 02><a 42><n 2A>
-Seems like those
-Mavericks are gettin'
+Parece que aqueles
+Mavericks estão ficando
 <--------------------->
 
-more and more outta
-hand,
+cada vez mais fora de
+controle,
 <--------------------->
 
-what in the world could
-be causin' it!?
+o que no mundo poderia
+estar causando isso!?
 <*********************>
 
 <p 02><a 42><n 2A>
-Those dang Mavericks
-are pushin' their luck!
+Aqueles Mavericks do
+caralho estão forçando
+as suas mortes!
 <--------------------->
 
-I swear on my Hunter
-life,
+Juro pela minha vida de
+Caçador,
 <--------------------->
 
-I won't let 'em harm
-one person in here!
+que não deixarei que
+eles façam mal a uma
+pessoa aqui!
 <*********************>
 
 <p 02><a 42><n 4A>
-My name is Burt!
+Meu nome é Burt!
 <*********************>
 
 <p 02><a 42><n 4A>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 42><n 4A>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 42><n 4A>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 42><n 4A>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 42><n 4D>
-Hello! I'm Patrick.
+Olá! Eu sou Patrick.
 <--------------------->
 
-When there's no
-Hunter work for me to
-do,
+Quando não há nenhum
+trabalho de Caçador pra
+mim fazer,
 <--------------------->
 
-I do odd jobs here at
-the station.
+eu faço bicos aqui na
+estação.
 <--------------------->
 
-If you continue to the
-right of the station,
+Se continuar indo à
+direita da estação,
 <--------------------->
 
-you'll find an elevator
-that goes down.
+você encontrará um
+elevador que desce.
 <--------------------->
 
-Get on top of the
-elevator,
+Suba em cima do
+elevador,
 <--------------------->
 
-and press down on the
-<dpad>Control Pad to go
-down.
+e pressione pra baixo
+no <dpad> para descer.
 <--------------------->
 
-But be careful of the
-Mini Cannon sentries.
+Mas tenha cuidado com
+os Mini Canhões
+sentinelas.
 <*********************>
 
 <p 02><a 42><n 4D>
-If you continue to the
-right of the station,
+Se continuar indo à
+direita da estação,
 <--------------------->
 
-you'll find an elevator
-that goes down.
+você encontrará um
+elevador que desce.
 <--------------------->
 
-Get on top of the
-elevator,
+Suba em cima do
+elevador,
 <--------------------->
 
-and press down on the
-<dpad>Control Pad to go
-down.
+e pressione pra baixo
+no <dpad> para descer.
 <--------------------->
 
-But be careful of the
-Mini Cannon sentries.
+Mas tenha cuidado com
+os Mini Canhões
+sentinelas.
 <*********************>
 
 <p 02><a 42><n 4D>
-If you continue to the
-right of the station,
+Se continuar indo à
+direita da estação,
 <--------------------->
 
-you'll find an elevator
-that goes down.
+você encontrará um
+elevador que desce.
 <--------------------->
 
-Get on top of the
-elevator,
+Suba em cima do
+elevador,
 <--------------------->
 
-and press down on the
-<dpad>Control Pad to go
-down.
+e pressione pra baixo
+no <dpad> para descer.
 <--------------------->
 
-But be careful of the
-Mini Cannon sentries.
+Mas tenha cuidado com
+os Mini Canhões
+sentinelas.
 <*********************>
 
 <p 02><a 42><n 4D>
-It's good the train's
-running again.
+É bom que o trem esteja
+funcionando novamente.
 <--------------------->
 
-We can move small cargo
-through the
-transervers,
+Podemos mover pequenas
+cargas através dos
+transervidores,
 <--------------------->
 
-but, we still need to
-rely on the train to
-move large cargo.
+mas, ainda precisamos
+contar com o trem para
+mover grandes cargas.
 <--------------------->
 
-I don't have words to
-thank you!
+Não tenho palavras para
+te agradecer!
 <*********************>
 
 <p 02><a 42><n 4D>
-There's Mavericks
-crawling all over the
-place!
+Há Mavericks rastejando
+por todo lado!
 <--------------------->
 
-It's not even safe to
-go outside!
+Não é seguro nem mesmo
+ir lá fora!
 <*********************>
 
 <p 02><a 40><n 57>
-Thank you for before!
-As you can see I'm
-doing better.
+Primeiramente obrigado!
+Como você pode ver,
+estou melhor.
 <--------------------->
 
-My name is Tom. I
-know I'm the one that
-owes you,
+Meu nome é Tom. Sei que
+é eu que te devo uma,
 <--------------------->
 
-but, the holes don't
-dig themselves for
-free, ya know.
+mas, os buracos não se
+cavam por livre
+vontade, você sabe.
 <--------------------->
 
-Could you help me out
-with a donation?
+Você poderia me ajudar
+com uma doação?
 <*********************>
 
 <p 02><a 40><n 57>
-The Oil Field crash
-site has already been
-excavated!
+O local do acidente do
+Campo de petróleo já
+foi escavado!
 <*********************>
 
 <p 02><a 40><n 57>
-The Oil Field crash
-site has already been
-excavated!
+O local do acidente do
+Campo de petróleo já
+foi escavado!
 <*********************>
 
 <p 02><a 40><n 57>
-The Oil Field crash
-site has already been
-excavated!
+O local do acidente do
+Campo de petróleo já
+foi escavado!
 <*********************>
 
 <p 02><a 40><n 57>
-The Oil Field crash
-site has already been
-excavated!
+O local do acidente do
+Campo de petróleo já
+foi escavado!
 <*********************>
 
 <p 02><a 40><n 57>
-There's a room a little
-further down.
+Há uma sala um pouco
+mais abaixo.
 <--------------------->
 
-With your donation, it
-looks like we can dig
-it up.
+Com sua doação, parece
+que nós poderemos
+desenterrá-la.
 <*********************>
 
 <p 02><e 01><a 40><n 57>
-Make a donation?
-  Yes
-  No 
+Fazer uma doação?
+  Sim
+  Não 
 <*********************>
 
 <p 02><e 01><a 40><n 57>
-How much?
-  100 EC
-  300 EC
+Quanto?
+  100 CE
+  300 CE
 <*********************>
 
 <p 02><a 40><n 57>
-Ohh... Well, come back
-if you change your
-mind.
+Ohh... Bem, volte se
+você mudar de idéia.
 <*********************>
 
 <p 02><a 40><n 57>
-Thanks. I'll start
-digging right away!
+Obrigado. Vou começar a
+cavar agora mesmo!
 <*********************>
 
 <p 02><a 40><n 57>
-Thank you very much!
-I'll get right on it!
+Muito obrigado!
+Eu vou cuidar disso!
 <*********************>
 
 <p 02><a 40><n 57>
-Uh-oh... I'm sorry, but
-you don't have enough
-E-Crystals.
+Uh-oh... Sinto muito,
+mas você não tem
+Cristais suficientes.
 <*********************>
 
 <p 02><a 40><n 57>
-Thanks to your
-donation, it looks like
-we can dig it up.
+Graças a sua doação,
+parece nós poderemos
+desenterrá-lo.
 <*********************>
 
 <p 02><a 98><n 54>
-Hello and welcome to
-the Sub Tank Server!
+Olá e bem vindo ao
+Servidor de Sub-Tanque!
 <--------------------->
 
-Fill up your Sub Tank
-today, for the low, low
-price of 50 EC, 
+Encha seu Sub-Tanque
+hoje, pelo menor, menor
+preço de 50 CE, 
 <--------------------->
 
-regardless of how low
-your tank is. 
+independente de quão
+vazio estiver seu
+tanque. 
 <*********************>
 
 <p 02><e 01><a 98><n 54>
-Fill up?
-  Yes
-  No
+Encher?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 98><n 54>
-Wait just a moment
-while I begin filling.
+Espere só um instante
+enquanto termino de
+encher.
 <*********************>
 
 <p 02><a 98><n 54>
-OK. Please come again.
+OK. Por favor, volte
+outra vez.
 <*********************>
 
 <p 02><a 98><n 54>
-It seems you do not
-have a Sub Tank.
+Parece que você não tem
+um Sub-Tanque.
 <*********************>
 
 <p 02><a 98><n 54>
-Your Sub Tank is
-already filled to
-capacity.
+Seu Sub-Tanque já está
+totalmente cheio.
 <*********************>
 
 <p 02><a 98><n 54>
-I'm sorry. You do not
-have enough EC.
+Sinto muito. Você não
+tem CE suficiente.
 <*********************>
 
 <p 02><a 95><n 52>
-I'm Nina. I work the
-station information
-desk.
+Eu sou Nina. Eu
+trabalho no balcão de
+informações da estação.
 <--------------------->
 
-You can ask me anything
-about the station and
-the surrounding area.
+Você pode me perguntar
+qualquer coisa sobre a
+estação e arredores.
 <*********************>
 
 <p 02><a 95><n 52>
-To get to the train, go
-out that door and go
-right.
+Para pegar o trem, saia
+por aquela porta e vá
+pela direita.
 <*********************>
 
 <p 02><a 95><n 52>
-Because of the train
-accident,
+Por causa do acidente
+de trem,
 <--------------------->
 
-passenger numbers have
-been dropping.
+o número de passageiros
+tem caído.
 <--------------------->
 
-I have to work hard to
-ensure
+Tenho que trabalhar
+duro para garantir
 <--------------------->
 
-that the Hunters can
-ride the train safely.
+que os Caçadores possam
+pegar o trem com
+segurança.
 <*********************>
 
 <p 02><a 95><n 52>
-Good day!
+Bom dia!
 <--------------------->
 
-I heard you're the one
-who got the parts
+Ouvi dizer que é você
+quem tem as peças
 <--------------------->
 
-together to fix the
-train.
+para consertar o trem.
 <*********************>
 
 <p 02><a 95><n 52>
-Good day!
+Bom dia!
 <--------------------->
 
-No one wants to ride
-the train
+Ninguém quer pegar o
+trem
 <--------------------->
 
-because of the recent
-Maverick sightings.
+por causa das recentes
+aparições de Mavericks.
 <*********************>
 
 <p 02><a 95><n 52>
-This hardly makes up
-for you fixing the
-train,
+Isso dificilmente vai
+compensar o conserto
+do trem,
 <--------------------->
 
-but please take it.
+mas por favor leve-o.
 <*********************>
 
 <p 02><a 42><n 4B>
-Hey, I'm Antonio!
+Ei, eu sou Antonio!
 <*********************>
 
 <p 02><a 42><n 4B>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 42><n 4B>
-The wrench you brought
-me was the new wrench I
-had just bought.
+A chave que você me
+trouxe era a nova chave
+que acabo de comprar.
 <--------------------->
 
-As soon as I got it, I
-went around and showed
-it off to everyone.
+Assim que a comprei,
+saí por aí mostrando
+ela para todo mundo.
 <--------------------->
 
-And then I lost it.
+E depois eu a perdi.
 <--------------------->
 
-I guess it serves me
-right, but it's not
-cool.
+Acho que isso me serve
+como lição, mas não é
+legal.
 <--------------------->
 
-You know where I'm
-coming from, right?
+Você sabe aonde quero
+chegar, certo?
 <--------------------->
 
-Anyway, thanks to you,
-I got it back!
+De todo modo, graças a
+você, recuperei ela de
+volta!
 <*********************>
 
 <p 02><a 42><n 4B>
-The wrench you brought
-me was the new wrench I
-had just bought.
+A chave que você me
+trouxe era a nova chave
+que acabo de comprar.
 <--------------------->
 
-As soon as I got it, I
-went around and showed
-it off to everyone.
+Assim que a comprei,
+saí por aí mostrando
+ela para todo mundo.
 <--------------------->
 
-And then I lost it.
+E depois eu a perdi.
 <--------------------->
 
-I guess it serves me
-right, but it's not
-cool.
+Acho que isso me serve
+como lição, mas não é
+legal.
 <--------------------->
 
-You know where I'm
-coming from, right?
+Você sabe aonde quero
+chegar, certo?
 <--------------------->
 
-Anyway, thanks to you,
-I got it back!
+De todo modo, graças a
+você, recuperei ela de
+volta!
 <*********************>
 
 <p 02><a 42><n 4B>
-The wrench you brought
-me was the new wrench I
-had just bought.
+A chave que você me
+trouxe era a nova chave
+que acabo de comprar.
 <--------------------->
 
-As soon as I got it, I
-went around and showed
-it off to everyone.
+Assim que a comprei,
+saí por aí mostrando
+ela para todo mundo.
 <--------------------->
 
-And then I lost it.
+E depois eu a perdi.
 <--------------------->
 
-I guess it serves me
-right, but it's not
-cool.
+Acho que isso me serve
+como lição, mas não é
+legal.
 <--------------------->
 
-You know where I'm
-coming from, right?
+Você sabe aonde quero
+chegar, certo?
 <--------------------->
 
-Anyway, thanks to you,
-I got it back!
+De todo modo, graças a
+você, recuperei ela de
+volta!
 <*********************>
 
 <FIM>

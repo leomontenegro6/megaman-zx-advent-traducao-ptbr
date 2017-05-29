@@ -2,47 +2,49 @@
 <#####################>
 
 <p 02><a 5E><n 42>
-Oh no... What should I
-do?
+Ah não... O que devo
+fazer?
 <--------------------->
 
-When I opened my little
-bird's cage to feed
-her, she flew away. 
+Quando eu abri a gaiola
+do passarinho para
+alimentá-la, ela fugiu.
 <--------------------->
 
-I would go look for her
-myself, but I have to
-stay here.
+Eu mesmo ia procurá-la,
+mas tenho que ficar
+aqui.
 <--------------------->
 
-Could you look for my
-bird for me? Please?
+Você poderia procurar
+meu passarinho? Por
+favor?
 <--------------------->
 
-She's a cute little
-white bird. Her name is
-Nightingale.
+Ela é um passarinho
+branco bonitinho. Seu
+nome é Rouxinol.
 <*********************>
 
 <p 02><a 5E><n 42>
-Well? Do you have any
-idea where she could
-have gone?
+Ora? Você tem idéia
+para onde ela poderia
+ido?
 <--------------------->
 
-Someone did say that
-they heard a bird
-singing
+Aguém disse que ouviram
+falar de um canto de
+pássaro
 <--------------------->
 
-beyond that green door.
+além daquela porta
+verde.
 <*********************>
 
 <p 02><a 5E><n 42>
-Thank you... I guess I
-should buy a better
-cage.
+Obrigado... Acho que eu
+deveria comprar uma
+gaiola melhor.
 <*********************>
 
 <FIM>

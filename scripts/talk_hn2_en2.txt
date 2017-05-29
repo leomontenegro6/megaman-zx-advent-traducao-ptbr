@@ -2,1173 +2,1168 @@
 <#####################>
 
 <p 02><a 55><n 3B>
-Hello! My name is
-Sharon!
+Olá! Meu nome é Sharon!
 <--------------------->
 
-Are you trying to get
-to that room up ahead
-too?
+Você está tentando
+chegar naquela sala à
+frente também?
 <--------------------->
 
-It seems like that
-green door
+Parece que aquela porta
+verde
 <--------------------->
 
-has some kind of
-security lock on it.
+tem algum tipo de trava
+de segurança nela.
 <*********************>
 
 <p 02><a 55><n 3B>
-I wasn't really
-interested in being a
-Hunter at first,
+Eu realmente não estava
+interessada em ser uma
+Caçadora a princípio,
 <--------------------->
 
-but now I like it.
+mas agora eu gosto.
 <--------------------->
 
-It's kind of fun to
-check out different
-areas.
+É o tipo de diversão
+verificar áreas
+diferentes.
 <*********************>
 
 <p 02><a 55><n 3B>
-I know that handling
-mission requests is
-very important and all,
+Sei que lidar com os
+pedidos de missão é
+muito importante,
 <--------------------->
 
-but sometimes we need
-to take a break from it
-all.
+mas às vezes precisamos
+fazer um pausa de tudo.
 <--------------------->
 
-If they work us TOO
-hard, we'll lose our
-Hunter's edge.
+Se nos fazem trabalhar
+demais, perdemos o
+limite de Caçador.
 <--------------------->
 
-When I'm tired, I'll
-borrow some comics from
-Ray
+Quando estou cansado,
+peço empretado algumas
+HQs de Ray
 <--------------------->
 
-to take my mind off
-things.
+para tirar as coisas da
+minha cabeça.
 <--------------------->
 
-I think I'll save up my
-E-Crystals to buy some
-comics of my own.
+Acho que pouparei meus 
+Cristais pra comprar
+minhas próprias HQs.
 <*********************>
 
 <p 02><a 55><n 3B>
-Um, have you ever been
-in that room over there
-to left of that ladder?
+Hum, já esteve naquela
+sala ali à esquerda
+daquelas escadas?
 <--------------------->
 
-There are some blocks
-in the way of the items
-in that room.
+Há alguns blocos na
+direção dos itens
+naquela sala.
 <--------------------->
 
-They're made so that if
-you bust the center
-block,
+Eles são feitos de modo
+que, se você estourar o
+bloco central,
 <--------------------->
 
-the ones next to it
-will break too.
+aqueles que estiverem
+próximos a ele também
+quebrarão.
 <--------------------->
 
-But, maybe you knew
-that already.
+Mas, talves você já
+saiba disso.
 <*********************>
 
 <p 02><a 55><n 3B>
-If you go through that
-green door on the right
+Se você passar por
+aquela porta verde à
+direita
 <--------------------->
 
-and keep going
-straight, you'll come
-to a huge room.
+e continuar em frente,
+chegará a uma sala
+enorme.
 <--------------------->
 
-Go to the right of that
-room and there's a
-transerver 
+Vá à direita daquela
+sala e haverá um
+transervidor
 <--------------------->
 
-that has only one
-transport destination,
-the Lab.
+que tem apenas um
+destino de transporte,
+o Laboratório.
 <--------------------->
 
-Go to the left, and
-you'll go to the
-Waterfall Ruins.
+Vá pra esquerda, e você
+chegará nas Ruínas da
+Cachoeira.
 <*********************>
 
 <p 02><a 56><n 3C>
-Hello... Nice to meet
-you... I think? Have we
-met before?
+Olá... Prazer em
+conhecê-la... eu acho?
+Já nos vimos antes?
 <--------------------->
 
-Anyways, my name is
-Amy! I'm new at this
-camp.
+Enfim, meu nome é Amy!
+Sou nova nesse
+acampamento.
 <--------------------->
 
-I don't quite remember
-everyone's face yet.
+Não lembro muito bem do
+rosto de todo mundo
+ainda.
 <*********************>
 
 <p 02><a 56><n 3C>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 56><n 3C>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 56><n 3C>
-I'm just a Hunter in
-training,
+Sou apenas um Caçador
+em treinamento,
 <--------------------->
 
-so I don't get many
-mission requests from
-Legion.
+então não tenho muitos
+pedidos de missão da
+Legião.
 <--------------------->
 
-I want to hurry up and
-make a contribution,
+Quero me apressar e
+fazer uma contribuição,
 <--------------------->
 
-like the other great
-Hunters around here.
+como os outros grandes
+Caçadores por aqui.
 <*********************>
 
 <p 02><a 56><n 3C>
-Going after that
-Model W, that's a
-dangerous request.
+Ir atrás daquele Modelo
+W, isso é uma
+solicitação perigosa.
 <--------------------->
 
-I don't think I'd be
-able to do it.
+Acho que eu não seria
+capaz de fazer isso.
 <--------------------->
 
-I admire you for even
-accepting a difficult
-request like that.
+Admiro você por aceitar
+uma solicitação difícil
+assim.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-So you're a Hunter too,
-huh...
+Então você também é uma
+Caçadora, hein...
 <--------------------->
 
-Boy, there's just no
-shortage of new
-recruits lately.
+Cara, não há carência
+de novos recrutas
+ultimamente.
 <--------------------->
 
-The name's Ward...
-Pleased to meet you!
+O nome é Ward...
+Prazer em conhecê-la!
 <--------------------->
 
-I put bounties out on
-the Mechaniloids that
-show up around here,
+Coloco recompensas
+nos Mecanilóides que
+aparecem por aqui,
 <--------------------->
 
-and I make the payouts
-to those Hunters who
-have the right stuff.
+e faço os pagamentos
+daqueles Caçadores que
+têm o material certo.
 <--------------------->
 
-If you think you've got
-the right stuff,
+Se acha que tem o
+material certo,
 <--------------------->
 
-you should take a crack
-at it.
+você deve dar uma
+olhada.
 <*********************>
 
 <p 02><a 59><n 46>
-Recently there've been
-some sightings
+Recentemente houve
+alguns aparições
 <--------------------->
 
-of wild Mechaniloids
-near Hunter's Camp.
+de Mecanilóides
+selvagens perto do
+Acampamento de Caçador.
 <*********************>
 
 <p 02><a 59><n 46>
-I heard through the
-grapevine that you took
-out those Pseudoroids
+Ouvi através de boatos
+eue você pegou aqueles
+Pseudoróides
 <--------------------->
 
-that attacked the
-train.
+que atacaram o trem.
 <--------------------->
 
-It helps to have a fine
-Hunter like you in our
-ranks.
+Isso ajuda a ter muitos
+Caçadores como você em
+nossas classificações.
 <*********************>
 
 <p 02><a 59><n 46>
-It looks like a
-resurgence of
-Pseudoroids
+Parece que um
+reaparecimento de
+Pseudoróides
 <--------------------->
 
-is beginning all over
-the world.
+está iniciando em
+todo o mundo.
 <--------------------->
 
-We should probably
-gather some info
+Provavelmente devemos
+reunir algumas
+informações
 <--------------------->
 
-from the Hunters on the
-roof who are on look
-out.
+dos Caçadores sobre o
+telhado em que estão
+vigiando.
 <*********************>
 
 <p 02><a 59><n 46>
-The Pseudoroid
-resurgence continues,
-it seems.
+O reaparecimento dos
+Pseudoróides continua,
+ao que parece.
 <--------------------->
 
-It could be Model W
-causing it...
+Poderia ser o Modelo W
+causando isso...
 <*********************>
 
 <p 02><a 5B><n 48>
-I'm Gary, the Data Room
-Administrator.
+Eu sou Gary,
+o Administrador de
+Banco de Dados
 <--------------------->
 
-If you get your hands
-on something called a
-Secret Disk,
+Se você colocar suas
+mãos em algo chamado
+Disco Secreto,
 <--------------------->
 
-you should bring it
-here for analysis.
+deve trazê-lo aqui para
+analisar.
 <--------------------->
 
-It contains information
-about enemies, etc.
+Ele contém informações
+sobre inimigos e etc.
 <*********************>
 
 <p 02><a 5B><n 48>
-I'm Gary, the Data Room
-Administrator.
+Eu sou Gary,
+o Administrador de
+Banco de Dados
 <--------------------->
 
-If you get your hands
-on something called a
-Secret Disk,
+Se você colocar suas
+mãos em algo chamado
+Disco Secreto,
 <--------------------->
 
-you should bring it
-here for analysis.
+deve trazê-lo aqui para
+analisar.
 <--------------------->
 
-It contains information
-about enemies, etc.
+Ele contém informações
+sobre inimigos e etc.
 <*********************>
 
 <p 02><a 5B><n 48>
-I'm Gary, the Data Room
-Administrator.
+Eu sou Gary,
+o Administrador de
+Banco de Dados
 <--------------------->
 
-If you get your hands
-on something called a
-Secret Disk,
+Se você colocar suas
+mãos em algo chamado
+Disco Secreto,
 <--------------------->
 
-you should bring it
-here for analysis.
+deve trazê-lo aqui para
+analisar.
 <--------------------->
 
-It contains information
-about enemies, etc.
+Ele contém informações
+sobre inimigos e etc.
 <*********************>
 
 <p 02><a 5B><n 48>
-I'm Gary, the Data Room
-Administrator.
+Eu sou Gary,
+o Administrador de
+Banco de Dados
 <--------------------->
 
-If you get your hands
-on something called a
-Secret Disk,
+Se você colocar suas
+mãos em algo chamado
+Disco Secreto,
 <--------------------->
 
-you should bring it
-here for analysis.
+deve trazê-lo aqui para
+analisar.
 <--------------------->
 
-It contains information
-about enemies, etc.
+Ele contém informações
+sobre inimigos e etc.
 <*********************>
 
 <p 02><a 5B><n 48>
-I'm Gary, the Data Room
-Administrator.
+Eu sou Gary,
+o Administrador de
+Banco de Dados
 <--------------------->
 
-If you get your hands
-on something called a
-Secret Disk,
+Se você colocar suas
+mãos em algo chamado
+Disco Secreto,
 <--------------------->
 
-you should bring it
-here for analysis.
+deve trazê-lo aqui para
+analisar.
 <--------------------->
 
-It contains information
-about enemies, etc.
+Ele contém informações
+sobre inimigos e etc.
 <*********************>
 
 <p 02><a 5B><n 48>
-I'm Gary, the Data Room
-Administrator.
+Eu sou Gary,
+o Administrador de
+Banco de Dados
 <--------------------->
 
-If you get your hands
-on something called a
-Secret Disk,
+Se você colocar suas
+mãos em algo chamado
+Disco Secreto,
 <--------------------->
 
-you should bring it
-here for analysis.
+deve trazê-lo aqui para
+analisar.
 <--------------------->
 
-It contains information
-about enemies, etc.
+Ele contém informações
+sobre inimigos e etc.
 <*********************>
 
 <p 02><a 5B><n 48>
-Feel free to use that
-computer over there.
+Fique à vontade para
+usar esse computador
+ali.
 <*********************>
 
 <p 02><a 5B><n 48>
-How's the Secret Disk
-collecting coming
-along?
+Como anda a coleta de
+Discos Secretos?
 <*********************>
 
 <p 02><a 5B><n 48>
-You can learn a lot
-when you analyze a
-Secret Disk.
+Você pode aprender
+muito quando analisar
+um Disco Secreto.
 <*********************>
 
 <p 02><a 5B><n 48>
-Have you found many
-Secret Disks?
+Já encontrou muitos
+Discos Secretos?
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <p 02><a 5E><n 42>
-By the way, have you
-gotten a Hunter's
-License issued yet?
+A propósito, você já
+possui uma Licença de
+Caçador emitida?
 <--------------------->
 
-If you haven't, you
-should go to the room
-with the transerver.
+Se não tiver, você deve
+ir para a sala com o
+transervidor.
 <--------------------->
 
-If you already have,
-then you should look
-around Hunter's Camp.
+Se já tem, então você
+deve olhar ao redor do
+Acampamento de Caçador.
 <*********************>
 
 <p 02><a 5E><n 42>
-I heard the news...
+Ouvi o noticiário...
 <--------------------->
 
-You guys are repairing
-the train that goes to
-Legion?
+Vocês estão consertando
+o trem que vai para a
+Legião?
 <--------------------->
 
-Wow... a personal
-request from the Sage
-Trinity.
+Uau... uma solicitação
+pessoal da Trindade
+Sábia.
 <*********************>
 
 <p 02><a 5E><n 42>
-They say Mavericks are
-popping up
-everywhere...
+Dizem que os Mavericks
+estão surgindo em toda
+parte...
 <--------------------->
 
-I hope all the Hunter's
-out there make it back
-safely.
+Espero que todos os
+Caçadores lá fora
+voltem a salvos.
 <*********************>
 
 <p 02><a 5E><n 42>
-I know requests from
-Legion are important
-and all,
+Sei que solicitações da
+Legião são importantes
+e tudo,
 <--------------------->
 
-but don't overdo it,
-OK?
+mas não exagere, OK?
 <--------------------->
 
-I'm not just telling
-you that because I'm a
-nurse,
+Não estou dizendo isso
+só porque sou uma
+enfermeira,
 <--------------------->
 
-I'm asking you as a
-friend.
+estou te pedindo como
+uma amiga.
 <*********************>
 
 <p 03><a 5E><n 42>
-Well, are you feeling
-any better?
+Bem, você está se
+sentindo melhor?
 <--------------------->
 
-I'm Anna. I give
-Hunters medical
-attention
+Eu sou Anna. Eu dou
+atenção médica aos
+Caçadores
 <--------------------->
 
-in the infirmary.
+na infermaria.
 <--------------------->
 
-The transerver isn't in
-here, it's in room 04.
+O transervidor não está
+aqui, está na sala 04.
 <--------------------->
 
-To enter the door in
-the back room,
+Para entrar pela porta
+na sala dos fundos,
 <--------------------->
 
-stand in front of it
-and push up on the
-<dpad>Control Pad!
+fique em frente dele e
+aperte pra cima no <dpad>!
 <--------------------->
 
-You can also push up on
-the <dpad>Control Pad
+Você também pode
+apertar pra cima no <dpad>
 <--------------------->
 
-to examine items or
-talk to someone!
+para examinar itens ou
+conversar com alguém!
 <*********************>
 
 <FIM>

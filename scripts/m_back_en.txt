@@ -2,66 +2,66 @@
 <#####################>
 
 
-No data found
+Vazio
 <*********************>
 
 
-Data corrupted
+Dados corrompidos
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select
-<btn_a>Button:Save <btn_b>Button:Quit
+<dpad> <esquerda>/<direita>: Selecionar
+<btn_a>: Salvar <btn_b>: Cancelar
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select Data
-<btn_a>Button:Load <btn_b>Button:Quit
+<dpad> <esquerda>/<direita>: Escolher jogo
+<btn_a>: Carregar <btn_b>: Cancelar
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select Data
-<btn_a>Button:Delete <btn_b>Button:Quit
+<dpad> <esquerda>/<direita>: Escolher jogo
+<btn_a>: Deletar <btn_b>: Cancelar
 <*********************>
 
 
-Overwrite this data?
-  Yes    No
+Sobrescrever dados?
+  Sim    Não
 <*********************>
 
 
-Load this data?
-  Yes    No
+Carregar jogo?
+  Sim    Não
 <*********************>
 
 
-Delete this data?
-  Yes    No
+Deletar jogo salvo?
+  Sim    Não
 <*********************>
 
 
-Data saved
+Jogo salvo
 <*********************>
 
 
-Data loaded
+Jogo carregado
 <*********************>
 
 
-Data deleted
+Jogo excluído
 <*********************>
 
 
-Failed to save data
+Erro ao salvar jogo
 <*********************>
 
 
-Saving data...
-Do not turn the power OFF.
+Salvando jogo...
+Não desligue o portátil.
 <*********************>
 
 
-Failed to delete data
+Erro ao deletar jogo
 <*********************>
 
 <FIM>

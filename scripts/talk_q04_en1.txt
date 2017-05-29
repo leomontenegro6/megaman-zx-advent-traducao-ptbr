@@ -2,167 +2,168 @@
 <#####################>
 
 <p 02><a 42><n 4C>
-Oh, no!
+Oh, não!
 <--------------------->
 
 <p 02><a 42><n 4C>
-We've just gotten
-confirmation
+Acabamos de receber
+confirmação
 <--------------------->
 
-of Mechaniloid activity
-in the air!
-<--------------------->
-
-<p 02><a 42><n 4C>
-It's only a matter of
-time before they'll be
-coming after
-<--------------------->
-
-our underground energy
-stores.
+de atividade de
+Mecanilóides no ar!
 <--------------------->
 
 <p 02><a 42><n 4C>
-I don't have enough
-firepower to take 'em
-on.
+É só uma questão de
+tempo até eles virem
+atrás
+<--------------------->
+
+de nossas reservas de
+energia subterrânea.
 <--------------------->
 
 <p 02><a 42><n 4C>
-I need you to go and
-protect the energy
-stores.
+Não tenho poder de fogo
+suficiente para
+enfrentá-los.
 <--------------------->
 
 <p 02><a 42><n 4C>
-There are 3 on the left
-side, straight ahead.
+Preciso que você vá e
+proteja as reservas de
+energia.
+<--------------------->
+
+<p 02><a 42><n 4C>
+Há 3 no lado esquerdo,
+direto em frente.
 <*********************>
 
 <p 02><a 42><n 4C>
-I'm begging you, please
-don't let them get to
-those energy stores!
+Eu imploro, por favor,
+não os deixe chegar às
+reservas de energia!
 <*********************>
 
 <e 01><a 42><n 4C>
-Accept this mission?
-  Yes
-  No
+Aceitar a missão?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4C>
-Thank you. There'll be
-a reward for you if you
-can pull it off.
+Obrigado. Haverá uma
+recompensa, se você
+puder afastá-los.
 <*********************>
 
 <p 02><s 01><a 42><n 4C>
-I guess it's too much
-to ask even of you...
+Acho que é pedir até
+demais de você...
 <--------------------->
 
 <p 02><a 42><n 4C>
-Dang... I guess the
-only thing left to do
-is pray
+Droga... Acho que a
+única coisa que resta a
+fazer é rezar
 <--------------------->
 
-that the Mechaniloids
-don't come.
+para que os
+Mecanilóides não
+venham.
 <*********************>
 
 <p 02><a 42><n 4C>
-We're still picking up
-on some Mechaniloid
-activity.
+Ainda estamos captando
+alguma ativida de
+Mecanilóide.
 <*********************>
 
 <p 02><a 42><n 4C>
-Thank you. I never
-doubted that you'd come
-through!
-<--------------------->
-
-<p 02><a 42><n 4C>
-Here's your reward. 
-300 EC.
-<*********************>
-
-<p 02><a 42><n 4C>
-Thank you. At least you
-managed to save 2.
+Obrigado. Nunca duvidei
+que você viria!
 <--------------------->
 
 <p 02><a 42><n 4C>
-Here's your reward. 
-200 EC.
+Aqui está sua
+recompensa. 300 CE.
 <*********************>
 
 <p 02><a 42><n 4C>
-Thank you. At least you
-managed to save 1.
+Obrigado. Pelo menos
+conseguiu salvar 2.
 <--------------------->
 
 <p 02><a 42><n 4C>
-Here's your reward. 
-100 EC.
+Aqui está sua
+recompensa. 200 CE.
 <*********************>
 
 <p 02><a 42><n 4C>
-I guess it was too
-tough even for you...
+Obrigado. Pelo menos
+conseguiu salvar 1.
 <--------------------->
 
 <p 02><a 42><n 4C>
-I'm so sorry I asked
-you to go on such an
-impossible mission.
+Aqui está sua 
+recompensa. 100 CE.
 <*********************>
 
 <p 02><a 42><n 4C>
-My name is George. As
-you can see, I'm a
-Hunter.
+Acho que foi muito
+difícil até mesmo
+pra você...
 <--------------------->
 
-Now I'm waiting for
-energy stores to
-arrive.
+<p 02><a 42><n 4C>
+Sinto muito por te
+pedir para ir em uma
+missão tão impossível.
 <*********************>
 
 <p 02><a 42><n 4C>
-We're expecting 
-3 units.
-<*********************>
-
-<p 02><a 42><n 4C>
-Mechaniloids can sniff
-out energy from miles
-away.
+Meu nome é George.
+Como pode ver, sou um
+Caçador.
 <--------------------->
 
-So, when moving energy
-stores around, we have
-to be very careful.
+Agora estou esperando
+as reservas de energia
+chegarem.
 <*********************>
 
 <p 02><a 42><n 4C>
-Especially now that
-Mavericks seem to be
-turning up everywhere.
+Estamos esperando 3
+unidades.
+<*********************>
+
+<p 02><a 42><n 4C>
+Mecanilóides podem
+farejar energia há
+milhas de distância.
 <--------------------->
 
-We're constantly on the
-lookout.
+Então, quando movemos
+as reservas de energia,
+tomamos muito cuidado.
 <*********************>
 
 <p 02><a 42><n 4C>
-I never seriously
-thought Mechaniloids
-would actually show up.
+Especialmente agora que
+os Mavericks parecem
+surgirem em toda parte.
+<--------------------->
+
+Estamos constantemente
+em vigília.
+<*********************>
+
+<p 02><a 42><n 4C>
+Nunca pensei que os
+Mecanilóides iriam
+realmente aparecer.
 <*********************>
 
 <FIM>

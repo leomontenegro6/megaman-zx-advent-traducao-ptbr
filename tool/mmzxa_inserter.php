@@ -29,10 +29,6 @@ if($total_textos > 0){
 	aviso('Iniciando recompilação dos scripts...');
 	foreach($textos as $texto) {
 		$nome_arquivo_dumpado = basename($texto);
-		if($nome_arquivo_dumpado == 'talk_q07_en1.txt'){
-			aviso("O script \"$nome_arquivo_original\" é nulo e será ignorado.");
-			continue;
-		}
 		$nome_arquivo_recompilado = str_replace('.txt', '.bin', $nome_arquivo_dumpado);
 		
 		aviso("Recompilando script \"$nome_arquivo_dumpado\" para arquivo binário \"$nome_arquivo_recompilado\"...", false);
@@ -111,8 +107,22 @@ if($total_textos > 0){
 								escreverByte($script, "E0E1");
 							} elseif($atributo_tag == 'btn_a'){ // Botão A
 								escreverByte($script, "E2E3");
+								$flag_quebra_linha = true; // Workaround para script m_sub_en.txt, para evitar ter um dos bytes comidos
 							} elseif($atributo_tag == 'btn_b'){ // Botão B
 								escreverByte($script, "E4E5");
+								$flag_quebra_linha = true; // Workaround para script m_sub_en.txt, para evitar ter um dos bytes comidos
+							} elseif($atributo_tag == 'btn_x'){ // Botão X
+								escreverByte($script, "E6E7");
+								$flag_quebra_linha = true; // Workaround para script m_sub_en.txt, para evitar ter um dos bytes comidos
+							} elseif($atributo_tag == 'btn_y'){ // Botão X
+								escreverByte($script, "E8E9");
+								$flag_quebra_linha = true; // Workaround para script m_sub_en.txt, para evitar ter um dos bytes comidos
+							} elseif($atributo_tag == 'btn_l'){ // Botão L
+								escreverByte($script, "EAEB");
+								$flag_quebra_linha = true; // Workaround para script m_sub_en.txt, para evitar ter um dos bytes comidos
+							} elseif($atributo_tag == 'btn_r'){ // Botão R
+								escreverByte($script, "ECED");
+								$flag_quebra_linha = true; // Workaround para script m_sub_en.txt, para evitar ter um dos bytes comidos
 							} elseif($atributo_tag == 'cima'){ // Seta para cima
 								escreverByte($script, "EE");
 							} elseif($atributo_tag == 'baixo'){ // Seta para baixo

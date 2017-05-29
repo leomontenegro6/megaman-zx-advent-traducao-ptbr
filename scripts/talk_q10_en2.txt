@@ -2,102 +2,104 @@
 <#####################>
 
 <p 02><a 43><n 2B>
-It seems that the
-remains of a rare
-ancient Mechaniloid
+Parece que os restos
+de um raro Mecanilóide
+antigo
 <--------------------->
 
-were found in the Oil
-Fields.
+foram encontrados nos 
+Campos de Petróleo.
 <--------------------->
 
-With all of the
-reporters and press
-everywhere,
+Com todos os repórteres
+e a imprensa em todos
+os lugares,
 <--------------------->
 
-it's practically
-impossible to get to
-that area.
+é praticamente 
+impossível chegar a
+essa área.
 <--------------------->
 
-Besides, I can't go out
-there.
+Além disso, não posso
+ir lá fora.
 <--------------------->
 
-Everybody knows the
-Oil Fields are just too
-dangerous.
+Todo mundo sabe que os
+Campos de Petróleo são
+muito perigosos.
 <--------------------->
 
-If I could only
-pinpoint the location
+Se eu pudesse ao menos
+identificar a
+localização
 <--------------------->
 
-of the Mechaniloid
-remains, I could have
-some guys go in.
+dos restos do
+Mecanilóide, mandaria
+alguns caras entrarem.
 <--------------------->
 
-Could I get you to go
-and put this micro
-transmitter at the site
+Você poderia ir lá para
+colocar esse micro
+transmissor no local
 <--------------------->
 
-of the Mechaniloid
-remains?
+dos restos do
+Mecanilóide?
 <*********************>
 
 <p 02><a 43><n 2B>
-They're probably buried
-beneath the sand, so
-keep a close eye out.
+Provavelmente estão
+enterrados sob a areia,
+então fique de olho.
 <--------------------->
 
-I know you can do it.
-I'm counting on you.
+Sei que você pode fazer
+isso. Estou contando
+com você.
 <--------------------->
 
-This is going to be a
-big scoop.
+Isso vai ser um grande
+furo de reportagem.
 <--------------------->
 
-I'd better get this
-computer ready to
-perform an analysis.
+É melhor eu deixar esse
+computador pronto para
+realizar uma análise.
 <*********************>
 
 <p 02><a 43><n 2B>
-Thank you! My guys just
-got back with the
-Mechaniloid remains.
+Obridado! Meus rapazes
+acabam de voltar com os
+restos do Mecanilóide.
 <--------------------->
 
-The analysis results
-indicate that this
-Mechaniloid
+Os resultados da
+análise indicam que
+esse Mecanilóide
 <--------------------->
 
-is very, very old.
+é muito, muito antigo.
 <--------------------->
 
-Most likely, those Oil
-Fields are all that's
-left
+Provavelmente, aqueles
+Campos de Petróleo
+foram tudo que restou
 <--------------------->
 
-of a dried up ancient
-sea.
+de um antigo mar que
+secou.
 <--------------------->
 
-Oh, by the way! The
-Hunters brought back
-this...
+Ah, a propósito! Os
+Caçadores troxeram
+isso...
 <--------------------->
 
-I don't have any use
-for it, so I'll give it
-to you.
+Não tem nenhuma
+utilidade para mim,
+então vou dar pra você.
 <*********************>
 
 <FIM>

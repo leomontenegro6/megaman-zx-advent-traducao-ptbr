@@ -2,263 +2,264 @@
 <#####################>
 
 <p 02><a 0A><n 02>
-Hey! Are you OK?
+Ei! você está bem?
 <--------------------->
 
 <p 03><a 40><n 22>
-Ugh... Ug... Help me...
+Ugh... Ug...
+Ajude-me...
 <--------------------->
 
 <p 03><a 40><n 22>
-Our airship is under
-attack by something
-nasty...
+Nosso dirigível está
+sob ataque de alguma
+coisa maléfica...
 <--------------------->
 
 <p 03><a 40><n 22>
-It intends to massacre
-us all!
+Isso pretende massacrar
+todos nós!
 <--------------------->
 
 <p 02><a 0F><n 02>
-A massacre!?
+Um massacre!?
 <*********************>
 
 <p 02><a 02><n 06>
-This is Master Thomas.
-It seems you've arrived
-at the crash site.
+Aqui é o Mestre Thomas.
+Parece que você chegou
+ao local do acidente.
 <--------------------->
 
 <p 02><a 02><n 06>
-That entire area is an
-underground resource
-mining facility.
+Essa área inteira é uma
+fonte subterrânea de
+unidade de mineração.
 <--------------------->
 
 <p 02><a 02><n 06>
-If that airship
-explodes, it will
+Se esse dirigível
+explodir, irá
 <--------------------->
 
-trigger the entire
-facility to detonate. 
+desencadear a detonação
+de toda a unidade.
 <--------------------->
 
 <p 02><a 6B><n 15>
-He means we're going to
-be blown away! C'mon,
-let's get outta here!
+Ele quis dizer que
+vamos virar pó! Venha,
+vamos sair daqui!
 <--------------------->
 
 <p 02><a 0A><n 02>
-...The airship is this
-way, right?
+...O dirigível está
+nessa direção, certo?
 <--------------------->
 
 <p 02><a 6B><n 15>
-I don't get it. Those
-guys are all Raiders.
+Não entendi. Todos
+esses caras são
+"Saqueadores".
 <--------------------->
 
 <p 02><a 6B><n 15>
-Are you sure you want
-to help those guys!?
+Você tem certeza que
+quer ajudar aqueles
+caras!?
 <--------------------->
 
-Technically, they're
-your enemies, right?
+Tecnicamente, eles são
+seus inimigos, certo?
 <--------------------->
 
 <p 02><a 0A><n 02>
-It doesn't matter who
-they are. 
+Não importa quem são
+eles. 
 <--------------------->
 
-This is the story of my
-life!
+Essa é a história da
+minha vida!
 <--------------------->
 
 <p 02><a 0A><n 02>
-I don't want to live my
-life with regrets!
+Não quero viver minha
+vida com lamentações!
 <--------------------->
 
-I shouldn't need a
-reason to save lives!
-<--------------------->
-
-<p 02><a 6B><n 15>
-OK, OK, if you feel
-that strongly about
-it...
+Eu não deveria precisar
+de uma razão para
+salvar vidas!
 <--------------------->
 
 <p 02><a 6B><n 15>
-You want me to go with
-you right? Well let's
-go, Ashe!
+OK, OK, se sente isso
+profundamente...
+<--------------------->
+
+<p 02><a 6B><n 15>
+Quer que eu vá com você
+certo? Bem, vamos lá,
+Ashe!
 <--------------------->
 
 <p 02><a 02><n 06>
-If the airship is
-destroyed,
+Se o dirigível estiver
+destruído,
 <--------------------->
 
-you won't be able to
-recover any of its
-parts.
+você não será capaz de
+recuperar nenhuma de
+suas partes.
 <--------------------->
 
 <p 02><a 02><n 06>
-Anyway, you have to
-prevent the worst from
-happening. Hurry, Ashe.
+De toda forma, você tem
+que impedir que o pior
+aconteça. Rápido, Ashe.
 <*********************>
 
 <p 02><a 2A><n 13>
-So, those Raiders
-escaped through here.
+Então, aqueles
+Saqueadores escaparam
+por aqui.
 <--------------------->
 
 <p 02><a 2A><n 13>
-Every last one of you
-will become nourishment
-for Model W!
+Cada um de vocês vai se
+manter pelo Modelo W!
 <*********************>
 
 <p 03><d AE01><a 0A><n 02>
-Wait!
+Espere!
 <*********************>
 
 <p 02><d AF01><a 2A><n 13>
-So you managed to stay
-alive, Mega Man
-Model A.
+Então você conseguiu se
+manter vivo, Mega Man
+Modelo A.
 <--------------------->
 
 <p 02><d B001><a 2A><n 13>
-Don't tell me you're
-here to help the
-Raiders?
+Não me diga que está
+aqui para ajudar os
+Saqueadores?
 <--------------------->
 
 <d B101>
-They're not even your
-allies.
+Eles não são seus
+aliados ainda.
 <--------------------->
 
 <p 03><d B201><a 08><n 02>
-This is also part of
-what Hunters do. Heroes
-show up just in time.
+Isso é parte do que os
+Caçadores fazem. Heróis
+aparecem na hora certa.
 <--------------------->
 
 <p 02><d B301><a 2A><n 13>
-Hmph, you get some
-Mega Man power
+Hmph, você conseguiu um
+pouco de poder de Mega
+Man
 <--------------------->
 
 <d B401>
-and all of a sudden you
-think you're a hero.
+e de repente acha que
+é um herói.
 <--------------------->
 
 <p 02><d B501><a 2A><n 13>
-The history of the
-world, the history of
-the war...
+A história do mundo,
+a história da guerra...
 <--------------------->
 
 <d B601>
-And now, the strongest
-of those
-
+E agora, o mais forte
+daqueles
 <--------------------->
 
 <d B701>
-who evolved as
-a product of war
-remain.
+que evoluíram como um
+fruto da guerra,
+permanecem.
 <--------------------->
 
 <p 02><d B801><a 2A><n 13>
-A newly crowned king of
-Mega Men will soon
-spawn a new evolution.
+Um recém coroado rei de
+Mega Mans logo formará
+uma nova evolução.
 <--------------------->
 
 <p 02><d B901><a 2A><n 13>
-Mega Man's power is the
-strength to fight.
+O poder de Mega Man é a
+força para lutar.
 <--------------------->
 
 <d BA01>
-Those without strength
-don't evolve.
+Aqueles que não têm
+força não evoluem.
 <--------------------->
 
 <p 03><d BB01><a 6B><n 15>
-So you feed them to
-Model W?
+Então você os alimenta
+pelo Modelo W?
 <--------------------->
 
 <d BC01>
-I'd say that's
-pretty barbaric
-progress.
+Eu diria que é um
+progresso bastante
+barbáro.
 <--------------------->
 
 <p 02><d BD01><a 2A><n 13>
-What would you know!?
-You can't even
-comprehend
+O que você sabe!?
+Não pode sequer
+compreender
 <--------------------->
 
 <p 02><d BE01><a 2A><n 13>
-your own power. If I'm
-the one that's wrong,
-try and beat me!
+seu próprio poder. Se
+é eu que estou errado,
+prove e me vença!
 <*********************>
 
 <p 03><d BF01><a 2B><n 13>
-It is through struggle
-that humans learn
-discipline and grow!
+É através da luta que
+os humanos aprendem
+disciplina e elevação!
 <--------------------->
 
 <p 03><d C001><a 2C><n 13>
-I will be Mega Man
-King, for the war that
-never ends!
+Serei o Mega Man Rei,
+para a guerra que nunca
+acaba!
 <*********************>
 
 <p 02><d C101><a 2C><n 13>
-Aren't you going to
-finish me off?
+Você não vai acabar
+comigo?
 <--------------------->
 
 <p 02><d C201><a 2C><n 13>
-Very well. I yield to
-you.
+Muito bem. Eu me rendo.
 <--------------------->
 
 <p 02><d C301><a 2C><n 13>
-As long as your
-opponent is still
-alive, the Game
+Enquanto seu oponente
+ainda estiver vivo, o
+Jogo
 <--------------------->
 
 <p 02><d C401><a 2C><n 13>
-of Destiny isn't over.
-One day you'll regret
-not finishing me off!
+do Destino não acaba.
+Um dia se arrependerá
+de não acabar comigo!
 <*********************>
 
 <p 03><d C501><a 0E><n 02>
-Aghh! Aaaaarrrr!?
-What's happening!?
-Model A!
+Aghh! Aaaaarrrr!? O que
+está acontecendo!?
+Modelo A!
 <--------------------->
 
 <p 03><d C601><a 0E><n 02>
@@ -266,394 +267,402 @@ Aieghh!
 <*********************>
 
 <p 02><a 03><n 00>
-EXTRACTING FROM CODE
-AW15 TO CE70. EXPANDING
-REPORT DATA.
+EXTRAINDO CÓDIGO DE
+AW15 A CE70. AMPLIANDO
+RELATÓRIO DE DADOS.
 <--------------------->
 
 <p 02><a 03><n 00>
-......Congratulations.
+......Parabéns.
 <--------------------->
 
 <p 02><a 03><n 00>
-The Model A which I
-created is protected by
-a cipher
+O Modelo A que criei é
+protegido por uma cifra
 <--------------------->
 
-that is broken only
-in battle.
-<--------------------->
-
-<p 02><a 03><n 00>
-You, who broke the
-first cipher, 
-<--------------------->
-
-are worthy to know its
-truth and its power.
+que só é quebrada em
+batalha.
 <--------------------->
 
 <p 02><a 03><n 00>
-Through my research of
-the lost technology, 
+Vocês, que quebraram a
+primeira cifra,
 <--------------------->
 
-I have created a key
-to unlock the door to
-a new evolution.
+são dignos de conhecer
+sua verdade e poder.
+<--------------------->
+
+<p 02><a 03><n 00>
+Através da minha
+pesquisa da tecnologia
+perdida,
+<--------------------->
+
+criei uma chave para
+destrancar a porta para
+uma nova evolução.
 <*********************>
 
 <p 02><a 03><n 00>
-Biometal Model W...  He
-who holds it, 
+Biometal Modelo W...
+Aquele que o detém,
 <--------------------->
 
-will hold the power to
-rule the world.
-<--------------------->
-
-<p 02><a 03><n 00>
-But it will take much
-time before people will
-<--------------------->
-
-finally appreciate my
-work.
+terá o poder para
+governar o mundo.
 <--------------------->
 
 <p 02><a 03><n 00>
-Sacrifices are
-necessary to awaken
-Model W.
+mas levará muito tempo
+até que as pessoas
+<--------------------->
+
+finalmente apreciem meu
+trabalho.
 <--------------------->
 
 <p 02><a 03><n 00>
-Model Ws which I have
-hidden throughout the
-world
-<--------------------->
-
-are waiting to be
-awakened.
+Sacrifícios são
+necessários para
+despertar o Modelo W.
 <--------------------->
 
 <p 02><a 03><n 00>
-Waiting for when the
-one who understands my
-work appears,
+Os Modelos W que tenho
+escondido em todo o
+mundo
 <--------------------->
 
-to receive the power.
+estão esperando para
+serem despertados.
+<--------------------->
+
+<p 02><a 03><n 00>
+Esperando pra quando
+aquele que entende meu
+trabalho aparecer,
+<--------------------->
+
+para receber o poder.
 <*********************>
 
 <p 03><d C701><a 0E><n 02>
-*gulp* ...Model A...
-What just happened to
-me...
+*gulp* ...Modelo A...
+O que aconteceu
+comigo...
 <*********************>
 
 <p 03><d C801><a 6B><n 15>
-Was that the data
-recorded on me that
-those Sage guys
+Eram aqueles dados
+gravados em mim que
+aqueles caras Sábios
 <--------------------->
 
 <p 03><d C901><a 6B><n 15>
-were talking about? The
-data on the one who
-made Model W... and me?
+estavam falando? Os
+dados sobre quem fez
+o Modelo W... e eu?
 <*********************>
 
 <p 03><d CA01><a 08><n 02>
-Are you OK, Model A?
+Você está bem, Modelo
+A?
 <--------------------->
 
 <p 03><d CB01><a 0A><n 02>
-We'd better go help the
-others.
+É melhor irmos ajudar
+os outros.
 <*********************>
 
 <p 03><d CC01><a 41><n 20>
-You saved our lives.
-Thanks a lot, Sis!
+Salvou nossas vidas.
+Muito obrigado,
+Maninha!
 <--------------------->
 
 <p 02><d CD01><a 08><n 02>
-Drop the Sis, would
-you? I want to use
-your airship for
+Esquece o Maninha, pode
+ser? Quero usar o seu
+dirigível por
 <--------------------->
 
 <d CE01>
-parts to repair our
-train.
+partes para reparar
+nosso trem.
 <*********************>
 
 <p 03><d CF01><a 41><n 20>
-Aah, it's already been
-taken care of. I just
-sent some of our guys
+Aah, já foi resolvido.
+Acabei de enviar alguns
+de nossos rapazes
 <--------------------->
 
 <d D001>
-to Hunter's Camp to do
-the repairs.
+para o Acampamento de
+Caçador para fazer os
+reparos.
 <--------------------->
 
 <p 03><d D101><a 41><n 20>
-We were all impressed
-with your strength and
-courage.
+Todos nós ficamos
+impressionados com sua
+força e coragem.
 <--------------------->
 
 <p 03><d D201><a 41><n 20>
-We're going to clean up
-our act and work with
+Vamos terminar nosso
+dever e trabalhar com
+você tão
 <--------------------->
 
 <d D301>
-you as honest to
-goodness bounty
-Hunters. 
+honestamente quanto os
+bondosos Caçadores
+de recompensa.
 <--------------------->
 
 <p 02><d D401><a 6B><n 15>
-*chuckle* It looks like
-you have a follower.
+*risada* Parece que
+você tem um seguidor.
 <--------------------->
 
 <p 02><d D501><a 6B><n 15>
-It's not a bad feeling
-to be appreciated.
+Não é uma má sensação
+de ser apreciada.
 <--------------------->
 
 <p 03><d D601><a 41><n 20>
-The repairs should
-almost be finished. Go
-back to the camp
+Os reparos devem estar
+quase terminados. Volte
+ao acampamento
 <--------------------->
 
 <p 03><d D701><a 41><n 20>
-and have a look. I hope
-you find out something
-at Legion, Sis!
+e dê uma olhada. Espero
+que descubra algo sobre
+a Legião, Mana!
 <*********************>
 
 <p 02><d D801><a 41><n 20>
-What!? Whoind'heck are
-you!
+O quê!? Quem diabos é
+você!
 <--------------------->
 
 <p 02><d D901><a 41><n 20>
-This shield is made of
-ceratanium!
+Esse escudo é feito de
+ceratânio!
 <--------------------->
 
 <p 02><d DA01><a 41><n 20>
-Your attacks are
-completely useless
-against it.
+Seus ataques são
+completamente inúteis
+contra ele.
 <--------------------->
 
 <d DB01><n 20>
-So, why don't you
-save yourself the
-trouble! Go home!
+Então, por que não se
+salva da encrenca?
+Vá para casa!
 <*********************>
 
 <p 03><d DC01><a 6B><n 15>
-...All this talk is
-starting to get really
-old.
+...Toda essa conversa
+está começando a ficar
+realmente antiga.
 <--------------------->
 
 <p 03><d DD01><a 6B><n 15>
-Yo, morph into that
-Atlas lady,
+Você, transforme-se
+naquela senhorita
+Atlas,
 <--------------------->
 
 <d DE01>
-and let's hit 'em
-hard with a
-Charge Attack!
+e vamos acertá-lo bem
+forte com um Ataque
+Carregado!
 <--------------------->
 
 <p 03><d DF01><a 6B><n 15>
-Say goodbye to that
-precious shield of
-yours!
+Diga adeus a esse seu
+precioso escudo!
 <*********************>
 
 <p 02><d E001><a 41><n 20>
-Waaaagh! P-Please,
-d-don't hurt me!
+Uaaaagh! P-Por favor,
+n-não me machuque!
 <--------------------->
 
 <p 03><d E101><a 6B><n 15>
-I thought so... Just a
-buncha wusses!
+Foi o que pensei...
+Não passa de um
+completo fracote!
 <--------------------->
 
 <d E201>
-Morph back, and let's
-set the record
-straight...
+Transforme-se de volta,
+e vamos acertar as
+contas...
 <*********************>
 
 <p 02><a 6B><n 15>
-Atlas can do a lot more
-than just that Charge
-Attack!
+Atlas pode fazer muito
+mais do que só aquele
+Ataque Carregado!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Press the Attack Button
-
+Pressione o Botão de
+Ataque
 <--------------------->
 
-while holding the
-<dpad>Control Pad up to
-shoot upwards!
-<--------------------->
-
-<p 02><a 6B><n 15>
-Hold the Attack Button
-then release it while
-holding the
+enquanto segura o <dpad>
+pra cima para atirar
+pra cima!
 <--------------------->
 
 <p 02><a 6B><n 15>
-<dpad>Control Pad down to
-perform the Ground
-Breaker move!
+Segure o Botão de
+Ataque, depois solte-o
+enquanto segura o
 <--------------------->
 
 <p 02><a 6B><n 15>
-You can even change the
-trajectory of the
-buster shot
-<--------------------->
-
-by using the
-bottom screen.
+<dpad> pra baixo para
+realizar o golpe
+Quebra-Chão!
 <--------------------->
 
 <p 02><a 6B><n 15>
-You can access that
-function by first
-selecting "Status" 
+Você pode até mesmo
+mudar a trajetória do
+tiro do buster
 <--------------------->
 
-on the sub screen.
-<--------------------->
-
-<p 02><a 6B><n 15>
-Then change the
-trajectory by either
-touching the boxes
-<--------------------->
-
-or using the
-<dpad>Control Pad. 
+usando a tela inferior.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Select "Exit" to
-complete the changes!
-<*********************>
-
-<p 02><a 40><n 57>
-Are you here to help
-us?
+Você pode acessar essa
+função selecionando
+primeiramente "Status"
 <--------------------->
 
-Some of us weren't able
-to get out in time.
+na sub-tela.
 <--------------------->
 
-They're still trapped
-in that room.
+<p 02><a 6B><n 15>
+Em seguida, mude a
+trajetória de cada um
+tocando as caixas
 <--------------------->
 
-There's something funny
-going on with the
-power. 
+ou usando o <dpad>.
 <--------------------->
 
-Some of the doors won't
-open...
-<--------------------->
-
-Please... All of my
-friends are in that
-room.
-<--------------------->
-
-Please get them out.
+<p 02><a 6B><n 15>
+Selecione "Sair" para
+completar as
+alterações!
 <*********************>
 
 <p 02><a 40><n 57>
-Thank you! I'll never
-forget this.
+Você está aqui para nos
+ajudar?
+<--------------------->
+
+Alguns de nós não
+conseguiram sair a
+tempo.
+<--------------------->
+
+Eles ainda estão presos
+naquelas salas.
+<--------------------->
+
+Há algo estranho
+acontecendo com o
+suprimento de energia.
+<--------------------->
+
+Algumas das portas não
+abrem...
+<--------------------->
+
+Por favor... Todos os
+meus amigos estão
+naquelas salas.
+<--------------------->
+
+Por favor, tire-os de
+lá.
+<*********************>
+
+<p 02><a 40><n 57>
+Obrigado! Nunca vou
+esquecer disso.
 <*********************>
 
 <p 03><a 40><n 58>
-I dunno who you are,
-but thank you for
-helping me.
+Não sei quem você é,
+mas obrigado por me
+ajudar.
 <*********************>
 
 <p 03><a 40><n 59>
-W-Who are you? Are you
-going to hurt me?
-Please... No...
+Q-Quem é você? Vai me
+machucar? Por favor...
+Não...
 <*********************>
 
 <p 03><a 40><n 5A>
-Ohhh! Finally, it
-opened! Thank you!
+Ohhh! Finalmente, ela
+abriu! Obrigado!
 <*********************>
 
 <p 02><a 40><n 22>
-Please! Help my
-friends!
+Por favor! Ajude meus
+amigos!
 <*********************>
 
 <p 02><a 41><n 20>
-I hope you find out
-something at Legion!
-Good luck!
+Espero que descubra
+algo sobre a Legião!
+Boa sorte!
 <*********************>
 
 <p 03><a 40><n 57>
-Are you here to help
-us?
+Você está aqui para nos
+ajudar?
 <--------------------->
 
-Some of us weren't able
-to get out in time.
+Alguns de nós não
+conseguiram sair a
+tempo.
 <--------------------->
 
-They're still trapped
-in that room.
+Eles ainda estão presos
+naquela sala.
 <--------------------->
 
-There's something funny
-going on with the
-power. 
+Há algo estranho
+acontecendo com o
+suprimento de energia.
 <--------------------->
 
-Some of the doors won't
-open...
+Algumas das portas não
+abrem...
 <--------------------->
 
-Please... All of my
-friends are in that
-room.
+Por favor... Todos os
+meus amigos estão
+naquela sala.
 <--------------------->
 
-Please get them out.
+Por favor, tire-os de
+lá.
 <*********************>
 
 <FIM>

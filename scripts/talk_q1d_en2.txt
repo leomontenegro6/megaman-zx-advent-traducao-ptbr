@@ -2,98 +2,96 @@
 <#####################>
 
 <p 02><a 44><n 35>
-There's something that
-needs doing,
+Há algo que precisa ser
+feito,
 <--------------------->
 
-and you look like just
-the person to do it.
+e você parece ser a
+pessoa certa para fazer
+isso.
 <--------------------->
 
-A hoard of Chabanos has
-escaped from this area.
+Uma horda de Chabanos
+escapou dessa área.
 <--------------------->
 
-If you find any green
-ones on the road,
-please eliminate them.
+Se você achar coisas
+verdes na estrada, por
+favor, elimine-os.
 <--------------------->
 
-Can you do that?
+Pode fazer isso?
 <--------------------->
 
-There couldn't have
-been more than 50,
-so get them all.
+Não pode ter sido mais
+do que 50, então pegue
+todos eles.
 <--------------------->
 
-There's a reward if you
-manage to get all of
-them. 
+Há uma recompensa se
+você conseguir pegar
+todos eles.
 <*********************>
 
 <p 02><a 44><n 35>
-There's a pretty good
-chance
+Há uma boa chance
+daqueles
 <--------------------->
 
-that the Chabanos have
-gotten out into the
-wild.
+Chabanos terem fugido
+para dentro da selva.
 <--------------------->
 
-I'd like you to
-eradicate those buggers
-for me.
+Eu gostaria que você
+erradicasse esses
+insetos para mim.
 <--------------------->
 
-You can think of it as
-a side job.
+Considere isso como um
+trabalho secundário.
 <*********************>
 
 <p 02><a 44><n 35>
-Oh-hoh! Looks like you
-took care of all of
-those Chabanos!
+Oh-hoh! Parece que você
+cuidou de todos aqueles
+Chabanos!
 <--------------------->
 
-Excellent work! I want
-you to take this,
+Excelente trabalho!
+Quero que leve isso,
 <--------------------->
 
-and I won't take no for
-an answer.
+e eu não vou aceitar um
+não como resposta.
 <*********************>
 
 <p 02><a 44><n 35>
-I may not look it, but
-I'm a Hunter.
+Posso não parecer, mas
+sou um Caçador.
 <--------------------->
 
-The others call me the
-Chemical Hunter.
+Os outros me chamam de
+Caçador Químico.
 <--------------------->
 
-You see I do scientific
-research
+Entenda, eu faço
+pesquisa científica
 <--------------------->
 
-that goes to benefit
-the Hunter's
-livelihood.
+que venha a beneficiar
+o sustento do Caçador.
 <--------------------->
 
-But even though I'm a
-Hunter in title,
+Mas mesmo que eu seja
+um Caçador em título,
 <--------------------->
 
-I leave the rigorous
-physical part to the
-others.
+deixo a rigorosa parte
+física com os outros.
 <--------------------->
 
-Thank you so much for
-your help.
+Muito obrigado por sua
+ajuda.
 <*********************>
 
 <FIM>

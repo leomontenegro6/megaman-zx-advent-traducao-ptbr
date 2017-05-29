@@ -2,132 +2,135 @@
 <#####################>
 
 <p 02><a 66><n 32>
-Romeo's second intro
+Segunda intro de Romeo
 <*********************>
 
 <p 02><a 66><n 32>
-Normal Conversation0
+Diálogo Normal0
 <*********************>
 
 <p 02><a 66><n 32>
-Normal Conversation1
+Diálogo Normal1
 <*********************>
 
 <p 02><a 66><n 32>
-Normal Conversation2
+Diálogo Normal2
 <*********************>
 
 <p 02><a 66><n 32>
-Normal Conversation3
+Diálogo Normal3
 <*********************>
 
 <p 02><a 66><n 32>
-(I wonder what
-happened. The Hunters
-that took off)
+(Gostaria de saber o
+que aconteceu. Os
+Caçadores saíram)
 <--------------------->
 
-(toward the Control
-Center aren't back
-yet.)
-<--------------------->
-
-<p 02><a 66><n 32>
-Oh! You're just in
-time.
+(em direção ao Centro
+de Controle e ainda não
+voltaram.)
 <--------------------->
 
 <p 02><a 66><n 32>
-The Hunters that went
-to pick up the
-chandelier
-<--------------------->
-
-aren't back yet. I'm
-worried that something
-might have happened.
+Ah! Você chegou bem na
+hora.
 <--------------------->
 
 <p 02><a 66><n 32>
-Would you mind looking
-for them?
+Os Caçadores que foram
+pegar o lustre ainda
+não voltaram.
 <--------------------->
 
-I'll make sure you're
-well compensated.
+Estou preocupado que
+tenha acontecido alguma
+coisa.
+<--------------------->
+
+<p 02><a 66><n 32>
+Você se importaria de
+ir procurá-los?
+<--------------------->
+
+Vou garantir que você
+seja bem recompensado.
 <*********************>
 
 <p 02><a 66><n 32>
-They should be in one
-of the rooms of the
-Control Center.
+Eles devem estar em uma
+das salas do Centro de
+Controle.
 <--------------------->
 
 <p 02><a 66><n 32>
-Please be careful.
-<*********************>
-
-<p 02><a 42><n 4E>
-Are you here to help
-us?
-<--------------------->
-
-<p 02><a 42><n 4E>
-Oh, Romeo sent you, eh?
-Thanks. One of our guys
-got hit. He's resting.
-<--------------------->
-
-<p 02><a 42><n 4E>
-It looks like you took
-out all of the
-Mavericks in the area.
-<--------------------->
-
-So, we should be OK
-getting back.
+Por favor, tenha
+cuidado.
 <*********************>
 
 <p 02><a 42><n 4E>
-Tell Romeo that we're
-on our way with the
-chandelier.
+Você está aqui para nos
+ajudar?
+<--------------------->
+
+<p 02><a 42><n 4E>
+Romeo te enviou? Obri-
+gado. Um de nós foi fe-
+rido. Ele se recupera.
+<--------------------->
+
+<p 02><a 42><n 4E>
+Parece que você afastou
+todos os Mavericks na
+área.
+<--------------------->
+
+Então, devemos voltar
+bem.
+<*********************>
+
+<p 02><a 42><n 4E>
+Diga a Romeo que
+estamos a caminho do
+lustre.
 <*********************>
 
 <p 02><a 66><n 32>
-Hey, it's you. Thank
-you for helping
-those Hunters out.
+Ei, é você. Obrigado
+por ajudar os
+Caçadores lá fora.
 <--------------------->
 
 <p 02><a 66><n 32>
-Here's what I promised
-you.
+Aqui está o que eu te
+prometi.
 <*********************>
 
 <p 02><a 66><n 32>
-When I was putting up
-the chandelier in the
-room,
+Quando eu estava
+colocando o lustre na
+sala,
 <--------------------->
 
-that girl in there
-yelled at me. *sigh*
+aquela garota lá de
+dentro gritou comigo.
+*suspiro*
 <*********************>
 
 <p 02><a 42><n 4F>
-I got a little banged
-up, but I'm gonna be
-alright.
+Fiquei um pouco
+abalado, mas vou ficar
+bem.
 <--------------------->
 
-I needed the rest
-anyway. 
+Eu precisava de
+descanso de todo modo. 
 <*********************>
 
 <p 02><a 42><n 4F>
-Thanks to you, we got
-the job done!
+Graças a você, nós
+conseguimos terminar o
+trabalho!
 <*********************>
 
 <FIM>

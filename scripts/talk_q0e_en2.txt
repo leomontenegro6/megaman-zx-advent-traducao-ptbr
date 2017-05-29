@@ -2,256 +2,262 @@
 <#####################>
 
 <p 02><a 55><n 3B>
-I hear they put shelves
-in the big new room.
+Ouvi dizer que
+colocaram prateleiras
+na nova grande sala.
 <--------------------->
 
-I want to fill them
-with comic books.
+Quero enchê-las de
+gibis.
 <--------------------->
 
-Would you go and pick
-me up some comics?
+Gostaria de ir comprar
+algumas HQs para mim?
 <*********************>
 
 <p 02><a 55><n 3B>
-I hear they put shelves
-in the big new room.
+Ouvi dizer que
+colocaram prateleiras
+na nova grande sala.
 <--------------------->
 
-I want to fill them
-with comic books.
+Quero enchê-las de
+gibis.
 <--------------------->
 
-Would you go and pick
-me up some comics?
+Gostaria de ir comprar
+algumas HQs para mim?
 <*********************>
 
 <p 02><a 55><n 3B>
-I hear they put shelves
-in the big new room.
+Ouvi dizer que
+colocaram prateleiras
+na nova grande sala.
 <--------------------->
 
-I want to fill them
-with comic books.
+Quero enchê-las de
+gibis.
 <--------------------->
 
-Would you go and pick
-me up some comics?
+Gostaria de ir comprar
+algumas HQs para mim?
 <*********************>
 
 <p 02><a 55><n 3B>
-I hear they put shelves
-in the big new room.
+Ouvi dizer que
+colocaram prateleiras
+na nova grande sala.
 <--------------------->
 
-I want to fill them
-with comic books.
+Quero enchê-las de
+gibis.
 <--------------------->
 
-Would you go and pick
-me up some comics?
+Gostaria de ir comprar
+algumas HQs para mim?
 <*********************>
 
 <p 02><a 55><n 3B>
-I hear they put shelves
-in the big new room.
+Ouvi dizer que
+colocaram prateleiras
+na nova grande sala.
 <--------------------->
 
-I want to fill them
-with comic books.
+Quero enchê-las de
+gibis.
 <--------------------->
 
-Would you go and pick
-me up some comics?
+Gostaria de ir comprar
+algumas HQs para mim?
 <*********************>
 
 <p 02><a 55><n 3B>
-I hear they put shelves
-in the big new room.
+Ouvi dizer que
+colocaram prateleiras
+na nova grande sala.
 <--------------------->
 
-I want to fill them
-with comic books.
+Quero enchê-las de
+gibis.
 <--------------------->
 
-Would you go and pick
-me up some comics?
+Gostaria de ir comprar
+algumas HQs para mim?
 <*********************>
 
 <p 02><a 55><n 3B>
-There should be a shop
-in the station on the
-way to Legion.
+Deve haver uma loja na
+estação em direção a
+Legião.
 <--------------------->
 
-What kind of comics you
-buy is up to you.
-<*********************>
-
-<p 02><a 55><n 3B>
-Oh!
-<--------------------->
-
-You're back. What did
-you get?
-<--------------------->
-
-I've never seen this
-title. I wonder if it's
-good.
-<--------------------->
-
-Well, take this for
-your trouble.
-<--------------------->
-
-I want to see you put
-it to good use.
+É você quem decide que
+tipos de HQs deve
+comprar.
 <*********************>
 
 <p 02><a 55><n 3B>
 Oh!
 <--------------------->
 
-This is one I already
-have. Oh, well...
+Você voltou. O que você
+conseguiu?
 <--------------------->
 
-At least I can fill up
-the shelf.
+Nunca vi esse título.
+Gostaria de saber se é
+bom.
 <--------------------->
 
-Well, take this for
-your trouble.
+Bem, leve isso pelo
+incômodo.
 <--------------------->
 
-I want to see you put
-it to good use.
+Quero que faça bom uso
+dele.
 <*********************>
 
 <p 02><a 55><n 3B>
 Oh!
 <--------------------->
 
-I've been wanting to
-get my hands on this
-one.
+Essa é uma que eu já
+tenho. Oh, bem...
 <--------------------->
 
-Cause look at what's
-written on the back
-cover!
+Pelo menos eu posso
+encher a prateleira.
 <--------------------->
 
-It says, "Very
-interesting!"
+Bem, leve isso pelo
+incômodo.
 <--------------------->
 
-Well, take this for
-your trouble.
+Quero que faça bom uso
+dele.
+<*********************>
+
+<p 02><a 55><n 3B>
+Oh!
 <--------------------->
 
-I want to see you put
-it to good use.
-<*********************>
-
-<p 02><a 99><n 55>
-Hello, my name is
-Marina.
-<*********************>
-
-<p 02><a 99><n 55>
-This bookstore
-specializes in comic
-books.
-<*********************>
-
-<p 02><a 99><n 55>
-I'm sorry, I don't have
-any books for sale
-right now.
-<*********************>
-
-<p 02><a 99><n 55>
-I'm sorry, I don't have
-any books for sale
-right now.
-<*********************>
-
-<p 02><a 99><n 55>
-I'm sorry, I don't have
-any books for sale
-right now.
-<*********************>
-
-<p 02><a 99><n 55>
-Are you looking for
-comics?
+Estou querendo colocar
+minhas mãos em um
+presente.
 <--------------------->
 
-I have 3 in stock.
-Which would you like?
+Porque olha o que está
+escrito na capa de
+trás!
+<--------------------->
+
+Diz, "Muito
+interessante!"
+<--------------------->
+
+Bem, leve isso pelo
+incômodo.
+<--------------------->
+
+Quero que faça bom uso
+dele.
+<*********************>
+
+<p 02><a 99><n 55>
+Olá, meu nome é Marina.
+<*********************>
+
+<p 02><a 99><n 55>
+Essa livraria é
+especializada em HQs.
+<*********************>
+
+<p 02><a 99><n 55>
+Sinto muito, não tenho
+nenhuma HQ à venda no
+momento.
+<*********************>
+
+<p 02><a 99><n 55>
+Sinto muito, não tenho
+nenhuma HQ à venda no
+momento.
+<*********************>
+
+<p 02><a 99><n 55>
+Sinto muito, não tenho
+nenhuma HQ à venda no
+momento.
+<*********************>
+
+<p 02><a 99><n 55>
+Você está procurando
+por HQs?
+<--------------------->
+
+Tenho 3 no estoque.
+Qual gostaria?
 <--------------------->
 
 <p 02><m>
-  Comic (Green)
-  Comic (Blue)
-  Comic (Orange)
+  HQ (Verde)
+  HQ (Azul)
+  HQ (Laranja)
 <*********************>
 
 <p 02><a 99><n 55>
-This comic is 100 EC.
+Essa HQ custa 100 CE.
 <*********************>
 
 <p 02><e 63>
-Buy this comic?
-  Yes
-  No
+Comprar essa HQ?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 99><n 55>
-This comic is 200 EC.
+Essa HQ custa 200 CE.
 <*********************>
 
 <p 02><e 63>
-Buy this comic?
-  Yes
-  No
+Comprar essa HQ?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 99><n 55>
-This comic is 400 EC.
+Essa HQ custa 400 CE.
 <*********************>
 
 <p 02><e 63>
-Buy this comic?
-  Yes
-  No
+Comprar essa HQ?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 99><n 55>
-Thank you for your
-business.
+Obrigado pela
+negociação.
 <*********************>
 
 <p 02><a 99><n 55>
-Thank you for your
-business.
+Obrigado pela
+negociação.
 <*********************>
 
 <p 02><a 99><n 55>
-Thank you for your
-business.
+Obrigado pela
+negociação.
 <*********************>
 
 <p 02><a 99><n 55>
-You don't have enough
-E-Crystals.
+Você não tem Cristais
+o suficiente.
 <*********************>
 
 <p 02><s 63><a 99><n 55>
-Please come again.
+Por favor, volte outra
+vez.
 <*********************>
 
 <FIM>

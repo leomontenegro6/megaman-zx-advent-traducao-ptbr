@@ -2,275 +2,281 @@
 <#####################>
 
 <p 02><a 5F><n 33>
-There's no way around
-it. To keep digging,
+Não tem outro jeito.
+Para continuar cavando,
 <--------------------->
 
-I'm going to need
-another 100 EC...
+vou precisar de mais
+100 CE...
 <*********************>
 
 <e 01><a 5F><n 33>
-Help with a donation?
-  Yes
-  No
+Ajudar com uma doação?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 5F><n 33>
-Thank you! With this,
+Obrigado! Com isso,
 <--------------------->
 
-I should be able to
-make this passageway a
-little bit wider!
+conseguirei fazer essa
+passagem um pouco mais
+larga!
 <*********************>
 
 <p 02><s 01><a 5F><n 33>
-Oh... I'm sorry to hear
-that. Well I don't
-wanna put you
+Oh... Sinto muito em te
+fazer ouvir isso. Bem,
+não quero colocá-la em
 <--------------------->
 
-in a tight spot. But,
-lemme know if you
-change your mind!
+um local apertado. Mas,
+deixe-me saber se você
+mudar de idéia!
 <*********************>
 
 <p 02><a 5F><n 33>
-Hey! This is how much I
-was able to widen the
-passageway.
+Ei! Isso é tudo que eu
+consegui de alargamento
+da passagem.
 <--------------------->
 
-But to keep going, I
-need 200 EC more...
+Mas para continuar, eu
+preciso de mais 200...
 <*********************>
 
 <e 01><a 5F><n 33>
-Help with a donation?
-  Yes
-  No
+Ajudar com uma doação?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 5F><n 33>
-Thank a lot! With this,
+Muito obrigado! Com
+isso,
 <--------------------->
 
-I should be able to
-make this passageway a
-little bit wider!
+conseguirei fazer essa
+passagem um pouco mais
+larga!
 <*********************>
 
 <p 02><s 01><a 5F><n 33>
-Oh... I'm sorry to hear
-that. Well I don't
-wanna put you in a
+Oh... Sinto muito em te
+fazer ouvir isso. Bem,
+não quero colocá-la em
 <--------------------->
 
-tight spot. But, lemme
-know if you change your
-mind!
+um local apertado. Mas,
+deixe-me saber se você
+mudar de idéia!
 <*********************>
 
 <p 02><a 5F><n 33>
-Hey! This is how much I
-was able to widen the
-passageway.
+Ei! Isso é tudo que eu
+consegui de alargamento
+da passagem.
 <--------------------->
 
-But to keep going, I
-need 300 EC more...
+Mas para continuar, eu
+preciso de mais 300...
 <*********************>
 
 <e 01><a 5F><n 33>
-Help with a donation?
-  Yes
-  No
+Ajudar com uma doação?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 5F><n 33>
-Thanks pal! With this,
+Obrigado amigo! Com
+isso,
 <--------------------->
 
-I should be able to
-widen this passageway a
-little bit more!
+conseguirei alargar um
+pouco mais essa
+passagem!
 <*********************>
 
 <p 02><s 01><a 5F><n 33>
-Oh... I'm sorry to hear
-that. Well I don't
-wanna put you
+Oh... Sinto muito em te
+fazer ouvir isso. Bem,
+não quero colocá-la em
 <--------------------->
 
-in a tight spot. But,
-lemme know if you
-change your mind!
+um local apertado. Mas,
+deixe-me saber se você
+mudar de idéia!
 <*********************>
 
 <p 02><a 5F><n 33>
-Hey! This is how much I
-was able to widen the
-passageway.
+Ei! Isso é tudo que eu
+consegui de alargamento
+da passagem.
 <--------------------->
 
-But to keep going, I
-need 400 EC more...
+Mas para continuar, eu
+preciso de mais 400...
 <*********************>
 
 <e 01><a 5F><n 33>
-Help with a donation?
-  Yes
-  No
+Ajudar com uma doação?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 5F><n 33>
-'Preciate it! With
-this,
+Agradeço! Com isso,
 <--------------------->
 
-I should be able to
-widen this passageway a
-little bit more!
+conseguirei alargar um
+pouco mais essa
+passagem!
 <*********************>
 
 <p 02><s 01><a 5F><n 33>
-Oh... I'm sorry to hear
-that. Well I don't
-wanna put you
+Oh... Sinto muito em te
+fazer ouvir isso. Bem,
+não quero colocá-la em
 <--------------------->
 
-in a tight spot. But,
-lemme know if you
-change your mind!
+um local apertado. Mas,
+deixe-me saber se você
+mudar de idéia!
 <*********************>
 
 <p 02><a 5F><n 33>
-Hey! This is how much I
-was able to widen the
-road.
+Ei! Isso é tudo que eu
+consegui de alargamento
+do caminho.
 <--------------------->
 
-But to keep going, I
-need 500 EC more...
+Mas para continuar, eu
+preciso de mais 500...
 <*********************>
 
 <e 01><a 5F><n 33>
-Help with a donation?
-  Yes
-  No
+Ajudar com uma doação?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 5F><n 33>
-Thanks a million!
+Obrigado um milhão de
+vezes!
 <--------------------->
 
-With this, I should be
-able to widen the road
-a little bit more!
+Com isso, conseguirei
+alargar um pouco mais
+essa passagem!
 <*********************>
 
 <p 02><s 01><a 5F><n 33>
-Oh... I'm sorry to hear
-that. Well I don't
-wanna put you in a
+Oh... Sinto muito em te
+fazer ouvir isso. Bem,
+não quero colocá-la em
 <--------------------->
 
-tight spot. But, lemme
-know if you change your
-mind!
+um local apertado. Mas,
+deixe-me saber se você
+mudar de idéia!
 <*********************>
 
 <p 02><a 5F><n 33>
-I hit some pretty tough
-bedrock down there.
+Eu quebrei alguns
+alicerces muito duros
+lá em baixo.
 <--------------------->
 
-My drill is pretty much
-useless on it.
+Minha broca é
+praticamente intútil
+sobre eles.
 <--------------------->
 
-I've heard talk of
-there being a Legendary
-Pickaxe
+Já ouvi falar da
+existência de uma
+Picareta Lendária
 <--------------------->
 
-made of Ceratanium
-somewhere in the
-Quarries.
+feita de Ceratânio em
+algum lugar nas
+Pedreiras.
 <--------------------->
 
-Do you think you could
-find it for me? I'd
-really appreciate it.
+Você acha que consegue
+encontrá-la para mim?
+Eu agradeceria muito.
 <*********************>
 
 <p 02><a 5F><n 33>
-They say that the
-Legendary Pickaxe is in
-the dark cellar.
+Dizem que a Picareta
+Lendária fica no porão
+escuro.
 <--------------------->
 
-It's probably somewhere
-in the Quarries.
+Fica provavelmente em
+algum lugar nas
+Pedreiras.
 <*********************>
 
 <p 02><a 5F><n 33>
-Oh! I didn't think
-you'd really be able to
-find it!
+Ah! Não acho que você
+realmente seja capaz
+encontrá-la!
 <--------------------->
 
-With this, I should be
-able to keep digging.
+Com isso, eu
+conseguiria continuar
+cavando.
 <--------------------->
 
-Well, I'll get back to
-work. Come back again,
-OK?
+Bem, vou voltar ao
+trabalho. Volte outra
+vez, OK?
 <*********************>
 
 <p 02><a 5F><n 33>
-Boy, I'm surprised that
-I was even able to dig
-this far!
+Garota, estou surpreso
+que eu tenha conseguido
+cavar até aqui!
 <--------------------->
 
-Of course I couldn't
-have done it without
-your help.
+Claro que eu não
+poderia ter feito isso
+sem sua ajuda.
 <*********************>
 
 <p 02><a 5F><n 33>
-Boy, I'm surprised that
-I was even able to dig
-this far!
+Garota, estou surpreso
+que eu tenha conseguido
+cavar até aqui!
 <--------------------->
 
-Of course I couldn't
-have done it without
-your help.
+Claro que eu não
+poderia ter feito isso
+sem sua ajuda.
 <*********************>
 
 <p 02><a 5F><n 33>
-Boy, I'm surprised that
-I was even able to dig
-this far!
+Garota, estou surpreso
+que eu tenha conseguido
+cavar até aqui!
 <--------------------->
 
-Of course I couldn't
-have done it without
-your help.
+Claro que eu não
+poderia ter feito isso
+sem sua ajuda.
 <*********************>
 
 <p 02><a 5F><n 33>
-Normal Conversation
+Diálogo Normal
 <*********************>
 
 <p 02><a 5F><n 33>
-I'm glad you want to
-help, but that's just
-not enough E-Crystals.
+Estou feliz que queira
+ajudar, mas tá faltando
+Cristais.
 <*********************>
 
 <FIM>

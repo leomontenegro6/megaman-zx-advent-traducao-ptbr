@@ -2,208 +2,206 @@
 <#####################>
 
 <p 02><a 0A><n 02>
-Is it hot in here or
-what!?
+Está quente aqui ou o
+quê!?
 <*********************>
 
 <p 02><a 02><n 06>
-That building is the
-Control Center for
-several energy
+Aquele prédio é o
+Centro de Controle para
+várias fornalhas
 <--------------------->
 
 <p 02><a 02><n 06>
-furnaces in the
-surrounding city. But
-the Mavericks have
+de energia ao redor da
+cidade. Mas os
+Mavericks
 <--------------------->
 
-caused an
-uncontrollable
-thermal runaway.
+causaram umas
+incontroláveis
+oscilações térmicas.
 <--------------------->
 
 <p 02><a 6B><n 15>
-If we don't do
-something, the energy
-furnaces will explode.
+Se não fizermos algo,
+as fornalhas de energia
+vão expodir.
 <--------------------->
 
-These guys don't mess
-around, do they!?
-<--------------------->
-
-<p 02><a 02><n 06>
-We don't know how long
-those furnaces have
-until they blow.
+Esses caras não brincam
+em serviço, brincam!?
 <--------------------->
 
 <p 02><a 02><n 06>
-Do something to take
-charge of that Control
-Center.
+Não sabemos quanto
+tempo essas fornalhas
+têm até explir.
+<--------------------->
+
+<p 02><a 02><n 06>
+Faça algo para assumir
+o comando do Centro de
+Controle.
 <*********************>
 
 <p 03><d 4002><a 25><n 03>
-It's been a while. But
-I see you're surviving
-the Game of Destiny.
+Já faz um tempo. Mas
+vejo que permanece vivo
+ao Jogo do Destino.
 <--------------------->
 
 <p 03><d 4102><a 25><n 03>
-Well? Have you found
-anything out about
-yourself?
+Bem, encontrou alguma
+coisa sobre si própria?
 <--------------------->
 
 <p 02><d 4202><a 0A><n 02>
-I've learned that I'm
-nothing like you.
+Aprendi que não sou
+nada parecida com você.
 <--------------------->
 
 <p 03><d 4302><a 25><n 03>
-Funny... I was under
-the impression
+Engraçado... Fiquei com
+a impressão
 <--------------------->
 
 <d 4402>
-that we were two peas
-in a pod. You're bitter
-at me
+que nós éramos duas
+ervilhas em uma vagem.
+Você é amarga para mim
 <--------------------->
 
 <p 03><d 4502><a 25><n 03>
-for making you look
-like a fool in front of
-your friends.
+por te fazer parecer
+um idiota na frente de
+seus amigos.
 <--------------------->
 
 <p 03><d 4602><a 26><n 03>
-You're here to fight
-for revenge... Same as
-me.
+Você está aqui para
+lutar por vingança...
+Assim como eu.
 <--------------------->
 
 <p 02><d 4702><a 0A><n 02>
-I don't know what it is
-you're fighting for...
-but I'm different.
+Não sei pelo que você
+está lutando... mas sou
+diferente.
 <--------------------->
 
 <p 02><d 4802><a 0A><n 02>
-I just don't appreciate
-you using people for
-your entertainment
+Só não gosto que você
+use pessoas para o seu
+entretenimento
 <--------------------->
 
 <d 4902>
-as if you know
-everything.
+como você soubesse de
+tudo.
 <--------------------->
 
 <p 03><d 4A02><a 25><n 03>
-Stop quibbling and
-trying to rationalize
-your own actions.
+Pare de pretexto e
+tente racionalizar suas
+próprias ações.
 <--------------------->
 
 <d 4B02>
-You think you're
-some kind of a hero!
+Você pensa que é algum
+tipo de herói!
 <--------------------->
 
 <p 03><d 4C02><a 26><n 03>
-But one day you'll wake
-up and realize that
-you'll never be a hero.
+Mas um dia você vai
+acordar e perceber que
+nunca vai ser um herói.
 <--------------------->
 
 <p 02><d 4D02><a 0A><n 02>
-What did you say!?
+O que você disse!?
 <--------------------->
 
 <p 03><d 4E02><a 26><n 03>
-That's right, remember
-that!
+É isso mesmo, lembre-se
+disso!
 <--------------------->
 
 <d 4F02>
-The next time we
-meet, I won't just be
-retrieving Model Ws.
+Da próxima vez que nos
+vermos, não estarei só
+reavendo os Modelos W.
 <--------------------->
 
 <p 03><d 5002><a 25><n 03>
-No rush, I'll cut you
-to ribbons soon enough.
-Look forward to it!
+Sem pressa, te cortarei
+em pedaços em breve.
+Mal posso esperar!
 <*********************>
 
 <p 02><d 5102><a 6B><n 15>
-Bleeeh! He makes
-me sick!
+Bléééé! Ele me deixa
+doente!
 <*********************>
 
 <p 01><p 03><d 5202><a 39><n 00>
-My, my! Did little
-Prometheus leave
-already?
+Ora, ora! Será se o
+pequeno Prometeus já
+saiu?
 <--------------------->
 
 <p 01><p 03><d 5302><a 39><n 00>
-He's so impatient. In a
-moment the energy
-furnaces will explode
+Ele é tão impaciente.
+A qualquer momento as
+fornalhas irão explodir
 <--------------------->
 
 <p 01><p 03><d 5402><a 39><n 00>
-and a beautiful fire
-flower will bloom,
+e uma linda flor de
+fogo irá florescer,
 <--------------------->
 
 <d 5502>
-filled with sweet
-nectar. The nectar of
-terror.
+cheio de néctar doce.
+O néctar do terror.
 <--------------------->
 
 <p 00><p 02><d 5602><a 0B><n 02>
-I'll never let your
-horrible flower bloom!
+Eu nunca deixarei sua
+flor horrível
+florescer!
 <--------------------->
 
 <p 01><p 03><d 5702><a 39><n 00>
-Oh, it's you.
+Ah, é você.
 <--------------------->
 
 <d 5802>
-The Mega Man Model A
-that Prometheus talked
-about.
+O Mega Man Modelo A
+ques Prometeus falou.
 <--------------------->
 
 <p 01><p 03><d 5902><a 39><n 0C>
-I'm Queenbee. I'll give
-you a taste of my
-special nectar...
+Sou Queenbee. Vou te
+dar um gostinho do meu
+néctar especial...
 <--------------------->
 
 <p 01><p 03><d 5A02><a 39><n 0C>
-Despair with a touch of
-bitterness.
+Desespero com um toque
+de amargura.
 <*********************>
 
 <p 01><p 03><d 5B02><a 39><n 0C>
-What a slovenly girl
-you are! And you call
-yourself a Mega Man.
+Que garota desleixada
+você é! E se diz um
+Mega Man.
 <*********************>
 
 <p 01><p 03><d 5C02><a 39><n 0C>
-*Aagh* What!? You
-refuse my precious gift
-of despair!?
+*Aagh* O quê!? Você
+recusa meu precioso
+presente de desespero!?
 <--------------------->
 
 <p 01><p 03><d 5D02><a 39><n 0C>
@@ -211,122 +209,122 @@ Aaaaargh!
 <*********************>
 
 <p 02><a 02><n 06>
-I presume that's
-the main computer
+Presumo que seja o
+computador principal
 <--------------------->
 
-which controls the
-energy furnaces.
-<--------------------->
-
-<p 02><a 02><n 06>
-This can't be! The
-cooling function can't
-<--------------------->
-
-keep pace with the
-thermal runaway!
+que controla as
+fornalhas de energia.
 <--------------------->
 
 <p 02><a 02><n 06>
-Rip out the core module
-and shut down the main
-computer by force.
+Não pode ser! A função
+de resfriamento não
+<--------------------->
+
+pode manter o ritmo com
+as oscilações térmicas!
+<--------------------->
+
+<p 02><a 02><n 06>
+Retire o módulo central
+e desligue o computador
+principal à força.
 <--------------------->
 
 <p 02><a 0F><n 02>
-How are we going to
-take out the core
-module? It's huge!
+Como é que vamos tirar
+o módulo central? É
+enorme!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Hey, change into
+Ei, transforme-se em
 Queenbee!
 <--------------------->
 
 <p 02><a 6B><n 15>
-She was carrying some
-kind of big container
-before, right?
+Ela estava carregando
+algum tipo de contêiner
+grande antes, certo?
 <--------------------->
 
 <p 02><a 6B><n 15>
-Shouldn't we be able to
-raise the core module
-up the way she did?
+Não poderíamos levantar
+o módulo central do
+jeito que ela fez?
 <*********************>
 
 <p 02><a 02><n 06>
-It seems to have
-switched over to its
-subsystem somehow,
+Parece que seu
+subsistema mudou de
+alguma forma,
 <--------------------->
 
 <p 02><a 02><n 06>
-and the thermal
-runaway has stopped.
+e as oscilações
+Térmicas pararam.
 <--------------------->
 
-The auto-recovery
-system should kick in
-momentarily.
+O sistema de auto-recu-
+peração deve funcionar
+a qualquer momento.
 <--------------------->
 
 <p 02><a 02><n 06>
-Thank you for your
-help.
+Obrigado por sua ajuda.
 <*********************>
 
 <p 02><a 6B><n 15>
-When you morph into
-Queenbee,
+Quando se transformar
+em Queenbee,
 <--------------------->
 
-you can fly by pressing
-the Jump Button!
-<--------------------->
-
-<p 02><a 6B><n 15>
-But when you fly, your
-BM gauge goes
-down.
+você poderá voar
+pressionando o Botão de
+Pular!
 <--------------------->
 
 <p 02><a 6B><n 15>
-To lift the core
-module, first get on
-top of it
-<--------------------->
-
-and press down on the
-<dpad>Control Pad to dock!
+Mas quando estiver
+voando, sua barra de
+BM vai descer.
 <--------------------->
 
 <p 02><a 6B><n 15>
-When the core module is
-docked,
+Para levantar o módulo
+central, primeiro
+chegue ao topo dele
 <--------------------->
 
-press the Jump Button
-to fly away with the
-module!
-<--------------------->
-
-<p 02><a 6B><n 15>
-Who knows? There may be
-other things you can
-dock with.
+e pressione pra baixo
+no <dpad> para encaixar!
 <--------------------->
 
 <p 02><a 6B><n 15>
-If you find something
-in the area
+Quando o módulo central
+estiver encaixado,
 <--------------------->
 
-that you think you can
-dock with, give it a
-try!
+pressione o Botão de
+Pular para voar e subir
+com o módulo!
+<--------------------->
+
+<p 02><a 6B><n 15>
+Quem sabe, pode haver
+outras coisas que você
+pode se encaixar.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Se você encontrar
+alguma coisa na área
+<--------------------->
+
+que acha que pode se
+encaixar, faça uma
+tentativa!
 <*********************>
 
 <FIM>

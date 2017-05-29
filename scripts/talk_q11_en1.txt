@@ -2,177 +2,180 @@
 <#####################>
 
 <p 02><a 52><n 38>
-You know, this room
-could use some life.
+Sabe, essa sala poderia
+ter um pouco de vida.
 <--------------------->
 
-Been thinking about
-turning it into a café.
+Estive pensando em
+transformá-la em uma
+cafeteria.
 <--------------------->
 
-Jim, the Hunter, let me
-borrow his blueprints
-for a café,
+Jim, o Caçador, me
+emprestou seus diagra-
+mas para uma cafeteria,
 <--------------------->
 
-but I lost them while
-walking back from Jim's
-café.
+mas eu perdi eles
+enquanto voltava da
+cafeteria do Jim.
 <--------------------->
 
-It was really windy.
-Even if I did manage to
-find them,
+Estava ventando muito.
+Mesmo se eu consegui
+encontrá-los,
 <--------------------->
 
-it'd probably be
-in some place too hard
-for me to reach.
+provavelmente estaria
+em algum lugar muito
+difícil de alcançar.
 <--------------------->
 
-I feel terrible for
-asking a favor of
-someone I just met,
+Sinto-me péssimo para
+pedir favor de alguém
+que acabo de conhecer,
 <--------------------->
 
-but would you mind
-looking for them?
+mas você se importaria
+de procurá-los?
 <*********************>
 
 <p 02><a 52><n 38>
-Jim was nice enough to
-lend me his blueprints,
+Jim foi bom o bastante
+para me imprestar seus
+diagramas,
 <--------------------->
 
-but I went off and lost
-them.
+mas saí e os perdi.
 <--------------------->
 
 <p 02><a 52><n 38>
-Hopefully, they're just
-caught on some fence
-out there.
+Por sorte, eles só
+estão presas em algum
+cercado ali.
 <*********************>
 
 <p 02><a 52><n 38>
-Thank you. Now I can
-finally build that
-café!
+Obrigado. Agora posso
+finalmente construir
+essa cafeteria!
 <--------------------->
 
 <p 02><a 52><n 38>
-Oh, and I can start by
-selling E Tanks or
-something.
+Ah, e eu posso começar
+com a venda de E-Tanks
+ou algo assim.
 <*********************>
 
 <p 02><e 63><a 52><n 38>
-An E Tank for 500 EC?
-  Yes
-  No
+Um E-Tank por 500 CE?
+  Sim
+  Não
 <*********************>
 
 <p 02><e 63><a 52><n 38>
-An E Tank for 500 EC?
-  Yes
-  No
+Um E-Tank por 500 CE?
+  Sim
+  Não
 <*********************>
 
 <p 02><e 63><a 52><n 38>
-An E Tank for 500 EC?
-  Yes
-  No
+Um E-Tank por 500 CE?
+  Sim
+  Não
 <*********************>
 
 <p 02><e 63><a 52><n 38>
-An E Tank for 500 EC?
-  Yes
-  No
+Um E-Tank por 500 CE?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 08><n 01>
-It looks like there's
-only an old-school
+Parece que só tem um
+sistema de refrigeração
 <--------------------->
 
-Reploid cooling system
-in here.
+antigo de Replóide
+aqui.
 <*********************>
 
 <p 02><a 08><n 01>
-It looks like there's
-only an old-school
+Parece que só tem um
+sistema de refrigeração
 <--------------------->
 
-Reploid cooling system
-in here.
+antigo de Replóide
+aqui.
 <*********************>
 
 <p 02><a 08><n 01>
-It looks like there's
-only this old-school
+Parece que só tem um
+sistema de refrigeração
 <--------------------->
 
-Reploid cooling system
-in here.
+antigo de Replóide
+aqui.
 <*********************>
 
 <p 02><a 08><n 01>
-Oh? There's cake in
-here! Well, finders
-keepers.
+Hã? Tem um bolo aqui!
+Bem, achado não é
+roubado.
 <--------------------->
 
-I wonder whose it is?
+Gostaria de saber
+de quem é.
 <*********************>
 
 <p 02><a 08><n 02>
-Too bad, I was hoping
-to find some chilled
-fruit. Oh well...
+É uma pena, eu esperava
+encontrar alguma fruta
+gelada. Ah, bem...
 <*********************>
 
 <p 02><a 08><n 02>
-Too bad, I was hoping
-to find some chilled
-fruit. Oh well...
+É uma pena, eu esperava
+encontrar alguma fruta
+gelada. Ah, bem...
 <*********************>
 
 <p 02><a 08><n 02>
-Too bad, I was hoping
-to find some chilled
-fruit. Oh well...
+É uma pena, eu esperava
+encontrar alguma fruta
+gelada. Ah, bem...
 <*********************>
 
 <p 02><a 08><n 02>
-Oh, cake! It looks
-delicious. Well,
-finders keepers.
+Ah, bolo! Parece
+delicioso. Bem, achado
+não é roubado.
 <*********************>
 
 <p 02><a 52><n 38>
-Nick's self-intro
+Auto-intro de Nick
 <*********************>
 
 <p 02><a 52><n 38>
-You can only carry one
-E Tank at a time.
+Você só pode carregar
+um E-Tank de cada vez.
 <--------------------->
 
-So when it's empty,
-just come back again.
+Assim que esvaziar,
+basta voltar aqui
+outra vez.
 <*********************>
 
 <p 02><a 52><n 38>
-Sorry, but it looks
-like you don't have
-enough E-Crystals.
+Lamento, mas parece que
+você não tem Cristais
+o suficiente.
 <*********************>
 
 <p 02><a 52><n 38>
-If you're ever in the
-area again, be sure to
-stop by, OK?
+Se alguma vez estiver
+na área, não se esqueça
+de passar aqui, OK?
 <*********************>
 
 <FIM>

@@ -73,7 +73,7 @@ BIOLÓGICO CONFIRMADO.
 <p 03><d F001><a 2E><n 14>
 INICIAR PLANO DE TOMAR
 O CONTROLE DO QUARTEL
-GEN. DA LEGIÃO. *riso* 
+GEN. DA LEGIÃO. *riso*
 <*********************>
 
 <p 03><d F101><a 2E><n 14>
@@ -133,7 +133,7 @@ provem de Megamergir,
 
 <p 02><a 03><n 00>
 transformando-se em um
-Mega Man. Decidi
+Mega Man. Eu decidi
 escolher um novo
 <--------------------->
 
@@ -154,7 +154,7 @@ dade Sábias da Legião,
 <--------------------->
 
 <p 02><a 03><n 00>
-Sei tudo sobre o
+sei tudo sobre o
 mundo...
 <*********************>
 
@@ -323,9 +323,9 @@ W.
 <--------------------->
 
 <p 03><d 1402><a 1D><n 06>
-Além disso, olhei em
-nosso banco de dados,
-Grey.
+Além disso, procurei
+você em nosso banco de
+dados, Grey.
 <*********************>
 
 <p 02><d 1502><a 0F><n 01>
@@ -392,8 +392,8 @@ Modelo W.
 
 <p 02><d 2102><a 6B><n 15>
 Ele sabe que a festa
-acabou! Ele está indo,
-Ave Maria! Vamos, Grey!
+acabou! Ele está em
+desespero! Vamos, Grey!
 <--------------------->
 
 <p 02><d 2202><a 0D><n 01>
@@ -482,7 +482,7 @@ para outra missão.
 <p 03><d 3502><a 1D><n 06>
 Quero que você pare os
 planos de Albert e
-salve o mundo.
+salve o nosso mundo.
 <--------------------->
 
 <p 03><d 3602><a 1D><n 06>

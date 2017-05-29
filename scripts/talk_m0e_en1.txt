@@ -221,7 +221,7 @@ força... é... trapaça!
 <--------------------->
 
 <p 03><d EB03><a 3D><n 0F>
-É exatamente como... 
+É exatamente como...
 A força do Sr. Albert!
 <--------------------->
 
@@ -322,7 +322,7 @@ o Botão de Dash.
 <--------------------->
 
 Dessa forma você pode
-deslizar por baixo! 
+deslizar por baixo!
 <--------------------->
 
 <p 02><a 6B><n 15>

@@ -2,187 +2,189 @@
 <#####################>
 
 <p 02><a 42><n 4A>
-Do you think you can
-beat a Galleon Rider in
-a race?
+Você acha que pode
+vencer um Galleon Rider
+em uma corrida?
 <--------------------->
 
 <p 02><a 42><n 4A>
-It's all about speed!
-Do you have what it
-takes?
+É pura velocidade!
+Você tem o que é
+preciso?
 <--------------------->
 
 <p 02><a 42><n 4A>
-The first across the
-finish line is the
-winner.
+O primeiro que cruzar
+a linha de chegada será
+o vencedor.
 <--------------------->
 
 <p 02><a 42><n 4A>
-Jump on one of those
-rides over there,
-and get ready to race!
-<--------------------->
-
-<p 02><e 63><a 42><n 4A>
-Race?
-  Yes
-  No
-<*********************>
-
-<p 02><a 42><n 4A>
-That's the spirit!
-Let's get ready to
-rock!
-<*********************>
-
-<p 02><a 42><n 4A>
-Oh? Is that a booster
-you have?
-<--------------------->
-
-You can use that to
-tune up your ride!
-<--------------------->
-
-<p 02><a 42><n 4A>
-You can take off like a
-rocket right off the
-starting line!
-<--------------------->
-
-<p 02><a 42><n 4A>
-But it's so powerful,
-that once you use it,
-<--------------------->
-
-it destroys the
-booster.
+Salte em cima de uma
+dessas montaria ali, e
+se prepare para correr!
 <--------------------->
 
 <p 02><e 63><a 42><n 4A>
-Use your booster?
-  Yes
-  No
+Correr?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4A>
-Oh, well... Come back
-when you feel up to it!
-<*********************>
-
-<p 03><a 42><n 4A>
-Ashe, the challenger
-WINS!
-<--------------------->
-
-<p 03><a 42><n 4A>
-Congratulations! Here
-is your title and your
-prize money!
+Esse é o espírito!
+Vamos nos preparar para
+o rock!
 <*********************>
 
 <p 02><a 42><n 4A>
-Don't get too cocky,
-the next guy you race
-won't be so easy.
-<*********************>
-
-<p 03><a 42><n 4A>
-Sorry... This one goes
-to the Galleon Rider.
+Hã? É um impulsionador
+que você tem?
 <--------------------->
 
-<p 03><a 42><n 4A>
-Well, let me give you
-one piece of advice.
-<--------------------->
-
-<p 03><a 42><n 4A>
-When you get air or
-take hits, you lose
-precious speed.
-<--------------------->
-
-<p 03><a 42><n 4A>
-The key to winning is
-maintaining as much
-speed as possible.
-<*********************>
-
-<p 02><a 42><n 4A>
-You gotta take this
-loss and eat it.
-<--------------------->
-
-Use it for fuel to win
-next time!
-<*********************>
-
-<p 02><a 42><n 4A>
-My name is Burt!
-<*********************>
-
-<p 02><a 42><n 4A>
-I'm trying to raise
-some money to fix the
-bridge for our races.
-<--------------------->
-
-Repairs cost a lot.
+Você pode usar isso
+para aprimorar sua
+montaria!
 <--------------------->
 
 <p 02><a 42><n 4A>
-If you could donate
-400 EC, it would
-help out a lot.
+Você pode decolar como
+um foguete da linha de
+partida de imediato!
+<--------------------->
+
+<p 02><a 42><n 4A>
+Mas é tão poderoso, que
+assim que você usá-lo,
+<--------------------->
+
+ele destruirá o
+impulsionador.
+<--------------------->
+
+<p 02><e 63><a 42><n 4A>
+Usar seu impulsionador?
+  Sim
+  Não
+<*********************>
+
+<p 02><a 42><n 4A>
+Oh, bem... Volte quando
+você sentir vontade!
+<*********************>
+
+<p 03><a 42><n 4A>
+A desafiante Ashe
+GANHOU!
+<--------------------->
+
+<p 03><a 42><n 4A>
+Parabéns! Aqui está seu
+título e seu prêmio em
+dinheiro!
+<*********************>
+
+<p 02><a 42><n 4A>
+Não fique convencida,
+o próximo competidor
+não vai ser fácil.
+<*********************>
+
+<p 03><a 42><n 4A>
+Lamento... Essa vai
+para o Galleon Rider.
+<--------------------->
+
+<p 03><a 42><n 4A>
+Bem, deixa eu te dar um
+conselho.
+<--------------------->
+
+<p 03><a 42><n 4A>
+Quando estiver no ar ou
+for acertado, perderá
+velocidade preciosa.
+<--------------------->
+
+<p 03><a 42><n 4A>
+A chave para vencer é
+manter o máximo de
+velocidade possível.
+<*********************>
+
+<p 02><a 42><n 4A>
+Você tem que assumir
+essa derrota e engolir
+ela.
+<--------------------->
+
+Use combustível para
+ganhar da próxima vez!
+<*********************>
+
+<p 02><a 42><n 4A>
+Meu nome é Burt!
+<*********************>
+
+<p 02><a 42><n 4A>
+Estou tentando levantar
+dinheiro para consertar
+a ponte das corridas.
+<--------------------->
+
+Reparos custam muito.
+<--------------------->
+
+<p 02><a 42><n 4A>
+Se você pudesse doar
+400 CE, ajudaria muito.
 <*********************>
 
 <p 02><e 01><a 42><n 4A>
-Make a donation?
-  Yes
-  No
+Fazer uma doação?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4A>
-Thanks! I'll have those
-repairs done by the
-time you come back!
+Obrigado! Vou ter feito
+esses reparos quando
+você voltar!
 <*********************>
 
 <p 02><a 42><n 4A>
-Aww... I really wanted
-to see you race.
+Ahh... Eu realmente
+queria ver você correr.
 <*********************>
 
 <p 02><a 42><n 4A>
-Boy, it looks like YOU
-don't even have enough
-EC. I feel your pain.
+Garota, parece que VOCÊ
+não tem CE suficientes.
+Entendo sua dor.
 <*********************>
 
 <p 02><e 01><a 42><n 4A>
-Make a donation?
-  Yes
-  No
+Fazer uma doação?
+  Sim
+  Não
 <*********************>
 
 <p 02><e 01><a 42><n 4A>
-Make a donation?
-  Yes
-  No
+Fazer uma doação?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 42><n 4A>
-Alright, booster is on.
-Let's start the race!
+Tudo bem, impulsionador
+ligado. Vamos começar a
+corrida!
 <*********************>
 
 <p 02><a 42><n 4A>
-Alright, Let's start
-the race with no
-booster.
+Tudo bem, vamos começar
+a corrida sem
+impulsionador.
 <*********************>
 
 <FIM>

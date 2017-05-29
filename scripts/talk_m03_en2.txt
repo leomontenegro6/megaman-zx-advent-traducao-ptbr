@@ -2,936 +2,939 @@
 <#####################>
 
 <p 03><d A600><a 42><n 1F>
-So, you're Ashe. I
-heard about you and how
-you came to help us.
+Então, você é a Ashe.
+Ouvi sobre você e como
+veio para nos ajudar.
 <--------------------->
 
 <p 02><d A800><a 08><n 02>
-This guy knows a lot
-about me. Well I guess
-that makes it easy.
+Esse cara sabe muito
+bem sobre mim. Bem,
+acho que isso facilita.
 <--------------------->
 
 <d A900>
-Now we don't have
-to beat around the
-bush.
+Agora não vamos ficar
+enrolando.
 <--------------------->
 
 <p 03><d AA00><a 42><n 1F>
-Haha, it's nice to have
-a girl around.
+Haha, é bom ter uma
+garota por perto.
 <--------------------->
 
 <d AB00>
-We're all set to go.
-All aboard!
+Estamos prontos pra ir.
+Todos a bordo!
 <*********************>
 
 <p 02><d AC00><a 42><n 1F>
-You're something else
-to want to carry on
-with this mission
+Você é algo mais que
+quero levar com essa
+missão por 
 <--------------------->
 
 <d AD00>
-by yourself. Why do you
-want to be a Hunter so
-bad?
+você mesmo. Por que
+quer ser um Caçador,
+então?
 <--------------------->
 
 <p 03><d AE00><a 08><n 02>
-I was found by Hunters
-as a little girl, and
-they raised me.
+Fui encontrada por
+Caçadores ainda garoti-
+nha, e eles me criaram.
 <--------------------->
 
 <p 03><d B000><a 08><n 02>
-They said that my town
-was attacked by
+Eles disseram que minha
+cidade foi atacada por
 Mavericks,
 <--------------------->
 
 <d B100>
-and that I was the
-only survivor
-of that attack.
+e que eu era a única
+sobrevivente do ataque.
 <--------------------->
 
 <p 03><d B200><a 0D><n 02>
-So nobody really knows
-who the real me is. I
-don't even know.
+Então ninguém realmente
+sabe quem sou de fato.
+Nem eu mesma sei.
 <--------------------->
 
 <p 02><d B300><a 42><n 1F>
-Sorry, maybe I
-shouldn't have asked
-that.
+Desculpe, talvez eu não
+devesse ter perguntado
+isso.
 <--------------------->
 
 <p 03><d B400><a 0C><n 02>
-It's OK. So, I decided
-to become the greatest
-Hunter in the world.
+Tudo bem. Então, decidi
+me tornar a maior
+Caçadora do mundo.
 <--------------------->
 
 <p 03><d B500><a 08><n 02>
-I want my story to go
-down in the history
-books.
+Eu quero que minha
+história entre para os
+livros de história.
 <--------------------->
 
 <d B600>
-People will remember
-the name Ashe.
+As pessoas vão lembrar
+do nome Ashe.
 <--------------------->
 
 <p 03><d B700><a 0C><n 02>
-Soooo, I can't just let
-booty like Biometal
-pass me by!
+Então, não posso deixar
+um prêmio como Biometal
+passar por mim!
 <*********************>
 
 <p 03><d B800><a 05><n 00>
-She's just like me...
-She doesn't know where
-she comes from either.
+Ela é exatamente como
+eu... Ela não sabe de
+onde ela veio também.
 <*********************>
 
 <p 03><d B900><a 0F><n 02>
-...I heard something...
-Was that someone's
-voice...?
+...Ouvi alguma coisa...
+Foi a voz de alguém...?
 <*********************>
 
 <p 03><d BA00><a 05><n 00>
-Hm? You can hear me?
+Hm? Você consegue me
+ouvir?
 <*********************>
 
 <p 03><d BB00><a 0F><n 02>
-Who said that just now?
+Quem disse isso nesse
+instante?
 <*********************>
 
 <p 03><d BC00><a 42><n 1F>
-Dang! Mavericks!
+Droga! Mavericks!
 <*********************>
 
 <p 02><d BD00><a 42><n 1F>
-They're going for the
-engine! You wait here!
+Eles vão para o motor!
+Espere aqui!
 <*********************>
 
 <p 03><d BE00><a 0A><n 02>
-...Prometheus! I had
-a feeling you'd 
-show up!
+...Prometeus! Tive um
+pressentimento de que
+você iria aparecer!
 <--------------------->
 
 <p 02><d BF00><a 28><n 00>
-This is it... The
-Biometal Model A
-container...
+Isso é... O recipiente
+do Biometal Modelo A...
 <*********************>
 
 <p 01><p 02><d C000><a 25><n 03>
-You again... You just
-don't give up do you?
+Você de novo...
+Simplesmente não
+desisti não é?
 <--------------------->
 
 <p 01><p 02><d C100><a 28><n 00>
-Who's that girl...?
+Quem é essa garota...?
 <--------------------->
 
 <p 01><p 02><d C200><a 25><n 03>
-Never mind her,
-Pandora. She's nothing.
+Não se importe com ela,
+Pandora. Ela não é
+nada.
 <--------------------->
 
 <d C300>
-Let's take back the
+Vamos pegar de volta o
 Biometal.
 <--------------------->
 
 <p 01><p 03><d C400><a 0B><n 02>
-I can't let you do
-that. If you want it,
+Não posso deixar você
+fazer isso. Se o quer,
 <--------------------->
 
 <d C500>
-you'll have to yank it
-from my cold Hunter
-hands!
+vai ter que arrancá-lo
+das minhas mãos frias
+de Caçadora!
 <*********************>
 
 <p 02><d C600><a 25><n 03>
-Just lay there and die
-quietly, scum.
+Apenas fique ai e morra
+em silêncio, covarde.
 <--------------------->
 
 <p 03><d C700><a 0E><n 02>
-No way... Not like
-this...
+De jeito nenhum... Não
+é assim...
 <*********************>
 
 <p 03><d C800><a 05><n 00>
-Hey! Girl! If you don't
-want to die, do exactly
-what I tell you!
+Ei! Garota! Se não quer
+morrer, faça exatamente
+o que te digo!
 <--------------------->
 
 <p 03><d C900><a 05><n 00>
-We should be able to
-Megamerge! I'll lend
-you my strength!
+Temos a capacidade de
+Megamergir! Vou te
+emprestar minha força!
 <--------------------->
 
 <p 03><d CA00><a 0F><n 02>
-W-Who are you?
+Q-Quem é você?
 <--------------------->
 
 <p 03><d CB00><a 05><n 15>
-I'm Biometal Model A!
-Now I want you to
-focus.
+Sou o Biometal Modelo
+A! Agora quero que se
+concentre.
 <--------------------->
 
 <p 03><d CC00><a 05><n 15>
-OK, yell, "MEGAMERGE!"
-as loud as you can!
+OK, grite,
+"MEGAMERGIR!"
+o mais alto que puder!
 <*********************>
 
 <p 01><p 03><d CD00><a 0A><n 02>
-This feeling... This
-power... in my body...
-What is it?
+Essa sensação... Esse
+poder... no meu
+corpo... O que é isso?
 <--------------------->
 
 <p 01><p 03><d CE00><a 0A><n 02>
-It's the Biometal,
-making me stronger!
-...Mega Man power!
+É o Biometal, me
+tornando mais forte!
+...O poder de Mega Man!
 <*********************>
 
 <p 02><d CF00><a 28><n 04>
-Mega Man... Model A!
+Mega Man... Modelo A!
 <--------------------->
 
 <p 02><d D000><a 26><n 03>
-I can't believe the
-Biometal chose you!
+Não posso acreditar que
+o Biometal te escolheu!
 <--------------------->
 
 <p 02><d D100><a 25><n 03>
-I've got to
-hand it to you. It
-looks like you've
+Tenho que te entregar
+isso.. parece que você
 <--------------------->
 
 <d D200>
-got what it takes to
-participate in this
-little game.
+tem o que é preciso
+para participar deste
+joguinho.
 <--------------------->
 
 <p 02><d D300><a 28><n 04>
-Prometheus...
-Isn't that kid...?
+Prometeus...
+Não é aquele garota...?
 <--------------------->
 
 <p 02><d D400><a 25><n 03>
-Hmph, no matter! So,
-Ashe... You can keep
-the Model A, for now.
+Hmph, não importa! Aí,
+Ashe... Pode ficar com
+o Modelo A, por ora.
 <--------------------->
 
 <p 02><d D500><a 25><n 03>
-You've got a few more 
-encounters with other
-Mega Men ahead of you.
+Você tem mais alguns
+encontros com outros
+Mega Mans pela frente.
 <--------------------->
 
 <p 02><d D600><a 25><n 03>
-You must defeat them in
-battle! If you somehow
-manage to survive
+Deve derrotá-los em
+batalha! Se de modo
+conseguir sobreviver
 <--------------------->
 
 <d D700>
-until the end, then
-you'll know who you
-really are...
+até o fim, então você
+saberá quem realmente
+você é...
 <--------------------->
 
 <p 02><d D800><a 26><n 03>
-And perhaps all there
-is to know about the
-world!
+E talvez tudo o que há
+para saber sobre o
+mundo!
 <--------------------->
 
 <d D900>
-So, let the game begin!
-HIS Game of Destiny!
+Então, deixe o jogo
+iniciar! SEU Jogo do
+Destino!
 <*********************>
 
 <p 03><d DA00><a 0A><n 02>
-Who I really am...?
-Game of Destiny...?
-What's all that about?
+Quem realmente sou...?
+Jogo do Destino...?
+O que é tudo isso?
 <*********************>
 
 <p 02><d DB00><a 0F><n 02>
-Oh, shoot! I have to
-help the others!
+Oh, fugiram! Tenho que
+ajudar os outros!
 <--------------------->
 
 <p 02><d DC00><a 6B><n 15>
-Wait a minute!
-Shouldn't we be getting
-out of here!?
+Espere um minuto!
+Não deveríamos estar
+saindo daqui!?
 <--------------------->
 
 <p 02><d DD00><a 0B><n 02>
-You were acting all big
-and bad back there and
-now you want to run?
+Você estava agindo todo
+superior e mal lá atrás
+e agora quer correr?
 <--------------------->
 
 <d DE00>
-C'mon, I have to
-go help them!
+Vamos, tenho que ir
+ajudá-los!
 <--------------------->
 
 <p 02><d DF00><a 6B><n 15>
-OK, OK, I'll go!
+OK, OK, eu irei!
 <--------------------->
 
 <p 02><d E000><a 6B><n 15>
-Anything is better than
-what those guys were
-going to do to me!
+Qualquer coisa é melhor
+que aquilo que aqueles
+caras iam fazer comigo!
 <--------------------->
 
 <p 02><d E100><a 6B><n 15>
-I'll help you... if you
-promise not to leave
-me. Deal?
+Vou ajudá-la... Se
+prometer não me deixar.
+Combinado?
 <--------------------->
 
 <p 02><d E200><a 0C><n 02>
-Of course, you're my
-booty! And you'll be
-going with me!
+Claro, você é minha
+recompensa! E você vai
+estar indo comigo!
 <*********************>
 
 <p 03><d E300><a 36><n 00>
-*snort* *wheeze*!!
+*grunhido* *grunhido*!!
 <*********************>
 
 <p 03><d E400><a 36><n 00>
-Model A!
-You broke rule!
+Modelo A!
+Você quebrou a regra!
 
 <--------------------->
 
 <d E500>
-You make big mistake.
-The one you choose, no
-good!
+Você cometeu um grande
+erro. Uma escolha,
+nada boa!
 <--------------------->
 
 <p 03><d E600><a 36><n 00>
-Mega Man Chosen One, a
-girl!? No good you lend
-power!
+O Mega Man Escolhido,
+uma garota!? Não é bom
+você emprestar o poder!
 <--------------------->
 
 <p 02><d E700><a 6B><n 15>
-Mistake? What're you
-yapping about? You
-don't know me!
+Erro? Sobre o que está
+latindo? Você não me
+conhece!
 <--------------------->
 
 <p 02><d E800><a 0A><n 02>
-I think this guy is
-some kind of Maverick.
+Acho que esse cara é
+algum tipo de Maverick.
 <--------------------->
 
 <p 03><d E900><a 36><n 08>
-Me not Maverick! Me
-Pseudoroid. Me
-Buckfire!
+Eu não ser Maverick!
+Eu ser Pseudoroid.
+Eu ser Buckfire!
 <--------------------->
 
 <p 03><d EA00><a 36><n 08>
-You get away from
-Prometheus and Pandora,
-but not from I!
+Você está longe de
+Prometeus e Pandora,
+mas não de mim!
 <--------------------->
 
 <p 03><d EB00><a 36><n 08>
-Buckfire obey rule!
-Buckfire will pummel
-you into ground!
+Buckfire obedecer
+regra! Buckfire te
+surrará no chão!
 <*********************>
 
 <p 03><d EC00><a 36><n 08>
-*snort* *wheeze*!! No
-mercy for traitors!
-That is rule!
+*grunhido* *grunhido*!!
+Sem piedade para trai-
+dores! Essa é a regra!
 <*********************>
 
 <p 03><d ED00><a 36><n 08>
-You!... traitor...
-Our future... 
-Our world...!
+Você!... traidora...
+Nosso futuro...
+Nosso mundo...!
 <--------------------->
 
 <p 03><d EE00><a 36><n 08>
-Yeeeoooow!
+Ieeeoooou!
 <*********************>
 
 <p 02><d EF00><a 0F><n 02>
-W-What just happened?
+O-O que acabou de
+acontecer?
 <--------------------->
 
 <p 02><d F000><a 6B><n 15>
-*chuckle* Do you want
-to see something cool?
+*gargalhada* Você quer
+ver alguma coisa legal?
 <--------------------->
 
 <p 02><d F100><a 6B><n 15>
-Touch the icon on the
-bottom screen!
+Toque o ícone na tela
+inferior!
 <*********************>
 
 <p 02><d F200><a 6B><n 15>
-This is my power,
+Esse é meu poder,
 A-Trans!
 <--------------------->
 
 <d F300>
-I can morph into
-anyone whose DNA I
-copy!
+Posso me transformar em
+alguém cujo DNA eu
+copie!
 <*********************>
 
 <p 02><d F400><a 6B><n 15>
-Touch the icon on the
-bottom screen again,
-and I can change back!
+Toque o ícone na tela
+inferior novamente, e
+poderei mudar de volta!
 <*********************>
 
 <p 02><d F500><a 08><n 02>
-Man, that was something
-else! Could that be the
-reason
+Cara, isso foi outra
+coisa! Essa poderia ser
+a razão
 <--------------------->
 
 <d F600>
-why people are after
-you? The power?
+pela qual as pessoas
+estão atrás de você?
+O poder?
 <--------------------->
 
 <p 02><d F700><a 6B><n 15>
-Beats me. I'm not even
-sure why I was created.
+Destrua-me. Não sei
+nem mesmo pra que fui
+criado.
 <--------------------->
 
 <p 02><d F800><a 6B><n 15>
-This train is all out
-of chug. So, let's head
-back to the camp
+Esse trem está todo
+lascado. Vamos voltar
+para o acampamento
 <--------------------->
 
 <p 02><d F900><a 6B><n 15>
-and figure out another
-way to get to Legion
-Headquarters.
+e descobrir outro modo
+de chegar ao Quartel
+General da Legião.
 <--------------------->
 
 <p 02><d FA00><a 0C><n 02>
-Yeah, now you're
-getting the right idea.
+Sim, agora você está
+alcançando a idéia
+certa.
 <--------------------->
 
 <p 02><d FB00><a 6B><n 15>
-Well, it's that or
-you'll leave me here,
-right?
+Bem, é isso ou você vai
+me deixar aqui, certo?
 <--------------------->
 
 <p 02><d FC00><a 6B><n 15>
-I know there's a lot we
-don't understand. Maybe
-it's meant
+Sei que há muita coisa
+que não entendo. Talvez
+esteja destinado
 <--------------------->
 
 <d FD00>
-to be that way. Anyway,
-let's try to watch each
-other's backs.
+a ser assim. De toda
+forma, vamos tentar
+cuidar de um ao outro.
 <*********************>
 
 <p 02><d FE00><a 09><n 02>
-You bet! Now let's get
-those people taken care
-of.
+Pode apostar! Agora
+vamos cuidar daquelas
+pessoas.
 <--------------------->
 
 <p 02><d FF00><a 6B><n 15>
-What? Forget about
-those Hunters and let's
-get back to camp.
+O quê? Esqueça aqueles
+Caçadores e vamos
+voltar ao acampamento.
 <--------------------->
 
 <p 02><d 0001><a 08><n 02>
-I can't believe you
-would say something
-like that...
+Não posso acreditar que
+você poderia dizer algo
+assim...
 <--------------------->
 
 <d 0101>
-I wonder if you'd go
-down in history if I
-carved my name in you.
+Queria saber se ficará
+na história se eu pôr
+meu nome em você.
 <--------------------->
 
 <p 02><d 0201><a 6B><n 15>
-OK, OK, alright
-already! For crying out
-loud!
+OK, OK, tudo bem é pra
+já! Para com esse choro
+barulhento!
 <--------------------->
 
 <d 0301>
-Why did you have to be
-the only one around I
-could Megamerge with?
+Por que você tem que
+ser a única por aí que
+pode se Megamergir?
 <*********************>
 
 <p 03><d 0401><a 42><n 1F>
-Thank you both. I owe
-you one. I think you
-should hold on to the
+Obrigado a ambos. Te
+devo uma. Acho que você
+deveria ficar com o
 <--------------------->
 
 <d 0501>
-Biometal. It's 
-probably safer that
-way.
+Biometal. Provavelmente
+é mais seguro assim.
 <--------------------->
 
 <p 03><d 0601><a 42><n 1F>
-But, I need you to go
-to the transerver and
-send a mission report.
+Mas, preciso que vá ao
+transervidor e envie um
+relatório de missão.
 <--------------------->
 
 <p 03><d 0701><a 42><n 1F>
-No mission report
-for the client,
-no bounty.
+Sem relatório de missão
+para o cliente, não há
+recompensa.
 <--------------------->
 
 <p 03><d 0801><a 42><n 1F>
-Say, we're trying to
-fix the train, but we
-need a few more parts.
+Diga, estamos tentando
+consertar o trem, mas é
+preciso de mais peças.
 <--------------------->
 
 <p 03><d 0901><a 42><n 1F>
-Tell 'em we won't let
-'em down, and to wait
-just a little longer.
+Diga, não vamos
+desapontá-los, e espere
+só mais um pouco.
 <*********************>
 
 <p 02><d 0A01><a 02><n 00>
-So, you're the one who
-submitted the mission
-report?
+Então, você é o único
+que apresentou o
+relatório de missão?
 <--------------------->
 
 <p 02><d 0B01><a 02><n 00>
-I'm connecting your
-transerver to Legion's
-via a secure channel.
+Estou conectando seu
+transervidor pra Legião
+via canal de segurança.
 <*********************>
 
 <p 02><d 0C01><a 1D><n 00>
-So, you're the
-Biometal's Chosen
-One... a Mega Man.
+Então, a escolhida do
+Biometal é você... um
+Mega Man.
 <--------------------->
 
 <p 03><d 0D01><a 0A><n 02>
-Why do you get to
-ask all the questions?
+Por que você começou a
+exigir todas essas
+perguntas?
 <--------------------->
 
 <d 0E01>
-Do people at Legion
-always just do
-whatever they want?
+As pessoas na Legião
+sempre só fazem o que
+elas querem?
 <*********************>
 
 <p 02><d 0F01><a 1C><n 00>
-Hahaha, we heard that
-you were a feisty one.
+Hahaha, ouvimos que
+você era uma
+mal-humorada.
 <--------------------->
 
 <d 1001>
-It seems that the
-rumors were true.
+Parece que os rumores
+eram verdadeiros.
 <*********************>
 
 <p 02><d 1101><a 1E><n 00>
-Mikhail, that's quite
-enough. Like she said,
+Mikhail, isso é o
+bastante. Como ela
+disse,
 <--------------------->
 
 <d 1201>
-we are the ones being
-rude here.
+nós somos os rudes
+aqui.
 <*********************>
 
 <p 02><d 1301><a 1D><n 00>
-We are called the Sage
-Trinity, and we
+Somos chamados de
+Trindade Sábia, e
 <--------------------->
 
 <p 02><d 1401><a 1D><n 06>
-are the supreme
-authority of Legion.
-I'm Master Thomas.
+somos a autoridade
+suprema da Legião.
+Sou o Mestre Thomas.
 <--------------------->
 
 <p 02><d 1501><a 1C><n 07>
-And I'm Master Mikhail,
-nice to meet you, Mega
-Man.
+E eu sou o Mestre
+Mikhail, prazer em
+conhecê-lo, Mega Man.
 <--------------------->
 
 <p 02><d 1601><a 1E><n 05>
-And I am Master Albert.
+E eu sou o Mestre
+Albert.
 <--------------------->
 
 <p 02><d 1701><a 1E><n 05>
-Nice to meet you, Ashe.
+Prazer em conhecê-la,
+Ashe.
 <--------------------->
 
 <p 03><d 1801><a 0C><n 02>
-Wow, it's kinda scary
-to know they know
-about me
+Uau, é meio assustador
+saber que eles sabem
+sobre mim
 <--------------------->
 
 <d 1901>
-at Legion
-Headquarters.
+na Quartel General da
+Legião.
 <--------------------->
 
 <p 02><d 1A01><a 1D><n 06>
-Word has it that you
-are quite a Hunter.
+Dizem que você é uma
+grande Caçadora.
 <--------------------->
 
 <p 02><d 1B01><a 1D><n 06>
-We'd like you to go on
-another mission.
+Gostaríamos de ir em
+outra missão.
 <--------------------->
 
 <p 02><d 1C01><a 1C><n 07>
-We'd like you to bring
-the Biometal here to
-Legion Headquarters.
+Gostaríamos que você
+traga o Biometal aqui
+para o QG da Legião.
 <--------------------->
 
 <p 02><d 1D01><a 1C><n 07>
-It would seem that
-Mavericks are after the
-Biometal as well.
+Parece que os Mavericks
+estão atrás do Biometal
+também.
 <--------------------->
 
 <p 02><d 1E01><a 1C><n 07>
-To reduce the risk of
-being spotted, it's
-important to keep
+Para reduzir o risco de
+ser descoberto, é
+importante manter
 <--------------------->
 
 <d 1F01>
-the number of men...
-er, women to a minimum.
-Can we count on you?
+o número de homens...
+er, menos mulheres.
+Podemos contar contigo?
 <*********************>
 
 <p 02><d 2001><a 1E><n 05>
-It seems the train
-bound for Legion
-Headquarters
+Parece que o trem com
+destino ao Quartel
+General da Legião
 <--------------------->
 
 <d 2101>
-was damaged.
+foi danificado.
 <--------------------->
 
 <p 02><d 2201><a 1E><n 05>
-That card key should
-allow you access
-to a new area.
+Esse cartão-chave deve
+permitir seu acesso a
+uma nova área.
 <--------------------->
 
 <p 02><d 2301><a 1E><n 05>
-There's a crashed
-Raider airship not far
-from you. Find it and
+Há um dirigível de 
+Saqueador caído não tão
+longe de você. Ache-o e
 <--------------------->
 
 <p 02><d 2401><a 1E><n 05>
-you should be able to
-get the parts you need
-to repair the train.
+será capaz de conseguir
+as peças que precisa
+para reparar o trem.
 <--------------------->
 
 <p 02><d 2501><a 1D><n 06>
-The Biometal holds
-technology and
-information
+O Biometal detém
+tecnologia e informação
 <--------------------->
 
 <p 02><d 2601><a 1D><n 06>
-that we don't fully
-understand, like the
-M.E.G.A. mechanism
+que não entendemos por
+completo, como o
+mecanismo M.E.G.A.
 <--------------------->
 
 <d 2701>
-which allows you to
-Megamerge and become
-a Mega Man.
+que permite você
+Megamergir e se tornar
+um Mega Man.
 <--------------------->
 
 <p 02><d 2801><a 1C><n 07>
-And not to mention
-centuries worth of
-lost history!
+E sem mencionar séculos
+de valor histórico
+perdidos!
 <--------------------->
 
 <p 02><d 2901><a 1E><n 05>
-That's enough, Mikhail.
-...We have a duty to
-study the Biometal
+Já chega, Mikhail.
+...Temos o dever de
+estudar o Biometal,
 <--------------------->
 
 <p 02><d 2A01><a 1E><n 05>
-so its secrets are
-never misused. Ashe,
-can we count on you?
+assim seus segredos não
+serão mal usados. Ashe,
+podemos contar contigo?
 <--------------------->
 
 <p 03><d 2B01><a 08><n 02>
-OK. Now things are
-starting to get
-interesting.
+OK. Agora as coisas
+estão começando a ficar
+interessantes.
 <--------------------->
 
 <d 2C01>
-You're going to up
-the bounty, of
-course?
+Você está indo para
+pegar a recompensa, não
+é mesmo?
 <--------------------->
 
 <p 02><d 2D01><a 1D><n 06>
-Aah... We'll consider
-it. First head to the
-airship crash site.
+Aah... Suponhamos isso.
+Primeiro, ir ao local
+da batida do dirigível.
 <--------------------->
 
 <p 02><d 2E01><a 1D><n 06>
-And be sure to heed
-the advice of your
-fellow Hunters.
+E não se esqueça de
+seguir os conselhos dos
+seus colegas Caçadores.
 <*********************>
 
 <p 02><a 6B><n 15>
-If you mess around and
-hit one of
-those things,
+Se mexer e acertar uma
+dessas coisas,
 <--------------------->
 
-you'll get blown away!
+você será desintegrado!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Instead of shooting
-them,
+Ao invés de atirar
+neles,
 <--------------------->
 
-try pressing the Dash
-Button to go under 'em.
+tente apertar o Botão
+de Dash para passar por
+por baixo deles.
 <*********************>
 
 <p 02><a 6B><n 15>
-If you come across a
-wall or obstacle that's
-too high to jump over,
+Se você se deparar com
+uma parede ou obstáculo
+muito grande pra pular,
 <--------------------->
 
-try to kick your way
-over.
+tente passar sobre eles
+do seu jeito.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Press the Jump Button
-while pressing
+Pressione o Botão de
+Pular enquanto aperta
 <--------------------->
 
-the <dpad>Control Pad in
-the direction of the
-wall.
+o <dpad> na direção da
+parede.
 <*********************>
 
 <p 02><a 6B><n 15>
-It's gonna take more
-than one hit to bust
-through that!
+Vai ser preciso mais
+do que um golpe para
+arrebentar isso!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Try holding down the
-Laser Shot Button and
-then releasing it.
+Tente segurar o Botão
+de Tiro de Laser e
+então libere-o.
 <--------------------->
 
 <p 02><a 6B><n 15>
-You can take 'em out
-with one shot.
+Você pode pegá-los com
+um só tiro.
 <*********************>
 
 <p 02><a 6B><n 15>
-Now, what have we here?
+Agora, o que temos
+aqui?
 <--------------------->
 
 <p 02><a 6B><n 15>
-At times like these,
-the Homing Shot really
-comes in handy.
+Em momentos assim, o
+Tiro Teleguiado
+realmente vem a calhar.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Try holding down the
-Homing Shot Button.
+Tente segurar o Botão
+de Tiro Teleguiado.
 <--------------------->
 
 <p 02><a 6B><n 15>
-The Homing Shot range
-appears in front of
-you.
+O Tiro Teleguiado
+aparece na sua frente.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Enemies and any
-destructible items in
-range
+Inimigos e itens
+destrutíveis em linha
+reta
 <--------------------->
 
-will be indicated by
-markers.
-<--------------------->
-
-<p 02><a 6B><n 15>
-But remember, you can
-only home in on up to 8
-targets.
+serão indicados por
+marcadores.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Then all you have to do
-is release the Homing
-Shot Button,
-<--------------------->
-
-the rest is automatic.
+Mas lembre-se, você só
+pode juntar até 8
+alvos.
 <--------------------->
 
 <p 02><a 6B><n 15>
-By the way, you can
-customize the controls
+Depois tudo que precisa
+fazer é soltar o Botão
+de Tiro,
 <--------------------->
 
-on the Options
-sub-screen!
+o resto é automático.
+<--------------------->
+
+<p 02><a 6B><n 15>
+A propósito, você pode
+customizar os controles
+<--------------------->
+
+nas Opções de sub-tela!
 <*********************>
 
 <p 02><a 6B><n 15>
-Hey, try pressing up
-on the <dpad>Control Pad
-while holding down
+Ei, tente pressionar
+pra cima no <dpad> enquanto
+segura
 <--------------------->
 
 <p 02><a 6B><n 15>
-the Attack Button and
-then releasing it.
-You can use this move
+o Botão de Ataque e em
+seguida solte-o. Você
+pode usar esse golpe
 <--------------------->
 
-to break objects above
-you.
-<--------------------->
-
-<p 02><a 6B><n 15>
-It's a bit advanced,
-but I'm sure 
-it will come in handy!
+para quebrar objetos
+acima de você.
 <--------------------->
 
 <p 02><a 6B><n 15>
-And here's another
-great trick!
-
-<--------------------->
-
-Hold down and release
-the Attack Button
-while in mid-air,
+É um pouco avançado,
+mas tenho certeza que
+isso vai vir a calhar!
 <--------------------->
 
 <p 02><a 6B><n 15>
-to kick down
-towards the ground.
+E aqui está outro
+grande truque!
+<--------------------->
+
+Segure e solte o Botão
+de Ataque enquanto
+estiver no ar,
 <--------------------->
 
 <p 02><a 6B><n 15>
-With this move
-you can break objects
-below you.
+para chutar em direção
+ao chão.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Why don't you try these
-moves on the two
-objects in here!?
+Com esse golpe você
+pode quebrar objetos
+abaixo de você.
 <--------------------->
 
 <p 02><a 6B><n 15>
-If you want to review
-them, just press the
-START
-<--------------------->
-
-and open the
-sub-screen. Take a
-look in
+Por que não tenta fazer
+esses golpes nesses
+dois objetos aqui!?
 <--------------------->
 
 <p 02><a 6B><n 15>
-the Profiles section.
-There, you will find
-detailed explanations
+Se quiser revê-los,
+basta pressionar o
+Botão START
 <--------------------->
 
-of other
-moves as well.
+e abrir a sub-tela.
+Dê uma olhada na
+<--------------------->
+
+<p 02><a 6B><n 15>
+seção de Perfis. Lá,
+você encontrará
+explicações detalhadas
+<--------------------->
+
+de outros golpes
+também.
 <*********************>
 
 <FIM>

@@ -2,49 +2,49 @@
 <#####################>
 
 <p 02><a 96><n 50>
-Oh yeah! Now I
-remember!
+Ah sim! Agora eu
+lembrei!
 <--------------------->
 
-I heard that there's a
-fire breaking out in
-the Legion building...
+Ouvi dizer que há um
+incêndio ocorrendo no
+edifício da Legião...
 <--------------------->
 
-If that's true, I'm
-worried.
+Se for verdade, isso me
+deixo preocupado.
 <--------------------->
 
-I can't go and check it
-out with all of those
-Mechaniloids around.
+Não posso ir averiguar
+com todos aqueles
+Mecanilóides ao redor.
 <--------------------->
 
-Could you go take a
-look and put out the
-fire if there is one?
+Você pode dar uma
+olhada e apagar o fogo
+se houver um?
 <*********************>
 
 <p 02><a 96><n 50>
-If you have water, you
-should be able to douse
-the flames.
+Se você tiver água,
+conseguirá apagar as
+chamas.
 <--------------------->
 
-Please hurry! I'm
-worried that people
-could be hurt.
+Por favor, rápido! Fico
+preocupado se o pessoal
+possa estar ferido.
 <*********************>
 
 <p 02><a 96><n 50>
-I'm relieved to hear
-that the fire is out.
-Thank you very much.
+Estou aliviado ao ouvir
+que o incêndio foi apa-
+gado. Muito obrigado.
 <--------------------->
 
-This used to be my
-older brother's. Please
-take it.
+Isso era do meu irmão
+mais velho. Por favor,
+leve isso.
 <*********************>
 
 <FIM>

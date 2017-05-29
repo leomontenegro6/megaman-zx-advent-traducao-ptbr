@@ -2,51 +2,52 @@
 <#####################>
 
 <p 02><a 44><n 35>
-Oh! I've done it again.
+Oh! Eu fiz de novo.
 <*********************>
 
 <p 02><a 44><n 35>
-Hmm? Hey you!
+Hmm? Ei você!
 <--------------------->
 
-I need you to
-get rid of some
+Preciso que você se
+livre de alguns
 Chabanos.
 <*********************>
 
 <p 02><a 44><n 35>
-Boy, this is a total
-mess,
+Cara, isso está uma
+total bagunça,
 <*********************>
 
 <p 02><a 44><n 35>
-There's no way I can
-handle that many of
+Não tem como eu
+conseguir segurá-los
 <--------------------->
 
-them if they start
-getting rowdy.
+se eles começam
+a ficar agitados.
 <*********************>
 
 <p 02><a 44><n 35>
-Chabanos are my guinea
-pigs.
+Chabanos são os meus
+porquinhos-da-índia.
 <*********************>
 
 <p 02><a 44><n 35>
-They're great to do
-research on. 
+Eles são ótimos para
+fazer pesquisa.
 <*********************>
 
 <p 02><a 44><n 35>
-But enough about that.
-Go on young'n and get
-rid of them varmints.
+Mas chega disso. Vá em
+frente jovem e se livre
+dessas criaturas.
 <*********************>
 
 <p 02><a 44><n 35>
-Looks like you're not a
-bad Hunter after all.
+Parece que você não é
+um mau Caçador afinal
+de contas.
 <*********************>
 
 <FIM>

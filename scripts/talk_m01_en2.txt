@@ -2,2102 +2,2040 @@
 <#####################>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-I haven't seen you 
-around here before.
-My name is Nana.
+Não vi você por aqui
+antes. Meu nome é Nana.
 <--------------------->
 
-How do you do?
-<--------------------->
-
-<p 02><a 48><n 36>
-I'm an Operator in
-training here at
-Hunter's Camp.
+Como vai?
 <--------------------->
 
 <p 02><a 48><n 36>
-I know you probably
-don't need my help but,
-<--------------------->
-
-allow me to explain 
-a few things to you.
+Sou uma Operadora em
+treinamento aqui no
+Acampamento de Caçador.
 <--------------------->
 
 <p 02><a 48><n 36>
-That device is called a
-Warp Point.
+Sei que provavelmente
+não precisará da minha
+ajuda mas,
+<--------------------->
+
+permita-me te explicar
+algumas coisas.
 <--------------------->
 
 <p 02><a 48><n 36>
-You can use the
-transerver back there
-any time to go
-<--------------------->
-
-to wherever there is a
-Warp Point.
+Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-But it looks like that
-one isn't working,
-
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-because it's all out of
-power.
-<--------------------->
-
-<p 02><a 48><n 36>
-If you have enough
-E-Crystals, you can
-press up on the
-<--------------------->
-
-<dpad>Control Pad and start
-it up.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
 <p 02><a 48><n 36>
-Let's start this one up
-just for now.
+Mas parece que esse não
+está funcionando,
+<--------------------->
+
+porque está tudo
+desligado.
+<--------------------->
+
+<p 02><a 48><n 36>
+Se tiver Cristais
+o bastante, você pode
+pressionar pra cima no
+<--------------------->
+
+<dpad> e iniciá-lo.
+<--------------------->
+
+<p 02><a 48><n 36>
+Vamos iniciar esse aqui
+nesse momento.
 <*********************>
 
 <p 02><a 48><n 36>
-See? Pretty neat, huh?
-With this you can use 
+Entendeu? Bem claro,
+hein? Com isso você
+pode usar
 <--------------------->
 
-a transerver to come
-back anytime!
-<--------------------->
-
-<p 02><a 48><n 36>
-You can look at the map
-to see which areas are
-accessible.
+um transervidor para
+voltar a qualquer hora!
 <--------------------->
 
 <p 02><a 48><n 36>
-When you start up the
-Warp Point, the area
-will light up red. 
-<--------------------->
-
-So, you should be able
-to find it right away.
+Você pode olhar para
+o mapa pra ver quais
+áreas são acessíveis.
 <--------------------->
 
 <p 02><a 48><n 36>
-I wonder if you were 
-able to understand my
-explanation,
+Quando você iniciar o
+Ponto Warp, a área
+irá acender vermelho.
 <--------------------->
 
-since I'm still in
-training.
-<--------------------->
-
-<p 02><a 48><n 36>
-Also, in Beginner Mode,
-all you have to do is
-touch it
-<--------------------->
-
-and it will start up
-automatically!
+Então, você será capaz
+de encontrá-lo de
+imediato.
 <--------------------->
 
 <p 02><a 48><n 36>
-If you don't understand
-something, please ask
-me again, OK?
+Gostaria de saber se
+você conseguiu entender
+a minha explicação,
+<--------------------->
+
+já que ainda estou em
+treinamento.
+<--------------------->
+
+<p 02><a 48><n 36>
+Além disso, no Modo
+Iniciante, tudo que
+tem que fazer é tocá-lo
+<--------------------->
+
+e ele irá iniciar
+automaticamente!
+<--------------------->
+
+<p 02><a 48><n 36>
+Se não entendeu alguma
+coisa, por favor, me
+pergunte de novo, OK?
 <*********************>
 
 <FIM>

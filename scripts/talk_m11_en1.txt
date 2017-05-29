@@ -9,8 +9,7 @@ bastante agitadas, não
 
 <p 02><d 8C04><a 16><n 19>
 Então esse é o Biometal
-Definitivo...
-Ouroboros.
+Definitivo... Uróboro.
 <--------------------->
 
 <p 02><d 8D04><a 16><n 19>
@@ -56,7 +55,7 @@ O-O que é isso...?
 <--------------------->
 
 <p 01><p 02><d 9604><a 16><n 19>
-Ela pertence a mim e
+Ela pertence a mim e a
 minha equipe... Ela é a
 Base da Guardiã!
 <--------------------->
@@ -68,7 +67,7 @@ podemos fazer...
 
 <d 9804>
 Use a Base da Guardiã
-para revelar Ouroboros.
+para revelar Uróboro.
 <--------------------->
 
 <p 01><p 02><d 9904><a 17><n 19>
@@ -81,8 +80,8 @@ Ei! Espere!
 <*********************>
 
 <p 02><d 9B04><a 42><n 1F>
-Você vai após o líder,
-certo?
+Você vai atrás do
+líder, certo?
 <--------------------->
 
 <d 9C04>
@@ -160,12 +159,12 @@ proteger, certo!?
 <*********************>
 
 <p 02><d AA04><a 17><n 19>
-Vamos lá, siga-me!
+Vamos lá, sigam-me!
 <*********************>
 
 <p 03><d AB04><a 19><n 19>
 Assim que agarrarmos
-firme no Ouroboros,
+firme no Uróboro,
 <--------------------->
 
 <d AC04>
@@ -205,12 +204,11 @@ OK!
 
 <p 03><d B404><a 03><n 05>
 Nunca teria imaginado
-
 <--------------------->
 
 <d B504>
-que eles viriam depois
-dos Ouroboros em um
+que eles viriam atrás
+do Uróboro em um
 dirigível.
 <--------------------->
 
@@ -595,8 +593,8 @@ novo mundo!
 
 <d FE04>
 Não há nenhuma maneira
-de deixarmos
-você passar de novo!
+de deixarmos você
+passar de novo!
 <--------------------->
 
 <p 02><d FF04><a 3C><n 0E>
@@ -1071,7 +1069,7 @@ segurá-los.
 <--------------------->
 
 <p 03><d 6305><a 1B><n 19>
-Não... Do que você está
+Não... do que você está
 falando!? Não seja
 louco, Modelo Z!
 <--------------------->
@@ -1193,12 +1191,12 @@ lá.
 
 <p 03><d 7B05><a 0F><n 01>
 Sim, o que aconteceu
-com o Ouroboros e o
+com o Uróboro e o
 Modelo W!?
 <--------------------->
 
 <p 02><d 7D05><a 16><n 19>
-O Ouroboros afundou sem
+O Uróboro afundou sem
 deixar vestígios.
 <--------------------->
 
@@ -1228,7 +1226,7 @@ mundo pertence a todos.
 <--------------------->
 
 <p 03><d 8405><a 08><n 01>
-Aile, Onde você vai
+Aile, aonde você vai
 agora?
 <--------------------->
 

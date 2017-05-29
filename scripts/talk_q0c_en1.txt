@@ -2,249 +2,249 @@
 <#####################>
 
 <p 02><a 56><n 3C>
-This room needs a
-little green. Do you
-think you could go
+Essa sala precisa de
+um pouco de verde. Você
+acha que consegue achar
 <--------------------->
 
-and find a plant or
-something to go in
-here?
-<--------------------->
-
-<p 02><a 56><n 3C>
-You know, I think there
-were some potted plants
-at Legion.
+e trazer uma planta
+ou qualquer coisa para
+colocar aqui?
 <--------------------->
 
 <p 02><a 56><n 3C>
-If they were left
-there, they would just
-die anyway.
+Sabe, acho que havia
+alguns vasos de plantas
+na Legião.
 <--------------------->
 
 <p 02><a 56><n 3C>
-And I'll give you
-something for your
-trouble.
+Se foram deixadas lá,
+elas só morreriam de
+qualquer maneira.
 <--------------------->
 
-Not a bad deal, eh?
+<p 02><a 56><n 3C>
+E vou te dar algo pelo
+incômodo.
+<--------------------->
+
+Não é um mau negócio,
+hein?
 <*********************>
 
 <p 02><a 56><n 3C>
-Those poor plants were
-just left abandoned in
-the Legion building.
+Aquelas pobres plantas
+foram abandonadas no
+prédio da Legião.
 <--------------------->
 
 <p 02><a 56><n 3C>
-I hear there are all
-kinds.
+Ouvir dizer que há de
+todos os tipos.
 <--------------------->
 
 <p 02><a 56><n 3C>
-Please bring back one.
-I'll leave it up to you
-to decide which one.
+Por favor, traga uma.
+Vou deixá-lo decidir
+qual delas.
 <*********************>
 
 <p 02><a 56><n 3C>
-Thank you for bringing
-the plant!
+Obrigado por trazer a
+planta!
 <*********************>
 
 <p 02><a 56><n 3C>
-Let's put it over
-there.
+Vamos colocá-la ali.
 <*********************>
 
 <p 02><a 56><n 3C>
-Yes, there's something
-soothing about having a
-plant in the room.
+Sim, há algo calmante
+em ter uma planta na
+sala.
 <--------------------->
 
 <p 02><a 56><n 3C>
-This is for your
-trouble.
+Isso é pelo incômodo.
 <*********************>
 
 <p 02><a 56><n 3C>
-Be sure to come and
-help me water it
-sometimes, OK?
+Não deixe de vir me
+ajudar a regá-la, de
+vez em quando, OK?
 <*********************>
 
 <p 02><a 56><n 3C>
-It's not exactly what I
-was expecting...
+Não é exatamente o que
+eu estava esperando...
 <--------------------->
 
-But I guess it's better
-than nothing.
-<--------------------->
-
-<p 02><a 56><n 3C>
-Anyway, thanks. Here's
-your compensation.
-<*********************>
-
-<p 02><a 56><n 3C>
-Plants thrive when you
-talk to them. Did you
-know that?
-<*********************>
-
-<p 02><a 56><n 3C>
-*shriek* Did you see
-that!? That flower
-moved!
+Mas acho que é melhor
+do que nada.
 <--------------------->
 
 <p 02><a 56><n 3C>
-Of all the plants you
-could've chosen...
-<--------------------->
-
-Oh well, here's your
-compensation.
+De todo modo, obrigado.
+Aqui está sua
+retribuição.
 <*********************>
 
 <p 02><a 56><n 3C>
-But look, these little
-berry thingies. They're
-so cute.
+Plantas prosperam
+quando se fala com
+elas. Sabia disso?
+<*********************>
+
+<p 02><a 56><n 3C>
+*grito* Viu aquilo!?
+Aquela flor se mexeu!
+<--------------------->
+
+<p 02><a 56><n 3C>
+De todas as plantas que
+você poderia ter
+escolhido...
+<--------------------->
+
+Oh, bem, aqui está sua
+retribuição.
+<*********************>
+
+<p 02><a 56><n 3C>
+Mas olha, essas
+coisinhas pequenas da
+baga. São tão fofas.
 <*********************>
 
 <p 02><a 05><n 00>
-You can only pick up
-one potted plant at a
-time.
+Você só pode pegar um
+vaso de planta de cada
+vez.
 <*********************>
 
 <e 01><a 05><n 00>
-Pick up this one?
-  Yes
-  No
+Pegar esse aqui?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 05><n 00>
-You picked up the
-plant.
+Você pegou a planta.
 <*********************>
 
 <p 02><a 05><n 00>
-This is all you can
-pick up at once.
+Isso é tudo que você
+pode pegar de uma só
+vez.
 <*********************>
 
 <p 03><a 05><n 00>
-There is a potted
-plant here.
+Há um vaso de planta
+aqui.
 <*********************>
 
 <p 03><a 08><n 01>
-Oh, that's right! I'd
-better water it!
+Ah, está certo! É
+melhor eu regá-la!
 <*********************>
 
 <p 03><a 05><n 00>
-There's only this one
-little berry...
+Só há essa pequena
+baga...
 <*********************>
 
 <p 03><a 08><n 01>
-What a cute little
-cactus.
+Que cacto bonitinho.
 <*********************>
 
 <p 03><a 08><n 01>
-Why won't this cactus
-grow?
+Por que esse cacto não
+cresce?
 <*********************>
 
 <p 03><a 08><n 01>
-Why won't this cactus
-grow?
+Por que esse cacto não
+cresce?
 <*********************>
 
 <p 03><a 08><n 01>
-They say that it's good
-to talk to plants. I
-wonder if that's true.
+Dizem que é bom falar
+com plantas. Gostaria
+de saber se é verdade.
 <*********************>
 
 <p 03><a 08><n 01>
-They say that it's good
-to talk to plants. I
-wonder if that's true.
+Dizem que é bom falar
+com plantas. Gostaria
+de saber se é verdade.
 <*********************>
 
 <p 03><a 08><n 01>
-Hello little cactus...
-Can you hear me?
+Olá pequeno cacto...
+Pode me ouvir?
 <*********************>
 
 <p 03><a 08><n 01>
-Hey, cactus! If you can
-hear me, do something!
+Ei, cacto! Se pode me
+ouvir, faça alguma
+coisa!
 <*********************>
 
 <p 03><a 08><n 01>
-Do you understa... Oh,
-this is ridiculous. I'm
-talking to a plant.
+Você entend... Oh, isso
+é ridículo. Eu estou
+falando com uma planta.
 <*********************>
 
 <p 03><a 08><n 01>
-I can't believe it...
-The flowers are
-blooming!
+Não consigo acreditar
+nisso... As flores
+estão florescendo!
 <*********************>
 
 <p 02><a 97><n 53>
-Hello, I'm Janet. I
-work here at this shop.
+Olá, eu sou Janet. Eu
+trabalho aqui nessa
+loja.
 <--------------------->
 
 <p 02><a 97><n 53>
-I'm afraid we're sold
-out of everything but
-this bucket.
+Receio que vendemos de
+tudo, menos esse balde.
 <*********************>
 
 <p 02><e 01><a 97><n 53>
-Buy bucket for 100 EC?
-  Yes
-  No
+Comprá-lo por 100 CE?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 97><n 53>
-Thank you, and have a
-nice day.
+Obrigado, e tenha um
+ótimo dia.
 <*********************>
 
 <p 02><a 97><n 53>
-Oh, you don't want to
-get this? No problem, I
-understand.
+Oh, não quer comprar
+isso? Sem problema, eu
+entendo.
 <*********************>
 
 <p 02><a 97><n 53>
-I'm sorry, there's a
-limit of one per
-customer.
+Sinto muito, há um
+limite de um por
+cliente.
 <*********************>
 
 <p 02><a 97><n 53>
-I'm sorry, you don't
-have enough E-Crystals.
+Sinto muito, você não
+tem Cristais
+o suficiente.
 <*********************>
 
 <p 03><a 08><n 01>
-Look! There's fruit!
+Veja! Gerou frutos!
 <*********************>
 
 <FIM>

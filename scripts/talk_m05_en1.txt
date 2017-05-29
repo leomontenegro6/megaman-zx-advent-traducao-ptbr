@@ -125,7 +125,7 @@ alimentando
 
 <p 02><d 6C01><a 3E><n 00>
 do medo daqueles
-desgraçados que vagam
+infelizes que vagam
 nessa torre.
 <*********************>
 
@@ -310,7 +310,7 @@ bem?
 <p 02><d 9301><a 02><n 05>
 Já verificamos que o
 sistema de segurança de
-fato foi desarmado. 
+fato foi desarmado.
 <--------------------->
 
 <p 02><d 9401><a 02><n 05>

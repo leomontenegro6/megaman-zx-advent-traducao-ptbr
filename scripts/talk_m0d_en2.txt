@@ -2,184 +2,186 @@
 <#####################>
 
 <p 02><a 02><n 07>
-It's me, Mikhail.
+Sou eu, Mikhail.
 <--------------------->
 
-About the information
-we found on you in the
-Legion's database...
+Sobre a informação que
+achamos de você na Base
+de Dados da Legião...
 <--------------------->
 
 <p 02><a 02><n 07>
-It appears that someone
-hacked in from the
-outside and erased it.
+Parece que alguém
+invadiu pelo lado de
+fora e o apagou.
 <--------------------->
 
 <p 03><a 6B><n 15>
-It had to be Albert.
+Tinha que ser Albert.
 <--------------------->
 
 <p 02><a 02><n 07>
-We did all we could to
-pinpoint the location
-of the hacker,
+Fizemos tudo que
+podíamos para achar a
+localização do hacker,
 <--------------------->
 
 <p 02><a 02><n 07>
-but the network
-response is slow in the
-area you are in.
+mas a resposta da rede
+é lenta na área em que
+você está.
 <--------------------->
 
 <p 02><a 02><n 07>
-Can you see a large
-computer facility in
-that area?
+Você pode ver uma
+grande base de computa-
+dores nessa área?
 <--------------------->
 
 <p 03><a 08><n 02>
-Computer facility? No,
-there's nothing like
-that around here...
+Base de computadores?
+Não, não há nada assim
+por aqui...
 <--------------------->
 
 <p 02><a 02><n 07>
-I'm afraid we can't do
-anything else.
+Tenho medo de não
+podermos fazer mais
+nada.
 <--------------------->
 
-Now, it's up to you.
-<--------------------->
-
-<p 02><a 02><n 07>
-If you can find the
-computer used to do the
-hacking,
-<--------------------->
-
-there may still be some
-data on it.
+Agora, cabe a você.
 <--------------------->
 
 <p 02><a 02><n 07>
-The missing data on you
-is one of the only
+Se puder encontrar o
+computador usado para
+fazer o hack,
 <--------------------->
 
-clues there are left to
-track down Albert.
+pode ser que ainda haja
+alguns dados nele.
+<--------------------->
+
+<p 02><a 02><n 07>
+Os dados que faltam em
+você são uma das únicas
+<--------------------->
+
+pistas de lá que são
+deixadas para rastrear
+Albert.
 <--------------------->
 
 <p 03><a 08><n 02>
-The computer used to
-hack my data...?
+O computador usado para
+hackear meus dados...?
 <--------------------->
 
 <p 03><a 0A><n 02>
-Anyway, I'll look for
-suspicious places.
+De toda forma, Vou
+procurar por lugares
+suspeitos.
 <*********************>
 
 <p 03><d 8A03><a 3B><n 00>
-Wait right there! I
-don't care who you are.
+Espere aí! Não me
+importa quem é você.
 <--------------------->
 
 <d 8B03>
-But I can't allow you
-to continue any
-further!
+Mas não posso permitir
+que você prossiga mais
+que isso!
 <--------------------->
 
 <p 02><d 8C03><a 3C><n 00>
-*grunt*!
+*grunhido*!
 <--------------------->
 
 <p 02><d 8D03><a 0F><n 02>
-Two Pseudoroids!
-Probably Albert's!
+Dois Pseudoróides!
+Provavelmente de
+Albert!
 <--------------------->
 
 <p 03><d 8E03><a 3B><n 0D>
-That's right! Call me
-Argoyle!
+É isso mesmo! Me chame
+de Argoyle!
 <--------------------->
 
 <p 02><d 8F03><a 3C><n 00>
-*grunt*!
+*grunhido*!
 <--------------------->
 
 <p 03><d 9003><a 3B><n 0D>
-And he's my other
-half, Ugoyle!
+E ele é minha outra
+metade, Ugoyle!
 <--------------------->
 
 <p 03><d 9103><a 3B><n 0D>
-We will defend this
-area with our lives!
+Vamos defender essa
+área com nossas vidas!
 <--------------------->
 
 <p 02><d 9203><a 6B><n 15>
-I see. So, the computer
-used to do the hacking
-is in there!
+Entendo. Então, o
+computador usado para
+fazer hack está aí!
 <--------------------->
 
 <p 03><d 9303><a 3B><n 0D>
-Do you think you can 
-break through our 
-defenses?
+Você acha que pode
+atravessar nossas
+defesas?
 <--------------------->
 
 <p 02><d 9403><a 3C><n 0E>
-*grunt*!
+*grunhido*!
 <--------------------->
 
 <p 03><d 9503><a 3B><n 0D>
-Then come on, Mega Man
-Model A!
+Então venha, Mega Man
+Modelo A!
 <--------------------->
 
 <p 03><d 9603><a 3B><n 0D>
-Let me show you the
-way... The way to the
-netherworld!
+Deixe-me te mostrar o
+caminho... O caminho
+para o submundo!
 <--------------------->
 
 <p 02><d 9703><a 3C><n 0E>
-End of the line for
-you!
+Fim da linha para você!
 <*********************>
 
 <p 03><d 9803><a 3B><n 0D>
-Your strength is no
-match... And you call
-yourself a Mega Man!?
+Sua força não se
+compara... E diz ser um
+Mega Man!?
 <--------------------->
 
 <d 9903>
-Ha, don't make me
-laugh!
+Ha, não me faça rir!
 <--------------------->
 
 <p 02><d 9A03><a 3C><n 0E>
-Fool!
+Idiota!
 <*********************>
 
 <p 03><d 9B03><a 3B><n 0D>
-You!... Me!... We're
-broken!
+Você!... Eu!... Estamos
+quebrados!
 <--------------------->
 
 <p 02><d 9C03><a 3C><n 0E>
-...No!
+...Não!
 <--------------------->
 
 <p 03><d 9D03><a 3B><n 0D>
-You managed to win this
-battle, but you won't
-survive this war!
+Conseguiu ganhar essa
+luta, mas não sobrevi-
+verá a esta guerra!
 <--------------------->
 
 <p 02><d 9E03><a 3C><n 0E>
@@ -187,234 +189,238 @@ Aaaaaaaggh!
 <*********************>
 
 <p 03><d 9F03><a 6B><n 15>
-To leave Pseudoroids
-standing guard...
+Deixar os Pseudoróides
+montando guarda...
 <--------------------->
 
 <d A003>
-Albert must really not
-want anyone to see
-what's in there.
+Albert realmente não
+quer que ninguém veja
+o que está lá dentro.
 <--------------------->
 
 <p 02><d A103><a 0C><n 02>
-Never underestimate the
-skills of a first class
-Hunter!
+Nunca subestime as
+técnicas de uma Caçado-
+ra de primeira classe!
 <*********************>
 
 <p 03><d A203><a 6B><n 15>
-W-Was that the sound of
-an explosion just now!?
+O-O que foi esse
+barulho de explosão
+nesse instante!?
 <--------------------->
 
 <p 02><d A303><a 0F><n 02>
-It came from this way!
-Let's go!
+Veio desse lado!
+Vamos lá!
 <*********************>
 
 <p 03><d A403><a 0A><n 02>
-Were you the ones who
-destroyed the
-computer!?
+Foram vocês que
+destruíram o
+computador!?
 <*********************>
 
 <p 02><d A503><a 25><n 03>
-That's right! We've
-entered the final stage
-of the plan...
+É isso mesmo! Nós já
+entramos na fase final
+do plano...
 <--------------------->
 
 <d A603>
-We don't need to hack
-anymore.
+Não precisamos mais
+hackear.
 <--------------------->
 
 <p 02><d A703><a 25><n 03>
-But we couldn't just
-let you go snooping
-around in there
+Mas não podíamos deixar
+você ir bisbilhotando
+por aí
 <--------------------->
 
 <d A803>
-looking for information
-about yourself either.
+à procura de
+informações sobre si
+mesmo, também.
 <--------------------->
 
 <p 02><d A903><a 26><n 03>
-And we can't let you,
-who beat 5 Mega Men
-just retire.
+E não podemos permitir,
+já que venceu 5 Mega
+Mans deve se retirar.
 <--------------------->
 
 <p 03><d AA03><a 0A><n 02>
-What!?
+O quê!?
 <--------------------->
 
 <p 02><d AB03><a 28><n 04>
-The reason we've kept
-you alive is all part
-of the plan.
+A razão de mantermos
+você vivo é tudo parte
+do plano.
 <--------------------->
 
 <p 02><d AC03><a 28><n 04>
-Soon it will all be
-over. The destiny of
-destruction.
+Logo tudo isso vai
+acabar. O destino da
+destruição.
 <--------------------->
 
 <p 02><d AD03><a 25><n 03>
-*laugh* Albert, as well
-as his stupid game are
-about to be over!
+*risada* Albert, assim
+como seu jogo estúpido
+está prestes a acabar!
 <--------------------->
 
 <p 02><d AE03><a 26><n 03>
-As Albert meets his
-demise!
+Assim como Albert
+encontra sua morte!
 <--------------------->
 
 <p 03><d AF03><a 0F><n 02>
-The end of Albert!? 
-Why!?
+O fim de Albert!?
+Por quê!?
 <--------------------->
 
 <p 02><d B103><a 26><n 03>
-I'll tell you when it's
-all over...
+Vou te dizer quando
+tudo terminar...
 <--------------------->
 
 <d B203>
-Perhaps as you are
-dying... *evil laugh*
+Talvez assim que
+estiver morrendo...
+*risada maligna*
 <*********************>
 
 <p 02><d B303><a 28><n 04>
-We'll meet again...
+Vamos nos encontrar
+novamente...
 <*********************>
 
 <p 03><d B403><a 0B><n 02>
-Wait just a minute!
-What are they planning
-to do!?
+Espere só um minuto!
+O que eles estão
+planejando fazer!?
 <*********************>
 
 <p 02><d B503><a 02><n 07>
-Wait, what? Those two
-weren't working for
-Albert?
+Espere, o quê? Aqueles
+dois não estavam
+trabalhando pra Albert?
 <--------------------->
 
 <p 02><d B603><a 02><n 07>
-What about the
-computer? Is there
-anything left of it?
+E sobre o computador?
+Restou alguma coisa
+dele?
 <*********************>
 
 <p 03><d B703><a 0F><n 02>
-What's this...?
+O que é isso...?
 <*********************>
 
 <p 03><d B803><a 0D><n 02>
-It doesn't look like
-there's anything else.
+Parece que não há mais
+nada.
 <*********************>
 
 <p 02><d B903><a 02><n 07>
-Don't feel so bad.
-Even without data,
+Não me sinto tão mal.
+Mesmo sem os dados,
 <--------------------->
 
 <d BA03>
-you are very real
-and you exist
-in this world.
+você é muito real e
+existe nesse mundo.
 <--------------------->
 
 <p 02><d BB03><a 02><n 07>
-The proof is in the
-fact that they went to
-so much trouble
+A prova está no fato de
+que eles passaram por
+tantos problemas
 <--------------------->
 
 <d BC03>
-to keep you from seeing
-the data.
+para você preservar os
+dados.
 <--------------------->
 
 <p 02><d BD03><a 02><n 07>
-Let's investigate the
-data we do have on our
-own.
+Vamos investigar os
+dados que temos por
+conta própria.
 <--------------------->
 
 <p 02><d BE03><a 02><n 07>
-Send it together with
-your mission report.
+Envie isso juntamente
+com o relatório da
+missão.
 <*********************>
 
 <p 03><a 6B><n 15>
-Ashe! Take a good look
-over there!
+Ashe! Dê uma boa olhada
+bem ali!
 <--------------------->
 
 <p 03><a 6B><n 15>
-There's something on
-the other side of that
-wall.
+Há alguma coisa do
+outro lado daquela
+parede.
 <--------------------->
 
 <p 03><a 6B><n 15>
-Press the Attack Button
-and Argoyle can throw
-bombs.
+Pressione o Botão de
+Ataque e Argoyle poderá
+lançar bombas.
 <--------------------->
 
 <p 03><a 6B><n 15>
-Press the other Attack
-Button and release it
-to summon Ugoyle.
+Pressione o outro Botão
+de Ataque e solte-o
+para convocar Ugoyle.
 <--------------------->
 
 <p 03><a 6B><n 15>
-Ugoyle can pass through
-obstacles, and get
-items behind walls.
+Ugoyle pode atravessar
+obstáculos e obter item
+detrás de paredes.
 <--------------------->
 
 <p 03><a 6B><n 15>
-Press the button you
-used to summon Ugoyle
-to make Ugoyle kick.
+Aperte o botão que usou
+para chamar Ugoyle para
+fazer o chute Ugoyle.
 <--------------------->
 
 <p 03><a 6B><n 15>
-If you time it right,
-you can have Ugoyle
+Se fizer na hora certa,
+você fará do Chute
 <--------------------->
 
-kick a Rock Bomb that
-Argoyle throws.
-<--------------------->
-
-<p 03><a 6B><n 15>
-Also, you can adjust
-the throw trajectory of
-the Rock Bombs
-<--------------------->
-
-by pressing up or down
-on the <dpad>Control Pad.
+Ugoyle uma Bomba de
+Pedra e Ar-Lança.
 <--------------------->
 
 <p 03><a 6B><n 15>
-Rock Bombs are designed
-to bounce once before
-exploding,
+Também, pode ajustar a
+trajetória de arremesso
+das Bombas de Pedra
 <--------------------->
 
-so practice to use this
-to your advantage.
+pressionando para cima
+ou para baixo no <dpad>.
+<--------------------->
+
+<p 03><a 6B><n 15>
+Bombas de Pedra são
+feitas para pular uma
+vez antes de explodir,
+<--------------------->
+
+bem prático de usar
+isso a seu favor.
 <*********************>
 
 <FIM>

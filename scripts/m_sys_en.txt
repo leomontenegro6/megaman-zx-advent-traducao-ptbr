@@ -178,282 +178,282 @@ Z
 <*********************>
 
 
-Area
+Área
 <*********************>
 
 
-Unable to read data.
-Please turn OFF power
-and re-insert DS Card.
+Erro ao carregar dados.
+Desligue o portátil e
+reinsira o cartucho.
 <*********************>
 
 
-Unable to save data.
-Please turn OFF power
-and re-insert DS Card.
+Erro ao carregar dados.
+Desligue o portátil e
+reinsira o cartucho.
 <--------------------->
 
 
 <*********************>
 
 
-Mysterious Lab1
+Lab. Misterioso1
 <*********************>
 
 
-Mysterious Lab2
+Lab. Misterioso2
 <*********************>
 
 
-Mysterious Lab3
+Lab. Misterioso3
 <*********************>
 
 
-Mysterious Lab4
+Lab. Misterioso4
 <*********************>
 
 
-Raider Pursuit
+Caçada Aérea
 <*********************>
 
 
-Train1
+Trem1
 <*********************>
 
 
-Train2
+Trem2
 <*********************>
 
 
-Train3
+Trem3
 <*********************>
 
 
-Train4
+Trem4
 <*********************>
 
 
-Hunter's Camp1
+Acamp. Caçadores1
 <*********************>
 
 
-Hunter's Camp2
+Acamp. Caçadores2
 <*********************>
 
 
-Hunter's Camp3
+Acamp. Caçadores3
 <*********************>
 
 
-Hunter's Camp4
+Acamp. Caçadores4
 <*********************>
 
 
-Arctic Ice Floe1
+Banquisa Ártica1
 <*********************>
 
 
-Arctic Ice Floe2
+Banquisa Ártica2
 <*********************>
 
 
-Arctic Ice Floe3
+Banquisa Ártica3
 <*********************>
 
 
-Arctic Ice Floe4
+Banquisa Ártica4
 <*********************>
 
 
-Tower of Verdure1
+Torre Verdor1
 <*********************>
 
 
-Tower of Verdure2
+Torre Verdor2
 <*********************>
 
 
-Tower of Verdure3
+Torre Verdor3
 <*********************>
 
 
-Tower of Verdure4
+Torre Verdor4
 <*********************>
 
 
-Oil Field1
+Campo Petróleo1
 <*********************>
 
 
-Oil Field2
+Campo Petróleo2
 <*********************>
 
 
-Oil Field3
+Campo Petróleo3
 <*********************>
 
 
-Oil Field4
+Campo Petróleo4
 <*********************>
 
 
-Legion HQ1
+QG Legião1
 <*********************>
 
 
-Legion HQ2
+QG Legião2
 <*********************>
 
 
-Legion HQ3
+QG Legião3
 <*********************>
 
 
-Legion HQ4
+QG Legião4
 <*********************>
 
 
-Control Center1
+Centro Controle1
 <*********************>
 
 
-Control Center2
+Centro Controle2
 <*********************>
 
 
-Control Center3
+Centro Controle3
 <*********************>
 
 
-Control Center4
+Centro Controle4
 <*********************>
 
 
-Highway1
+Rodovia1
 <*********************>
 
 
-Highway2
+Rodovia2
 <*********************>
 
 
-Highway3
+Rodovia3
 <*********************>
 
 
-Highway4
+Rodovia4
 <*********************>
 
 
-Floating Ruins1
+Ruínas Aéreas1
 <*********************>
 
 
-Floating Ruins2
+Ruínas Aéreas2
 <*********************>
 
 
-Floating Ruins3
+Ruínas Aéreas3
 <*********************>
 
 
-Floating Ruins4
+Ruínas Aéreas4
 <*********************>
 
 
-Scrapyard1
+Ferro-velho1
 <*********************>
 
 
-Scrapyard2
+Ferro-velho2
 <*********************>
 
 
-Scrapyard3
+Ferro-velho3
 <*********************>
 
 
-Scrapyard4
+Ferro-velho4
 <*********************>
 
 
-Quarry1
+Pedreira1
 <*********************>
 
 
-Quarry2
+Pedreira2
 <*********************>
 
 
-Quarry3
+Pedreira3
 <*********************>
 
 
-Quarry4
+Pedreira4
 <*********************>
 
 
-Waterfall Ruins1
+Ruínas Cascata1
 <*********************>
 
 
-Waterfall Ruins2
+Ruínas Cascata2
 <*********************>
 
 
-Waterfall Ruins3
+Ruínas Cascata3
 <*********************>
 
 
-Waterfall Ruins4
+Ruínas Cascata4
 <*********************>
 
 
-Bio Lab1
+Lab. Biológico1
 <*********************>
 
 
-Bio Lab2
+Lab. Biológico2
 <*********************>
 
 
-Bio Lab3
+Lab. Biológico3
 <*********************>
 
 
-Bio Lab4
+Lab. Biológico4
 <*********************>
 
 
-Undersea Volcano1
+Vulcão Submarino1
 <*********************>
 
 
-Undersea Volcano2
+Vulcão Submarino2
 <*********************>
 
 
-Undersea Volcano3
+Vulcão Submarino3
 <*********************>
 
 
-Undersea Volcano4
+Vulcão Submarino4
 <*********************>
 
 
-Ouroboros1
+Uróboro1
 <*********************>
 
 
-Ouroboros2
+Uróboro2
 <*********************>
 
 
-Ouroboros3
+Uróboro3
 <*********************>
 
 
-Ouroboros4
+Uróboro4
 <*********************>
 
 <FIM>

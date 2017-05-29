@@ -2,147 +2,145 @@
 <#####################>
 
 <p 02><a 66><n 32>
-I'm sorry to bother you
-all of a sudden,
+Desculpe icomodá-lo de
+repente,
 <--------------------->
 
-but could you do me a
+mas poderia me fazer um
 favor?
 <--------------------->
 
 <p 02><a 66><n 32>
-I ordered a shelf to go
-in this room, but it
-still hasn't come yet.
+Encomendei uma prate-
+leira para essa sala,
+mas ainda não chegou.
 <--------------------->
 
 <p 02><a 66><n 32>
-I can't get in touch
-with the shop,
+Não consegui entrar em
+contato com a loja,
 <--------------------->
 
-there may be some
-trouble with the
-network.
-<--------------------->
-
-<p 02><a 66><n 32>
-If you're headed
-towards Legion,
-<--------------------->
-
-could you check on that
-order for me?
+pode ser um problema
+com a rede.
 <--------------------->
 
 <p 02><a 66><n 32>
-I'll give you the money
-for it.
+Se você está indo em
+direção à Legião,
+<--------------------->
+
+poderia verificar a
+encomenda para mim?
+<--------------------->
+
+<p 02><a 66><n 32>
+Eu te darei o dinheiro
+para comprá-lo.
 <*********************>
 
 <p 02><a 66><n 32>
-When you get off
-the train, just go
-straight ahead.
+Quando você descer do
+trem, basta ir em
+frente.
 <--------------------->
 
-It'll be right there.
+Ela estará bem alí.
 <--------------------->
 
 <p 02><a 66><n 32>
-I believe the guy at
-the shop's name was
-Austin
+Acredito que o nome da
+loja do cara era Austin
 <--------------------->
 
-or something like that.
+ou algo parecido.
 <*********************>
 
 <p 02><a 66><n 32>
-Oh, it's you! Look, the
-new shelves have
-arrived!
+Oh, é você! Olha, as
+novas prateleiras
+chegaram!
 <--------------------->
 
 <p 02><a 66><n 32>
-Thank you! Please take
-this!
+Obrigado! Por favor,
+leve isso!
 <*********************>
 
 <p 02><a 66><n 32>
-I've got plans to
-really make this room
-nice.
+Realmente tenho planos
+para deixar essa sala
+bonita.
 <--------------------->
 
 <p 02><a 66><n 32>
-I may ask you for
-another favor sometime.
+Posso te pedir outro
+favor algum dia.
 <*********************>
 
 <p 02><a 9A><n 51>
-Hello, how may I help
-you?
+Olá, como posso
+ajudá-lo?
 <*********************>
 
 <p 02><a 9A><n 51>
-Hm? That's a mission
-request, isn't it? 
+Hm? Isso é um pedido de
+missão, não é? 
 <--------------------->
 
-Oh, I get it, you're
-here for shelves.
+Oh, entendi, você está
+aqui pelas prateleiras.
 <*********************>
 
 <p 02><a 9A><n 51>
-Uhm... That'll be
-1000 EC!
+Uhm... Isso vai sair
+por 1000 CE!
 <*********************>
 
 <p 02><a 9A><n 51>
-I tried to call you,
-but it looks like there
+Tentei ligar pra você,
+mas parece que houve
 <--------------------->
 
-was some network
-trouble.
+alguns problemas de
+rede.
 <*********************>
 
 <p 02><a 9A><n 51>
-I'm really sorry that
-you had to come out all
-this way.
+Realmente sinto muito
+por você ter percorrido
+todo esse caminho.
 <--------------------->
 
-I'll deliver the
-shelves myself in a
-little while.
+Eu mesmo vou entregar
+as prateleiras daqui a
+pouco.
 <*********************>
 
 <p 02><a 9A><n 51>
-But it looks like you
-don't have enough 
-E-Crystals.
+Mas parece que você
+não tem Cristais
+o suficiente.
 <*********************>
 
 <p 02><a 66><n 32>
-Romeo self-intro
+Auto-intro de Romeo
 <*********************>
 
 <p 02><a 66><n 32>
-Normal Conversation0
+Diálogo Normal0
 <*********************>
 
 <p 02><a 66><n 32>
-Normal Conversation1
+Diálogo Normal1
 <*********************>
 
 <p 02><a 66><n 32>
-Normal Conversation2
+Diálogo Normal2
 <*********************>
 
 <p 02><a 66><n 32>
-Normal Conversation3
+Diálogo Normal3
 <*********************>
 
 <FIM>

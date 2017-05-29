@@ -90,7 +90,7 @@ Biometal com ele.
 
 <p 02><d 0C03><a 6D><n 00>
 Nunca senti algo assim
-antes. O que é ele?
+antes. O que ele é?
 <*********************>
 
 <p 03><d 0D03><a 6B><n 15>
@@ -155,7 +155,7 @@ isso!?
 <p 03><d 1B03><a 6D><n 17>
 Ele está ressoando...!
 Poderia ser por causa
-de seu Biometal?
+de Biometal dele?
 <--------------------->
 
 <p 03><d 1C03><a 6C><n 16>
@@ -164,8 +164,8 @@ Tenha cuidado, Aile!
 
 <d 1D03>
 Há alguns tipos de
-dados jorrando de seu
-Biometal!
+dados jorrando do
+Biometal dele!
 <*********************>
 
 <p 02><a 03><n 00>
@@ -210,12 +210,12 @@ irá nascer.
 
 <p 01><p 02><a 03><n 00>
 Seu nome será
-Ouroboros...
+Uróboro...
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
 Aquele que possuir o
-Ouroboros irá evoluir
+Uróboro irá evoluir
 <--------------------->
 
 além da mera fusão de
@@ -249,11 +249,11 @@ pesquisa abra
 <--------------------->
 
 caminho para um novo
-curso de evolução. 
+curso de evolução.
 <*********************>
 
 <p 00><p 02><d 1E03><a 0A><n 01>
-Ouroboros e o Mega Man
+Uróboro e o Mega Man
 definitivo... Esse é o
 plano de Albert!
 <--------------------->
@@ -372,7 +372,7 @@ fazer?
 <--------------------->
 
 <d 3703>
-Eles mal podem espera
+Eles mal podem esperar
 que levemos essa coisa
 de volta!
 <--------------------->
@@ -449,7 +449,7 @@ Modelo X.
 <--------------------->
 
 <p 02><d 4603><a 16><n 19>
-E esse vermelho é um
+E esse vermelho é o
 Modelo Z. Ele não é
 meu,
 <--------------------->
@@ -489,7 +489,7 @@ Biometais
 <--------------------->
 
 <d 4D03>
-provavelmente tem
+provavelmente têm
 consciência de seus
 quatro Escolhidos.
 <--------------------->
@@ -522,8 +522,9 @@ exatamenete como você.
 <--------------------->
 
 <p 03><d 5303><a 16><n 19>
-Antes de perceber, eu
-já estava presa nisso.
+Antes que percebesse,
+eu já estava presa
+nisso.
 <--------------------->
 
 <p 03><d 5403><a 17><n 19>
@@ -613,7 +614,7 @@ a chave abre.
 
 <p 03><d 6603><a 16><n 19>
 Eu mesma estava indo
-verificá-la,
+checá-la,
 <--------------------->
 
 <d 6703>

@@ -174,8 +174,8 @@ Já que pode me ouvir,
 <--------------------->
 
 <p 03><d C900><a 05><n 00>
-temos a capacidade
-de Megamergir! Vou te
+temos a capacidade de
+Megamergir! Vou te
 emprestar minha força!
 <--------------------->
 
@@ -254,12 +254,12 @@ conseguir sobreviver
 
 <d D700>
 até o fim, então você
-saberá quem realmente 
+saberá quem realmente
 você é...
 <--------------------->
 
 <p 02><d D800><a 26><n 03>
-e talvez tudo o que há
+E talvez tudo o que há
 para saber sobre o
 mundo!
 <--------------------->
@@ -376,7 +376,7 @@ dores! Essa é a regra!
 
 <p 03><d ED00><a 36><n 08>
 Você!... traidor...
-Nosso futuro... 
+Nosso futuro...
 Nosso mundo...!
 <--------------------->
 
@@ -628,13 +628,13 @@ foi danificado.
 <--------------------->
 
 <p 02><d 2201><a 1E><n 05>
-Esse cartão chave deve
-permitir o acesso a uma
-nova área.
+Esse cartão-chave deve
+permitir o seu acesso
+a uma nova área.
 <--------------------->
 
 <p 02><d 2301><a 1E><n 05>
-Há um dirigível de 
+Há um dirigível de
 Saqueador caído não tão
 longe de você. Ache-o e
 <--------------------->
@@ -737,13 +737,13 @@ parede.
 
 <p 02><a 6B><n 15>
 Vai ser preciso mais
-do que uma batida para
+do que um golpe para
 arrebentar isso!
 <--------------------->
 
 <p 02><a 6B><n 15>
 Tente segurar o Botão
-de Tiro do Buster e
+de Tiro de Buster e
 então libere-o.
 <--------------------->
 
@@ -771,7 +771,6 @@ de Tiro Teleguiado.
 <p 02><a 6B><n 15>
 O Tiro Teleguiado
 aparece na sua frente.
-
 <--------------------->
 
 <p 02><a 6B><n 15>
@@ -832,7 +831,6 @@ isso vai vir a calhar!
 <p 02><a 6B><n 15>
 E aqui está outro
 grande truque!
-
 <--------------------->
 
 Segure e solte o Botão

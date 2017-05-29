@@ -2,307 +2,309 @@
 <#####################>
 
 <p 02><a 51><n 41>
-The many inventions
-left to us by our
-forefathers,
+As muitas invenções
+deixadas pelos nossos
+antepassados,
 <--------------------->
 
-that's what I came here
-to these ruins to find!
+foi o que me levou a
+encontrar essas ruínas!
 <--------------------->
 
-...But all of a sudden
-this place started
-floating in the air,
+...Mas de repente esse
+lugar começou a flutuar
+no ar,
 <--------------------->
 
-and well, now I can't
-get out.
+e bem, agora não posso
+sair.
 <--------------------->
 
-Oh, by the way, could
-you help me with
-something?
+Ah, a propósito, você
+poderia me ajudar com
+alguma coisa?
 <--------------------->
 
-I'm picking up signals
-from 4 ancient
-artifacts.
+Estou captando sinais
+de 4 artefatos antigos.
 <--------------------->
 
-I've managed to find a
-few myself,
+Eu mesmo consegui
+encontrar alguns,
 <--------------------->
 
-but it's just too
-dangerous to get close.
+mas é muito perigoso
+chegar perto.
 <--------------------->
 
-I bet it wouldn't be a
-problem for you.
+Aposto que não seria um
+problema pra você.
 <--------------------->
 
-Could you find them and
-bring them to me?
+Pode encontrá-los e
+trazê-los pra mim?
 <*********************>
 
 <p 02><a 51><n 41>
-They are items
-hundreds, even
-thousands
+São centenas de itens,
+de milhares
 <--------------------->
 
-of years old with great
-historical value.
+de anos de idade, com
+grande valor histórico.
 <--------------------->
 
-There are many people
-who'd like to
+Há muitas pessoas que
+gostariam de
 <--------------------->
 
-to get their hands on
-items like that.
+pôr as suas mãos em
+itens como esse.
 <--------------------->
 
-Among them are those
-who are involved in
-illicit trade.
+Entre eles estão aque-
+les que estão envolvi-
+dos no comércio ilegal.
 <--------------------->
 
-My job mainly involves
-catching those lowlifes
-and retrieving items.
+Meu trabalho envolve a
+captura desses bandidos
+e recuperar itens.
 <--------------------->
 
-If you find any items
-that, please bring them
-to me!
+Se achar qualquer um
+um desses itens, por
+favor, traga-os à mim!
 <*********************>
 
 <p 02><a 51><n 41>
-What's that you've got
-there? Can I see it?
+O que é que você tem
+aí? Posso ver?
 <--------------------->
 
-Oh! This is an L
-Tank, right?
+Ah! Isso é um L-Tank,
+certo?
 <--------------------->
 
-You know the E Tanks we
-have nowadays?
+Você sabe que possuímos
+E-Tanks hoje em dia?
 <--------------------->
 
-They've been around
-hundreds of years.
+Eles estão por aí há
+centenas de anos.
 <--------------------->
 
-L Tanks came along
-after the invention of
-the E Tank.
+L-Tanks vieram após a
+invenção do E-Tank.
 <--------------------->
 
-Performance-wise, they
-are actually superior
-to E Tanks,
+Em termos de performan-
+ce, eles são superiores
+aos E-Tanks,
 <--------------------->
 
-but they were never
-mass-produced. 
+mas eles nunca foram
+produzidos em massa. 
 <--------------------->
 
-There's a famous story
-of how, long ago,
+Há uma famosa história
+de como, há muito
+tempo,
 <--------------------->
 
-L Tanks helped robots
-drive away gangsters
-and thugs.
+L-Tanks ajudaram robôs
+a dispersar gângsteres
+e bandidos.
 <*********************>
 
 <p 02><a 51><n 41>
-What's that you've got
-there? Can I see it?
+O que é que você tem
+aí? Posso ver?
 <--------------------->
 
-Oh, this is a pinwheel.
+Ah, isso é um
+cata-vento.
 <--------------------->
 
-How'd you get your
-hands on this elusive
-artifact?
+Como esse artefato
+fraudulento chegou em
+suas mãos?
 <--------------------->
 
-There's speculation
-among experts about
-pinwheels.
+Há especulações entre
+especialistas sobre
+cata-ventos.
 <--------------------->
 
-But I've found from my
-own research that
-by using the air to
+Mas eu mesmo encontrei
+através de pesquisas
+que, ao usar o ar para
 <--------------------->
 
-turn a turbine, the
-wind could be harnessed
-to produce energy.
+girar uma turbina, o
+vento pode ser usado
+para produzir energia.
 <--------------------->
 
-It was expected to be
-the source of vast
-energy.
+Era de se esperar ser
+fonte de grande
+energia.
 <--------------------->
 
-However, for some
-reason I cannot
-explain,
+No entanto, por alguma
+razão não consigo
+explicar,
 <--------------------->
 
-it went largely
-unnoticed and was
-forgotten.
+que passou despercebido
+e foi esquecido.
 <*********************>
 
 <p 02><a 51><n 41>
-What's that you've got
-there? Can I see it?
+O que é que você tem
+aí? Posso ver?
 <--------------------->
 
-Hmm... This is a
-Balancer that was used
-on robots
+Hmm... Isso é um
+Balanceador que foi
+usado em robôs
 <--------------------->
 
-a long time ago.
+há muito tempo atrás.
 <--------------------->
 
-The invention of the
-Balancer
+A invenção do
+Balanceador
 <--------------------->
 
-has contributed so much
-to our lives.
+contribuiu muito para
+as nossas vidas.
 <--------------------->
 
-It's a concept that we
-now take for granted,
-but before these came
+É um conceito que agora
+damos valor, mas antes
+deles surgirem,
 <--------------------->
 
-along, unused energy
-was simply wasted into
-the atmosphere.
+a energia não usada foi
+simplesmente dissipada
+na atmosfera.
 <--------------------->
 
-Balancers efficiently
-recovered unused energy
-to be used later. 
+Balanceadores recuperam
+eficazmente energia não
+usada pra usar depois. 
 <--------------------->
 
-Out of the need to save
-energy,
+Sem a necessidade de
+economizar energia, o
+ar mais limpo
 <--------------------->
 
-cleaner air was
-achieved as an
-unintended side-effect.
+foi alcançado com um
+efeito colateral não
+intencional.
 <*********************>
 
 <p 02><a 51><n 41>
-What's that you've got
-there? Can I see it?
+O que é que você tem
+aí? Posso ver?
 <--------------------->
 
-Hmm... This is a light
-bulb.
+Hmm... Isso é uma
+lâmpada.
 <--------------------->
 
-Long ago, there used to
-be solar powered
-robots.
+Há muito tempo, costu-
+mava haver robôs movi-
+dos a energia solar.
 <--------------------->
 
-They used these when
-power from their solar
-cells ran low.
+Eles as usavam quando a
+energia de suas células
+solares estavam baixas.
 <--------------------->
 
-But light bulbs were
-not a necessity to
-daily life.
+Mas lâmpadas não eram
+uma necessidade para o
+cotidiano.
 <--------------------->
 
-Since the conflict,
-energy continued to be
-needlessly wasted.
+Desde o conflito, a
+energia continua sendo
+desperdiçada em vão.
 <--------------------->
 
-That eventually led to
-serious global energy
-shortages.
+Que eventualmente levou
+à grave escassez de
+energia global.
 <--------------------->
 
-Quite a sad story.
+Uma história muito
+triste.
 <*********************>
 
 <p 02><a 51><n 41>
-Yes! I finally have all
-the ancient artifacts
-from this area!
+Sim! Finalmente obtive
+todos os artefatos
+antigos dessa área!
 <--------------------->
 
-Thank you very much.
-I'm glad I asked you
-for your help.
+Muito obrigado. Estou
+contente por pedir sua
+ajuda.
 <--------------------->
 
-I'd like you to have
-this, for your trouble.
+Eu gostaria que você
+levasse isso, pelo
+incômodo.
 <*********************>
 
 <p 02><a 51><n 41>
-One more thing... Would
-you take that with you?
+Mais uma coisa...
+Poderia levar isso com
+você?
 <--------------------->
 
-I feel like I can trust
-you with it!
+Sinto que posso
+confiá-lo a você!
 <*********************>
 
 <p 02><a 51><n 41>
-I once had a professor
-who always said "Know
-the old, know the new."
+Tive um um professor
+que sempre dizia "Sabe
+o antigo, sabe o novo."
 <--------------------->
 
-Our job is not just
-chasing after the
-past...
+Nosso trabalho não é
+só correr atrás do
+passado...
 <--------------------->
 
-Remember the past to
-better understand the
-present. If you forget
+Lembre-se do passado
+para entender melhor o
+presente. Se esquecer
 <--------------------->
 
-this, you become
-nothing more than a
-collector.
+disso, você se torna
+nada mais do que um
+colecionador.
 <*********************>
 
 <p 02><a 51><n 41>
-Conversation 0 Meg
+Diálogo 0 de Meg
 <*********************>
 
 <p 02><a 51><n 41>
-Conversation 1 Meg
+Diálogo 1 de Meg
 <*********************>
 
 <p 02><a 51><n 41>
-Conversation 2 Meg
+Diálogo 2 de Meg
 <*********************>
 
 <p 02><a 51><n 41>
-Conversation 3 Meg
+Diálogo 3 de Meg
 <*********************>
 
 <FIM>

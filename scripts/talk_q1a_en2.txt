@@ -2,320 +2,328 @@
 <#####################>
 
 <p 02><a 72><n 1C>
-Where're Lazarus and
+Onde estão Lázaro e
 Red?
 <--------------------->
 
-You don't hear about
-many people falling
-from an airship
+Não se ouve falar muito
+de pessoas que caem de
+um dirigível
 <--------------------->
 
-and living to tell
-about it...
+e vivem para contar a
+história...
 <--------------------->
 
-But I'm gonna keep hope
-alive. I got faith.
+Mas vou manter a
+esperança viva.
+Tenho fé.
 <--------------------->
 
-I believe they're still
-alive out there
-somewhere.
+Acredito que eles ainda
+estejam vivos por aí em
+algum lugar.
 <--------------------->
 
-I know you must be
-pretty shook up too,
+Eu sei que você deve
+estar muito abalada,
 Ashe.
 <--------------------->
 
-If you find those two
-out there on the road,
-I know you'll
+Se encontrar aqueles
+dois por aí, sei que
+você vai
 <--------------------->
 
-do what you can for
-'em. Please... I'm
-counting on you.
+fazer o que puder por
+eles. Por favor...
+Conto com você.
 <*********************>
 
 <p 02><a 72><n 1C>
-If we survived, so can
-they!
+Se sobrevivemos, então
+eles também podem!
 <--------------------->
 
-It's just a hunch, but
-they should be
-somewhere between
+É só um palpite, mas
+eles devem estar em
+algum lugar entre
 <--------------------->
 
-here and the Oil
-Fields.
+aqui e os Campos de
+Petróleo.
 <*********************>
 
 <p 02><a 72><n 1C>
-Ashe! Lazarus came back
-alive!
+Ashe! Lázaro voltou
+vivo!
 <--------------------->
 
-Ha-haa! That
-knucklehead... He had
-me worried to death!
+Ha-haa! Esse idiota...
+Ele tinha me deixado
+morta de preocupada!
 <--------------------->
 
-He was kinda up tight
-that you saved him, but
-he's always like that.
+Ele estava meio tenso
+por você o salvar, mas
+ele é sempre assim.
 <*********************>
 
 <p 02><a 72><n 1C>
-Ashe! Red came back
-alive!
+Ashe! Red voltou vivo!
 <--------------------->
 
-Ha-haa! That
-knucklehead... He had
-me worried to death!
+Ha-haa! Esse idiota...
+Ele tinha me deixado
+morta de preocupada!
 <--------------------->
 
-And he thought
-survival skills were
-overrated...
+E ele achava que habi-
+lidades de sobrvivência
+eram sobrestimadas...
 <--------------------->
 
-At least he's back in
-one piece.
+Pelo menos ele está
+inteiro.
 <*********************>
 
 <p 02><a 72><n 1C>
-We've finally got the
-gang back together.
-Thanks a million, Ashe!
+Finalmente o bando se
+juntou. Um milhão de
+agradecimentos, Ashe!
 <--------------------->
 
-As for me... I think
-I'll go back to being a
-Hunter.
+Quanto a mim... Acho
+que vou voltar a ser um
+Caçador.
 <--------------------->
 
-Now that those guys are
-back in action, I can't
-just sit around
+Agora que aqueles caras
+estão de volta a ação,
+não posso só ficar
 <--------------------->
 
-like some lily-livered
-coward, ya know.
+sentado esperando como
+um covarde farsante,
+sabe.
 <--------------------->
 
-Next time'll be our
-turn to help you.
+Da próxima vez vai ser
+a nossa vez de
+ajudá-la.
 <--------------------->
 
-If you need anything,
-just give us a holler!
+Se precisar de alguma
+coisa, basta dar um
+grito!
 <*********************>
 
 <p 02><a 72><n 1C>
-Ahh, if it isn't
-Ashe...
+Ahh, se não é a Ashe...
 <*********************>
 
 <p 02><a 72><n 1C>
-To be entrusted with a
-mission from Legion,
+Para ser encarregada de
+uma missião da Legião,
 <--------------------->
 
-you're obviously quite
-a Hunter!
+você obviamente é uma
+Caçadora e tanto!
 <*********************>
 
 <p 02><a 72><n 1C>
-Mavericks are on the
-rise, but with you
-here,
+Mavericks estão em
+aumento, mas com você
+aqui,
 <--------------------->
 
-there's nothing to
-worry about!
+não há nada com que se
+preocupar!
 <*********************>
 
 <p 02><a 72><n 1C>
-If you ever have a
-problem, Ashe,
+Se você tiver um
+problema, Ashe,
 <--------------------->
 
-I'll be more than happy
-to lend a hand!
+ficarei mais do que
+feliz em dar um
+mãozinha!
 <*********************>
 
 <p 02><a 74><n 1D>
-...What? You came to
-help ME!? Nonsense! I'm
-fine!
+...O quê? Você veio ME
+ajudar!? Que absurdo!
+Estou bem!
 <--------------------->
 
-When I came to, I'd
-been washed up to this
-area.
+Quando fui dar conta,
+eu já tinha sido levado
+até essa área.
 <--------------------->
 
-It was kinda hard
-to move...
+Estava meio difícil de
+se mover...
 <--------------------->
 
-So, I just decided to
-take a rest here.
-That's all!
+Então, eu decidi
+descansar um pouco
+aqui. Isso é tudo!
 <--------------------->
 
-...Whaddaya mean, can I
-get back by myself?
-Dummy! Don't be silly!
+...Significa dizer que
+posso voltar sozinho?
+Boneco! Não seja tolo!
 <--------------------->
 
-I told you, I ran out
-of energy and I
-couldn't move.
+Eu te avisei, fiquei
+sem energia e não
+conseguia me mexer.
 <--------------------->
 
-That's why I couldn't
-go back.
+É por isso que eu não
+conseguia voltar.
 <--------------------->
 
-...Hey, C'mon, gimme a
-break. I'm in trouble
-here. Help me...
+...Ei, vamos, dá um
+tempo. Estou em apuros
+aqui. Ajude-me...
 <*********************>
 
 <p 02><a 74><n 1D>
-What?
+O quê?
 <*********************>
 
 <p 02><a 74><n 1D>
-I dunno what would've
-happened to me by now
+Não sei o que teria
+acontecido comigo agora
 <--------------------->
 
-if Ashe hadn't come
-along and helped me.
+se Ashe não tivesse
+vindo me ajudar.
 <*********************>
 
 <p 02><a 74><n 1D>
-I dunno what would've
-happened to me by now
+Não sei o que teria
+acontecido comigo agora
 <--------------------->
 
-if Ashe hadn't come
-along and helped me.
+se Ashe não tivesse
+vindo me ajudar.
 <*********************>
 
 <p 02><a 74><n 1D>
-I dunno what would've
-happened to me by now
+Não sei o que teria
+acontecido comigo agora
 <--------------------->
 
-if Ashe hadn't come
-along and helped me.
+se Ashe não tivesse
+vindo me ajudar.
 <*********************>
 
 <p 02><a 73><n 1E>
-Ashe, finally you're
-here. I was waiting for
-you.
+Ashe, finalmente você
+chegou aqui. Eu estava
+te esperando.
 <--------------------->
 
-I held onto that
-Airship
+Eu segurei aquele
+Dirigível
 <--------------------->
 
-like there was no
-tomorrow as it was
-going down,
+como se não houvesse
+amanhã, da forma como
+ele estava caindo,
 <--------------------->
 
-but the impact of the
-crash threw me
-somewhere near here.
+mas o impacto do aci-
+dente me jogou em algum
+lugar aqui perto.
 <--------------------->
 
-When I realized that I
-had been separated from
-the group,
+Quando percebi que eu
+tinha sido separado do
+grupo,
 <--------------------->
 
-I knew I'd have to set
-up camp.
+Eu sabia que teria que
+montar um acampamento.
 <--------------------->
 
-Fortunately this room
-turned out to be
+Felizmente, essa sala
+acabou se transformando
 <--------------------->
 
-some kind of energy
-storehouse.
+em algum tipo de
+depósito de energia.
 <--------------------->
 
-"I could survive in
-here for a while," I
-thought to myself...
+"Eu poderia continuar
+aqui por um tempo,"
+Fiquei refletindo...
 <--------------------->
 
-and decided to go
-outside for some air.
+e decidi sair para
+tomar um ar.
 <--------------------->
 
-It was then that I
-realized that the door
-was stuck,
+Foi então que percebi
+que a porta estava
+emperrada,
 <--------------------->
 
-and I was trapped! I
-was like, "what the
-heck's going on?!".
+e fiquei preso! Fiquei
+tipo, "O que diabos
+está acontecendo?!".
 <--------------------->
 
-So I waited, believing
-that somebody would
-come to my rescue...
+Então fiquei esperando,
+na esperança de alguém
+vir me resgatar...
 <--------------------->
 
-Uh? Yo Ashe, are you
-yawning!?
+Hã? Ei Ashe, você está
+bocejando!?
 <--------------------->
 
-Am I boring you with my
-tale of woe over here!?
+Estou te aborrecendo
+com a minha angustiante
+história!?
 <*********************>
 
 <p 02><a 73><n 1E>
-Hey, my hero, Ashe!
+Ei, minha heroína,
+Ashe!
 <*********************>
 
 <p 02><a 73><n 1E>
-When I was trapped in
-that energy storehouse,
+Quando eu estava preso
+naquele depósito de
+energia,
 <--------------------->
 
-I had no idea what
-would happen to me.
+não tive idéia do que
+iria acontecer comigo.
 <*********************>
 
 <p 02><a 73><n 1E>
-When I was trapped in
-that energy storehouse,
+Quando eu estava preso
+naquele depósito de
+energia,
 <--------------------->
 
-I had no idea what
-would happen to me.
+não tive idéia do que
+iria acontecer comigo.
 <*********************>
 
 <p 02><a 73><n 1E>
-When I was trapped in
-that energy storehouse,
+Quando eu estava preso
+naquele depósito de
+energia,
 <--------------------->
 
-I had no idea what
-would happen to me.
+não tive idéia do que
+iria acontecer comigo.
 <*********************>
 
 <FIM>

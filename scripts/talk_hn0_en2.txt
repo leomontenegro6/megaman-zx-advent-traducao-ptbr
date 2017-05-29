@@ -2,1071 +2,1087 @@
 <#####################>
 
 <p 02><a 43><n 2B>
-Say... Are you the
-Hunter everybody's been
-talking about?
+Diga... Você é a
+Caçadora que todo mundo
+tem falado?
 <--------------------->
 
-Oh, I apologize. It was
-rude of me to not
-introduce myself first.
+Oh, peço desculpas. Foi
+rude da minha parte não
+me apresentar primeiro.
 <--------------------->
 
-My name is Carley!
-I'm a reporter.
+Meu nome é Carley!
+Sou uma reporter.
 <--------------------->
 
-I specialize in
-reporting about
-Hunters.
+Sou especialista em
+reportagem sobre
+Caçadores.
 <*********************>
 
 <p 02><a 43><n 2B>
-There was a time when I
-was gung-ho about
+Houve um tempo quando
+eu era entusiasta sobre
 <--------------------->
 
-treasure hunting and
-all that too.
+caça ao tesouro e disso
+tudo também.
 <--------------------->
 
-But now I'm convinced
-that there's no better
-treasure
+Mas agora estou
+convencida de que não
+há nenhum tesouro
 <--------------------->
 
-than information.
+melhor do que a
+informação.
 <--------------------->
 
-I wonder if you'd let
-me do a scoop on you...
+Queria saber se poderia
+me deixar fazer um furo
+jornalístico de você...
 <*********************>
 
 <p 02><a 43><n 2B>
-I was doing some
-digging on these
+Eu estava fazendo
+algumas escavações
+nesses
 <--------------------->
 
-Reploids called
-Pseudoroids.
+Replóides chamados
+Pseudoróides.
 <--------------------->
 
-Turns out they
-can actually repair
-themselves.
+Acontece que eles na
+verdade podem se
+reparar.
 <--------------------->
 
-That means that even if
-you blast them,
+Isso significa que
+mesmo que você os
+destrua,
 <--------------------->
 
-they can come back to
-life. Scary...
+eles podem voltar à
+vida. Assustador...
 <*********************>
 
 <p 02><a 43><n 2B>
-I still can't believe
-that Albert, one of the
-Sage Trinity,
+Ainda não consigo
+acreditar que Albert,
+um dos Trindade Sábias,
 <--------------------->
 
-was the one who created
-Model W.
+foi quem criou o Modelo
+W.
 <--------------------->
 
-It's no wonder there
-are all these Mavericks
-lately.
+Não é novidade que haja
+todos esses Mavericks
+ultimamente.
 <--------------------->
 
-As a reporter, I have a
-responsibility
+Como repórter, tenho a
+responsabilidade
 <--------------------->
 
-to find out and report
-the facts.
+de descobrir e reportar
+os fatos.
 <--------------------->
 
-When I consider the
-power of my influence,
+Quando considero o
+poder da minha
+influência,
 <--------------------->
 
-it's hard to make a
-decision.
+é difícil tomar uma
+decisão.
 <*********************>
 
 <p 02><a 43><n 2B>
-But when you become a
-Hunter who's confident,
+Mas quando você se
+tornar um Caçador
+confiante,
 <--------------------->
 
-danger seems to take a
-back seat.
+o perigo parece ficar
+em segundo plano.
 <--------------------->
 
-I'm sure you've heard
-this before.
+Tenho certeza que você
+já ouviu isso antes.
 <--------------------->
 
-Hunters hunt
-Pseudoroids to test
-their skills.
+Os Caçadores caçam
+Pseudoróides pra testar
+suas habilidades.
 <*********************>
 
 <p 02><a 43><n 2B>
-Is that a wish card
-you're holding?
+Isso é um cartão de
+desejo que você está
+segurando?
 <--------------------->
 
-I'd really like to
-become a globe hopping
-reporter
+Eu realmente gostaria
+de me tornar uma
+repórter global
 <--------------------->
 
-who reports the facts
-to people everywhere.
+que reporta os fatos
+para as pessoas em
+todos os lugares.
 <*********************>
 
 <p 02><a 43><n 2B>
-Telling people about
-your dreams is kind of
-embarrassing, isn't it?
+Dizer às pessoas sobre
+seus sonhos é meio
+constrangedor, não é?
 <--------------------->
 
-My face is probably
-bright red right now.
+Meu rosto provavelmente
+está vermelho brilhante
+agora.
 <--------------------->
 
-Yeah, like this apple.
-Here, I'll give it to
-you!
+Sim, como esta maçã.
+Aqui, eu vou dar ela
+pra você!
 <*********************>
 
 <p 02><a 44><n 35>
-My! Fancy meeting
-someone else here. My
-name is Peter!
+Ora! Legal encontrar
+alguém aqui. Meu nome é
+Peter!
 <*********************>
 
 <p 02><a 44><n 35>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 44><n 35>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 44><n 35>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 44><n 35>
-I may not look it, but
-I'm a Hunter.
+Posso não parecer, mas
+sou um Caçador.
 <--------------------->
 
-The others call me the
-Chemical Hunter.
+Os outros me chamam de
+Caçador Químico.
 <--------------------->
 
-You see, I do
-scientific research
+Entenda, eu faço
+pesquisa científica
 <--------------------->
 
-that goes to benefit
-the Hunter's
-livelihood.
+que venha a beneficiar
+o sustento do Caçador.
 <--------------------->
 
-But even though I'm a
-Hunter in title,
+Mas mesmo que eu seja
+um Caçador em título,
 <--------------------->
 
-I leave the rigorous
-physical part to the
-others.
+deixo a rigorosa parte
+física com os outros.
 <--------------------->
 
-Thank you so much for
-your help.
+Muito obrigado por sua
+ajuda.
 <*********************>
 
 <p 02><a 45><n 3A>
-*munch munch munch*
+*nham nham nham*
 <--------------------->
 
-Mnh? Who are you? Can't
-you see I'm eating.
+Mnh? Quem é você? Não
+percebe que estou
+comendo.
 <--------------------->
 
-Would you mind not
-talking to me right
-now?
+Você se importaria de
+não conversar comigo
+agora?
 <--------------------->
 
-Eh? My name? ...It's
-Owl. What about it?
+Hã? Meu nome? ...É
+coruja. O que acha?
 <*********************>
 
 <p 02><a 45><n 3A>
-*munch munch munch*
+*nham nham nham*
 <--------------------->
 
-Mmm, now that's
-delicious...
+Hum, isso é
+delicioso...
 <--------------------->
 
-I tell ya, all I need
-in this world is food!
+Digo uma coisa, tudo
+que preciso nesse mundo
+é de comida!
 <*********************>
 
 <p 02><a 45><n 3A>
-*munch munch munch*
+*nham nham nham*
 <--------------------->
 
-Mnh? You're still here?
-Did you bring me
-dessert or something?
+Hum? Você ainda está
+aqui? Trouxe sobremesa
+ou algo assim pra mim?
 <*********************>
 
 <p 02><a 45><n 3A>
-*munch munch munch*
+*nham nham nham*
 <--------------------->
 
-I could just keep
-eating all day long.
+Eu poderia simplesmente
+passar o dia todo
+comendo.
 <*********************>
 
 <p 02><a 45><n 3A>
-*munch munch munch*
+*nham nham nham*
 <--------------------->
 
-My belt broke, I ate
-too much.
+Meu cinto quebrou, comi
+demais.
 <--------------------->
 
-Maybe I should go on a
-diet?
-*munch munch munch*
+Talvez eu devesse fazer
+uma dieta?
+*nham nham nham*
 <*********************>
 
 <p 02><a 46><n 44>
-My name is James.
+Meu nome é James.
 <--------------------->
 
-I'm a recycling Hunter.
-I make my living
-salvaging junk.
+Sou um Caçador de
+reciclagem. Ganho a
+vida recuperando lixo.
 <*********************>
 
 <p 02><a 46><n 44>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 46><n 44>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 46><n 44>
-Well, looks like you've
-finally come 'round to
-recycling.
+Ora, parece que você
+finalmente mudou de
+idéia sobre reciclagem.
 <--------------------->
 
-Ya know, there's some
-folks who'll never
-change...
+Sabe, há algumas
+pessoas que nunca vão
+mudar..
 <--------------------->
 
-They jus' can't,
-I guess.
+Elas simplesmente não
+conseguem, eu acho.
 <--------------------->
 
-Just a little junk can
-turn into a mountain in
-no time...
+Um pouco de lixo pode
+se tornar uma montanha
+em pouco tempo...
 <--------------------->
 
-Like this one.
+Como essa aqui.
 <--------------------->
 
-It's one thing to wake
-up and smell the coffee
-late, and another thing
+Uma coisa é acordar e
+sentir o cheiro do café
+quente, e outra coisa
 <--------------------->
 
-to not wake up at all,
-let alone smell the
-coffee... Ya get me?
+é não acordar, e muito
+menos sentir cheiro de
+café... Captou?
 <--------------------->
 
-These Mechaniloids
-around here,
+Esses Mecanilóides aqui
+ao redor,
 <--------------------->
 
-they come from all the
-junk that people throw
-away.
+eles vêm de todo o lixo
+que as pessoas jogam
+fora.
 <--------------------->
 
-Do ya know what that
-means? People,
+Você sabe o que
+significa? Pessoas,
 <--------------------->
 
-the ones who threw away
-that junk have, by
-their own hand,
+aquelas que jogaram
+fora esse lixo, pelas
+suas próprias mãos,
 <--------------------->
 
-put themselves on the
-path to destruction.
+colocam-se no caminho
+para a destruição.
 <*********************>
 
 <p 02><a 46><n 44>
-Well, looks like you've
-finally come 'round to
-recycling.
+Ora, parece que você
+finalmente mudou de
+idéia sobre reciclagem.
 <--------------------->
 
-Ya know, there's some
-folks who'll never
-change...
+Sabe, há algumas
+pessoas que nunca vão
+mudar...
 <--------------------->
 
-They jus' can't,
-I guess.
+Elas simplesmente não
+conseguem, eu acho.
 <--------------------->
 
-Just a little junk can
-turn into a mountain in
-no time...
+Um pouco de lixo pode
+se tornar uma montanha
+em pouco tempo...
 <--------------------->
 
-Like this one.
+Como essa aqui.
 <--------------------->
 
-It's one thing to wake
-up and smell the coffee
-late, and another thing
+Uma coisa é acordar e
+sentir o cheiro do café
+quente, e outra coisa
 <--------------------->
 
-to not wake up at all,
-let alone smell the
-coffee... Ya get me?
+é não acordar, e muito
+menos sentir cheiro de
+café... Captou?
 <--------------------->
 
-These Mechaniloids
-around here,
+Esses Mecanilóides aqui
+ao redor,
 <--------------------->
 
-they come from all the
-junk that people throw
-away.
+eles vêm de todo o lixo
+que as pessoas jogam
+fora.
 <--------------------->
 
-Do ya know what that
-means? People,
+Você sabe o que
+significa? Pessoas,
 <--------------------->
 
-the ones who threw away
-that junk have, by
-their own hand,
+aquelas que jogaram
+fora esse lixo, pelas
+suas próprias mãos,
 <--------------------->
 
-put themselves on the
-path to destruction.
+colocam-se no caminho
+para a destruição.
 <*********************>
 
 <p 02><a 47><n 3E>
-*gasp!* Aren't you da
-Model A Chosen One?
+*gasp!* Você não é o
+Escolhida do Modelo A?
 <--------------------->
 
-Oh, my bad. I
-forgot to introduce
-myself!
+Oh, desculpa. Esqueci
+de me apresentar!
 <--------------------->
 
-They call me John!
+Eles me chamam de John!
 <--------------------->
 
-I never thought I'd
-meet a Mega Man in a
-podunk camp like dis.
+Nunca pensei que veria
+um Mega Man em um reles
+acampamento como esse.
 <--------------------->
 
-It must be my lucky
-day.
+Deve ser meu dia de
+sorte.
 <--------------------->
 
-Well, I hadn't been too
-lucky'till you showed
-up...
+Bem, não tenho sido
+muito sortudo até você
+aparecer...
 <--------------------->
 
-I'd just come in
-this room, when the
-door
+Eu tinha acabado de
+entrar nessa sala,
+quando a porta
 <--------------------->
 
-decided to stop
-workin'. I've been
-trapped in here since.
+decidiu parar de
+funcionar. Eu estive
+preso aqui desde então.
 <--------------------->
 
-I don't know what
-woulda happened if you
-didn't come along.
+Não sei o que teria
+acontecido se você não
+tivesse vindo.
 <*********************>
 
 <p 02><a 47><n 3E>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 47><n 3E>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 47><n 3E>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 47><n 3E>
-People's always sayin'
-I don't look like no
-Hunter,
+As pessoas sempre
+dizem que não pareço
+nada com um Caçador,
 <--------------------->
 
-but I can get busy wit
-da best of 'em!
+mas fico ocupado assim
+como os melhores!
 <--------------------->
 
-Yo, check it! I found
-this lost
+Ei, confira isso! Achei
+essa tecnologia
 <--------------------->
 
-technology out in the
-ruins!
+perdida nas ruínas!
 <--------------------->
 
-It's called an Absorber
-or somethin'. It's like
-some kinda chip.
+É chamado de Absorvedor
+ou algo assim. Parece
+com algum tipo de chip.
 <--------------------->
 
-Go ahead and equip it.
-It's still usable.
+Vá em frente e equipe.
+Ainda é utilizável.
 <--------------------->
 
-I hate to part wit it,
-ya know whadahmsayin'.
+Odeio a astúcia disso,
+sabe o que estou
+dizendo.
 <--------------------->
 
-But, for you, I'll make
-a deal!
+Mas, pra você, eu farei
+negócio!
 <--------------------->
 
-Hol' on, hol' on, let
-me see...
+Espere, espere,
+deixe-me ver...
 <--------------------->
 
-It cost me 35 EC to
-get to da Scrapyard...
+Isso me custou 35 CE
+para chegar ao Ferro-
+Velho...
 <--------------------->
 
-Lunch cost about 26
-EC... 18 EC for
-shipping...
+O almoço custou cerca
+de 26 CE... 18 CE pelo
+transporte...
 <--------------------->
 
-Then 21 EC to have it
-fixed... All together,
-dat's like 100 EC...
+Depois 21 CE para
+consertá-lo... Ao todo,
+isso custou 100 CE...
 <--------------------->
 
-I'm tryin' to get
-100 EC for it,
+Estou tentando ganhar
+100 CE por isso,
 <--------------------->
 
-but I'll let
-you have it for 99 EC!
+mas deixarei pra você
+por 99 CE!
 <--------------------->
 
 <p 02><e 01><a 47><n 3E>
-So, how 'bout it?
-  Yes
-  No
+Então, que tal?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 47><n 3E>
-I knew you'd like dat
-deal! Thanks, Playa!
+Eu sabia que você iria
+gostar da negociação!
+Obrigado, Chefia!
 <*********************>
 
 <p 02><s 01><a 47><n 3E>
-What? Ya jus gonna do
-me like dat, huh!?
+O quê? Você vai fazer
+isso comigo, é!?
 <--------------------->
 
-Well, jus let me know
-if you change your
-mind.
+Bem, basta me avisar se
+você mudar de idéia.
 <*********************>
 
 
-You're gonna hafta
-listen to pitch all
-over again.
+Você vai ter que
+prestar atenção para
+lançar tudo de novo.
 <--------------------->
 
-But hey, that's jus
-the way I hustle.
-<*********************>
-
-<p 02><a 47><n 3E>
-I ain't got nutin' to
-sell right now!
-<--------------------->
-
-I don't take returns,
-so if it don't work, I
-can't help ya!
+Mas, ei, esse é só o
+meu jeito de empurrar.
 <*********************>
 
 <p 02><a 47><n 3E>
-Are you jivin' me, man?
-You ain't got enough
-E-Crystals!
+Não tenho nada para
+vender agora!
+<--------------------->
+
+Não aceito devoluções,
+então se não funcionar,
+não posso ajudá-la!
+<*********************>
+
+<p 02><a 47><n 3E>
+Está me enganando,
+cara? Você não tem
+Cristais suficientes!
 <*********************>
 
 <p 02><a 48><n 36>
-OK, I'll explain it
-once again. That device
-is called a Warp Point.
+OK, explicarei mais uma
+vez. Esse dispositivo é
+chamado de Ponto Warp.
 <--------------------->
 
-You can use the
-transerver back there
-any time
+Você pode usar o
+transervidor aí a
+qualquer hora
 <--------------------->
 
-to go to wherever there
-is a Warp Point.
+para ir aonde quer que
+haja um Ponto Warp.
 <--------------------->
 
-But it looks like that
-one isn't working,
+Mas parece que esse não
+está funcionando,
 <--------------------->
 
-because it's all out of
-power.
+porque está tudo
+desligado.
 <--------------------->
 
-If you have enough
-E-Crystals,
+Se tiver Cristais
+o bastante,
 <--------------------->
 
-you can press up on the
-<dpad>Control Pad and start
-it up.
+você pode pressionar
+pra cima no <dpad> e
+iniciá-lo.
 <--------------------->
 
-You can look at the map
-to see which areas are
-accessible.
+Você pode olhar para
+o mapa pra ver quais
+áreas são acessíveis.
 <--------------------->
 
-When you start up the
-Warp Point, the area
-will light up red.
+Quando você iniciar o
+Ponto Warp, a área
+irá acender vermelho.
 <--------------------->
 
-So, you should be able
-to find it right away.
+Então, você será capaz
+de encontrá-lo de
+imediato.
 <--------------------->
 
-I wonder if you were
-able to understand my
-explanation,
+Gostaria de saber se
+você conseguiu entender
+a minha explicação,
 <--------------------->
 
-since I'm still in
-training.
+já que ainda estou em
+treinamento.
 <--------------------->
 
-Also, in Beginner Mode,
-all you have to do is
-touch it
+Além disso, no Modo
+Iniciante, tudo que
+tem que fazer é tocá-lo
 <--------------------->
 
-and it will start up
-automatically!
+e ele irá iniciar
+automaticamente!
 <--------------------->
 
-If you don't understand
-something, please ask
-me again, OK?
+Se não entendeu alguma
+coisa, por favor, me
+pergunte de novo, OK?
 <*********************>
 
 <p 02><a 48><n 36>
-You can only transport
-to a Warp Point through
-a transerver.
+Só pode se transportar
+para um Ponto Warp por
+um transervidor.
 <--------------------->
 
-Get on the transerver
-and select "Transport".
+Entre no transervidor e
+escolha "Transportar".
 <--------------------->
 
-Either touch the area
-you want to go to on
-the map
+Ou toque na área que
+você quer ir no mapa
 <--------------------->
 
-on the bottom screen or
-use the <dpad>Control Pad
-to move the cursor
+na tela inferior ou
+use o <dpad> para mover o
+cursor
 <--------------------->
 
-and highlight it!
+e destaque-o!
 <--------------------->
 
-Accessible transport
-destinations will be
-flashing red,
+Destinos de transporte
+acessíveis estarão
+piscando vermelho,
 <--------------------->
 
-so they're easy to
-spot!
+por isso eles são
+fáceis de detectar!
 <*********************>
 
 <p 02><a 48><n 36>
-You can only transport
-to a Warp Point through
-a transerver.
+Só pode se transportar
+para um Ponto Warp por
+um transervidor.
 <--------------------->
 
-Get on the transerver
-and select "Transport".
+Entre no transervidor e
+escolha "Transportar".
 <--------------------->
 
-Either touch the area
-you want to go to on
-the map 
+Ou toque na área que
+você quer ir no mapa
 <--------------------->
 
-on the bottom screen or
-use the <dpad>Control Pad
-to move the cursor 
+na tela inferior ou
+use o <dpad> para mover o
+cursor
 <--------------------->
 
-and highlight it!
+e destaque-o!
 <--------------------->
 
-Accessible transport
-destinations will be
-flashing red,
+Destinos de transporte
+acessíveis estarão
+piscando vermelho,
 <--------------------->
 
-so they're easy to
-spot!
+por isso eles são
+fáceis de detectar!
 <*********************>
 
 <p 02><a 48><n 36>
-Do you have your Warp
-Points turned on?
+Possui Pontos Warp
+para ligar?
 <--------------------->
 
-You may need to go back
-to certain areas,
+Você pode precisar
+voltar em certas áreas,
 <--------------------->
 
-so it's a good idea to
-turn them on.
+por isso é uma boa
+idéia ligá-los.
 <--------------------->
 
-Be sure to check your
-map when new transport
-destinations 
+Cerifique-se de checar
+seu mapa quando novos
+destinos de transporte
 <--------------------->
 
-are added to a
-transerver. Because,
-sometimes
+estiverem adicionados a
+um transervidor.
+Porque, algumas vezes
 <--------------------->
 
-the cursor will show an
-area you're seeing for
-the first time!
+o cursor mostrará uma
+área que está vendo
+pela primeira vez!
 <--------------------->
 
-Keep a close eye out
-for those!
+Fique de olho nelas!
 <*********************>
 
 <p 02><a 48><n 36>
-You have a wish card
-there. What's your
-wish?
+Você tem um cartão de
+desejo aí. Qual é o seu
+desejo?
 <--------------------->
 
-My wish is for world
-peace...
+Meu desejo é pela paz
+mundial...
 <--------------------->
 
-Because it's hard to
-look at wounded people
-coming home everyday.
+Porque é difícil ver
+gente ferida voltando
+pra casa todos os dias.
 <*********************>
 
 <p 02><a 48><n 36>
-You get hurt in battle
-too, don't you?
+Você se machucou em
+batalha também, não
+foi?
 <--------------------->
 
-I know there isn't much
-I can do, but that's
-my wish anyway.
+Sei que não há muito o
+que fazer, mas esse é
+meu desejo de fato.
 <*********************>
 
 <p 02><a 49><n 43>
-My, my, what have we
-here!?
+Ora, ora, o que temos
+aqui!?
 <--------------------->
 
-If it isn't the famous
-Model A Chosen One.
+Se não é o famoso
+Escolhido do Modelo A.
 <--------------------->
 
-Oh, I almost forgot, my
-name is Rudy.
+Ah, quase me esqueci,
+meu nome é Rudy.
 <--------------------->
 
-You'll have to pardon
-my appearance.
+Você terá de perdoar a
+minha aparência.
 <--------------------->
 
-I can assure you that
-my looks belie my true
-self.
+Posso te assegurar que
+minha aparência nega
+o meu verdadeiro eu.
 <--------------------->
 
-Truth be told... And
-this is strictly
-between you and me,
+Verdade seja dita... E
+isso é estritamente
+entre você e eu,
 <--------------------->
 
-a simple transport
-device has come into my
-possession.
+um simples dispositivo
+de transporte chegou às
+minhas mãos.
 <--------------------->
 
-Unfortunately, I cannot
-sell it. However,
+Infelizmente, não posso
+vendê-lo. Entretanto,
 <--------------------->
 
-I can let you use it on
-an as-needed basis for
-50 EC!
+posso deixar você usá-lo
+em uma base necessária
+por 50 CE!
 <--------------------->
 
-The thing is, because
-of the low power
-output,
+A questão é, por causa
+da saída de baixa
+potência,
 <--------------------->
 
-you can only use it to
-return to Hunter's
-Camp.
+você só pode usá-lo pra
+voltar ao Acampamento
+de Caçador.
 <*********************>
 
 <p 02><e 63><a 49><n 43>
-Do you need to use it? 
-  No
-  Yes
+Precisa usá-lo? 
+  Não
+  Sim
 <*********************>
 
 <p 02><a 49><n 43>
-OK, here you go!
+OK, aqui vou eu!
 3...2...1...0!
 <*********************>
 
 <p 02><a 49><n 43>
-Oh well... If you ever
-need to use it, just
-let me know.
+Oh, bem... Se você
+precisar usá-lo, basta
+me avisar.
 <*********************>
 
 <p 02><a 49><n 43>
-My, my, it looks like
-you don't have enough
-E-Crystals...
+Ora, ora, parece que
+você não tem Cristais
+suficientes...
 <*********************>
 
 <p 02><a 49><n 43>
-Well, well... Do you
-want to use my
-transport device?
+Ora, ora... você quer
+usar o meu dispositivo
+de transporte?
 <*********************>
 
 <p 02><a 49><n 43>
-Well, well... Do you
-want to use my
-transport device?
+Ora, ora... você quer
+usar o meu dispositivo
+de transporte?
 <*********************>
 
 <p 02><a 49><n 43>
-Well, well... Do you
-want to use my
-transport device?
+Ora, ora... você quer
+usar o meu dispositivo
+de transporte?
 <*********************>
 
 <p 02><a 49><n 43>
-Well, well... Do you
-want to use my
-transport device?
+Ora, ora... você quer
+usar o meu dispositivo
+de transporte?
 <*********************>
 
 <p 02><a 4A><n 40>
-Brrrr! It's cold. I
-should have dressed
-warmer.
+Brrrr! Está frio. Eu
+deveria ter vestido um
+agasalho.
 <--------------------->
 
-Er, are you a Hunter
-too? My name is Mary.
-Nice to meet you!
+É, você é uma caçadora
+também? Meu nome é
+Mary. Muito prazer!
 <*********************>
 
 <p 02><a 4A><n 40>
-Dummy Conversation
+Diálogo de Boneco
 <*********************>
 
 <p 02><a 4A><n 40>
-It's really cold here.
+Realmente está frio
+aqui.
 <--------------------->
 
-This hood, I usually
-just wear it because it
-looks cute...
+Essa capa, geralmente
+só uso porque parece
+legalzinha...
 <--------------------->
 
-But it's not much help
-on days like this.
+Mas não é de grande
+ajuda em dias como
+esse.
 <--------------------->
 
-It is good for
-hearing far-away
-sounds, though.
+É bom para ouvir sons
+distantes, apesar de
+tudo.
 <*********************>
 
 <p 02><a 4A><n 40>
-It's really cold here.
+Realmente está frio
+aqui.
 <--------------------->
 
-This hood, I usually
-just wear it because it
-looks cute...
+Essa capa, geralmente
+só uso porque parece
+legalzinha...
 <--------------------->
 
-But it's not much help
-on days like this.
+Mas não é de grande
+ajuda em dias como
+esse.
 <--------------------->
 
-It is good for
-hearing far-away
-sounds, though.
+É bom para ouvir sons
+distantes, apesar de
+tudo.
 <*********************>
 
 <p 02><a 4A><n 40>
-It's really cold here.
+Realmente está frio
+aqui.
 <--------------------->
 
-This hood, I usually
-just wear it because it
-looks cute...
+Essa capa, geralmente
+só uso porque parece
+legalzinha...
 <--------------------->
 
-But it's not much help
-on days like this.
+Mas não é de grande
+ajuda em dias como
+esse.
 <--------------------->
 
-It is good for
-hearing far-away
-sounds, though.
+É bom para ouvir sons
+distantes, apesar de
+tudo.
 <*********************>
 
 <p 02><a 4B><n 45>
-Whoa... You don't see
-many people around here
-dressed like that.
+Opa... Não se vê muitas
+pessoas por aqui
+vestidas desse jeito.
 <--------------------->
 
-Are you supposed to be
-a new comic superhero
-or something?
+Você seria um novo
+super-herói de HQ ou
+algo assim?
 <--------------------->
 
 ...
 <--------------------->
 
-I get it, you haven't
-come up with a name for
-yourself yet...
+Entendi, você não
+inventou um nome para
+você ainda...
 <--------------------->
 
-That's cool.
+Isso é legal.
 <--------------------->
 
-My name is Ray. I
-collect old comic
-books.
+Meu nome é Ray. Eu
+coleciono histórias em
+quadrinhos antigas.
 <--------------------->
 
-It's one of my hobbies.
+É um dos meus hobbies.
 <--------------------->
 
-That's why the other
-Hunters call me the
-Comic Hunter.
+É por isso que os
+outros Caçadores me
+chamam de Caçador HQ.
 <--------------------->
 
-But, I'm not really all
-THAT. *blush*
+Mas, realmente não sou
+tudo ISSO. *acanhado*
 <*********************>
 
 <p 02><a 4B><n 45>
-The other day, I went
-to a shop that's on the
-way to Legion and
+No outro dia, fui a uma
+loja que fica no
+caminho para a Legião e
 <--------------------->
 
-bought some comics,
-but, their selection
-was so small.
+comprei algumas HQs,
+mas, suas coletâneas
+eram tão pequena.
 <--------------------->
 
-I guess it can't be
-helped, though,
+Acho que não dá para
+evitar, contudo,
 <--------------------->
 
-because it was such a
-small shop.
+porque era uma loja
+pequena.
 <*********************>
 
 <p 02><a 4B><n 45>
-By the way, is the
-train fixed yet?
+A propósito, o trem já
+está consertado?
 <--------------------->
 
-*sigh* I can't go back
-and buy any more comics
+*suspiro* Não posso
+voltar e nem comprar
+mais nenhuma HQ
 <--------------------->
 
-until that train starts
-running again.
+até aquele trem começar
+a funcionar de novo.
 <--------------------->
 
-It'd be nice if I could
-use the transerver,
+Seria bom se eu pudesse
+usar o transervidor,
 <--------------------->
 
-but, whenever I get on
-it, I get really
-nauseous.
+mas, sempre que subo
+nele, fico muito
+enjoado.
 <*********************>
 
 <p 02><a 4B><n 45>
-People ask me why I buy
-so many comics, but I
-think just like you can
+Perguntam-me por que
+comprar tantas HQs,
+bem, assim como pode
 <--------------------->
 
-hate things for no
-reason, you can like
-things for no reason.
+odiar as coisas sem
+motivo, pode gostar de
+coisas sem motivo.
 <--------------------->
 
-I like reading comic
-books more than digital
-comics.
+Gosto de ler HQs em
+formato físico mais do
+que em formato digital.
 <--------------------->
 
-There's just something
-warm about them.
+Tem alguma coisa
+calorosa sobre eles.
 <--------------------->
 
-The others do make fun
-of me for my "senseless
-obsession" though.
+Os outros tiram sarro
+de mim por minha "mania
+sem sentido" contudo.
 <*********************>
 
 <p 02><a 4B><n 45>
-You know, recently,
-I've been writing my
-own comic book.
+Sabe, recentemente,
+Venho fazendo minha
+própria HQ.
 <--------------------->
 
-It's a story about this
-robot that fights with
-a folding fan
+É uma história de um
+robô que luta com um
+leque
 <--------------------->
 
-in each hand. I guess
-there was a comic with
-a very similar
+em cada mão. Acho que
+houve uma HQ com uma
+história muito
 <--------------------->
 
-storyline... It's not
-easy to come up with
-something
+semelhante... Não é
+fácil chegar a algo que
+seja
 <--------------------->
 
-that's completely
-original.
+completamente original.
 <*********************>
 
 <p 02><a 40><n 22>
-Yo! Ashe, Sister! We've
-been waiting for you!
-Everything's sorted.
+Ei! Ashe, Maninha!
+Estávamos te esperando!
+Está tudo resolvido.
 <--------------------->
 
 <p 02><a 40><n 22>
-Check it out! She's all
-fixed and ready to go.
-You just give the word!
+Veja! Ela está toda
+reparada e pronta pra
+ir. Acabou de garantir!
 <*********************>
 
 <p 02><e 63><a 40><n 22>
-Shall we go to Legion?
-  Yes
-  No
+Vamos para Legião?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 40><n 22>
-Yo! Ashe, Sister!
-Everything's sorted.
+Ei! Ashe, Maninha!
+Está tudo resolvido.
 <--------------------->
 
-She's all fixed and
-ready to go.
+Ela está toda reparada
+e pronta pra ir.
 <*********************>
 
 <p 02><e 63><a 40><n 22>
-Shall we go to Legion?
-  Yes
-  No
+Vamos para Legião?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 40><n 22>
-Here we go! All aboard!
+Aqui vamos nós! Todos a
+bordo!
 <*********************>
 
 <p 02><a 40><n 22>
-OK, we'll be standing
-by. You just give the
-word!
+OK, estaremos a postos.
+Você acabou de
+garantir!
 <*********************>
 
 <FIM>

@@ -2,18 +2,18 @@
 <#####################>
 
 
-<dpad>Control Pad <esquerda>/<direita>: Select
-<btn_a>Button:OK <btn_b>Button:Quit
+<dpad> <esquerda>/<direita>: Selecionar
+<btn_a>: OK <btn_b>: Cancelar
 <*********************>
 
 
-<dpad>Control Pad: Select Disk
-<btn_a>Button:View <btn_b>Button:Quit
+<dpad>: Selecionar Disco
+<btn_a>: Ver <btn_b>: Cancelar
 <*********************>
 
 
-This secret disk has not
-been analyzed yet.
+Esse disco secreto não foi
+analizado ainda.
 <*********************>
 
 
@@ -21,43 +21,43 @@ Atlas
 <*********************>
 
 
-Model F Biomatch (Flame
-Mega Man). She was a soldier
-of a country laid to waste
-by Mavericks. She believes
-that it is only through
-struggle that people are
-galvanized to evolve.
+Modelo F Biomatch (Mega Man
+de fogo). Ela foi um soldado
+de um país levado a resíduos
+pelos Mavericks. Acredita
+ela, que é só através da
+luta que as pessoas serão
+estimuladas a evoluir.
 <*********************>
 
 
-Albert (1st Form)
+Albert (Primeira Forma)
 <*********************>
 
 
-The form where the throne on
-which Albert sits turns into
-a giant 3 headed dragon-like
-Mechaniloid, unleashing
-powerful attacks which
-manipulate gravity, rend
-dimensions and create black
-holes and white holes.
+A forma que o trono a qual
+Albert senta, se transforma
+em um dragão gigante de 3
+cabeças parecido com um
+Mecanilóide, provoca ataques
+poderosos que usam gravida-
+de, abre dimensões e cria
+buracos negros e brancos.
 <*********************>
 
 
-Albert (2nd Form)
+Albert (Segunda Forma)
 <*********************>
 
 
-The form where Albert
-manifests the power of the
-ultimate Mega Man. The 10
-Bits that surround him not
-only protect him, but can
-change their arrangement to
-attack, demonstrating
-Biometal capabilities.
+A forma em que Albert
+manifesta o poder do Mega
+Man definitivo. Os 10 Bits
+que cercam ele não só o
+protegem, mas podem mudar
+suas disposições para
+atacar, demonstrando as
+capacidades do Biometal.
 <*********************>
 
 
@@ -65,14 +65,14 @@ Argoyle/Ugoyle
 <*********************>
 
 
-This is a high speed fighter
-Pseudoroid dyad. Equipped
-with Dash Rollers on their
-feet, and armed with a
-weapon called a Rock Bomb,
-Argoyle/Ugoyle are masters
-of multi-directional
-assaults.
+É um lutador Pseudoróide
+díade de alta velocidade.
+Equipado com Dash de Patins
+nos seus pés, e armado com
+uma arma chamada Bomba de
+Pedra, Argoyle/Ugoyle são
+mestres de ataques
+multi-direcionais.
 <*********************>
 
 
@@ -80,28 +80,29 @@ Queenbee
 <*********************>
 
 
-Depending on which weapons
-container Queenbee attaches
-to, her body becomes a
-variegated armament. She can
-transport things other than
-weapons containers as long
-as the joint specifications
-match.
+Dependendo de qual contêiner
+Queenbee se acoplar, seu
+corpo se torna um armamento
+variado. Pode transformar
+outras coisas além de
+contêiner de armas, desde
+que coincida com as
+especificações conjuntas.
 <*********************>
 
 
-Dogu the Giant
+Dogu o Gigante
 <*********************>
 
 
-This large Mechaniloid was
-built using technology from
-an age past. Half of this
-gas guzzler's energy is
-spent just to move its
-mammoth body. Perhaps that's
-why not many were produced.
+Esse grande Mecanilóide foi
+construído usando tecnologia
+de uma época antiga. Metade
+da energia desse grande
+devorador de gás é gasto só
+pra mover seu corpo de
+mamute. Talves por isso não
+foram muito produzidos.
 <*********************>
 
 
@@ -109,13 +110,13 @@ Chronoforce
 <*********************>
 
 
-This Pseudoroid was built
-for electronic warfare, and
-has the ability to disrupt
-sensory circuitry to give
-the sensation of temporal
-acceleration and
-deceleration.
+Esse Pseudoróide foi
+construido para guerra
+eletrônica, e tem a
+habilidade de interromper
+circuitos sensorais para dar
+a sensação de aceleração e
+desaceleração temporal.
 <*********************>
 
 
@@ -123,14 +124,14 @@ Vulturon
 <*********************>
 
 
-Vulturon is a bit of a
-sensationalist narcissist.
-Using microwaves emitted
-from his guitar-shaped
-controller, he can
-reactivate and control
-artificial muscles of
-moribund machines. 
+Vulturon é um pouco
+narcisista sensacionalista.
+Usando microondas emitidas
+do seu controlador em forma
+de guitarra, ele pode
+reativar e controlar os
+músculos artificiais de
+máquinas moribundas. 
 <*********************>
 
 
@@ -138,14 +139,14 @@ Siarnaq
 <*********************>
 
 
-Model P Biomatch (Shadow
-Mega Man). A former Hunter
-and assassin for hire whose
-past includes being betrayed
-by his friends and left for
-dead is the reason for his
-cold, impassiveness towards
-others.
+Biomatch Modelo P (Mega Man
+das Sombras). Um ex-Caçador
+e assassino de aluguel, cujo
+passado inclui ser traído
+por seus amigos e deixado
+para morrer seja a razão de
+sua frieza, impassível em
+relação aos outros.
 <*********************>
 
 
@@ -153,14 +154,14 @@ Buckfire
 <*********************>
 
 
-This Model W equipped highly
-aggressive Pseudoroid
-specializes in blitz
-tactics. Biometal output is
-used to superheat the blades
-on his arms and head
-Buckfire values order above
-all else.
+Esse Pseudoróide equipado
+com Modelo W bastante feroz,
+é especialista em táticas de
+blitz. Usa a saída de seu
+Biometal para superaquecer
+as lâminas em seus braços e
+cabeça. Buckfire preza por
+regra acima de tudo.
 <*********************>
 
 
@@ -168,29 +169,28 @@ Hedgeshock
 <*********************>
 
 
-Equipped with a powerful
-electric-generating coil,
-this small Pseudoroid was
-originally designed to be an
-independent emergency power
-source. By further reducing
-its size it can squeeze into
-small spaces.
+Equipado como uma poderosa
+bobina geradora elétrica,
+esse pequeno Pseudoróide foi
+originalmente projetado para
+ser uma fonte de energia de
+emergência independente. Ao
+Reduzir seu tamanho ele pode
+passar por espaços pequenos.
 <*********************>
 
 
-Thetis
+Tétis
 <*********************>
 
 
-Model L Biomatch (Ice Mega
-Man). At a glance, he's an
-upstanding, kind,
-model-citizen. But, there's
-a nasty side to him too. He
-intends to punish people
-for polluting the sea with
-waste.
+Biomatch Modelo L (Mega Man
+de Gelo). Em resumo, ele é
+um cidadão íntegro, tipo,
+cidadão honesto. Mas, existe
+também um lado podre nele.
+Ele pretende punir pessoas
+por poluir o mar com lixo.
 <*********************>
 
 
@@ -198,14 +198,14 @@ Bifrost
 <*********************>
 
 
-This stronghold defense
-Pseudoroid's
-highly-developed AI delivers
-a rearward signal to block
-an enemy's path with an ice
-wall "Giga Freeze". Bifrost
-is slow, but get too close
-and he'll pulverize you.
+O reduto de defesa desse
+Pseudoróide, desenvolvido
+com IA, fornece um sinal pra
+retaguarda fechando a via de
+um inimigo com uma parede de
+gelo "Giga Gélido". Bifrost
+é lento, mas se chegar perto
+ele vai te pulverizar.
 <*********************>
 
 
@@ -213,27 +213,28 @@ Pandora
 <*********************>
 
 
-A Mega Man with the
-specialized ability to
-control both electricity and
-ice elements. Usually seen
-with Prometheus, she's
-feared by Hunters, who call
-her "the Witch".
+Um Mega Man com habilidade
+especializada em controlar
+ambos os elementos,
+eletricidade e gelo.
+Geralmente vista com
+Prometeus, ela é temida
+pelos Caçadores, que a
+chamam de "a Bruxa".
 <*********************>
 
 
-Prometheus
+Prometeus
 <*********************>
 
 
-A Mega Man with the
-specialized ability to
-switch between elemental
-attacks. Usually seen with
-Pandora, he's feared by
-Hunters, who call him "the
-Grim Reaper".
+Um Mega Man com habilidade
+especializada em alternar
+entre ataques elementais.
+Geralmente visto com
+Pandora, ele é temido pelos
+Caçadores, que o chamam de
+"o Ceifador".
 <*********************>
 
 
@@ -241,27 +242,26 @@ Aeolus
 <*********************>
 
 
-Model H Biomatch (Wind Mega
-Man). Aeolus is very much a
-perfectionist and a neat
-freak. He considers everyone
-besides himself foolish
-imbeciles who are the reason
-for the world's discord, and
-so must eradicated.
+Biomatch Modelo H (Mega Man
+do Vento). Aeolus é muito
+perfeccionista e maluco. Ele
+considera todo mundo além de
+si mesmo idiotas imbecis que
+são a causa pela discórdia
+do mundo, e por isso deve
+erradicar.
 <*********************>
 
 
-Model ZX
+Modelo ZX
 <*********************>
 
 
-The form of Biometal Model X
-Double Megamerged with
-Model Z. A universal
-Biometal with the ability to
-attack close up and far
-away.
+A forma do Biometal Modelo X
+Duplo Megamergido com o
+Modelo Z. Um Biometal
+universal com habilidade de
+atacar de perto e de longe.
 <*********************>
 
 
@@ -269,14 +269,14 @@ Rospark
 <*********************>
 
 
-This limited warfare
-Pseudoroid is equipped with
-vine-like tendrils called
-Spike Manipulators which he
-uses to attach himself to
-poles, etc. Rospark He 
-specializes in long-range 
-electroshock attacks.
+Esse limitado Pseudoróide de
+guerra é equipado com
+gavinhas de videira, chamado
+de Espinhos Manipuladores
+que ele usa para se agarrar
+em postes e etc. Rospark é
+especialista em ataques de
+choque de longo alcance.
 <*********************>
 
 
@@ -284,14 +284,14 @@ Cankerfly
 <*********************>
 
 
-This thoroughly refined
-cargo craft is said to be
-80% more aggressive than its
-predecessor, the giant
-"Rayfly", which is quite an
-achievement. It has been
-sent on bombing runs to test
-its capabilities.
+Essa nave de carga
+totalmente refinada é dito
+ser 80% mais agressiva que
+sua antecessora, a gigante
+"Rayfly", que é uma grande
+conquista. Ela foi enviada
+para ser bombardeada para
+testar suas capacidades.
 <*********************>
 
 
@@ -299,13 +299,13 @@ Capsule Converter
 <*********************>
 
 
-This security cannon was
-created using Biometal
-Model F technology. Because
-of the thermal runaway
-incident at the Control
-Center, it can only operate
-at 1/5th of its potential.
+Esse canhão de segurança foi
+criado usando tecnologia do
+Biometal Modelo F. Por causa
+do incidente de oscilações
+térmicas no Centro de
+Controle, ela só pode operar
+em 1/5° do seu potencial.
 <*********************>
 
 
@@ -313,13 +313,14 @@ Giganto Bole
 <*********************>
 
 
-This huge tree died some 300
-years ago and fused with a
-Mechaniloid. The top of it
-is hollow, but if you throw
-a bomb into it, it will
-mysteriously spit it back
-out. Very peculiar.
+Essa enorme árvore morreu
+cerca de 300 anos atrás e se
+fundiu com um Mecanilóide.
+A parte superior dela é oco,
+mas se você jogar uma bomba
+nela, ela misteriosamente
+vai cuspí-la de volta.
+Muito peculiar.
 <*********************>
 
 
@@ -327,14 +328,14 @@ King Flyer
 <*********************>
 
 
-This giant fly Mechaniloid
-is operated by remote
-control. It uses a special
-chemical fuel called
-Methanhydrate and has only
-recently been put into
-production. Its numbers are
-still very limited.
+Essa gigante mosca
+Mecanilóide é operada por
+controle remoto. Ela usa um
+combustível químico especial
+chamado de Hidrato de Metano
+e só agora foi colocado em
+produção. Seus números ainda
+são muito limitados.
 <*********************>
 
 
@@ -342,14 +343,14 @@ Crushpactor DD
 <*********************>
 
 
-Except for the addition of
-high powered lasers, this
-version of the Crushpactor
-reaffirms its original
-function and purpose, to
-break rocks, no matter how
-hard. Its treads, however;
-are vulnerable to spikes.
+Exceto pela adição de lasers
+de alta potência, essa
+versão do Crushpactor
+reafirma sua função original
+e propósito, quebrar rochas,
+não importa o quão dura.
+Suas lagartas, no entanto;
+são vulneráveis a espinhos.
 <*********************>
 
 
@@ -357,14 +358,14 @@ Circrush
 <*********************>
 
 
-A cross between a Circloon
-and a Crushpactor, these
-destructive Mechaniloids
-were originally created for
-demolition. Somewhere along
-the line they started acting
-strangely and destroying the
-Highway.
+Um cruzamento entre um
+Circloon e um Crushpactor,
+esses Mecanilóides
+destrutivos foram criados
+originalmente para demolir.
+Em algum lugar remoto, eles
+começaram a agir estranho e
+destruir a Rodovia.
 <*********************>
 
 
@@ -372,11 +373,12 @@ Langbrach
 <*********************>
 
 
-These Mechaniloids were
-originally used by the
-fishing industry. They catch
-and envelop their prey with
-very long tentacled arms.
+Esses Mecanilóides foram
+originalmente usados pela
+indústria de pesca. Eles
+pegam e envolvem suas presas
+com braços de tentáculos
+muito longos.
 <*********************>
 
 
@@ -384,14 +386,14 @@ Spidrill
 <*********************>
 
 
-A large spider type
-Mechaniloid that lives at
-the Tower of Verdure.
-Spidrill needs only use 4 of
-its 8 legs to support its
-weight. Its destructive leg
-drills can easily penetrate
-2ft. thick steel plate.
+Um grande Mecanilóide tipo
+aranha que vive na Torre do
+Verdor. Spidrill só precisa
+usar 4 de suas 8 pernas para
+suportar seu peso. Suas
+destrutíveis pernas de broca
+podem penetrar facilmente
+uma chapa de aço de 2ft.
 <*********************>
 
 
@@ -399,14 +401,14 @@ Spidrill Neo
 <*********************>
 
 
-The remains of a demolished
-Spidrill brought back to
-life by a piece of Model W.
-On the outside, it's no
-different than a normal
-Spidrill, but from a
-performance perspective,
-it's a different beast.
+Os resto de um Spidrill
+demolido trazido de volta à
+vida por um pedaço de Modelo
+W. Do lado de fora, não é
+diferente de um Spidrill
+normal, mas a partir de uma
+perspectiva de desempenho,
+se torna um bicho diferente.
 <*********************>
 
 
@@ -414,14 +416,14 @@ Desert Aspis
 <*********************>
 
 
-A desert modified version of
-the giant snake Mechaniloid
-"Giga Aspis". It trades
-agility for variegated
-attack potential. Its head,
-which is its weak point is a
-trait left over from its
-predecessor.
+Uma versão do deserto
+modificada da gigante cobra
+Mecanilóide "Giga Aspis".
+Ela muda de agilidade para
+variar a potência de ataque.
+Sua cabeça, que é seu ponto
+fraco, é a característica
+deixada por seu antecessor.
 <*********************>
 
 
@@ -429,14 +431,14 @@ Ice Darts
 <*********************>
 
 
-This hermit crab Mechaniloid
-can walk upside down on
-ceilings. Hunters discovered
-their existence centuries
-ago. Their extreme cooling
-power can turn a 50 yard
-swimming pool into an ice
-skating rink in minutes.
+Esse Mecanilóide caranguejo
+eremita pode andar de ponta-
+cabeça em tetos. Caçadores
+descobriram sua existência
+há seculos. O poder de gelar
+extremo dele altera piscinas
+de 50 jardas em pistas de
+patinação em minutos.
 <*********************>
 
 
@@ -444,14 +446,14 @@ Inviz
 <*********************>
 
 
-This cannon can vanish from
-sight when it detects an
-intruder. Just because you
-can't see it doesn't mean it
-isn't there. In order not to
-invade people's privacy,
-it's has a function known as
-the Gentleman's Lock.
+Esse canhão pode sumir da
+vista quando detecta um
+intruso. Só porque não pode
+vê-lo não significa que não
+esteja lá. Para não invadir
+a privacidade das pessoas,
+ele tem uma função conhecida
+como Bloqueio de Cavalheiro.
 <*********************>
 
 
@@ -459,14 +461,14 @@ Exspider
 <*********************>
 
 
-This spider type Mechaniloid
-accompanies the large
-Mechaniloid "Spidrill". Set
-to explode automatically
-after a set period of time,
-it is said that they were
-once used to widen narrow
-subterranean passageways.
+Esse tipo de aranha Mecani-
+lóide segue o grande Mecani-
+lóide "Spidrill". Ajustado
+pra explodir automaticamente
+após um limitado período de
+tempo, dizem que eram usados
+pra ampliar as estreitas
+passagens subterrâneas.
 <*********************>
 
 
@@ -474,14 +476,14 @@ Shrimpstroke
 <*********************>
 
 
-This shrimp Mechaniloid
-propels backwards through
-the water. It uses its
-antennae to feel out enemies
-and will fire a shot when in
-range. The revolver-like
-segment acts like a turbine
-for propelling it.
+Esse camarão Mecanilóide
+se impulsiona pra trás
+através da água. Usa suas
+antenas para sentir inimigos
+e atirar quando estiverem
+dentro do alcance. O tambor
+de revólver, atua como uma
+turbina para impulsioná-lo.
 <*********************>
 
 
@@ -489,13 +491,14 @@ Electric Darts
 <*********************>
 
 
-This hermit crab Mechaniloid
-can walk upside down on
-ceilings. Hunters capture
-Electric Darts and use them
-as portable batteries. Their
-life span is dictated by
-their remaining charge.
+Esse Mecanilóide caranguejo
+eremita pode andar de ponta-
+cabeça em tetos. Caçadores
+capturaram o Electric Darts
+e o usaram como beterias
+portáteis. Sua expectativa
+de vida é definida através
+da carga restante.
 <*********************>
 
 
@@ -503,11 +506,11 @@ Gyrocutter
 <*********************>
 
 
-Fires ordinance in 2
-directions at regular
-intervals. The razor-sharp
-propeller blade can slice
-through just about anything.
+Incêndios ordenados em 2
+direções em intervalos
+diferentes. A lâmina da
+hélice afiada pode cortar
+praticamente qualquer coisa.
 <*********************>
 
 
@@ -515,14 +518,14 @@ Cannonwalker
 <*********************>
 
 
-This cannon really does
-walk. The legs which support
-its weight have joints which
-bend the opposite direction
-of human joints. It doesn't
-move very fast, but it can
-move at about the same speed
-in all directions.
+Esse canhão realmente anda.
+As pernas que suportam seu
+peso tem articulações que
+dobram na direção oposta das
+articulações humanas. Não se
+move muito rápido, mas pode
+se mover na mesma velocidade
+em todas as direções.
 <*********************>
 
 
@@ -530,13 +533,14 @@ Galleon Assault
 <*********************>
 
 
-This close quarters combat
-Galleon is armed with a
-large blade. Galleon
-Assaults have more endurance
-and are more aggressive than
-Galleon Hunters. Their
-attack range is very wide.
+Esse Galleon de combate de
+curta distância é armado com
+uma grande lâmina. Galeões
+de Combate tem mais resis-
+tência e são mais agressivos
+do que os Galleon Caçadores.
+Seu alcance de ataque é
+muito amplo.
 <*********************>
 
 
@@ -544,14 +548,13 @@ Galleon Spider
 <*********************>
 
 
-A Galleon Spider attacks
-hanging from ceilings and
-ledges. Its performance
-figures are similar to those
-of a Galleon Hunter. An
-attack to one of its
-grappling arms will quickly
-bring it down.
+Um Galleon Aranha que ataca
+pendurado em tetos e bordas.
+Os números de seu desempenho
+são semelhantes aos de um
+Galeão Caçador. Um ataque em
+um de seus braços fixantes
+rapidamente irá derrubá-lo.
 <*********************>
 
 
@@ -559,14 +562,14 @@ Galleon Bazooka
 <*********************>
 
 
-This Galleon attacks using
-its short range rocket
-launcher which can also fire
-heat seeking missiles. When
-there are no enemies around,
-it spends most of its time
-performing maintenance on
-its artillery.
+Esse Galleon ataca usando
+seu lançador de foguetes de
+curto alcance que também
+pode atirar mísseis na busca
+de calor. Quando não há
+inimigos ao redor, passa a
+maior parte do tempo fazendo
+manutenção na artilharia.
 <*********************>
 
 
@@ -574,14 +577,14 @@ Galleon Hunter
 <*********************>
 
 
-The original model in the
-Galleon series and the most
-prevalent type of Galleon.
-The Galleon Hunter is a true
-all-'rounder suited to
-complex tasks. Its AI
-circuitry is highly
-advanced.
+O modelo original da série
+Galleon e o tipo mais
+prevalente de Galleon.
+O Galleon Caçador é um
+verdadeiro faz-tudo adequado
+a tarefas complexas. Seus
+circuitos de IA são
+altamente avançados.
 <*********************>
 
 
@@ -589,14 +592,14 @@ Galleon Shocker
 <*********************>
 
 
-Has weapons on each arm, an
-Anode and a Cathode, which
-it sticks into the ground to
-produce an intense
-electrical current. Its body
-is covered with a special
-kind of electro-absorptive
-coating.
+Tem armas em cada braço, um
+Ânodo e um Cátodo, o qual
+adere ao solo para produzir
+uma corrente elétrica
+intensa. Seu corpo é coberto
+com um tipo especial de
+revestimento eletro-
+absorvedor.
 <*********************>
 
 
@@ -604,13 +607,14 @@ Galleon Rider
 <*********************>
 
 
-The Galleon Riders are a
-motocycle team. Because of
-their Pseudoroid DNA, flames
-make them stronger. But, few
-Galleons are skilled enough,
-and most lose control of
-their motorcycles.
+Os Galleon Riders são um
+grupo de motociclitas.
+Por causa de seu DNA
+Pseudoróide, as chamas os
+deixam mais fortes. Mas,
+alguns Galleons são bastante
+hábeis, e a maioria perde o
+controle da moto.
 <*********************>
 
 
@@ -618,12 +622,12 @@ Galleon Noggin
 <*********************>
 
 
-This Mechaniloid was created
-by suspending the head of a
-Galleon in a special liquid.
-There are 2 types of Galleon
-Noggin that differ in their
-liquid types.
+Esse Mecanilóide foi criado
+ao pendurar a cabeça de um
+Galleon em um líquido
+especial. Existem 2 tipos de
+Galleon Noggin que diferem
+em seus tipos de líquido.
 <*********************>
 
 
@@ -631,13 +635,14 @@ Cavity CW
 <*********************>
 
 
-This flying Mechaniloid
-sacrifices its own energy to
-produce a powerful laser.
-Just one shot will deplete
-it of most of its power, so
-it will quickly run away
-following an attack.
+Esse Mecanilóide voador
+sacrifica sua própria
+energia para produzir um
+poderoso laser. Só um tiro
+irá esgotar a maior parte de
+sua energia, portanto ele
+fugirá rapidamente depois de
+um ataque.
 <*********************>
 
 
@@ -645,12 +650,13 @@ Carom
 <*********************>
 
 
-This floating security
-Mechaniloid can fire shots
-up & down or left & right.
-If it is on the receiving
-end of a powerful blast,
-it'll get sent flying.
+Esse Mecanilóide de
+segurança flutuante pode
+atirar pra cima e pra baixo
+ou pra esquerda e pra
+direita. Se ele está a fim
+de ver uma explosão
+poderosa, ele vai voando.
 <*********************>
 
 
@@ -658,13 +664,14 @@ Crickaleap
 <*********************>
 
 
-It's said that long ago the
-world was thrown into terror
-by these Mechaniloids. 3
-years ago there was a
-large-scale extermination of
-these pests, but
-tenaciously, they live on.
+Dizem que há muito tempo o
+mundo foi lançado em terror
+por esses Mecanilóides. 3
+anos atrás, houve um
+extermínio em grande escala
+dessas pragas, mas com
+insistência, eles
+permanecem.
 <*********************>
 
 
@@ -672,14 +679,14 @@ Funky Junk
 <*********************>
 
 
-This Mechaniloid was created
-entirely from junk. Funky
-Junks get lonely easily.
-They crowd together around
-people who wander into their
-habitat. They also seem to
-enjoy attending an
-occasional concert.
+Esse Mecanilóide foi criado
+inteiramente a partir de
+sucata. Funky Junks ficam
+sozinhos com facilidade. Se
+agrupão em torno de pessoas
+que andam em seu habitat.
+Também parecem gostar de
+ver um concerto ocasional.
 <*********************>
 
 
@@ -687,14 +694,14 @@ Circloon
 <*********************>
 
 
-This odd Mechaniloid flies
-round and round in circles.
-Circloons mark their
-territory by flying circles
-around it. Territorial
-disputes between Circloons
-are common and are rarely
-ever solved.
+Esse estranho Mecanilóide
+voa girando, e girando em
+círculos. Circloon marca seu
+território voando em
+círculos em torno dele.
+Disputas territoriais entre
+Circloons são comuns e
+raramente são resolvidas.
 <*********************>
 
 
@@ -702,14 +709,14 @@ Pressor
 <*********************>
 
 
-This flying Mechaniloid can
-nullify frontal attacks.
-Originally this kind of
-Mechaniloid was used as a
-hydraulic press in
-scrapyards. They are
-generally found flying in
-groups of 2 or 3.
+Esse Mecanilóide voador pode
+anular taques frontais.
+Originalmente esse tipo de
+Mecanilóide foi usado como
+um prensa hidráulica em
+depósitos de sucata. Eles
+geralmente são encontrados
+voando em grupos de 2 ou 3.
 <*********************>
 
 
@@ -717,13 +724,14 @@ Skull Anchor
 <*********************>
 
 
-This skull-shaped
-Mechaniloid can expand and
-contract at will, and
-borrows its DNA from
-Pseudoroids that can freeze
-enemies. Its intelligence
-rivals that of people.
+Esse Mecanilóide em forma de
+caveira pode se expandir e
+se contrair à vontade, e
+pegou DNA de Pseudoróides
+emprestado que podem
+congelar inimigos. Sua
+inteligência compete com a
+das pessoas.
 <*********************>
 
 
@@ -731,13 +739,13 @@ Solid Cannon
 <*********************>
 
 
-The Solid Cannon uses the
-buoyancy of ice to float on
-the surface of water. The
-ice at its base contains a
-special type of very fine
-titanium, which makes it
-very strong.
+O Solid Cannon usa o
+dinamismo do gelo para
+flutuar na superfície da
+água. O gelo na sua base
+contém um tipo especial de
+titânio muito fino, que o
+torna muito forte.
 <*********************>
 
 
@@ -745,11 +753,12 @@ Sawood
 <*********************>
 
 
-This Mechaniloid resembles a
-spinning saw. Attached to
-walls, it can move about
-freely. This Mecha used to
-be used to cut wood.
+Esse Mecanilóide parece uma
+serra circular. Preso nas
+paredes, ele pode mover-se
+livremente. Esse Mecha
+costumava ser usado para
+cortar madeira.
 <*********************>
 
 
@@ -757,14 +766,14 @@ Chabano
 <*********************>
 
 
-This Mechaniloid has a super
-fast back step. Use caution,
-as it will swiftly
-counterattack if attacked.
-They live together in
-groups, so if you see one,
-assume that there are 30
-more you can't see.
+Esse Mecanilóide tem um
+passo pra trás super rápido.
+Tome cuidado, pois ele irá
+rapidamente contra-atacar se
+for atacado. Eles vivem
+juntos em grupo, então, se
+ver um, imagino que terá
+mais 30 que não poderá ver.
 <*********************>
 
 
@@ -772,13 +781,14 @@ Disk Cannon
 <*********************>
 
 
-These Mechaniloids fire disk
-shaped cannon balls. They
-were converted for target
-practice use. It's said that
-a good marksman can blow
-apart a disk as soon as it
-is launched.
+Esses Mecanilóides atiram
+discos de fogo em forma de
+bolas de canhão. Foram
+transformados para uso de
+prática de alvo. Dizem que
+um bom atirador pode
+explodir um disco assim que
+ele for lançado.
 <*********************>
 
 
@@ -786,13 +796,14 @@ Burner
 <*********************>
 
 
-This Mechaniloid has the DNA
-data of a Pseudoroid and is
-well adapted to digging
-holes in rocks. It drops
-down from ceilings, plants
-itself firmly on the ground,
-and burns like a candle.
+Esse Mecanilóide tem os
+dados de DNA de um
+Pseudoróide e está bem
+adaptado para cavar buracos
+em rochas. Ele desce do
+teto, planta-se firmemente
+no chão, e queima como uma
+vela.
 <*********************>
 
 
@@ -800,11 +811,12 @@ New Rattrap
 <*********************>
 
 
-These Mechaniloid mice tend
-to come in huge numbers.
-With so many of them, they
-are sometimes prone to
-short-circuit and blow up.
+Esses ratos Mecanilóides
+tendem a vir em grande
+número. Com tantos deles,
+às vezes são propensos
+a curtos-circuitos, e
+explodem.
 <*********************>
 
 
@@ -812,12 +824,13 @@ Nature Mine
 <*********************>
 
 
-This small Mechaniloid
-prefers narrow spaces. It
-attaches its own genetic
-material to the ordinance it
-shoots, and by doing so
-attempts to reproduce.
+Esse pequeno Mecanilóidr
+prefere espaços estreitos.
+Ele atribuiu seu próprio
+material genético para
+ordem do diparo, e fazendo
+assim tentativas de
+reprodução.
 <*********************>
 
 
@@ -825,14 +838,14 @@ Vitaful
 <*********************>
 
 
-This insect Mechaniloid pupa
-looks like an energy item.
-Generally very docile, if
-attacked, will change into
-its adult form and flee.
-This can cause
-misunderstanding, but don't
-take it personal.
+Essa pupa de inseto
+Mecanilóide parece com um
+item de energia. Geralmente
+muito dócil, se for atacado,
+irá se transformar em sua
+forma adulta e fugir. Isso
+pode gerar um mal entendido,
+mas não leve isso a mal.
 <*********************>
 
 
@@ -840,14 +853,14 @@ Barriode
 <*********************>
 
 
-The Barriode has a hard
-body, Pseudoroid DNA, and
-conceals powerful weapons.
-The top of its head is its
-weak spot, which it protects
-in its fighting stance. A
-hatch on its belly opens and
-releases energy balls.
+O Barriode tem um corpo
+duro, DNA de Pseudoróide, e
+esconde armas poderosas.
+O topo de sua cabeça é seu
+ponto fraco, que protege em
+posição de combate. Uma es-
+coltilha na sua barriga abre
+e libera bolas de energia.
 <*********************>
 
 
@@ -855,13 +868,13 @@ Pulse Cannon
 <*********************>
 
 
-This cannon locates and
-shoots down mid-air targets
-flawlessly. It likely
-achieves this because it
-inherits the DNA data of a
-high speed flying
-Pseudoroid.
+Esse canhão localiza e atira
+de forma precia em alvos
+aéreos. Ele provavelmente
+consegue isso porque herdou
+os dados de DNA de um
+Pseudoróide voador de alta
+velocidade.
 <*********************>
 
 
@@ -869,14 +882,14 @@ Dynaflor
 <*********************>
 
 
-This Mechaniloid was found
-in a facility which is
-covered with vegetation. It
-has a habit of storing the
-power that flows into the
-facility in its bulbs. It
-only blooms to discharge
-stored energy. 
+Esse Mecanilóide foi
+encontrado em uma instalação
+que é coberta de vegetação.
+Tem hábito de armazenar
+energia que flui para dentro
+da instalação em eus bulbos.
+Só floresce para descarregar
+energia armazenada. 
 <*********************>
 
 
@@ -884,14 +897,14 @@ Fire Darts
 <*********************>
 
 
-This hermit crab Mechaniloid
-can move around upside down
-on surfaces. They were once
-converted into and sold as
-portable cooking ranges,
-until they were recalled
-after the trouble with them
-catching on fire.
+Esse Mecanilóide caranguejo
+eremita pode se mover de
+ponta-cabeça em superfícies.
+Já foram transformados e
+vendidos como fogões
+portáteis, até serem
+recolhidos após o problema
+de pegarem fogo.
 <*********************>
 
 
@@ -899,11 +912,11 @@ Fantacle
 <*********************>
 
 
-This plant-like Mechaniloid
-lives on the walls of
-buildings. When it detects
-an intruder, it spins its
-razor sharp tentacles.
+Esse Mecanilóide parecido 
+com planta vive nas paredes.
+de edifícios. Quando detecta
+um intruso, ele gira seus
+tentáculos afiadíssimos.
 <*********************>
 
 
@@ -911,14 +924,14 @@ Fork Cannon
 <*********************>
 
 
-This cannon splits into two
-parts. It fires two
-cannonballs in different
-directions at the same time.
-In addition to its wide
-attack range, it has the
-ability to contain the
-movements of an intruder.
+Esse canhão se divide em
+duas partes. Ele atira duas
+balas de canhão em direções
+diferentes ao mesmo tempo.
+Além de seu amplo alcance de
+ataque, ele tem a habilidade
+de conter os movimentos de
+um intruso.
 <*********************>
 
 
@@ -926,13 +939,13 @@ Hyper Bole
 <*********************>
 
 
-A large tree trunk that
-became a Mechaniloid over a
-long period of time. Because
-it incorporates Pseudoroid
-DNA data, it has gained the
-ability to defend itself
-against attackers.
+Um grande troco de árvore
+que se tornou um Mecanilóide
+com longo período de tempo.
+Devido seus dados de DNA se
+juntarem aos de Pseudoróide,
+ele ganhou habilidade de se
+defender contra invasores.
 <*********************>
 
 
@@ -940,13 +953,13 @@ Mini Cannon
 <*********************>
 
 
-Made to set anywhere,
-regardless of how small the 
-area, and as easy to install
-as a light bulb, this 
-lightweight, tiny cannon is
-mainly used for home
-security. 
+Feito para ficar em qualquer
+lugar, independente de quão
+pequena a área, e tão fácil
+de se instalar como bulbo,
+esse leve canhão pequeno é
+usado principalmente para a
+segurança em casa. 
 <*********************>
 
 
@@ -954,12 +967,12 @@ Fly Chopper 2
 <*********************>
 
 
-This small fly type
-Mechaniloid hides inside the
-body of the King Flyer. But
-this new model was developed
-to be able to move about
-independent of the King
+Esse pequeno Mecanilóide
+tipo mosca se esconde dentro
+do corpo de King Flyer. Mas
+esse novo modelo foi
+desenvolvido para poder se
+mover independente do King
 Flyer.
 <*********************>
 
@@ -968,14 +981,14 @@ Hop Cannon
 <*********************>
 
 
-This cannon hops
-continuously. It fires its
-projectiles, high-resiliency
-balls from as high up as it
-can. At its rear, it employs
-a pump-like catapult system.
-Hop Cannons are embedded
-with Pseudoroid DNA.
+Um canhão que pula direto.
+Atira seus projéteis, bolas
+de alta elasticidade o mais
+alto possível. Na sua parte
+de trás, usa um sistema de
+catapulta de bomba. Hop
+Cannons são incorporados com
+DNA de Pseudoróide.
 <*********************>
 
 
@@ -983,13 +996,14 @@ Bomb Flower
 <*********************>
 
 
-The Bomb Flower collects
-tiny dust particles from the
-atmosphere and uses them for
-energy to create tiny bombs.
-Put simply, the dirtier the
-air, the more bombs it can
-make.
+O Bomb Flower coleta
+pequenas partículas de
+poeira da atmosfera e usa a
+energia delas para criar
+pequenas bombas.
+Simplificando, quanto mais
+poluentes no ar, mais bombas
+ele poderá fazer.
 <*********************>
 
 
@@ -997,13 +1011,13 @@ Pump Cannon
 <*********************>
 
 
-This small Mechaniloid has a
-servo-type cannon it shoots
-by jumping up and down. At
-the moment, this is the only
-one available, but it is
-rumored that there are
-various types in production.
+Esse pequeno Mecanilóide tem
+um canhão tipo-servo que
+atira pulando pra cima e pra
+baixo. No momento, esse é o
+único disponível, mas há
+rumores de que existem
+vários tipos em produção.
 <*********************>
 
 
@@ -1011,12 +1025,12 @@ MachYOS
 <*********************>
 
 
-This Mechaniloid is
-specialized for high-speed
-flight. When it spots an
-enemy, it attacks by
-dropping bombs. It's mainly
-used for reconnaissance.
+Esse Mecanilóide é
+especializado em vôo de alta
+velocidade. Quando ele vê um
+inimigo, ataca soltando
+bombas. É principalmente
+usado para reconhecimento.
 <*********************>
 
 
@@ -1024,14 +1038,14 @@ Myterys
 <*********************>
 
 
-This enigmatic Mechaniloid
-dies suddenly. Because their
-bodies are so fragile and
-they die so quickly, details
-about them are scarce. So
-scarce, in fact, that it's
-not certain that they are
-even Mechaniloids at all.
+Esse enigmático Mecanilóide
+morre subitamente. Porque
+seus corpos são muito
+frágeis e morrem rápido,
+seus detalhes são escassos,
+tão escassos, que de fato,
+não é certeza absoluta que
+sejam mesmo Mecanilóides.
 <*********************>
 
 
@@ -1039,14 +1053,14 @@ Poyoko
 <*********************>
 
 
-This Mechaniloid has evolved
-and developed the ability to
-reproduce. But, as a
-consequence, its wings have
-gradually devolved. It's
-only a matter of time before
-Poyoko completely lose the
-ability to fly.
+Esse Mecanilóide evoluiu e
+desenvolveu a habilidade de
+se reproduzir. Mas, como
+consequência, suas asas se
+desenvolveram gradualmente.
+É só uma questão de tempo
+até Poyoko perder totalmente
+a habilidade de voar.
 <*********************>
 
 
@@ -1054,12 +1068,12 @@ VMettaur
 <*********************>
 
 
-This latest model Mettaur
-spits mini Mettaur bombs
-from its mouth. Its cute
-looks have even earned it
-nominations to be the mascot
-for amusement parks.
+Esse último modelo de
+Mettaur cospe mini Mettaur
+bombs de sua boca. Sua linda
+aparência sequer ganhou
+indicações pra ser o mascote
+para parques de diversões.
 <*********************>
 
 
@@ -1067,11 +1081,12 @@ Meteor Thresher
 <*********************>
 
 
-Like transervers, this
-Mechaniloid makes use of
-data transfer capability
-technology. Transfer
-failures sometimes occur.
+Como transervidores, esse
+Mecanilóide faz uso da
+tecnologia de capacidade de
+transferência de dados.
+Falhas de transferência às
+vezes ocorrem.
 <*********************>
 
 
@@ -1079,14 +1094,13 @@ Rumblefish
 <*********************>
 
 
-This hungry Mechaniloid has
-eaten everything it can in
-the sea, so now it has
-turned its attention to the
-air. Having inherited
-violent Pseudoroid DNA, it
-tricks and then attacks its
-prey.
+Esse faminto Mecanilóide tem
+comido tudo o que pode no
+mar, então agora ele voltou
+sua atenção para o mar.
+Tendo herdado o violento DNA
+de Pseudoróide, ele engana e
+em seguida ataca sua presa.
 <*********************>
 
 
@@ -1094,13 +1108,13 @@ Reflector Cannon
 <*********************>
 
 
-Mounted either on the
-ceiling or the floor, this
-cannon fire lasers from its
-180 degree rotating barrel.
-When the lasers strike
-natural topography, they are
-reflected. 
+Instalado tanto no teto
+quanto no chão, esse canhão
+dispara lasers de seu tambor
+rotativo de 180 graus.
+Quando os lasers acertam a
+topografia natural, eles são
+refletidos. 
 <*********************>
 
 
@@ -1108,12 +1122,12 @@ Enforcer
 <*********************>
 
 
-This policing Mechaniloid
-enforces speed limits. It
-chases down offenders,
-whether they are in a car or
-not, and warns them about
-speeding.
+Esse Mecanilóide policial
+impõe limites de velocidade.
+Ele persegue infratores,
+sejam eles em um carro ou
+não, e os adverte sobre o
+excesso de velocidade.
 <*********************>
 
 
@@ -1121,106 +1135,108 @@ Cellworm
 <*********************>
 
 
-This Mechaniloid is made up
-of many small bodies. Except
-for the head, the other
-parts are actually baby
-Mechaniloids. The babies 
-become independent starting
-at the tail.
+Esse Mecanilóide é composto
+de muitos corpos pequenos.
+Exceto a cabeça, as outras
+partes são na verdade de
+Mecanilóides bebês. Os bebês
+tornam-se independentes
+começando na parte cauda.
 <--------------------->
 
 
 <*********************>
 
 
-Raiders
+Saqueadores
 <*********************>
 
 
-Illegal Hunters who do not
-belong to the Hunter's
-guild. They steal lost
-technology and deal in
-illegal merchandise.
+Caçadores ilegais que não
+pertencem a guilda do
+Caçador. Eles roubam
+tecnologia perdida e
+negociam mercadoria ilegal.
 <*********************>
 
 
-Comic
+HQ
 <*********************>
 
 
-Secret Disk that Ray, the
-"Comic Hunter" had. A
-digital action comic about
-the adventures of an
-unlikely hero, a walking
-stove.
+Disco Secreto que Ray, o
+"Caçador HQ" tinha. Uma
+HQ de ação digital que conta
+as aventuras de um herói
+improvável, uma jornada no
+fogão.
 <*********************>
 
 
-Sage Trinity
+Trindade Sábia
 <*********************>
 
 
-These 3 wise men who control
-the Federation Government
-"Legion", Master Thomas,
-Master Albert, and Master
-Mikhail, started life as
-Humans, but took on bionic
-bodies which have kept them
-alive for several centuries.
+Esses 3 sábios que controlam
+o Governo da Federação
+"Legião", Mestre Thomas,
+Mestre Albert, e Mestre
+Mikhail, nasceram Humanos,
+mas adotaram corpos biônicos
+que os mantiveram vivos
+durante vários séculos.
 <*********************>
 
 
-Legendary Hero
+Herói Lendário
 <*********************>
 
 
-A collection of rare digital
-photographs of Legendary
-Heroes that the Hunter Chris
-wanted. These Legendary
-Heroes look more like
-coalminers in colorful
-outfits.
+Uma coleção de raras
+fotografias digitais de
+Heróis Lendários que o
+Caçador Chris queria. Esses
+Heróis Lendários parecem
+mais com mineiros de carvão
+em trajes coloridos.
 <*********************>
 
 
-Hunters 1
+Caçadores 1
 <*********************>
 
 
-Most of these people earn
-their living by searching
-for lost technology buried
-in ruins, and hunting down
-dangerous Mavericks for
-bounties.
+A maioria dessas pessoas
+ganham a vida através da
+procura de tecnologia
+perdida enterrada em ruínas,
+e da caça de Mavericks
+perigosos por recompensas.
 <*********************>
 
 
-Hunters 2
+Caçadores 2
 <*********************>
 
 
-Among the Hunters, are café
-owners, crazy researchers,
-reporters, nurses, and the
-list goes on. They're a very
-colorful bunch of people.
+Entre os Caçadores, estão
+os donos de cafeterias,
+pesquisadores malucos,
+repórteres, enfermeiros, e a
+lista continua. São um bando
+muito colorido de pessoas.
 <*********************>
 
 
-Townspeople
+Pessoas da Cidade
 <*********************>
 
 
-Mainly the people who work
-at the Legion-bound Train
-Station. They sometimes have
-valuable items for sale.
+As principais pessoas que
+trabalham na Estação de Trem
+Ligados a Legião. Eles às
+vezes têm itens valiosos
+para vender.
 <*********************>
 
 <FIM>

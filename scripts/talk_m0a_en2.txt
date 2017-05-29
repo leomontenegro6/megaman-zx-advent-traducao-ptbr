@@ -2,7 +2,7 @@
 <#####################>
 
 <p 02><a 0F><n 02>
-Aagh! The ground...!
+Aagh! O chão...!
 <--------------------->
 
 <p 02><a 0E><n 02>
@@ -10,146 +10,146 @@ Aaaagh!
 <*********************>
 
 <p 02><a 0A><n 02>
-Phew... It stopped...
+Ufa... Parou...
 <--------------------->
 
 <p 02><a 6B><n 15>
-The ground is floating!
-What's going on?
+O chão está flutuando!
+O que está acontecendo?
 <*********************>
 
 <p 02><a 02><n 06>
-Are you alright? That
-area is experiencing a
-gravitational anomaly.
+Você está bem? A área
+está passando por uma
+anomalia gravitacional.
 <--------------------->
 
 <p 02><a 02><n 06>
-Also, powerful energy
-reactions have been
-discovered.
+Além disso, reações de
+energia poderosa foram
+descobertas.
 <--------------------->
 
 <p 02><a 02><n 06>
-In all likelihood they
-are the cause of the
-gravitational anomaly.
+É muito provável que
+eles sejam a causa da
+anomalia gravitacional.
 <--------------------->
 
 <p 02><a 02><n 06>
-Proceed to investigate
-the energy reactions.
+Avance para investigar
+as reações de energia.
 <*********************>
 
 <p 02><d A402><a 0F><n 02>
-What's a Model W doing
-here!?
+O que um Modelo W está
+fazendo aqui!?
 <--------------------->
 
 <p 02><d A502><a 6B><n 15>
-Could this be the
-source of the
-gravitational anomaly!?
+Essa poderia ser
+a fonte da anomalia
+gravitacional!?
 <*********************>
 
 <p 03><d A602><a 33><n 11>
-Inescapable destiny...
-So, you came, Mega Man
-Model A.
+Destino inevitável...
+Então, você veio,
+Mega Man Modelo A.
 <--------------------->
 
 <p 03><d A702><a 33><n 11>
-But I'll be taking
-the Model W.
+Mas eu vou levar o
+Modelo W.
 <--------------------->
 
 <p 02><d A802><a 0A><n 02>
-Aeolus! What are you
-doing collecting all
-those Model Ws!?
+Aeolus! O que está
+fazendo coletando todos
+aqueles Modelos W!?
 <--------------------->
 
 <p 03><d A902><a 33><n 11>
-That's a silly
-question... You call
-yourself a Mega Man,
+Essa é uma pergunta
+idiota... Você se
+considera um Mega Man,
 <--------------------->
 
 <d AA02>
-yet you don't even know
-the significance of
-Model W...
+mas nem sequer sabe o
+significado de Modelo
+W...
 <--------------------->
 
 <p 03><d AB02><a 33><n 11>
-You fear what you don't
-understand,
+Você teme o que não
+entende,
 <--------------------->
 
 <d AC02>
-and eliminate what you
-fear...
+e elimina o que teme...
 <--------------------->
 
 <p 03><d AD02><a 33><n 11>
-It's because of foolish
-people like you that
-there is conflict.
+É por causa de pessoas
+tolas como você que há
+conflito.
 <--------------------->
 
 <p 02><d AE02><a 6B><n 15>
-I don't know what all
-of that ideological
-babble was about,
+Não sei pra que
+todo esse murmúrio
+ideológico,
 <--------------------->
 
 <p 02><d AF02><a 6B><n 15>
-but it sounded a lot
-like a threat.
+mas pareceu mais uma
+ameaça.
 <--------------------->
 
 <p 03><d B002><a 33><n 11>
-So it is. In the world
-I have in mind, there
-is no place
+Então é isso. No mundo
+que tenho em mente, não
+há lugar
 <--------------------->
 
 <d B102>
-for idiots like you,
-Mega Man Model A!
+para idiotas como você,
+Mega Man Modelo A!
 <--------------------->
 
 <p 03><d B202><a 33><n 11>
-Your time's up fool!
+Seu tempo acabou
+idiota!
 <*********************>
 
 <p 03><d B302><a 34><n 11>
-Complete victory...
-A fool has no right to
-rule!
+Vitória concluída...
+Uma idiota que não tem
+direito de governar!
 <*********************>
 
 <p 03><d B502><a 35><n 11>
-A woeful
-miscalculation...!
+...Um erro de cálculo
+lamentável!
 <--------------------->
 
 <d B602>
-To think that I could
-be bested by a
-plebeian!
+Já imaginava que eu
+poderia ser derrotado
+por uma plebéia!
 <--------------------->
 
 <p 03><d B702><a 35><n 11>
-I'll never acknowledge
-one as ignorant as you,
-Mega Man!
+Eu nunca vou admitir
+alguém tão ignorante
+como você Mega Man!
 <--------------------->
 
 <p 03><d B802><a 35><n 11>
-Your time's up fool! I
-will right this world's
-wrongs!
+Seu tempo acabou tolo!
+Vou corrigir os erros
+deste mundo!
 <*********************>
 
 <p 02><d B902><a 0E><n 02>
@@ -157,246 +157,249 @@ Aaaagh!
 <*********************>
 
 <p 02><a 03><n 00>
-EXTRACTING FROM CODE
-UC80 TO AC195.
-EXPANDING REPORT DATA.
+EXTRAINDO CÓDIGO DE
+UC80 A AC195. AMPLIANDO
+RELATÓRIO DE DADOS.
 <--------------------->
 
 <p 02><a 03><n 00>
-The power of Biometal
-isn't something to be
-had by just anyone.
+O poder do Biometal não
+é algo a ser desfrutado
+por qualquer um.
 <--------------------->
 
 <p 02><a 03><n 00>
-It's a power which
-should only be obtained
-by a Chosen One,
+É um poder que só
+deve ser obtido por
+um Escolhido,
 <--------------------->
 
-one with the ability to
-change the world.
+alguém com a capacidade
+de mudar o mundo.
 <--------------------->
 
 <p 02><a 03><n 00>
-I devised this cipher
-to lock away the power
-of the Biometal.
+Eu criei esta cifra
+para trancar o poder
+do Biometal.
 <*********************>
 
 <p 01><p 02><a 03><n 00>
-A cipher that would
-allow only the Chosen
-One
+Uma cifra que
+permita que apenas
+o Escolhido
 <--------------------->
 
-to unleash its power. 
-<--------------------->
-
-<p 02><a 03><n 00>
-In other words, it's
-locked to its
-Biomatch.
+libere seu poder. 
 <--------------------->
 
 <p 02><a 03><n 00>
-All Humans who get a
-bionic body
+Em outras palavras,
+ele está bloqueado
+para seu Biomatch.
 <--------------------->
 
 <p 02><a 03><n 00>
-have to come to Legion
-for inspection.
+Todos os Humanos que
+conseguiram um corpo
+biônico
 <--------------------->
 
 <p 02><a 03><n 00>
-I made sure that every
-bionic body part I
-inspected 
+têm que vir para a
+Legião para inspeção.
 <--------------------->
 
-was infused with my
+<p 02><a 03><n 00>
+Garanto, cada parte do
+corpo biônico
+inspecionada
+<--------------------->
+
+foi infundido com meu
 DNA.
 <--------------------->
 
 <p 02><a 03><n 00>
-That is the key to the
-cipher, the proof of
-being the Chosen One.
+Essa é a chave para a
+cifra, a prova de ser
+o Escolhido.
 <--------------------->
 
 <p 02><a 03><n 00>
-Yes, by viewing this
-data, you now have 
-within you my DNA.
+Sim, vendo esses dados,
+agora você tem dentro
+de você meu DNA.
 <*********************>
 
 <p 00><p 02><d BA02><a 6B><n 15>
-...Who IS this guy?
+...Quem É esse cara?
 <--------------------->
 
 <p 02><d BB02><a 0F><n 02>
-So I'm a blood relative
-of Albert?
+Então eu sou uma
+parente de sangue de
+Albert?
 <--------------------->
 
 <p 02><d BC02><a 6B><n 15>
-I know it's not easy,
-but don't let it get
-to you.
+Sei que não é fácil,
+mas não deixe ele se
+aproximar de você.
 <--------------------->
 
 <p 02><d BD02><a 6B><n 15>
-That's just some label
-Albert made up. Try not
-to think about it.
+Isso é só um rótulo que
+Albert fez. Tente não
+pensar nisso.
 <--------------------->
 
 <p 02><d BE02><a 0D><n 02>
-Uh... yeah...
+Uh... certo...
 <--------------------->
 
 <p 02><d BF02><a 6B><n 15>
-That Albert guy just
-used his position as
-one of the Sage Trinity
+Aquele cara, o Albert,
+só usou sua posição
+como um Trindade Sábia
 <--------------------->
 
 <d C002>
-to do whatever he
-wanted.
+para fazer o que
+quisesse.
 <*********************>
 
 <p 02><d C102><a 02><n 06>
-It's true that Albert
-knew more about
-technology than anyone.
+É verdade que Albert
+sabe mais de tecnologia
+do que qualquer um.
 <--------------------->
 
 <p 02><d C202><a 02><n 06>
-But we had no idea
-that was the kind of
-man he was.
+Mas não tínhamos idéia
+que fosse o tipo de
+homem que era.
 <--------------------->
 
 <d C302>
-We should have known
-better.
+Deveríamos saber
+melhor.
 <--------------------->
 
 <p 02><d C402><a 0A><n 02>
-It's OK. I was kinda
-prepared for it. But if
-it's only a matter
+Está OK. Eu estava meio
+que pronta pra isso.
+Mas se é só uma questão
 <--------------------->
 
 <d C502>
-of becoming a Mega Man,
-then I'm no different
-from Aeolus.
+de se tornar um Mega
+Man, então não sou
+diferente de Aeolus.
 <--------------------->
 
 <p 02><d C602><a 0A><n 02>
-There must be a reason
-that Albert treats me
-special...
+Deve haver uma razão
+para que Albert me
+trate especial...
 <--------------------->
 
 <p 02><d C802><a 6B><n 15>
-I guess the only one
-who knows that... is
-Albert.
+Acho que o único que
+sabe disso... é Albert.
 <--------------------->
 
 <p 02><d C902><a 02><n 06>
-The gravity in the area
-should normalize
-momentarily.
+A gravidade na área
+deve normalizar
+momentaneamente.
 <--------------------->
 
 <d CA02>
-Head to the next
-destination.
+Siga para o próximo
+destino.
 <*********************>
 
 <p 02><a 6B><n 15>
-It seems that you can
-Air Dash using Aeolus.
+Parece que você pode
+fazer Dash Aéreo com
+Aeolus.
 <--------------------->
 
 <p 02><a 6B><n 15>
-If you hit the Dash
-Button in mid air,
+Se você apertar o Botão
+de Dash em pleno ar,
 <--------------------->
 
-it looks like you can
-get some horizontal
-hang time.
-<--------------------->
-
-<p 02><a 6B><n 15>
-If you hold the
-<dpad>Control Pad up
-<--------------------->
-
-and press the Dash
-Button in mid air,
+parece que poderá
+ganhar algum tempo
+suspenso na horizontal.
 <--------------------->
 
 <p 02><a 6B><n 15>
-you can Air Dash
-straight up.
+Se você segurar o
+<dpad> pra cima
+<--------------------->
+
+e pressionar o Botão de
+Dash em pleno ar,
 <--------------------->
 
 <p 02><a 6B><n 15>
-Air Dash doesn't reduce
-your BM gauge.
+poderá fazer o Dash
+Aéreo para cima.
 <--------------------->
 
 <p 02><a 6B><n 15>
-If you press the Jump
-Button in mid air, 
-<--------------------->
-
-you can hover.
-(You can modify this
-in the Options menu.)
+O Dash Aéreo não reduz
+sua barra de BM.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Hold down the Attack
-Button and then release
-it
+Se você pressionar o
+Botão de Pular em
+pleno ar, 
 <--------------------->
 
-to perform an electric
-move!
-<--------------------->
-
-<p 02><a 6B><n 15>
-These electric attacks
-penetrate through the
-landscape,
-<--------------------->
-
-so you can use them to
-attack enemies behind
-walls.
+poderá se estabilizar.
+(Poderá modificar isso
+no Menu de Opções.)
 <--------------------->
 
 <p 02><a 6B><n 15>
-Also, Aeolus has the
-ability to check an
-enemy's data
+Mantenha segurado o
+Botão de Ataque e em
+seguida solte-o
 <--------------------->
 
-on the bottom screen.
+para realizar um golpe
+elétrico!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Knowing an enemy's
-weakness, now that's
-an ability you can use!
+Esses ataques elétricos
+penetram através do
+cenário,
+<--------------------->
+
+assim você pode usá-los
+para atacar os inimigos
+atrás de paredes.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Além disso, Aeolus tem
+a habilidade de checar
+os dados de um inimigo
+<--------------------->
+
+na tela inferior.
+<--------------------->
+
+<p 02><a 6B><n 15>
+Sabendo a fraqueza de
+um inimigo, já poderá
+usar essa habilidade!
 <*********************>
 
 <FIM>

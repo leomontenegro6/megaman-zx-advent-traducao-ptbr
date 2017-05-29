@@ -59,8 +59,8 @@ Mega Man Modelo A.
 <--------------------->
 
 <p 03><d A702><a 33><n 11>
-Mas eu vou levar
-o Modelo W.
+Mas eu vou levar o
+Modelo W.
 <--------------------->
 
 <p 02><d A802><a 0B><n 01>
@@ -87,8 +87,7 @@ entende,
 <--------------------->
 
 <d AC02>
-e elimina o que
-teme...
+e elimina o que teme...
 <--------------------->
 
 <p 03><d AD02><a 33><n 11>
@@ -196,7 +195,7 @@ permita que apenas
 o Escolhido
 <--------------------->
 
-libere seu poder. 
+libere seu poder.
 <--------------------->
 
 <p 02><a 03><n 00>
@@ -206,7 +205,7 @@ para seu Biomatch.
 <--------------------->
 
 <p 02><a 03><n 00>
-Todos os Replóides tem
+Todos os Replóides têm
 que vir para a Legião
 <--------------------->
 
@@ -355,9 +354,9 @@ sua barra de BM.
 <--------------------->
 
 <p 02><a 6B><n 15>
-Se você pressionar
-o Botão de Pular
-em pleno ar,
+Se você pressionar o
+Botão de Pular em
+pleno ar,
 <--------------------->
 
 poderá se estabilizar.

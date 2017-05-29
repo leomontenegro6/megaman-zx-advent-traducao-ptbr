@@ -2,1995 +2,1970 @@
 <#####################>
 
 
-<c 01>Berry
-<c 00>Grows when you
-water a certain
-potted plant.
-It restores 8
-points of life.
+<c 01>Baga
+<c 00>Cresce quando
+você rega um
+determinado
+vaso de planta.
+Recupera 8
+pontos de vida.
 <*********************>
 
 
-<c 01>Lollipop
-<c 00>Found in a
-container
-in a room of
-Oil Field3. It
-restores 5
-points of life.
+<c 01>Pirulito
+<c 00>Achado num
+contêiner, em
+uma sala do
+Campo de
+Petróleo3.
+Recupera 5
+pontos de vida.
 <*********************>
 
 
-<c 01>Watermelon
-<c 00>Found in a
-container
-in a room of
-Oil Field3. It
-restores 5
-points of life.
+<c 01>Melancia
+<c 00>Achada num
+contêiner, em
+uma sala do
+Campo de
+Petróleo3.
+Recupera 5
+pontos de vida.
 <*********************>
 
 
-<c 01>Rice Cake
-<c 00>Found in a
-container
-in a room of
-Oil Field3. It
-restores 5
-points of life.
+<c 01>Bolo de Arroz
+<c 00>Achado num
+contêiner, em
+uma sala do
+Campo de
+Petróleo3.
+Recupera 5
+pontos de vida.
 <*********************>
 
 
-<c 01>Laughy Taffy
-<c 00>Found in a
-container
-in a room of
-Oil Field3. It
-restores 5
-points of life.
+<c 01>Caramelo
+Risonho
+<c 00>Achado num con-
+têiner, em uma
+sala do Campo
+de Petróleo3.
+Recupera 5
+pontos de vida.
 <*********************>
 
 
-<c 01>Gift
-Certificate
-<c 00>Found in a
-container in a
-room of Oil
-Field3. Use it
-to get ECs.
+<c 01>Cartão de
+Presente
+<c 00>Achado num
+contêiner, em
+uma sala do
+Campo de
+Petróleo3. Use
+pra obter CEs.
 <*********************>
 
 
-<c 01>E Tank
-<c 00>Nick in
-Hunter's Camp4
-sells this
-item. It
-completely
-restores life.<c 01> 
+<c 01>E-Tank
+<c 00>Nick vende
+esse item no
+Acampamento de
+Caçadores4.
+Recupera todos
+os pontos de
+vida.<c 01> 
 <*********************>
 
 
-<c 01>Shortcake
-<c 00>Found in the
-fridge at
-Hunter's Camp4.
-It restores 8
-points of life.
+<c 01>Bolo de
+Morango
+<c 00>Achado na
+geladeira do
+Acampamento de
+Caçadores4.
+Recupera 8
+pontos de vida.
 <*********************>
 
 
-<c 01>Candy
-<c 00>Chris in
-Hunter's Camp2
-gave you this
-candy. It
-restores 4
-points of life.
+<c 01>Doce
+<c 00>Chris te deu
+esse doce no
+Acampamento de
+Caçadores2.
+Recupera 4
+pontos de vida.
 <*********************>
 
 
-<c 01>Model a
-<c 00>Allows you to
-use Model a.
+<c 01>Modelo a
+<c 00>Permite que
+você use o
+Modelo a.
 <*********************>
 
 
-<c 01>Apple
-<c 00>A gift from
-another Hunter.
-It restores 8
-points of life.
+<c 01>Maçã
+<c 00>Um presente de
+outro Caçador.
+Recupera 8
+pontos de vida.
 <*********************>
 
 
-<c 01>Orange
-<c 00>A gift from
-Nina at the
-station. It 
-restores 4
-points of life.
+<c 01>Laranja
+<c 00>Um presente de
+Nina na
+estação.
+Recupera 4
+pontos de vida.
 <*********************>
 
 
-<c 01>Bread
-<c 00>Freshly baked
-bread courtesy
-of Blossom in
-Hunter's Camp3.
-It restores 6
-points of life.
-<--------------------->
-
-
+<c 01>Pão
+<c 00>É cortesia de
+Blossom no
+Acampamento de
+Caçadores3.
+Recupera 6
+pontos de vida.
 <*********************>
 
 
-<c 01>Absorber
-<c 00>It will cushion
-the blow and
-eliminate
-knockback
-effects from
-getting hit.
+<c 01>Absorsor
+<c 00>Amortece os
+impactos e
+elimina efeitos
+de recuo ao ser
+atingido.
 <*********************>
 
 
-<c 01>Eraser
-<c 00>This gives
-saber weapons
-the power to
-destroy the
-energy shots of
-minor enemies.
+<c 01>Corta-Projéteis
+<c 00>Adiciona às
+armas cortantes
+o poder de
+cortar projé-
+teis inimigos.
 <*********************>
 
 
-<c 01>Featherweight
-<c 00>This allows
-movement on
-surfaces that
-would normally
-sink or crumble
-underfoot.
+<c 01>Peso Pena
+<c 00>Permite movi-
+mento em super-
+fícies que
+normalmente se
+partem ou
+afundam.
 <*********************>
 
 
-<c 01>Extender
-<c 00>The period of
-invincibility
-after a hit is
-stretched out a
-little longer.
+<c 01>Extensor
+<c 00>Aumenta o
+período de
+invencibilidade
+após ser
+atingido.
 <*********************>
 
 
-<c 01>Ice Boots
-<c 00>Can walk across
-ice without
-slipping on the
-surface.
+<c 01>Botas de Gelo
+<c 00>Permite andar
+por superfícies
+geladas sem
+deslizar.
 <*********************>
 
 
-<c 01>Wind Boots
-<c 00>Grips the
-surface to
-prevent getting
-pushed around
-by wind and
+<c 01>Botas de Vento
+<c 00>Gera aderência
+em superfícies
+para não ser
+empurrado por
+ventos e
 tornados.
 <*********************>
 
 
-<c 01>Frog
-<c 00>Reduces the
-speed of 
-sliding down
-walls.
+<c 01>Sapo
+<c 00>Reduz a
+velocidade de
+deslizamento em
+paredes.
 <*********************>
 
 
-<c 01>Warrior Helmet
-<c 00>Found in a
-container in a
-room of Oil
-Field3. Male
-Psdroid. attack
-damage +1. 
+<c 01>Capacete de
+Guerreiro
+<c 00>Achado numa
+sala do Campo
+de Petróleo3.
+Aumenta danos a
+Pseudoróides
+masculinos.
 <*********************>
 
 
-<c 01>Soccer Ball
-<c 00>Turns Argoyle's
-Rock Bomb into
-a soccer ball.
-Found in a room
-of Oil Field3. 
+<c 01>Bola de Futebol
+<c 00>Transforma a
+Bomba de Pedra
+do Argoyle numa
+bola. Achada
+numa sala do
+Campo de
+Petróleo3.
 <*********************>
 
 
-<c 01>Magic Pumpkin
-<c 00>Extends the
-time of
-elemental
-attacks. Found
-in a room of
-Oil Field3. 
+<c 01>Abóbora Mágica
+<c 00>Estende o tempo
+de ataques ele-
+mentais. Achado
+em uma sala do
+Campo de
+Petróleo3.
 <*********************>
 
 
-<c 01>Demon Buster
-<c 00>Buster Attack
-damage of
-Model A, ZX,
-etc. +1. Found
-in a room of
-Oil Field3.
+<c 01>Pistola
+Diabólico
+<c 00>Aumenta o dano
+das Pistolas
+dos Modelo A,
+ZX, etc. Achado
+no Campo de
+Petróleo3.
 <*********************>
 
 
-<c 01>Baby Doll 
-<c 00>Found in a
-container in a
-room of Oil
-Field3. Female
-Psdroid. attack
-damage +1.
-<--------------------->
-
-
+<c 01>Boneca
+<c 00>Achada numa
+sala do Campo
+de Petróleo3.
+Aumenta danos a
+Pseudoróides
+femininas.
 <*********************>
 
 
-<c 01>Absorber
-<c 00>It will cushion
-the blow and
-eliminate
-knockback
-effects from
-getting hit.
-(Equipped)
+<c 01>Absorsor
+<c 00>Amortece os
+impactos e
+elimina efeitos
+de recuo ao ser
+atingido. (E)
 <*********************>
 
 
-<c 01>Eraser
-<c 00>This gives
-saber weapons
-the power to
-destroy the
-energy shots of
-minor enemies.
-(Equipped)
+<c 01>Corta-Projéteis
+<c 00>Adiciona às
+armas cortantes
+o poder de
+cortar projé-
+teis inimigos.
+(E)
 <*********************>
 
 
-<c 01>Featherweight
-<c 00>This allows
-movement on
-surfaces that
-would normally
-sink or crumble
-underfoot.
-(Equipped)
+<c 01>Peso Pena
+<c 00>Permite movi-
+mento em super-
+fícies que
+normalmente se
+partem ou
+afundam. (E)
 <*********************>
 
 
-<c 01>Extender
-<c 00>The period of
-invincibility
-after a hit is
-stretched out a
-little longer.
-(Equipped)
+<c 01>Extensor
+<c 00>Aumenta o
+período de
+invencibilidade
+após ser
+atingido. (E)
 <*********************>
 
 
-<c 01>Ice Boots
-<c 00>Can walk across
-ice without
-slipping on the
-surface.
-(Equipped)
+<c 01>Botas de Gelo
+<c 00>Permite andar
+por superfícies
+geladas sem
+deslizar. (E)
 <*********************>
 
 
-<c 01>Wind Boots
-<c 00>Grips the
-surface to
-prevent getting
-pushed around
-by wind and
-tornados.
-(Equipped)
+<c 01>Botas de Vento
+<c 00>Gera aderência
+em superfícies
+para não ser
+empurrado por
+ventos e
+tornados. (E)
 <*********************>
 
 
-<c 01>Frog
-<c 00>Reduces the
-speed of 
-sliding down
-walls.
-(Equipped)
+<c 01>Sapo
+<c 00>Reduz a
+velocidade de
+deslizamento em
+paredes. (E)
 <*********************>
 
 
-<c 01>Warrior Helmet
-<c 00>Found in a
-container in a
-room of Oil
-Field3. Male
-Psdroid. attack
-damage +1.
-(Equipped)
+<c 01>Capacete de
+Guerreiro
+<c 00>Achado numa
+sala do Campo
+de Petróleo3.
+Aumenta danos a
+Pseudoróides
+masculinos. (E)
 <*********************>
 
 
-<c 01>Soccer Ball
-<c 00>Turns Argoyle's
-Rock Bomb into
-a soccer ball.
-Found in a room
-of Oil Field3. 
-(Equipped)
+<c 01>Bola de Futebol
+<c 00>Transforma a
+Bomba de Pedra
+do Argoyle numa
+bola. Achada
+numa sala do
+Campo de
+Petróleo3. (E)
 <*********************>
 
 
-<c 01>Magic Pumpkin
-<c 00>Extends the
-time of
-elemental
-attacks. Found
-in a room of
-Oil Field3. 
-(Equipped)
+<c 01>Abóbora Mágica
+<c 00>Estende o tempo
+de ataques ele-
+mentais. Achado
+em uma sala do
+Campo de
+Petróleo3. (E)
 <*********************>
 
 
-<c 01>Demon Buster
-<c 00>Buster Attack
-damage of
-Model A, ZX,
-etc. +1. Found
-in a room of
-Oil Field3.
-(Equipped)
+<c 01>Pistola
+Diabólico
+<c 00>Aumenta o dano
+das Pistolas
+dos Modelo A,
+ZX, etc. Achado
+no Campo de
+Petróleo3. (E)
 <*********************>
 
 
-<c 01>Baby Doll 
-<c 00>Found in a
-container in a
-room of Oil
-Field3. Female
-Psdroid. attack
-damage +1.
-(Equipped)
-<--------------------->
-
-
+<c 01>Boneca
+<c 00>Achada numa
+sala do Campo
+de Petróleo3.
+Aumenta danos a
+Pseudoróides
+femininas. (E)
 <*********************>
 
 
-<c 01>Hunter's
-License
-<c 00>Allows you to
-take official
-mission
-requests from
-Legion.
+<c 01>Licença de
+Caçador
+<c 00>Permite
+aceitar pedidos
+de missões
+oficiais da
+Legião.
 <*********************>
 
 
-<c 01>Red Card Key
-<c 00>Opens a certain
-red door in
-Hunter's Camp.
+<c 01>Cartão-Chave
+Vermelho
+<c 00>Abre uma
+certa porta
+vermelha no
+Acampamento de
+Caçadores.
 <*********************>
 
 
-<c 01>Green Card Key
-<c 00>Opens a certain
-green door in
-Hunter's Camp.
+<c 01>Cartão-Chave
+Verde
+<c 00>Abre uma
+certa porta
+verde no
+Acampamento de
+Caçadores.
 <*********************>
 
 
-<c 01>Data File A
-<c 00>Part of a data
-file obtained
-at the
-Waterfall
-Ruins.
+<c 01>Arquivo de
+Dados A
+<c 00>Parte de um
+arquivo de
+dados obtido
+nas Ruínas da
+Cascata.
 <*********************>
 
 
-<c 01>Data File B
-<c 00>Part of a data
-file obtained
-at Mysterious
-Lab.
+<c 01>Arquivo de
+Dados B
+<c 00>Parte de um
+arquivo de
+dados obtido
+no Laboratório
+Misterioso.
 <*********************>
 
 
-<c 01>Init. Key
-<c 00>Obtained by
-analyzing Data
-File A and B.
-It's used to
-operate a
-certain
-transerver.
+<c 01>Chave de
+Inicialização
+<c 00>Obtida na
+análise dos
+Arquivos A e B.
+É usada para
+operar um certo
+transervidor.
 <*********************>
 
 
-<c 01>Backpack
-<c 00>Obtained from
-Patrick at the
-Legion bound
-station. It
-belongs to the
-young man at
-Hunter's Camp2.
+<c 01>Mochila
+<c 00>Patrick lhe deu
+isso na estação
+da Legião.
+Pertence ao
+jovem do
+Acampamento de
+Caçadores2.
 <*********************>
 
 
-<c 01>Secret Disk
-<c 00>A thank you
-gift from Ray,
-the Hunter who
-loves comics,
-given to you to
-give to
+<c 01>Disco Secreto
+<c 00>Um presente de
+gratidão que
+Ray, o Caçador
+fã de gibis,
+pediu para você
+entregar ao
 Patrick.
 <*********************>
 
 
-<c 01>Firing Range
-Key
-<c 00>Was given to
-you by Richard
-in Hunter's
-Camp3.
+<c 01>Chave do Campo
+de Tiro
+<c 00>Entregue por
+Richard, no
+Acampamento de
+Caçadores3.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Kidd in
-Hunter's Camp4.
-Obj.: Find
-the Legendary
-Pickaxe in
-Quarry1.
+<c 01>Pedido
+<c 00>Entregue pelo
+Kidd no Acamp.
+Caçadores4.
+Obj.: Achar a
+Picareta
+Lendária na
+Pedreira1.
 <*********************>
 
 
-<c 01>Legendary
-Pickaxe
-<c 00>Kidd in
-Hunter's Camp4
-asked you to
-find it and
-bring it to
-him.
+<c 01>Picareta
+Lendária
+<c 00>Kidd, no
+Acampamento de
+Caçadores4, te
+pediu pra achar
+e trazê-la de
+volta.
 <*********************>
 
 
-<c 01>Moth Queen
-<c 00>Mary in Arctic
-Ice Floe2 asked
-you to catch
-this decorative
-and highly
-sought after
-Mechaniloid.
+<c 01>Mariposa-Rainha
+<c 00>Mary, na Ban-
+quisa Ártica2,
+te pediu pra
+pegar essa
+Mecanilóide que
+muitos apreciam
+procuram.
 <*********************>
 
 
 <c 01>Hayate 
-<c 00>Title earned
-when you beat
-the first
-Galleon Rider
-in the Highway
-Race.
+<c 00>Título obtido
+quando venceu o
+primeiro Moto-
+queiro Galleon,
+na Corrida
+Rodoviária.
 <*********************>
 
 
 <c 01>Idaten 
-<c 00>Title earned
-when you beat
-the second
-Galleon Rider
-in the Highway
-Race.
-
+<c 00>Título obtido
+quando venceu o
+segundo Moto-
+queiro Galleon,
+na Corrida
+Rodoviária.
 <*********************>
 
 
-<c 01>Speed King
-<c 00>Title earned
-when you
-successfully
-the Galleon
-Rider Champion
-title in the
-Highway Race.
+<c 01>Rei Velocista
+<c 00>Título obtido
+quando você
+vira o Campeão
+dos Motoqueiros
+Galleon, na
+Corrida
+Rodoviária.
 <*********************>
 
 
-<c 01>Wrench
-<c 00>A brand new
-wrench that
-Antonio in Oil
-Field2 lost and
-asked you to
-find.
+<c 01>Chave Inglesa
+<c 00>Uma chave
+inglesa novinha
+que Antonio
+perdeu no Campo
+de Petróleo2 e
+te pediu pra
+achá-la.
 <*********************>
 
 
-<c 01>L Tank 
-<c 00>An ancient
-artifact that
-Meg in Floating
-Ruins3 asked
-you to find.
+<c 01>L-Tank
+<c 00>Um artefato
+antigo que Meg,
+nas Ruínas
+Aéreas3, te
+pediu para
+encontrar.
 <*********************>
 
 
-<c 01>Pinwheel
-<c 00>An ancient
-artifact that
-Meg in Floating
-Ruins3 asked
-you to find.
+<c 01>Cata-Vento
+<c 00>Um artefato
+antigo que Meg,
+nas Ruínas
+Aéreas3, te
+pediu para
+encontrar.
 <*********************>
 
 
-<c 01>Old Balancer
-<c 00>An ancient
-artifact that
-Meg in Floating
-Ruins3 asked
-you to find.
+<c 01>Balanceador
+Antigo
+<c 00>Um artefato
+antigo que Meg,
+nas Ruínas
+Aéreas3, te
+pediu para
+encontrar.
 <*********************>
 
 
-<c 01>Light Bulb
-<c 00>An ancient
-artifact that
-Meg in Floating
-Ruins3 asked
-you to find.
+<c 01>Lâmpada
+<c 00>Um artefato
+antigo que Meg,
+nas Ruínas
+Aéreas3, te
+pediu para
+encontrar.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Romeo in
-Hunter's Camp4.
-Obj.:
-Order shelves
-to put in from
-Austin.
+<c 01>Pedido
+<c 00>Entregue pelo
+Romeo no Acamp.
+Caçadores4.
+Obj.: Pedir
+prateleiras no
+nome do Austin.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Amy in
-Hunter's Camp4.
-Obj.:
-Bring back a
-potted plant.
+<c 01>Pedido
+<c 00>Entregue pela
+Amy no Acamp.
+Caçadores4.
+Obj.: Trazer de
+volta um vaso
+de plantas.
 <*********************>
 
 
-<c 01>Potted Plant
-<c 00>Amy in Hunter's
-Camp4 asked you
-to bring this
-back to her.
-It's mainly for
-decoration.
+<c 01>Vaso de Plantas
+<c 00>Amy te pediu
+pra entregar
+isso pra ela,
+no Acampamento
+dos Caçadores4.
+É sobretudo para
+decoração.
 <*********************>
 
 
-<c 01>Potted Plant
-<c 00>Amy in Hunter's
-Camp4 asked you
-to bring this
-back to her. It
-looks a little
-withered.
+<c 01>Vaso de Plantas
+<c 00>Amy te pediu
+pra entregar
+isso pra ela,
+no Acampamento
+dos Caçadores4.
+Parece um pouco
+murcha.
 <*********************>
 
 
-<c 01>Potted Plant
-<c 00>Amy in Hunter's
-Camp4 asked you
-to bring this
-back to her.
-can cactuses
-understand
-people!?
+<c 01>Vaso de Plantas
+<c 00>Amy te pediu
+pra entregar
+isso pra ela,
+no Acampamento
+dos Caçadores4.
+Cactos entendem
+pessoas!?
 <*********************>
 
 
-<c 01>Potted Plant
-<c 00>Amy in Hunter's
-Camp4 asked you
-to bring this
-back to her.
-wait, it's not
-even real!
+<c 01>Vaso de Plantas
+<c 00>Amy te pediu
+pra entregar
+isso pra ela,
+no Acampamento
+dos Caçadores4.
+Peraí, não é de
+verdade!
 <*********************>
 
 
-<c 01>Potted Plant
-<c 00>Amy in Hunter's
-Camp4 asked you
-to bring this
-back to her. It
-looks like it
-belongs in the
-tropics.
+<c 01>Vaso de Plantas
+<c 00>Amy te pediu
+pra entregar
+isso pra ela,
+no Acampamento
+dos Caçadores4.
+Parece ser
+tropical.
 <*********************>
 
 
-<c 01>Potted Plant
-<c 00>Amy in Hunter's
-Camp4 asked you
-to bring this
-back to her.
-A Mechaniloid
-that looks like
-a plant.
+<c 01>Vaso de Plantas
+<c 00>Amy te pediu
+pra entregar
+isso pra ela,
+no Acampamento
+dos Caçadores4.
+Um Mecanilóide
+planta, parece.
 <*********************>
 
 
-<c 01>Mysterious
-Bucket
-<c 00>This device can
-somehow change
-seawater and
-muddy water
-into pure
-water.
+<c 01>Balde
+Misterioso
+<c 00>Esse aparelho
+consegue, de
+alguma forma,
+filtrar águas
+barrentas e
+oceânicas.
 <*********************>
 
 
-<c 01>Water-filled
-Bucket
-<c 00>It's probably
-good to pour
-this filtered
-water on
-dehydrated
-plants.
+<c 01>Balde cheio de
+água
+<c 00>Talvez seja uma
+boa ideia usar
+essa água fil-
+trada pra regar
+plantas desi-
+dratadas.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Given to you by
-Romeo in
-Hunter's Camp4.
-Obj.: Find
-Hunter's who
-were headed for
-Control Center.
+<c 01>Pedido
+<c 00>Entregue pelo
+Romeo no Acamp.
+Caçadores4.
+Obj.: Achar os
+Caçadores que
+iam pro Centro
+de Controle.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Given to you by
-Sharon in
-Hunter's Camp3.
-Obj.: Buy
-some books to
-put in the big
-room.
+<c 01>Pedido
+<c 00>Entregue pela
+Sharon no
+A. Caçadores3.
+Obj.: Comprar
+alguns livros
+para colocar no
+salão.
 <*********************>
 
 
-<c 01>Comic (Green)
-<c 00>A story about
-soccer, where a
-unique group of
-robots trade
-their weapons
-for balls, and
-go at it.
+<c 01>HQ (Verde)
+<c 00>Uma história
+sobre futebol,
+onde um único
+grupo de robôs
+troca sua armas
+por bolas, e vão
+jogar.
 <*********************>
 
 
-<c 01>Comic (Blue)
-<c 00>A delightful
-comedy about a
-metallic hero
-who stirs up a
-storm of
-electronic
-communication.
+<c 01>HQ (Azul)
+<c 00>Uma deliciosa
+comédia sobre
+um herói metá-
+lico que gera
+uma tempestade
+de comunicação
+eletrônica.
 <*********************>
 
 
-<c 01>Comic (Orange)
-<c 00>An action comic
-about 2 talking
-wrist watches
-who team up for
-the greatest
-adventure in
-history.
+<c 01>HQ (Laraja)
+<c 00>Um gibi de ação
+sobre dois
+relógios de
+pulso que se
+juntam para a
+maior aventura
+da história.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Jarke in
-Hunter's Camp2.
-Obj.: Get
-someone to give
-you a model
-train.
+<c 01>Pedido
+<c 00>Entregue pelo
+Jarke no Acamp.
+Caçadores2.
+Obj.: Pedir a
+alguém pra te
+dar um trem de
+brinquedo.
 <*********************>
 
 
-<c 01>Pudding
-<c 00>This yummy-
-looking pudding
-found in the
-fridge is Owl
-in Hunter's
-Camp3's
-favorite.
+<c 01>Pudim
+<c 00>Esse delicioso
+pudim achado
+na geladeira é
+o favorito do
+Coruja, do
+Acampamento de
+Caçadores3.
 <*********************>
 
 
-<c 01>Model Train
-<c 00>Jarke has been
-looking for
-this rare model
-train called
-the Brainy
-Express for a
-long time.
+<c 01>Trem de
+Brinquedo
+<c 00>Jarke estava à
+procura desse
+trem raro
+chamado Brainy
+Express há
+muito tempo.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>From Carley in
-Hunter's Camp4.
-Obj.: Set
-a transmitter
-at Mechaniloid
-remains in Oil
-Fields.
+<c 01>Pedido
+<c 00>Da Carley, no
+A. Caçadores4.
+Obj.: Pôr um
+transmissor nos
+restos do Meca-
+nilóide, no C.
+de Petróleo.
 <*********************>
 
 
 <c 01>Micro
-Transmitter
-<c 00>To place at the
-site in the Oil
-Fields where
-the Mechaniloid
-remains were
-found.
+Transmissor
+<c 00>Para pôr no
+local do Campo
+de Petróleo
+onde os restos
+do Mecanilóide
+foram achados.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Given to you by
-Nick in
-Hunter's Camp4.
-Obj.: Find
-blueprints
-blown away by
-the wind. 
+<c 01>Pedido
+<c 00>Entregue pelo
+Nick, no Acamp.
+Caçadores4.
+Obj.: Achar
+os diagramas
+levados pelo
+vento. 
 <*********************>
 
 
-<c 01>Blueprints
-<c 00>Nick in
-Hunter's Camp4
-needs these
-blueprints for
-his café. Too
-bad he lost
-them...
+<c 01>Diagramas
+<c 00>Nick precisa
+desses diagra-
+mas para sua
+cafeteria, no
+Acampamento de
+Caçadores4. Mas
+ele os perdeu.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Anna in
-Hunter's Camp1.
-Obj.:
-Catch the
-little bird.
+<c 01>Pedido
+<c 00>Entregue pela
+Anna no
+Acampamento de
+Caçadores1.
+Obj.: Pegar o
+passarinho.
 <*********************>
 
 
-<c 01>Nightingale
-<c 00>Captured at
-Anna's request,
-this cute
-little bird
-isn't quite
-domesticated.
+<c 01>Rouxinol
+<c 00>Capturado a
+pedido de Anna.
+Esse lindo
+passarinho não
+foi domesticado
+muito bem.
 <*********************>
 
 
-<c 01>Pin        <c 00>   
-Gotten in
-exchange for
-the M.request
-Chris gave you.
-Obj. was
-to find some
-Hero goods.
+<c 01>Alfinete
+<c 00>Obtido em troca
+do Pedido que
+Chris te deu.
+Obj.: Encontrar
+alguns bens de
+Heróis.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Given to you by
-Tillis in the
-Legion bound
-station.
-Obj.: Put
-out the fire at
-the Legion.
+<c 01>Pedido
+<c 00>Entregue pela
+Tillis na
+Estação da
+Legião.
+Obj.: Apagar o
+incêndio na
+Legião.
 <*********************>
 
 
-<c 01>Birdcage
-<c 00>Given to you
-by Pierre in
-Hunter's Camp1.
-It was to catch
-the flying
-Mini-Cam.
+<c 01>Gaiola
+<c 00>Entregue pelo
+Pierre no
+Acampamento de
+Caçadores1. Era
+para pegar a
+Mini-Câmera
+voadora.
 <*********************>
 
 
-<c 01>Bird in Cage
-<c 00>Pierre in
-Hunter's Camp1
-is waiting for
-you to give him
-this cage with
-the flying
-Mini-Cam in it.
+<c 01>Pássaro na
+Gaiola
+<c 00>Pierre no A.
+de Caçadores1
+espera receber
+essa gaiola com
+a Mini-Câmera
+voadora dentro.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Jim in
-Hunter's Camp1.
-Obj.: Find
-a certain fruit
-at the Tower of
-Verdure.
+<c 01>Pedido
+<c 00>Entregue pelo
+Jim no Acamp.
+Caçadores1.
+Obj.: Encontrar
+uma determinada
+fruta na Torre
+do Verdor.
 <*********************>
 
 
-<c 01>Green Apple
-<c 00>This rare apple
-only grows at
-the Tower of
-Verdure. People
-say that it
-tastes like
-young love.
+<c 01>Maçã Verde
+<c 00>Essa rara maçã
+só cresce na
+Torre do
+Verdor. Dizem
+que ela tem
+gosto de amor
+juvenil.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Given to you by
-Blossom in
-Hunter's Camp3.
-Obj.: Find
-a Lily for
-Blossom's mom.
+<c 01>Pedido
+<c 00>Entregue pela
+Blossom no
+Acampamento de
+Caçadores3.
+Obj.: Encontrar
+um Lírio para a
+mãe de Blossom.
 <*********************>
 
 
-<c 01>White Lily
-<c 00>Blossom in
-Hunter's Camp3
-asked you to
-pick it. It has
-such an
-invigorating
-scent.
+<c 01>Lírio-Branco
+<c 00>Blossom no
+Acampamento
+Caçadores3 te
+pediu para
+pegá-lo. Tem
+um cheiro bem
+revigorante.
 <*********************>
 
 
-<c 01>Yellow Lily
-<c 00>Blossom in
-Hunter's Camp3
-asked you to
-pick it. It has
-a very
-dignified
-scent.
+<c 01>Lírio-Amarelo
+<c 00>Blossom no
+Acampamento de
+Caçadores3 te
+pediu para
+pegá-lo. Tem um
+aroma muito
+digno.
 <*********************>
 
 
-<c 01>Pink Lily
-<c 00>Blossom in
-Hunter's Camp3
-asked you to
-pick it. It
-doesn't quiet
-smell as good
-as it looks.
+<c 01>Lírio-Rosa
+<c 00>Blossom no
+Acampamento de
+Caçadores3 te
+pediu para
+pegá-lo. Não é
+tão cheiroso
+quanto parece.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Doug.
-Obj.: Defeat 
-Buckfire at
-Train2.
+<c 01>Pedido
+<c 00>Entregue pelo
+Doug.
+Obj.: Derrotar
+Buckfire no
+Trem2.
 <*********************>
 
 
-<c 01>Mission Request
-(Signed)
-<c 00>Proof that you
-beat Buckfire.
-Take it to Ward
-in H. Camp1 for
-your bounty.
+<c 01>Pedido
+(Assinado)
+<c 00>Prova da derro-
+ta de Buckfire.
+Leve-a ao Ward
+no A.Caçadores1
+para receber
+sua recompensa.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Given to you by
-Chuck. Obj.:
-Defeat 
-Chronoforce at
-Arctic Ice
-Floe4.
+<c 01>Pedido
+<c 00>Entregue pelo
+Chuck.
+Obj.: Derrotar 
+Chronoforce na
+Banquisa
+Ártica4.
 <*********************>
 
 
-<c 01>Mission Request
-(Signed)<c 00> Proof
-that you beat
+<c 01>Pedido
+(Assinado)
+<c 00>Prova que
+derrotou
 Chronoforce.
-Take this to
-Ward in H. Camp
-1 to collect
-your bounty.
+Leve-a ao Ward
+no A.Caçadores1
+por recompensa.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Given to you by
-Roger. Obj.:
-Defeat  Rospark
-at Tower of
-Verdure4.
+<c 01>Pedido
+<c 00>Entregue pelo
+Roger.
+Obj.: Derrotar
+Rospark na
+Torre do
+Verdor4.
 <*********************>
 
 
-<c 01>Mission Request
-(Signed)<c 00> Proof
-that you beat
-Rospark. Take
-it to Ward in
-H. Camp1 to
-collect your
-bounty.
+<c 01>Pedido
+(Assinado)
+<c 00>Prova da derro-
+ta de Rospark.
+Leve-a ao Ward
+no A.Caçadores1
+para receber
+sua recompensa.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Kirk.
-Obj.: Defeat
-Queenbee at the
-Control
-Center4.
+<c 01>Pedido
+<c 00>Entregue pelo
+Kirk.
+Obj.: Derrotar
+Queenbee no
+Centro de
+Controle4.
 <*********************>
 
 
-<c 01>Mission Request
-(Signed)<c 00> Proof
-that you beat
-Queenbee. Take
-it to Ward in
-H. Camp1 to
-collect your
-bounty.
+<c 01>Pedido
+(Assinado)
+<c 00>Prova da derro-
+ta de Queenbee.
+Leve-a ao Ward
+no A.Caçadores1
+para receber
+sua recompensa.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Kyrian.
-Obj.: Defeat 
-Vulturon at
-Scrapyard4.
+<c 01>Pedido
+<c 00>Entregue pelo
+Kyrian.
+Obj.: Derrotar
+Vulturon no
+Ferro-Velho4.
 <*********************>
 
 
-<c 01>Mission Request
-(Signed)<c 00> Proof
-that you beat
-Vulturon. Take
-it to Ward in
-H. Camp1 to
-collect your
-bounty.
+<c 01>Pedido
+(Assinado)
+<c 00>Prova da derro-
+ta de Vulturon.
+Leve-a ao Ward
+no A.Caçadores1
+para receber
+sua recompensa.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Tim.
-Obj.: Defeat 
-Hedgeshock at
-Mysterious
-Lab4.
+<c 01>Pedido
+<c 00>Entregue pelo
+Tim.
+Obj.: Derrotar
+Hedgeshock no
+Laboratório
+Misterioso4.
 <*********************>
 
 
-<c 01>Mission Request
-(Signed)<c 00> Proof
-that you beat
+<c 01>Pedido
+(Assinado)
+<c 00>Prova que
+derrotou
 Hedgeshock.
-Take it to Ward
-in H. Camp1 to
-collect your
-bounty.
+Leve-a ao Ward
+no A.Caçadores1
+por recompensa.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Abe.
-Obj.: Defeat
+<c 01>Pedido
+<c 00>Entregue pelo
+Abe.
+Obj.: Derrotar
 Argoyle/Ugoyle
-at Waterfall
-Ruins1.
+nas Ruínas da
+Cascata1.
 <*********************>
 
 
-<c 01>Mission Request
-(Signed) <c 00>Proof
-that you beat
+<c 01>Pedido
+(Assinado)
+<c 00>Prova que
+derrotou
 Argoyle/Ugoyle.
-Take it to Ward
-in H. Camp1
-to collect
-your bounty.
+Leve-a ao Ward
+no A.Caçadores1
+por recompensa.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Was given to
-you by Ben.
-Obj.: Defeat
-Bifrost at Bio
-Lab3.
+<c 01>Pedido
+<c 00>Entregue pelo
+Ben.
+Obj.: Derrotar
+Bifrost no Lab.
+Biológico3.
 <*********************>
 
 
-<c 01>Mission Request
-(Signed)<c 00> Proof
-that you beat
-Bifrost. Take
-it to Ward in
-H. Camp1 to
-collect your
-bounty.
+<c 01>Pedido
+(Assinado)
+<c 00>Prova da derro-
+ta de Bifrost.
+Leve-a ao Ward
+no A.Caçadores1
+para receber
+sua recompensa.
 <*********************>
 
 
-<c 01>Mission Request
-<c 00>Given to you by
-Elena in H.
-Camp1. Obj.:
-Retrieve the
-stolen pendant
-in Bio Lab4.
+<c 01>Pedido
+<c 00>Entregue pela
+Elena no Acamp.
+Caçadores1.
+Obj.: Recuperar
+o pingente rou-
+bado no Lab.
+Biológico4.
 <*********************>
 
 
-<c 01>Pendant
-<c 00>This precious
-item belongs to
-Elena in
-Hunter's Camp1.
+<c 01>Pingente
+<c 00>Esse precioso
+item pertence
+a Elena no
+Acampamento de
+Caçadores1.
 <*********************>
 
 
-<c 01>Engine
-<c 00>This is just
-one kind of
-junk that can
-be recycled by
-James in
-Scrapyard2.
+<c 01>Motor
+<c 00>É só um tipo
+de lixo que
+pode ser
+reciclado por
+James, no
+Ferro-Velho2.
 <*********************>
 
 
-<c 01>Ignition
-<c 00>This is just
-one kind of
-junk that can
-be recycled by
-James in
-Scrapyard2.
+<c 01>Ignição
+<c 00>É só um tipo
+de lixo que
+pode ser
+reciclado por
+James, no
+Ferro-Velho2.
 <*********************>
 
 
-<c 01>Titanium Alloy
-<c 00>This is just
-one kind of
-junk that can
-be recycled by
-James in
-Scrapyard2.
+<c 01>Liga de Titânio
+<c 00>É só um tipo
+de lixo que
+pode ser
+reciclado por
+James, no
+Ferro-Velho2.
 <*********************>
 
 
-<c 01>Booster
-<c 00>It's some kind
-of tuning part.
-Using it can
-increase your
-speed.
+<c 01>Impulsionador
+<c 00>É um tipo de
+peça de aprimo-
+ramento. Usá-la
+poderá aumentar
+sua velocidade.
 <*********************>
 
 
-<c 01>Wish Card    <c 00>  
-Found in a room
-of Oil Field3.
-With it, people
-seem compelled
-to tell you
-their desires.
+<c 01>Cartão de
+Desejo
+<c 00>Achado numa
+sala do Campo
+de Petróleo3.
+Faz com que
+pessoas digam
+seus desejos.
 <*********************>
 
 
-<c 01>Mystery Present
-<c 00>Found in
-a room of
-Oil Field3. It
-looks like a
-present a young
-child would
-enjoy.
-<--------------------->
-
-
+<c 01>Presente
+Misterioso
+<c 00>Achado numa
+sala do Campo
+de Petróleo3.
+Parece fazer
+o tipo das
+crianças.
 <*********************>
 
 
-Usable items.
-None in possession.
+Itens utilizáveis
+Nenhum em posse
 <*********************>
 
 
-Usable items
-<btn_a>Button:OK <btn_b>Button:Cancel
+Itens utilizáveis
+<btn_a>:OK <btn_b>:Cancelar
 <*********************>
 
 
-No need to use this now.
+Não precisa usar isso agora
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select
-<btn_a>Button:OK <btn_b>Button:Cancel
+<dpad> <esquerda>/<direita>: Selecionar
+<btn_a>: OK <btn_b>: Cancelar
 <*********************>
 
 
-Equippable items.
-None in possession.
+Itens equipáveis
+Nenhum em posse
 <*********************>
 
 
-Equippable items
-<btn_a>Button:OK <btn_b>Button:Cancel
+Itens equipáveis
+<btn_a>:OK <btn_b>: Cancelar
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select
-<btn_a>Button:Equip
+<dpad> <esquerda>/<direita>: Selecionar
+<btn_a>: Equipar
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select
-<btn_a>Button:Unequip
+<dpad> <esquerda>/<direita>: Selecionar
+<btn_a>: Desequipar
 <*********************>
 
 
-Auto-use items.
-None in possession.
+Itens auto-utilizáveis
+Nenhum em posse
 <*********************>
 
 
-Auto-use items.
+Itens auto-utilizáveis
 <*********************>
-
 
-<dpad>Control Pad <esquerda>/<direita>:Select
-<btn_b>Button:Back
-<--------------------->
 
-
+<dpad> <esquerda>/<direita>: Selecionar
+<btn_b>: Voltar
 <*********************>
 
 
-Choose the model.
+Escolha o modelo.
 <*********************>
 
 
-Not A-Transable now.
+Não pode usar A-Trans agora.
 <*********************>
 
 
-Cannot secure the space for
-A-Trans.
+Não é possível confirmar o
+espaço para A-Trans.
 <*********************>
 
 
-A-Transable.
+Usar A-Trans.
 <*********************>
 
 
+<00>
+<*********************>
 
 
+<00>
+<*********************>
 
 
+<00>
+<*********************>
 
 
-You can switch main and
-sub attack.
+<00>
 <*********************>
 
 
+<00>
+<*********************>
 
 
-You can store extra Life
-Energy you've picked up.
+<00>
 <*********************>
-
 
 
 
-There is no need to
-used Sub Tank.
+Alternar entre a arma
+principal e secundária
 <*********************>
 
 
-Sub Tank is empty. You
-cannot use it.
+<00>
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>1
+<00>
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>2
-<*********************>
-
 
-Recover energy
-Energy Remaining:<c 01>3
+Permite armazenar cápsulas
+de vida para uso posterior
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>4
+<00>
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>5
+<00>
 <*********************>
 
-
-Recover energy
-Energy Remaining:<c 01>6
-<*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>7
+Sub-tanque vazio
+Não pode usar
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>8
+Vida no máximo, não precisa
+usar um sub-tanque agora
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>9
+Recupera energia
+Restante:<c 01>1
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>10
+Recupera energia
+Restante:<c 01>2
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>11
+Recupera energia
+Restante:<c 01>3
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>12
+Recupera energia
+Restante:<c 01>4
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>13
+Recupera energia
+Restante:<c 01>5
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>14
+Recupera energia
+Restante:<c 01>6
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>15
+Recupera energia
+Restante:<c 01>7
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>16
+Recupera energia
+Restante:<c 01>8
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>17
+Recupera energia
+Restante:<c 01>9
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>18
+Recupera energia
+Restante:<c 01>10
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>19
+Recupera energia
+Restante:<c 01>11
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>20
+Recupera energia
+Restante:<c 01>12
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>21
+Recupera energia
+Restante:<c 01>13
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>22
+Recupera energia
+Restante:<c 01>14
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>23
+Recupera energia
+Restante:<c 01>15
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>24
+Recupera energia
+Restante:<c 01>16
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>25
+Recupera energia
+Restante:<c 01>17
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>26
+Recupera energia
+Restante:<c 01>18
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>27
+Recupera energia
+Restante:<c 01>19
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>28
+Recupera energia
+Restante:<c 01>20
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>29
+Recupera energia
+Restante:<c 01>21
 <*********************>
 
 
-Recover energy
-Energy Remaining:<c 01>30
+Recupera energia
+Restante:<c 01>22
 <*********************>
 
 
-SELECT:Buster Editor
-Edit using the bottom screen.
+Recupera energia
+Restante:<c 01>23
 <*********************>
 
 
-Align the squares so that the
-buster path is connected.
-<--------------------->
-
-
+Recupera energia
+Restante:<c 01>24
 <*********************>
 
 
-Change button layout
-<dpad>Control Pad <esquerda>/<direita>:Select
+Recupera energia
+Restante:<c 01>25
 <*********************>
 
 
-Change offensive mode
-<dpad>Control Pad <esquerda>/<direita>:Select
+Recupera energia
+Restante:<c 01>26
 <*********************>
 
 
-Change action mode
-<dpad>Control Pad <esquerda>/<direita>:Select
+Recupera energia
+Restante:<c 01>27
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Type
+Recupera energia
+Restante:<c 01>28
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Type
-<dpad>Control Pad <cima>/<baixo>:Button
+Recupera energia
+Restante:<c 01>29
 <*********************>
-
 
-<dpad>Control Pad <cima>/<baixo>:Category
-<dpad>Control Pad <esquerda>/<direita>:Type
-<--------------------->
 
-
+Recupera energia
+Restante:<c 01>30
 <*********************>
 
 
-Press <dpad>Control Pad <baixo>.
+SELECT: Editor do Canhão
+Edite usando a tela inferior
 <*********************>
 
 
-On water, press <dpad>Control Pad
-<direita> or <esquerda>.
+Alinhe os quadrados para
+conectar o caminho do canhão
 <*********************>
-
 
-Press <nome>.
-<--------------------->
 
-
+Mudar configuração de botões
+<dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
 
-Hold <nome> w/ BM gauge
-full until sight opens up. 
+Mudar modo de ataque
+<dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
 
-Press <nome>.
+Mudar modo de ação
+<dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
 
-Hold <nome>
-(Short) and then release.
+<dpad> <esquerda>/<direita>: Mudar tipo
 <*********************>
 
 
-Hold <nome>
-(Long) and then release.
+<dpad> <esquerda>/<direita>: Mudar tipo
+<dpad> <cima>/<baixo>: Mudar botões
 <*********************>
 
 
-Hold <nome> and release
-when you see the makers.
+<dpad> <cima>/<baixo>: Mudar categoria
+<dpad> <esquerda>/<direita>: Mudar tipo
 <*********************>
 
 
-Press <nome>.
+Pressione <dpad> <baixo>.
 <*********************>
 
 
-Hold <nome>
-(Short) and then release.
+Na água, pressione <dpad>
+<direita> ou <esquerda>.
 <*********************>
 
 
-Hold <nome>
-(Long) and then release.
+Pressione <nome>.
 <*********************>
 
 
-Hold <nome> and release
-when you see the makers.
-<--------------------->
+Segure <nome> com o medidor
+de BM cheio até a mira abrir.
+<*********************>
 
 
+Pressione <nome>.
 <*********************>
 
 
-Press <nome>. (press
-repeatedly for triple attack)
+Segure <nome>
+(Rápido) e depois solte.
 <*********************>
 
 
-In air, press <nome>
-cont. or w/ <dpad>Control Pad <cima>.
+Segure <nome>
+(Lento) e depois solte.
 <*********************>
 
 
-Press <nome> &
-<dpad>Control Pad <baixo> in the air.
+Segure <nome> e solte quando
+você ver os decisores.
 <*********************>
 
 
-Hold <nome> and
-then release.
+Pressione <nome>.
 <*********************>
 
 
-Press <nome>.
+Segure <nome>
+(Curto) e depois solte.
 <*********************>
 
 
-Hold <nome>
-(Short) and then release.
+Segure <nome>
+(Longo) e depois solte.
 <*********************>
 
 
-Hold <nome>
-(Long) and then release.
+Segure <nome> e solte quando
+você ver os marcadores.
 <*********************>
 
 
-Press <dpad>Control Pad <baixo> &
-<nome> in the air.
+Aperte <nome>. (aperte várias
+vezes para um triplo ataque)
 <*********************>
 
 
-Press <dpad>Control Pad <cima> &
-<nome> on ground.
-<--------------------->
+No ar, pressione <nome>
+cont. ou com o <dpad> <cima>.
+<*********************>
 
 
+Pressione <nome> e
+<dpad> <baixo> no ar.
 <*********************>
 
 
-In the air, press
-<nome>.
+Segure <nome> e depois solte.
 <*********************>
 
 
-Press <dpad>Control Pad <cima> &
-<nome> in the air.
+Pressione <nome>.
 <*********************>
 
 
-Press <nome> in the
-air. (Type B, Press and hold)
+Segure <nome>
+(Curto) e depois solte.
 <*********************>
 
 
-Press <nome>.
+Segure <nome>
+(Longo) e depois solte
 <*********************>
 
 
-Press <nome>.
+Pressione <dpad> <baixo> e
+<nome> no ar.
 <*********************>
 
 
-Do Slice, Slash, Slice in
-that order.
+Pressione <dpad> <cima> e
+<nome> no chão.
 <*********************>
 
 
-Hold <nome> and
-then release.
+No ar, pressione <nome>.
 <*********************>
 
 
-Hold <nome> and
-then release.
-<--------------------->
+Pressione <dpad> <cima> e
+<nome> no ar.
+<*********************>
 
 
+Pressione <nome> no ar.
+(Aperte B, Aperte e segure)
 <*********************>
 
 
-Press <nome>.
+Pressione <nome>.
 <*********************>
 
 
-Hold <nome>
-(Short/Long) and then release.
+Pressione <nome>.
 <*********************>
 
 
-Hold <nome> (Long),
-release while <dpad>Control Pad <baixo>.
+Fatiar, Cortar, Fatiar nessa
+ordem.
 <*********************>
 
 
-Hold <nome>
-(Short/Long) and then release.
+Segure <nome> e depois solte.
 <*********************>
 
 
-Hold <nome> (Long),
-release while <dpad>Control Pad <baixo>.
-<--------------------->
+Segure <nome> e depois solte.
+<*********************>
 
 
+Pressione <nome>.
 <*********************>
 
 
-Press <nome> under
-water.
+Segure <nome>
+(Curto/Longo) e depois solte.
 <*********************>
 
 
-Press <nome> under
-water.
+Segure <nome> (Lento),
+enquanto solta <dpad> <baixo>.
 <*********************>
 
 
-Swim, leaving the
-<dpad>Control Pad in neutral.
+Segure <nome>
+(Curto/Longo) e depois solte.
 <*********************>
 
 
-Press <nome> while on
-the ground or jumping.
+Segure <nome> (Lento),
+enquanto solta <dpad> <baixo>.
 <*********************>
 
 
-Press <nome> while
-swimming or standing still.
+Pressione <nome> debaixo
+d'água.
 <*********************>
 
 
-Hold <nome> and
-then release.
+Pressione <nome> debaixo
+d'água.
 <*********************>
 
 
-Hold <nome> and
-then release.
-<--------------------->
+Nade, deixando o <dpad> em
+posição neutra.
+<*********************>
 
 
+Pressione <nome> enquanto
+estiver no chão ou ar.
 <*********************>
 
 
-Face the ceiling and press
-<dpad>Control Pad <cima>.
+Pressione <nome> ao nadar
+ou ficar parado.
 <*********************>
 
 
-While hanging, press quickly
-press <dpad>Control Pad <cima>2X.
+Segure <nome> e depois solte.
 <*********************>
 
 
-While standing, press quickly
-press <dpad>Control Pad <baixo>2X.
+Segure <nome> e depois solte.
 <*********************>
 
 
-Press <nome>.
+Encare o teto e pressione
+<dpad> <cima>.
 <*********************>
 
 
-Hold <nome> and
-then release.
+Estando pendurado, pressione
+rapidamente <dpad> <cima> 2X.
 <*********************>
 
 
-Hold <nome> and
-then release.
-<--------------------->
+Estando parado, pressione
+rapidamente <dpad> <baixo> 2X.
+<*********************>
 
 
+Pressione <nome>.
 <*********************>
 
 
-Press <nome>.
+Segure <nome> e depois solte.
 <*********************>
 
 
-Press <nome> in mid air
-while touching a wall.
+Segure <nome> e depois solte.
 <*********************>
 
 
-Press <nome>.
+Pressione <nome>.
 <*********************>
 
 
-Standing, hold <nome>
-and then release.
+Pressione <nome> no ar ao
+tocar uma parede.
 <*********************>
 
 
-Standing, hold <nome>, press
-<dpad>Control Pad <cima>, release.
+Pressione <nome>.
 <*********************>
 
 
-Hold <nome> and
-then release in the air.
-<--------------------->
+Parado, segure <nome> e
+depois solte.
+<*********************>
 
 
+Parado, segure <nome>, aperte
+<dpad> <cima>, depois solte.
 <*********************>
 
 
-Press <dpad>Control Pad <cima>, <baixo>,
-<direita>, or <esquerda> under water.
+Segure <nome> e depois solte
+no ar.
 <*********************>
 
 
-Press <nome> under
-water.
+Pressione <dpad> <cima>, <baixo>,
+<direita>, ou <esquerda> debaixo d'água.
 <*********************>
 
 
-Press <nome> under
-water.
+Pressione <nome> debaixo
+d'água.
 <*********************>
 
 
-Hold <nome> and
-then release.
-<--------------------->
+Pressione <nome> debaixo
+d'água.
+<*********************>
 
 
+Segure <nome> e depois solte.
 <*********************>
 
 
-Press <cima> on <dpad>Control Pad near
-vines and poles. (bulb)
+Pressione <cima> no <dpad> perto de
+videiras e postes. (bulbo)
 <*********************>
 
 
-On the ground, press
-<nome>. (bulb)
+No chão, pressione
+<nome>. (bulbo)
 <*********************>
 
 
-Hold <nome>, on the
-ground, then release. (bulb) 
+Segure <nome>, no chão, e
+depois solte. (bulbo) 
 <*********************>
 
 
-On the ground, press
-<nome>. (bulb)
+No chão, pressione
+<nome>. (bulbo)
 <*********************>
 
 
-Hold <nome>, on the
-ground, then release. (bulb) 
+Segure <nome>, no chão,
+depois solte. (bulbo) 
 <*********************>
 
 
-Grab on to a vine or a pole,
-press <dpad>Control Pad <cima>/<baixo>.
+Agarre-se em uma videira ou
+poste, pressione <dpad> <cima>/<baixo>.
 <*********************>
 
 
-Press <nome> on vine
+Pressione <nome> na videira
 etc.
 <*********************>
 
 
-Hold <nome> on vine
-etc., then release.
+Segure <nome> na videira
+etc., depois solte.
 <*********************>
 
 
-Press <nome> &
-<dpad>Control Pad <esquerda>/<direita> on vine etc.
+Pressione <nome> e
+<dpad> <esquerda>/<direita> na videira etc.
 <*********************>
 
 
-Press <nome> on vine
+Pressione <nome> na videira
 etc.
 <*********************>
 
 
-Hold <nome> on vine
-etc., then release.
-<--------------------->
-
-
+Segure <nome> na videira
+etc., depois solte.
 <*********************>
 
 
-Press <nome>.
+Pressione <nome>.
 <*********************>
 
 
-<nome> <dpad>Control Pad
-<cima>/<baixo> to change throw direction.
+<nome> <dpad> <cima>/<baixo> para
+mudar direção do arremesso.
 <*********************>
 
 
-Hold <nome> and
-then release.
+Segure <nome> e depois
+solte.
 <*********************>
 
 
-Press <nome>
-(As Ugoyle).
+Pressione <nome>
+(Como Ugoyle).
 <*********************>
 
 
-Perform a U-Kick on an
-Ar-Thrown Rock Bomb.
-<--------------------->
-
-
+Execute um Chute Ugoyle numa
+Bomba de Pedra do Argoyle.
 <*********************>
 
 
-Hold <dpad>Control Pad <baixo> and
-press <nome>.
+Segure <dpad> <baixo> e
+pressione <nome>.
 <*********************>
 
 
-Press <nome>.
+Pressione <nome>.
 <*********************>
 
 
-Press <nome>.
+Pressione <nome>.
 <*********************>
 
 
-Hold <nome>
-standing, and then release.
+Segure <nome> parado,
+e depois solte.
 <*********************>
 
 
-Hold <nome> and
-then release in the air.
+Segure <nome> e depois solte
+no ar.
 <*********************>
 
 
-Hold <nome> on a
-ladder, and then release.
-<--------------------->
-
-
+Segure <nome> na escada,
+e depois solte.
 <*********************>
 
 
-Press <nome>.
-(depletes BM gauge)
+Pressione <nome>.
+(esgota o medidor de BM)
 <*********************>
 
 
-Hold <dpad>Control Pad <baixo> over a
-dockable object.
+Segure <dpad> <baixo> sobre um
+objeto acoplável.
 <*********************>
 
 
-While docking, hold
-<dpad>Control Pad <cima>.
+Quando encaixar, segure
+<dpad> <cima>.
 <*********************>
 
 
-Press <nome>.
+Pressione <nome>.
 <*********************>
 
 
-Hold <nome> and
-then release.
-<--------------------->
-
-
+Segure <nome> e depois
+solte.
 <*********************>
 
 
-While in the air, hold
-<dpad>Control Pad towards wall.
+Quando estiver no ar, segure
+<dpad> em direção à parede.
 <*********************>
 
 
-Press <nome> in
-mid-air. Reduces BM gauge.
+Pressione <nome> no ar.
+Reduz o medidor de BM.
 <*********************>
 
 
-Press <nome>.
+Pressione <nome>.
 <*********************>
 
 
-Hold <nome>
-and then release.
-<--------------------->
-
-
+Segure <nome> e depois
+solte.
 <*********************>
 
 
-Hold <nome>.
+Segure <nome>.
 <*********************>
 
 
-Press and release
-<nome>.
+Pressione e solte <nome>.
 <*********************>
 
 
-Press <nome>.
-<--------------------->
-
-
+Pressione <nome>.
 <*********************>
 
 
-Press <nome>.
+Pressione <nome>.
 <*********************>
 
 
-Press <nome>.
-<--------------------->
-
-
+Pressione <nome>.
 <*********************>
 
 
-You can customize the
-A-Trans icon layout of
-the Transformation
-Screen. Touch the icon
-you wish to move and its
-destination.
+Você pode personalizar o
+layout de ícones de A-Trans
+da Tela de Transformação.
+Toque no ícone que deseja
+mover e seu destino.
 <*********************>
 
 
-Use the bottom screen to
-edit.
+Use a Tela Inferior para
+editar.
 <*********************>
 
 
-Customize your A-Trans icons.
-<btn_a>Button:Begin
+Personalize ícones A-Trans.
+<btn_a>: Iniciar
 <*********************>
 
 
-Customize your A-Trans icons.
-<btn_a>Button:Finish
-<--------------------->
-
-
+Personalize ícones A-Trans.
+<btn_a>: Concluir
 <*********************>
 
 
@@ -2002,19 +1977,19 @@ Customize your A-Trans icons.
 <*********************>
 
 
-<E6><E7>
+<btn_x>
 <*********************>
 
 
-<E8><E9>
+<btn_y>
 <*********************>
 
 
-<EA><EB>
+<btn_l>
 <*********************>
 
 
-<EC><ED>
+<btn_r>
 <*********************>
 
 
@@ -2022,521 +1997,504 @@ Customize your A-Trans icons.
 <*********************>
 
 
-Button
-<--------------------->
-
-
+Botão
 <*********************>
 
 
-Escape From The Lab
+Fuja do Laboratório
 <*********************>
 
 
-Track Down The Airship
+Localize o Dirigível
 <*********************>
 
 
-Transport Container
+Transporte o Contêiner
 <*********************>
 
 
-Crash Site (Ice Floe)
+ÁreaDaColisão(Banquisa)
 <*********************>
 
 
-Crash Site (Tower)
+Área da Colisão (Torre)
 <*********************>
 
 
-Crash Site (Oil Field)
+ÁreaDaColi.(C.Petróleo)
 <*********************>
 
 
-Deliver The Biometal
+Entregue o Biometal
 <*********************>
 
 
-Model W (Center)
+Modelo W (Centro)
 <*********************>
 
 
-Model W (Highway)
+Modelo W (Rodovia)
 <*********************>
 
 
-Model W (F.Ruins)
+Modelo W (RuínasAéreas)
 <*********************>
 
 
-Model W (Scrapyard)
+Modelo W (Ferro-Velho)
 <*********************>
 
 
-Retrieve Model W
+Recupere Modelo W
 <*********************>
 
 
-Get Albert (Waterfall)
+Pegue Albert(R.Cascata)
 <*********************>
 
 
-Get Albert (Lab)
+Pegue Albert (Lab.)
 <*********************>
 
 
-Get Albert (Bio Lab)
+Pegue Albert (Lab. Bio)
 <*********************>
 
 
-To Albert's Hideout
+Ao Covil do Albert
 <*********************>
 
 
-To The Ouroboros
-<--------------------->
-
-
+Ao Uróboro
 <*********************>
 
 
-Find Owner Of Backpack
+Ache o Dono da Mochila
 <*********************>
 
 
-Enemy Buster #1
+Canhão Inimigo no. 1
 <*********************>
 
 
-Find The Pickaxe
+Encontre a Picareta
 <*********************>
 
 
-Catch The Moth Queen
+Pegue a Mariposa-Rainha
 <*********************>
 
 
-Protect The Energy
+Proteja a Energia
 <*********************>
 
 
-Highway Race (round 1)
+PistaCorrida (1ª volta)
 <*********************>
 
 
-Highway Race (hayate)
+PistaCorrida (hayate)
 <*********************>
 
 
-Highway Race (idaten)
+PistaCorrida (idaten)
 <*********************>
 
 
-Highway Race (defend)
+PistaCorrida (defender)
 <*********************>
 
 
-Find The Wrench
+Ache a Chave Inglesa
 <*********************>
 
 
-Find Ancient Artifacts
+Ache Artefatos Antigos
 <*********************>
 
 
-Give Order To The Shop
+Entregar Pedido à Loja
 <*********************>
 
 
-Spruce Up The Room
+Enfeite a Sala
 <*********************>
 
 
-Help The Lost Hunter's
+Ache Caçadores Perdidos
 <*********************>
 
 
-Comics For The Shelves
+HQs para as Prateleiras
 <*********************>
 
 
-Find The Model Train
+Achar Trem de Brinquedo
 <*********************>
 
 
-To Mechaniloid Remains
+Ao RestoMechanilóide
 <*********************>
 
 
-Find The Blueprints
+Encontre os Diagramas
 <*********************>
 
 
-Catch The Little Bird
+Capture o Passarinho
 <*********************>
 
 
-Find The Hero Goods
+Ache objetos do Herói
 <*********************>
 
 
-Put Out The Fire
+Apague o Incêndio
 <*********************>
 
 
-Find The Bird Camera
+Ache o Pássaro-Câmera
 <*********************>
 
 
-Find The Magical Fruit
+Encontre a Fruta Mágica
 <*********************>
 
 
-Find A Present For Mom
+Ache Presente pra Mamãe
 <*********************>
 
 
-Defeat Buckfire
+Derrote Buckfire
 <*********************>
 
 
-Defeat Rospark
+Derrote Rospark
 <*********************>
 
 
-Defeat Chronoforce
+Derrote Chronoforce
 <*********************>
 
 
-Defeat Queenbee
+Derrote Queenbee
 <*********************>
 
 
-Defeat Vulturon
+Derrote Vulturon
 <*********************>
 
 
-Defeat Argoyle/Ugoyle
+Derrote Argoyle/Ugoyle
 <*********************>
 
 
-Defeat Hedgeshock
+Derrote Hedgeshock
 <*********************>
 
 
-Defeat Bifrost
+Derrote Bifrost
 <*********************>
 
 
-Get Back The Pendant
+Recupere o Pingente
 <*********************>
 
 
-Find Lost Friends
+Ache os Amigos Perdidos
 <*********************>
 
 
-Recycle Junk
+Recicle o Lixo
 <*********************>
 
 
-Eliminate The Chabanos
+Elimine os Chabanos
 <*********************>
-
 
-Eliminate 50 Chabanos
-<--------------------->
 
-
+Elimine 50 Chabanos
 <*********************>
 
 
-<dpad>Control Pad <esquerda>/<direita>:Select
+<dpad> <esquerda>/<direita>: Selecionar
 <*********************>
-
 
-<dpad>Control Pad <cima>/<baixo>:Check
-<--------------------->
 
-
+<dpad> <cima>/<baixo>: Verificar
 <*********************>
 
 
-<c 01>Escape from the Lab
-<c 00>Can Grey who wakes up
-only to be told by
-Pandora that he's to be
-disposed of,
-make it out alive!?
+<c 01>Fuja do Laboratório
+<c 00>Será que Grey, que
+despertou só pra desco-
+brir por Pandora que será
+eliminado, conseguirá
+fugir com vida?!
 <*********************>
 
 
-<c 01>Track Down the Airship
-<c 00>Hot on the trail of a
-Raider airship fleet,
-Ashe must get to the lead
-airship, where the stolen
-Biometal is!
+<c 01>Localize o Dirigível
+<c 00>Na cola de uma frota de
+dirigíveis dos Saquea-
+dores, Ashe deve ir ao
+dirigível principal, onde
+o Biometal roubado está!
 <*********************>
 
 
-<c 01>Transport the Container
-<c 00>The Federation Government
-"Legion" has requested
-that you transport the
-Biometal to its
-Headquarters!
+<c 01>Transporte o Contêiner
+<c 00>O Governo da Federação da
+"Legião" solicitou que
+você transporte o
+Biometal ao seu QG!
 <*********************>
 
 
-<c 01>To the Crash Site
-<c 00>The train is damaged. Get
-to the site of the
-crashed Raider airship
-and get parts to fix the
-train!
+<c 01>Ao Local do Acidente
+<c 00>O trem está danificado.
+Vá ao local do Dirigível
+de Saqueador Acidentado
+e consiga peças para
+consertar o trem!
 <*********************>
 
 
-<c 01>Deliver the Biometal
-<c 00>The train has been
-repaired, and the Legion
-authorities want that
-cargo. Take the Biometal
-to the Sage Trinity!
+<c 01>Entregue o Biometal
+<c 00>O trem foi reparado, e as
+autoridades da Legião
+querem essa carga.
+Leve o Biometal à
+Trindade Sábia!
 <*********************>
 
 
-<c 01>Model W                
-<c 00>Mavericks are springing
-up everywhere, Model W
-may have something to do
-with it. Investigate the
-4 new areas for Model W!
+<c 01>Modelo W                
+<c 00>Mavericks estão surgindo
+em toda parte. O Modelo W
+pode estar ligado a isso.
+Examine as 4 novas áreas
+em busca dele!
 <*********************>
 
 
-<c 01>Retrieve Model W
-<c 00>Model W activity has been
-detected at the Quarry
-near Hunter's Camp. Get
-in there and get the
-Model W!
+<c 01>Recupere o Modelo W
+<c 00>Atividades do Modelo W
+foram detectadas na
+Pedreira, perto do Acam-
+pamento de Caçadores.
+Vá lá e pegue o Modelo W!
 <*********************>
 
 
-<c 01>Get Albert
-<c 00>The destruction of some
-Model Ws put a crimp in
-Albert's plan. Take this
-chance and go to a new
-area to find a clue!
+<c 01>Pegue o Albert
+<c 00>A destruição de alguns
+Modelos W pôs fim aos
+planos de Albert. Apro-
+veite a chance pra achar
+pistas na nova área!
 <*********************>
 
 
-<c 01>To Albert's Hideout
-<c 00>You've obtained the
-transerver initialization
-key from the 2 Data
-Files. Track Model W to
-the Undersea Volcano!
+<c 01>Ao Covil de Albert
+<c 00>Você obteve a chave de
+inicialização do tran-
+servidor de Arquivos de
+Dados 2. Ache o Modelo W
+no Vulcão Submarino!
 <*********************>
-
-
-<c 01>To the Ouroboros
-<c 00>Use the Guardian Base to
-board the Model W
-amalgamation, the
-Ouroboros, and take
-Albert down!
-<--------------------->
 
 
+<c 01>Ao Uróboro
+<c 00>Use o QG dos Guardiões
+para embarcar no Modelo
+W fundido, o Uróboro,
+e derrube Albert!
 <*********************>
 
 
-Client: Patrick
-Place: Train3
+Cliente: Patrick
+Local: Trem3
 <*********************>
 
 
-Client: Richard
-Place: Hunter's Camp3
+Cliente: Richard
+Local: A.Caçadores3
 <*********************>
 
 
-Client: Kidd
-Place: Hunter's Camp4
+Cliente: Kidd
+Local: A.Caçadores4
 <*********************>
 
 
-Client: Mary
-Place: Arctic Ice Floe2
+Cliente: Mary
+Local: B.Ártica2
 <*********************>
 
 
-Client: George
-Place: Hunter's Camp1
+Cliente: George
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Burt
-Place: Highway3
+Cliente: Burt
+Local: Rodovia3
 <*********************>
 
 
-Client: Burt
-Place: Highway3
+Cliente: Burt
+Local: Rodovia3
 <*********************>
 
 
-Client: Burt
-Place: Highway3
+Cliente: Burt
+Local: Rodovia3
 <*********************>
 
 
-Client: Burt
-Place: Highway3
+Cliente: Burt
+Local: Rodovia3
 <*********************>
 
 
-Client: Antonio
-Place: Oil Field2
+Cliente: Antonio
+Local: CampoDePetróleo2
 <*********************>
 
 
-Client: Meg
-Place: Floating Ruins3
+Cliente: Meg
+Local: Ruínas Aéreas3
 <*********************>
 
 
-Client: Romeo
-Place: Hunter's Camp4
+Cliente: Romeo
+Local: A.Caçadores4
 <*********************>
 
 
-Client: Amy
-Place: Hunter's Camp4
+Cliente: Amy
+Local: A.Caçadores4
 <*********************>
 
 
-Client: Romeo
-Place: Hunter's Camp4
+Cliente: Romeo
+Local: A.Caçadores4
 <*********************>
 
 
-Client: Sharon
-Place: Hunter's Camp3
+Cliente: Sharon
+Local: A.Caçadores3
 <*********************>
 
 
-Client: Jarke
-Place: Hunter's Camp2
+Cliente: Jarke
+Local: A.Caçadores2
 <*********************>
 
 
-Client: Carley
-Place: Hunter's Camp4
+Cliente: Carley
+Local: A.Caçadores4
 <*********************>
 
 
-Client: Nick
-Place: Hunter's Camp4
+Cliente: Nick
+Local: A.Caçadores4
 <*********************>
 
 
-Client: Anna
-Place: Hunter's Camp1
+Cliente: Anna
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Chris
-Place: Hunter's Camp2
+Cliente: Chris
+Local: A.Caçadores2
 <*********************>
 
 
-Client: Tillis
-Place: Train3
+Cliente: Tillis
+Local: Trem3
 <*********************>
 
 
-Client: Pierre
-Place: Hunter's Camp1
+Cliente: Pierre
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Jim
-Place: Hunter's Camp1
+Cliente: Jim
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Blossom
-Place: Hunter's Camp3
+Cliente: Blossom
+Local: A.Caçadores3
 <*********************>
 
 
-Client: Doug
-Place: Hunter's Camp1
+Cliente: Doug
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Roger
-Place: Hunter's Camp1
+Cliente: Roger
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Chuck
-Place: Hunter's Camp1
+Cliente: Chuck
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Kirk
-Place: Hunter's Camp1
+Cliente: Kirk
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Kyrian
-Place: Hunter's Camp1
+Cliente: Kyrian
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Abe
-Place: Hunter's Camp1
+Cliente: Abe
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Tim
-Place: Hunter's Camp1
+Cliente: Tim
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Ben
-Place: Hunter's Camp1
+Cliente: Ben
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Elena
-Place: Hunter's Camp1
+Cliente: Elena
+Local: A.Caçadores1
 <*********************>
 
 
-Client: Nicol
-Place: Hunter's Camp2
+Cliente: Nicol
+Local: A.Caçadores2
 <*********************>
 
 
-Client: James
-Place: Scrapyard2
+Cliente: James
+Local: Ferro-velho2
 <*********************>
 
 
-Client: Peter
-Place: Waterfall Ruins3
+Cliente: Peter
+Local: RuínasDaCascata3
 <*********************>
 
 
-Client: Peter
-Place: Waterfall Ruins3
+Cliente: Peter
+Local: RuínasDaCascata3
 <*********************>
 
 <FIM>

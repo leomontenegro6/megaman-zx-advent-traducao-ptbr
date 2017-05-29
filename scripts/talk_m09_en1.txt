@@ -95,7 +95,7 @@ imundo.
 <p 03><d 7C02><a 31><n 12>
 O mar durante a guerra
 não era lugar para
-criaturas vivas. 
+criaturas vivas.
 <--------------------->
 
 <p 03><d 7D02><a 32><n 12>
@@ -210,8 +210,8 @@ Dei a eles 1 comando.
 
 <p 01><p 02><a 03><n 00>
 Isso foi para definir
-o mais poderoso Mega
-Man.
+o Mega Man mais
+poderoso.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>

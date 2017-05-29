@@ -369,7 +369,7 @@ Man Definitivo.
 
 <d 7604>
 e o plano estará
-completo! 
+completo!
 <*********************>
 
 <p 02><d 7704><a 6B><n 15>
@@ -410,7 +410,7 @@ E-Ei! O que é aquilo!?
 <p 01><p 02><d 7E04><a 6B><n 15>
 Aquilo são todos os
 Modelos W mergidos
-juntos... Ouroboros!
+juntos... Uróboro!
 <--------------------->
 
 <p 01><p 02><d 7F04><a 0A><n 01>

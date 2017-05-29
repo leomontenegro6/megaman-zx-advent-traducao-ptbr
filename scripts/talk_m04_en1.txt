@@ -140,7 +140,7 @@ Man, seu Defeituoso!
 
 <p 03><d 4901><a 37><n 09>
 Eu, Chronoforce irei
-retirar o Biometal das
+arrancar o Biometal das
 suas mãos!
 <*********************>
 
@@ -256,7 +256,7 @@ Chronoforce é incrível!
 <p 02><a 6B><n 15>
 Segure o Botão de
 Ataque até o medidor
-carregar completamente, 
+carregar completamente,
 <--------------------->
 
 em seguida, solte-o pra

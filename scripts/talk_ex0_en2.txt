@@ -2,100 +2,103 @@
 <#####################>
 
 <p 03><d 9705><a 1D><n 06>
-...To bring new life
-into the world, eh?
+...Trazer nova vida ao
+mundo, hein?
 <--------------------->
 
 <p 02><d 9805><a 1C><n 07>
-In the last mission
-report...
+No último relatório de
+missão...
 <--------------------->
 
 <d 9905>
-Albert said some rather
-outrageous things.
+Albert disse algumas
+coisas bastante
+ultrajantes.
 <*********************>
 
 <p 03><d 9A05><a 1D><n 06>
-Mikhail... Do you think
-it presumptuous
+Mikhail... Você acha
+isso presunçoso
 <--------------------->
 
 <d 9B05>
-for us to give birth
-to new life?
+pra gente, dar a luz à
+nova vida?
 <--------------------->
 
 <p 02><d 9C05><a 1C><n 07>
-How absurd... Thomas,
-you couldn't possibly
+Que absurdo... Thomas,
+possivelmente você não
+poderia
 <--------------------->
 
 <d 9D05>
-hold fast to such
-foolish imaginings. 
+se apegar a essas
+fantasias tolas.
 <--------------------->
 
 <p 03><d 9E05><a 1D><n 06>
-There are laws that
-give equality to Humans
-and Reploids, correct?
+Existem leis que dão
+igualdade aos Humanos e
+Replóides, correto?
 <--------------------->
 
 <p 03><d 9F05><a 1D><n 06>
-Don't you remember?
+Você não se lembra?
 <--------------------->
 
 <d A005>
-Those were passed
-because Albert and I
-agreed on them.
+Aqueles foram aprovados
+porque Albert e eu
+concordamos sobre eles.
 <--------------------->
 
 <p 02><d A105><a 1C><n 07>
-W-What are you saying?
+O-O que está dizendo?
 <*********************>
 
 <p 03><d A205><a 1D><n 06>
-Give Humans robotic
-bodies, and give
-Reploids mortality.
+Dê corpos robóticos
+Humanos e mortalidade
+de Replóides.
 <--------------------->
 
 <p 03><d A305><a 1D><n 06>
-So, where do you think
-the Human bodies for
-the Reploids are?
+Então, onde acha que os
+corpos Humanos para os
+Replóides estão?
 <--------------------->
 
 <p 03><d A405><a 1D><n 06>
-What do you think
-happened to the
-original Reploid data
+O que você acha que
+aconteceu com os dados
+originais de Replóide
 <--------------------->
 
 <d A505>
-from before we gave
-them mortality?
+antes de darmos a eles
+a mortalidade?
 <*********************>
 
 <p 01><p 02><d A605><a 1C><n 07>
-Thomas... You...!
+Thomas... Você...!
 <--------------------->
 
 <p 01><p 03><d A705><a 1D><n 06>
-Albert was wrong, so I
-helped the Hunters.
+Albert estava errado,
+então ajudei os
+Caçadores.
 <--------------------->
 
 <p 01><p 03><d A805><a 1D><n 06>
-But I do think he was
-right about one thing.
+Mas acho que ele estava
+certo sobre uma coisa.
 <*********************>
 
 <p 00><p 03><d A905><a 1D><n 06>
-This world needs to be
-reset.
+Esse mundo precisa ser
+redefinido.
 <*********************>
 
 <FIM>

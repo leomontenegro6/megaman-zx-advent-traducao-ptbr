@@ -2,92 +2,96 @@
 <#####################>
 
 <p 02><a 42><n 4B>
-Hey, you. Can I ask you
-to do something for me?
+Ei, você. Posso te
+pedir para fazer algo
+por mim?
 <--------------------->
 
-I lost a wrench
-somewhere in this room.
+Eu perdi uma chave
+inglesa em algum lugar
+nessa sala.
 <--------------------->
 
-Would you help me look
-for it? I'll hook you
-up later.
+Poderia me ajudar a
+procurá-la? Vou ligar
+pra você mais tarde.
 <*********************>
 
 <p 02><a 42><n 4B>
-Hm? You can't climb
-walls 'cause it's too
-dangerous?
+Hm? Você não pode
+escalar paredes porque
+é muito perigoso?
 <--------------------->
 
-Do you see those places
-on the wall that stick
-out?
+Consegue ver esses
+lugares na parede que
+ficam saindo pra fora?
 <--------------------->
 
-Use those to help you
-scale the wall little
-by little.
+Use-os para te ajudar a
+escalar a parede de
+pouco a pouco.
 <--------------------->
 
-There's really no point
-if you can't manage to
-hold on
+Realmente não tem
+sentido se você não
+consegue se agarrar
 <--------------------->
 
-a little better.
+um pouco melhor.
 <*********************>
 
 <p 02><a 42><n 4B>
-Yeeeah! That's it!
-That's my wrench!
+Siiim! É isso aí!
+Essa é a minha chave
+inglesa!
 <--------------------->
 
-Heh-Heh, I guess I owe
-you one. Here you go.
+Heh-Heh, acho que te
+devo uma. Aqui está.
 <*********************>
 
 <p 02><a 42><n 4B>
-But listen, if I
-give you this,
+mas ouça, se eu te der
+isso,
 <--------------------->
 
-you can't tell anyone
-that I lost my wrench,
-got it?
+você não pode dizer a
+ninguém que perdi minha
+chave inglesa, certo?
 <--------------------->
 
-If the guys I work
-with found out, it'd be
-a total embarrassment.
+Se os caras com quem eu
+trabalho descobrirem,
+seria vergonha total.
 <*********************>
 
 <p 02><a 42><n 4B>
-The wrench you brought
-me was the new wrench I
-had just bought.
+A chave que você me
+trouxe era a nova chave
+que acabo de comprar.
 <--------------------->
 
-As soon as I got it, I
-went around and showed
-it off to everyone.
+Assim que a comprei,
+saí por aí mostrando
+ela para todo mundo.
 <--------------------->
 
-And then I lost it.
+E depois eu a perdi.
 <--------------------->
 
-I guess it serves me
-right, but it's not
-cool.
+Acho que isso me serve
+como lição, mas não é
+legal.
 <--------------------->
 
-You know where I'm
-coming from, right?
+Você sabe aonde quero
+chegar, certo?
 <--------------------->
 
-Anyway, thanks to you,
-I got it back!
+De todo modo, graças a
+você, recuperei ela de
+volta!
 <*********************>
 
 <FIM>

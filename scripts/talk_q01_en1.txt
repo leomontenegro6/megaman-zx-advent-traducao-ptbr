@@ -2,179 +2,181 @@
 <#####################>
 
 <p 02><a 42><n 49>
-When it comes to skills
-with a Buster,
+Quando se trata de
+habilidades com um
+Buster,
 <--------------------->
 
-there's nobody in
-Hunter's Camp even
-close to me.
+não há ninguém no
+Acampamento de Caçador
+que se aproxime de mim.
 <*********************>
 
 <p 02><a 42><n 49>
-I could care less if
-you're supposed to be
-some Mega Man or
+Eu poderia me preocupar
+menos se você for algum
+Mega Man ou
 <--------------------->
 
-whatever. All I know
-is, you ain't even in
-my league.
-<--------------------->
-
-<p 02><a 42><n 49>
-If you don't believe
-me, just go to the
-Firing Range up ahead
+qualquer coisa. Tudo o
+que sei é que você não
+é melhor do que eu.
 <--------------------->
 
 <p 02><a 42><n 49>
-and challenge my
-record. I'll even give
-you this room key.
+Se não acredita em mim,
+basta ir ao Campo de
+Tiro mais à frente
 <--------------------->
 
 <p 02><a 42><n 49>
-Give the key back
-when you're finished
-though!
+e desafiar meu recorde.
+Vou até te dar essa
+chave da sala.
 <--------------------->
 
 <p 02><a 42><n 49>
-As a matter of fact,
-I'll pay you 100 EC if
-you beat my record!
+Porém, devolva a chave
+quando tiver terminado!
+<--------------------->
+
+<p 02><a 42><n 49>
+Na verdade, vou te
+pagar 100 CE se você
+bater meu recorde!
 <*********************>
 
 <p 02><a 42><n 49>
-What!? Is it true you
-beat my record!?
+O quê!? É verdade que
+você bateu meu
+recorde!?
 <--------------------->
 
 <p 02><a 42><n 49>
-A-Alright... Here's the
-100 EC I promised you.
-Take it.
+T-Tudo bem... Aqui está
+os 100 CE que eu te
+prometi. Pegue.
 <--------------------->
 
 <p 02><a 42><n 49>
-If you ever wanna
-challenge your own
-record,
+Se alguma vez quiser
+desafiar seu próprio
+recorde,
 <--------------------->
 
-just let me know!
+é só me avisar!
 <*********************>
 
 <p 02><a 42><n 49>
-So, you couldn't beat
-my record, huh? Aww,
-that's too bad.
+Então, não conseguiu
+bater meu recorde,
+hein? Ahh, que pena.
 <--------------------->
 
 <p 02><a 42><n 49>
-Let me know if you ever
-wanna give it another
-try!
+Avisa se alguma vez
+quiser fazer outra
+tentativa!
 <*********************>
 
 <p 02><a 42><n 49>
-Did you come back to
-embarrass yourself some
-more?
+Voltou para passar
+mais vergonha?
 <--------------------->
 
 <p 02><a 42><n 49>
-Knock yourself out.
-Here's the room key.
+Divirta-se. Aqui está a
+chave da sala.
 <--------------------->
 
 <p 02><a 42><n 49>
-Lotsa luck, pal!
+Boa sorte, amigo!
 <*********************>
 
 <p 02><a 42><n 49>
-What!? Is it true you
-beat my record!?
+O quê!? É verdade que
+você bateu meu
+recorde!?
 <--------------------->
 
 <p 02><a 42><n 49>
-A-Alright... Here's the
-100 EC I promised you.
-Take it.
+T-Tudo bem... Aqui está
+os 100 CE que eu te
+prometi. Pegue.
 <*********************>
 
 <p 02><a 42><n 49>
-So, you couldn't beat
-my record, huh? Aww,
-that's too bad.
+Então, não conseguiu
+bater meu recorde,
+hein? Ahh, que pena.
 <--------------------->
 
 <p 02><a 42><n 49>
-Let me know if you ever
-wanna give it another
-try!
+Avisa se alguma vez
+quiser fazer outra
+tentativa!
 <*********************>
 
 <p 02><a 42><n 49>
-So, you're back to
-challenge your own
-record?
+Então, você voltou para
+desafiar seu próprio
+recorde?
 <--------------------->
 
 <p 02><a 42><n 49>
-I'll lend you the room
-key.
+Vou te emprestar a
+chave da sala.
 <--------------------->
 
-Try to beat your own
-record when you feel
-like it.
+Tente bater seu próprio
+recorde quando você
+sentir vontade.
 <*********************>
 
 <p 02><a 42><n 49>
-What!? Is it true you
-beat your own record!?
+O quê!? É verdade que
+você bateu seu próprio
+recorde!?
 <--------------------->
 
 <p 02><a 42><n 49>
-I've gotta give it up
-to you,
+Tenho que admitir,
+você tem as melhores
 <--------------------->
 
-you've got the best
-Buster skills in
-Hunter's Camp. 
+habilidades de Buster
+no Acampamento de
+Caçador.
 <*********************>
 
 <p 02><a 42><n 49>
-Don't worry about it.
-We've all gotta know
-our limits.
+Não se preocupe. Todos
+nós conhecemos os
+nossos limites.
 <--------------------->
 
 <p 02><a 42><n 49>
-If you ever wanna take
-that challenge, just
-let me know!
+Se alguma vez quiser
+aceitar o desafio, é só
+me avisar!
 <*********************>
 
 <p 02><a 42><n 49>
-What? You haven't taken
-my challenge yet?
+O quê? Você ainda não
+fez meu desafio?
 <--------------------->
 
 <p 02><a 42><n 49>
-Give the room key back
-when you're finished!
+Devolva a chave da sala
+quando tiver terminado!
 <--------------------->
 
 <p 02><a 42><n 49>
-Lotsa luck, pal!
+Boa sorte, amigo!
 <*********************>
 
 <p 02><a 42><n 49>
-My name is Richard.
+Meu nome é Richard.
 <*********************>
 
 <FIM>

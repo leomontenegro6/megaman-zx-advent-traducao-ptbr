@@ -2,255 +2,261 @@
 <#####################>
 
 <p 02><a 46><n 44>
-They call me James.
+Chamam-me de James.
 <*********************>
 
 <p 02><a 46><n 44>
-Yeah... Whaddaya say
-you bring me some junk
-to recycle.
+Sim... Aliás quero que
+você me traga alguma
+sucata para reciclar.
 <--------------------->
 
-And I'll turn it into
-sump'm useful fer ya.
+E eu o transformarei em
+um proveitoso depósito
+pra você.
 <--------------------->
 
-Of course, it'll cost
-ya though.
+Claro, ele vai te
+custar uma grana.
 <*********************>
 
 <p 02><a 46><n 44>
-What is it? What're ya
-starin' at me like that
-fer?
+O que foi? Por que você
+está me olhando desse
+jeito?
 <--------------------->
 
-I bet you're one of
-them fools zat thinks
+Aposto que você é um
+desses idiotas que
+pensam que
 <--------------------->
 
-junk is jus' garbage to
-be thrown away.
+lixo só serve para ser
+jogado fora.
 <--------------------->
 
-Take a lookit that
-scrap iron over there.
+Dê uma olhada naquela
+sucata de ferro ali.
 <--------------------->
 
-There ain't much to it
-now,
+Não há muito dele
+agora,
 <--------------------->
 
-But I betcha didn't
-know that if you
-collect enough of it,
+Mas aposto que você não
+sabe se recolheu o
+suficiente dele,
 <--------------------->
 
-you can use it to make
-a spare body part.
+você pode usá-lo para
+fazer uma parte de
+reposição de corpo.
 <--------------------->
 
-That's called being
-recycle conscious. 
+Isso se chama
+reciclagem consciente.
 <--------------------->
 
-But you wouldn't know
-anything about that
-now, would ya?
+Mas você não sabe
+nada sobre isso, sabe?
 <*********************>
 
 <p 02><a 46><n 44>
-Ya know engine
-ignitions have titanium
-alloy in 'em.
+Saiba que as ingnições
+tem liga de titânio
+nelas.
 <--------------------->
 
-I can recycle this into
-sump'm nice fer ya,
+Posso reciclar isso em
+um depósito bacana pra
+você,
 <--------------------->
 
-but it'll cost ya
-100 EC.
+mas isso te custará
+100 CE.
 <*********************>
 
 <p 02><e 63><a 46><n 44>
-Wanna recycle this?
-  Yes
-  No
+Quer reciclar isso?
+  Sim
+  Não
 <*********************>
 
 <p 02><a 46><n 44>
-Alrighty I'll have
-that fer ya in a jiffy.
+Tudo bem, vou te
+entregar isso em um
+instante.
 <*********************>
 
 <p 02><a 46><n 44>
-There! A booster.
+Aí! Um impulsionador.
 <--------------------->
 
-How ya use it is up to
-you. If ya need sump'm
-else,
+Como usá-lo fica a seu
+critério. Se precisar
+de mais depósitos,
 <--------------------->
 
-just bring me
-some more junk to
-recycle.
+basta me trazer mais
+alguma sucata para
+reciclar.
 <*********************>
 
 <p 02><a 46><n 44>
-Ya ain't got enough
-money, ya dipstick.
+Você não tem dinheiro
+suficiente, seu
+mendicante.
 <*********************>
 
 <p 02><a 46><n 44>
-Have you been listenin'
-to a dang word I said?
+Escutou alguma palavra
+arrogante que eu disse?
 <--------------------->
 
-That's just what I'm
-talkin' about. These
-young whippersnappers
+Isso é só o que estou
+dizendo. Esses jovens
+mimados
 <--------------------->
 
-t'day jus' ain't got it
-in 'em to recycle. Git
-outta my sight!
+de hoje simplesmente
+não sabem reciclar.
+Saia da minha frente!
 <*********************>
 
 <p 02><a 46><n 44>
-Well, looks like you've
-finally come 'round to
-recycling.
+Bem, parece que você
+finalmente mudou de
+idéia sobre reciclagem.
 <--------------------->
 
-Ya know, there's some
-folks who'll never
-change...
+Sabe, há algumas
+pessoas que nunca vão
+mudar..
 <--------------------->
 
-They jus' can't,
-I guess.
+Elas simplesmente não
+conseguem, eu acho.
 <--------------------->
 
-Just a little junk can
-turn into a mountain in
-no time...
+Um pouco de lixo pode
+se tornar uma montanha
+em pouco tempo...
 <--------------------->
 
-Like this one.
+Como essa aqui.
 <--------------------->
 
-It's one thing to wake
-up and smell the coffee
-late, and another thing
+Uma coisa é acordar e
+sentir o cheiro do café
+quente, e outra coisa
 <--------------------->
 
-to not wake up at all,
-let alone smell the
-coffee... Ya get me?
+é não acordar, e muito
+menos sentir cheiro de
+café... Captou?
 <--------------------->
 
-These Mechaniloids
-around here,
+Esses Mecanilóides aqui
+ao redor,
 <--------------------->
 
-they come from all the
-junk that people throw
-away.
+eles vêm de todo o lixo
+que as pessoas jogam
+fora.
 <--------------------->
 
-Do ya know what that
-means? People,
+Você sabe o que
+significa? Pessoas,
 <--------------------->
 
-the ones who threw away
-that junk have, by
-their own hand,
+aquelas que jogaram
+fora esse lixo, pelas
+suas próprias mãos,
 <--------------------->
 
-put themselves on the
-path to destruction.
+colocam-se no caminho
+para a destruição.
 <*********************>
 
 <p 02><a 46><n 44>
-By the way, what'd ya
-do with the booster I
-made fer ya?
+A próposito, o que você
+fez com o impulsionador
+que eu fiz pra você?
 <--------------------->
 
-So ya found a good use
-fer it, huh. Good fer
-you.
+Então encontrou alguma
+utilidade pra ele,
+hein? Faça bom uso.
 <--------------------->
 
-Now if ya ever need
-sump'm else, jus' like
-I said before, 
+Se você precisar agora
+de mais depósitos, é
+como eu disse antes, 
 <--------------------->
 
-bring me some good
-junk.
+traga-me alguma sucata
+boa.
 <--------------------->
 
-And I'll turn it into
-sump'm useful fer ya.
+E eu o transformarei em
+um proveitoso depósito
+pra você.
 <*********************>
 
 <p 02><a 46><n 44>
-What is it? What're ya
-starin' at me like that
-fer?
+O que foi? Por que você
+está me olhando desse
+jeito?
 <--------------------->
 
-Haa, looks like you ya
-forgot where the stuff
-to make a booster is.
+Haa, você esqueceu onde
+está o material pra
+fazer o impulsionador.
 <--------------------->
 
-I'm telling ya, finding
-the junk you want isn't
-as easy as you think.
+Digo a você, encontrar
+sucata que deseja não
+é tão fácil como pensa.
 <--------------------->
 
-Search every nook and
-cranny of Scrapyard 2
-and 3.
+Procure em todos os
+cantos do Ferro-Velho 2
+e 3.
 <--------------------->
 
-I got faith in
-ya, son.
+Tenho fé em você,
+filho.
 <*********************>
 
 <p 02><a 46><n 44>
-An Engine ignition...
-These have titanium
-alloy in 'em.
+Uma ingnição de
+Motor... Esses têm liga
+de titânio neles.
 <--------------------->
 
-I can make you a
-booster from this, but
-it'll cost ya 100 EC.
+Eu posso te fazer um
+impulsionador disso,
+Mas te custará 100 CE.
 <*********************>
 
 <p 02><e 63><a 46><n 44>
-Wanna recycle this?
-  Yes
-  No
+Quer reciclar isso?
+  Sim
+  Não
 <*********************>
 
 <p 03><a 46><n 44>
-There! A booster.
+Aí! Um impulsionador.
 <--------------------->
 
-How ya use it is up to
-you. If ya need sump'm
-else,
+Como usá-lo fica a seu
+critério. Se precisar
+de mais depósitos,
 <--------------------->
 
-just bring me
-some more junk to
-recycle.
+basta me trazer mais
+alguma sucata para
+reciclar.
 <*********************>
 
 <FIM>
