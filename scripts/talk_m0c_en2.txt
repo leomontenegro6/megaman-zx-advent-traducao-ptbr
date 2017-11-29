@@ -17,8 +17,9 @@ receber confirmação de
 atividade do Modelo W
 <--------------------->
 
-na Pedreira no
-Acampamento de Caçador.
+na Pedreira, próxima
+ao Acampamento dos
+Caçadores.
 <--------------------->
 
 <p 02><a 02><n 06>
@@ -494,7 +495,7 @@ conversar no caminho.
 <p 03><d 4903><a 11><n 18>
 Então deixe-me ver se
 entendi. Mestre Albert,
-Prometeus,
+Prometeu,
 <--------------------->
 
 <p 03><d 4A03><a 11><n 18>
@@ -629,7 +630,7 @@ para se vivenciar.
 <--------------------->
 
 <p 03><d 6403><a 10><n 18>
-*risada* Obrigado...
+Ré, ré! Obrigado...
 A propósito, isto é pra
 você.
 <*********************>

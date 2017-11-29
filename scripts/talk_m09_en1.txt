@@ -189,14 +189,14 @@ RELATÓRIOS DE DADOS.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-De modo a achar um
-Biomatch para o
+De modo a achar uma
+Biocombinação para o
 Biometal Modelo W,
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
 primeiro criei os
-Irmãos replóides.
+irmãos replóides.
 <*********************>
 
 <p 01><p 02><a 03><n 00>
@@ -215,12 +215,13 @@ poderoso.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
-Um comando de Biomatch
-para cada um de meus
-Escolhidos
+Um comando de
+Biocombinação
 <--------------------->
 
-a um Biometal.
+para cada um de meus
+Escolhidos a um
+Biometal.
 <--------------------->
 
 <p 01><p 02><a 03><n 00>
@@ -262,7 +263,7 @@ informação sobre nós?
 
 <p 02><d 9202><a 6B><n 15>
 E o que diabos são os
-dois irmãos Replóides?
+dois irmãos replóides?
 <--------------------->
 
 <p 02><d 9302><a 08><n 01>
@@ -337,7 +338,7 @@ se mover em torno da
 
 Você pode se lançar
 pela água, pressionando
-o Botão de Dash!
+o Botão de Impulso!
 <--------------------->
 
 <p 02><a 6B><n 15>

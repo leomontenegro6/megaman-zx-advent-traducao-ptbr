@@ -146,7 +146,7 @@ doente!
 
 <p 01><p 03><d 5202><a 39><n 00>
 Ora, ora! Será se o
-pequeno Prometeus já
+pequeno Prometeu já
 saiu?
 <--------------------->
 
@@ -178,7 +178,7 @@ Ah, é você.
 
 <d 5802>
 O Mega Man Modelo A
-ques Prometeus falou.
+ques Prometeu falou.
 <--------------------->
 
 <p 01><p 03><d 5902><a 39><n 0C>
@@ -199,7 +199,7 @@ Mega Man.
 <*********************>
 
 <p 01><p 03><d 5C02><a 39><n 0C>
-*Aagh* O quê!? Você
+Argh! O quê!? Você
 recusa meu precioso
 presente de desespero!?
 <--------------------->

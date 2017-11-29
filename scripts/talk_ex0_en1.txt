@@ -40,8 +40,8 @@ fantasias tolas.
 
 <p 03><d 9E05><a 1D><n 06>
 Existem leis que dão
-igualdade aos Humanos e
-Replóides, correto?
+igualdade aos humanos e
+replóides, correto?
 <--------------------->
 
 <p 03><d 9F05><a 1D><n 06>
@@ -60,20 +60,20 @@ O-O que está dizendo?
 
 <p 03><d A205><a 1D><n 06>
 Dê corpos robóticos
-Humanos e mortalidade
-de Replóides.
+humanos e mortalidade
+de replóides.
 <--------------------->
 
 <p 03><d A305><a 1D><n 06>
 Então, onde acha que os
-corpos Humanos para os
-Replóides estão?
+corpos humanos para os
+replóides estão?
 <--------------------->
 
 <p 03><d A405><a 1D><n 06>
 O que você acha que
 aconteceu com os dados
-originais de Replóide
+originais replóides
 <--------------------->
 
 <d A505>

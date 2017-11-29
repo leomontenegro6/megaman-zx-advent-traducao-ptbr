@@ -21,13 +21,14 @@ Atlas
 <*********************>
 
 
-Modelo F Biomatch (Mega Man
-de fogo). Ela foi um soldado
-de um país levado a resíduos
-pelos Mavericks. Acredita
-ela, que é só através da
-luta que as pessoas serão
-estimuladas a evoluir.
+Biocombinação do Modelo F
+(Mega Man de Fogo). Ela foi
+um soldado de um país
+levado à ruína por
+Mavericks. Ela acredita que
+as pessoas só são
+estimuladas a evoluir
+através da luta.
 <*********************>
 
 
@@ -65,14 +66,14 @@ Argoyle/Ugoyle
 <*********************>
 
 
-É um lutador Pseudoróide
-díade de alta velocidade.
-Equipado com Dash de Patins
-nos seus pés, e armado com
-uma arma chamada Bomba de
-Pedra, Argoyle/Ugoyle são
-mestres de ataques
-multi-direcionais.
+São dois lutadores gêmeos
+altamente velozes. Equipados
+com Patins Impulsivos nos
+pés, e munidos com uma
+arma chamada Bomba Rochosa,
+Argoyle/Ugoyle são mestres
+de ataques em múltiplas
+direções.
 <*********************>
 
 
@@ -101,7 +102,7 @@ de uma época antiga. Metade
 da energia desse grande
 devorador de gás é gasto só
 pra mover seu corpo de
-mamute. Talves por isso não
+mamute. Talvez por isso não
 foram muito produzidos.
 <*********************>
 
@@ -139,13 +140,13 @@ Siarnaq
 <*********************>
 
 
-Biomatch Modelo P (Mega Man
-das Sombras). Um ex-Caçador
-e assassino de aluguel, cujo
-passado inclui ser traído
-por seus amigos e deixado
-para morrer seja a razão de
-sua frieza, impassível em
+Biocombinação do Modelo P
+(Mega Man das Sombras).
+Um ex-caçador e assassino
+de aluguel que no passado
+foi traído por seus amigos
+e deixado para morrer. Isso
+explica sua frieza em
 relação aos outros.
 <*********************>
 
@@ -184,13 +185,14 @@ Tétis
 <*********************>
 
 
-Biomatch Modelo L (Mega Man
-de Gelo). Em resumo, ele é
-um cidadão íntegro, tipo,
-cidadão honesto. Mas, existe
-também um lado podre nele.
+Biocombinação do Modelo L
+(Mega Man de Gelo).
+Em suma, ele é um cidadão
+íntegro e honesto. Mas há
+também um lado negro nele.
 Ele pretende punir pessoas
-por poluir o mar com lixo.
+que poluem o oceano com
+lixo.
 <*********************>
 
 
@@ -198,14 +200,14 @@ Bifrost
 <*********************>
 
 
-O reduto de defesa desse
-Pseudoróide, desenvolvido
-com IA, fornece um sinal pra
-retaguarda fechando a via de
-um inimigo com uma parede de
-gelo "Giga Gélido". Bifrost
-é lento, mas se chegar perto
-ele vai te pulverizar.
+A IA defensiva deste
+Pseudoróide é de ponta, e
+fornece um sinal pra reta-
+guarda bloqueando o caminho
+dos inimigos com uma parede
+de gelo "Giga Gélida".
+Bifrost é lento, mas se
+chegar perto, o destruirá.
 <*********************>
 
 
@@ -213,18 +215,18 @@ Pandora
 <*********************>
 
 
-Um Mega Man com habilidade
+Uma Mega Man com habilidade
 especializada em controlar
 ambos os elementos,
 eletricidade e gelo.
 Geralmente vista com
-Prometeus, ela é temida
+Prometeu, ela é temida
 pelos Caçadores, que a
 chamam de "a Bruxa".
 <*********************>
 
 
-Prometeus
+Prometeu
 <*********************>
 
 
@@ -242,14 +244,14 @@ Aeolus
 <*********************>
 
 
-Biomatch Modelo H (Mega Man
-do Vento). Aeolus é muito
-perfeccionista e maluco. Ele
-considera todo mundo além de
-si mesmo idiotas imbecis que
-são a causa pela discórdia
-do mundo, e por isso deve
-erradicar.
+Biocombinação do Modelo H
+(Mega Man do Vento). Aeolus
+é perfeccionista e maluco.
+Ele considera todos, além
+de si, seres imbecis tidos
+como a causa da discórdia
+do mundo, e por isso devem
+ser erradicados.
 <*********************>
 
 
@@ -1181,7 +1183,7 @@ Esses 3 sábios que controlam
 o Governo da Federação
 "Legião", Mestre Thomas,
 Mestre Albert, e Mestre
-Mikhail, nasceram Humanos,
+Mikhail, nasceram humanos,
 mas adotaram corpos biônicos
 que os mantiveram vivos
 durante vários séculos.

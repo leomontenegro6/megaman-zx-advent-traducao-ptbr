@@ -91,7 +91,7 @@ SEGUNDOS.
 
 <p 02><d D003><a 0F><n 02>
 As cápsulas de
-Prometeus e Pandora...
+Prometeu e Pandora...
 <--------------------->
 
 <d D103>
@@ -100,9 +100,9 @@ foram feitos aqui.
 <*********************>
 
 <p 02><d D203><a 6B><n 15>
-Talves eles sejam o que
+Talvez eles sejam o que
 os dados dizem
-"Irmãos Replóides."
+"irmãos replóides."
 <--------------------->
 
 <p 02><d D303><a 6B><n 15>
@@ -112,7 +112,7 @@ por Albert
 <--------------------->
 
 <d D403>
-foram Prometeus e
+foram Prometeu e
 Pandora.
 <--------------------->
 
@@ -144,7 +144,7 @@ Correntes?
 <p 02><d DA03><a 02><n 06>
 O contador no painel é
 provavelmente a vida de
-Prometeus.
+Prometeu.
 <--------------------->
 
 <d DB03>
@@ -198,7 +198,7 @@ ordens do Sr. Albert.
 <--------------------->
 
 <p 02><d E403><a 08><n 02>
-*bocejo* Sim, tanto
+Uáááhh! Sim, tanto
 faz. Agora sai do meu
 caminho!
 <--------------------->
@@ -328,7 +328,7 @@ Hedgeshock!
 <p 02><a 6B><n 15>
 Em seguida, segure o
 <dpad> pra baixo e aperte
-o Botão de Dash.
+o Botão de Impulso.
 <--------------------->
 
 Dessa forma você pode
@@ -356,8 +356,8 @@ e depois soltando-o!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Bem, venha, vamos usar
-o Dash de rotação para
+Bom, venha! Use o
+Impulso Giratório para
 entrar nessa passagem.
 <*********************>
 

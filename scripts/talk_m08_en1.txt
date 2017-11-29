@@ -2,8 +2,8 @@
 <#####################>
 
 <p 02><a 0F><n 01>
-*ofegante* Esse calor é
-insuportável! O que
+Puff! Puff! Esse calor
+é insuportável! O que
 diabos está havendo?
 <*********************>
 
@@ -81,7 +81,7 @@ doente!
 
 <p 01><p 03><d 5202><a 39><n 00>
 Ora, ora! Será se o
-pequeno Prometeus já
+pequeno Prometeu já
 saiu?
 <--------------------->
 
@@ -131,7 +131,7 @@ Mega Man?
 <*********************>
 
 <p 01><p 03><d 5C02><a 39><n 0C>
-*Aagh* O quê!? Você
+Aargh! O quê!? Você
 recusa meu precioso
 presente de desespero!?
 <--------------------->

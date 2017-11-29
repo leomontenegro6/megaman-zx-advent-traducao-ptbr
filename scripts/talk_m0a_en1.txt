@@ -201,11 +201,11 @@ libere seu poder.
 <p 02><a 03><n 00>
 Em outras palavras,
 ele está bloqueado
-para seu Biomatch.
+para sua Biocombinação.
 <--------------------->
 
 <p 02><a 03><n 00>
-Todos os Replóides têm
+Todos os replóides têm
 que vir para a Legião
 <--------------------->
 
@@ -216,8 +216,8 @@ de vida verificadas.
 <--------------------->
 
 <p 02><a 03><n 00>
-Garanto, cada Replóide
-que verifiquei foi
+Garanto que todo
+replóide verificado foi
 infundido com meu DNA.
 <--------------------->
 
@@ -277,7 +277,7 @@ do que qualquer um.
 <--------------------->
 
 <p 02><d C202><a 02><n 06>
-Mas não tínhamos idéia
+Mas não tínhamos ideia
 que fosse o tipo de
 homem que era.
 <--------------------->
@@ -319,14 +319,14 @@ destino.
 <*********************>
 
 <p 02><a 6B><n 15>
-Parece que você pode
-fazer Dash Aéreo com
-Aeolus.
+Parece que agora pode
+executar o Impulso
+Aéreo com Aeolus.
 <--------------------->
 
 <p 02><a 6B><n 15>
 Se você apertar o Botão
-de Dash em pleno ar,
+de Impulso no ar,
 <--------------------->
 
 parece que poderá
@@ -340,17 +340,17 @@ Se você segurar o
 <--------------------->
 
 e pressionar o Botão de
-Dash em pleno ar,
+Impulso no ar,
 <--------------------->
 
 <p 02><a 6B><n 15>
-poderá fazer o Dash
+poderá fazer o Impulso
 Aéreo para cima.
 <--------------------->
 
 <p 02><a 6B><n 15>
-O Dash Aéreo não reduz
-sua barra de BM.
+O Impulso Aéreo não
+reduz sua barra de BM.
 <--------------------->
 
 <p 02><a 6B><n 15>

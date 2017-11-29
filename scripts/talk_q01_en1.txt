@@ -3,8 +3,8 @@
 
 <p 02><a 42><n 49>
 Quando se trata de
-habilidades com um
-Buster,
+habilidades com
+Pistolas,
 <--------------------->
 
 não há ninguém no
@@ -144,9 +144,9 @@ Tenho que admitir,
 você tem as melhores
 <--------------------->
 
-habilidades de Buster
-no Acampamento de
-Caçador.
+habilidades na Pistola,
+aqui no Acampamento dos
+Caçadores.
 <*********************>
 
 <p 02><a 42><n 49>

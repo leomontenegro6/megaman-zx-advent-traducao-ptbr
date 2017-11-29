@@ -115,8 +115,8 @@ recebe Medalha de Ouro.
 
 <p 02><a 42><n 24>
 Finalize Chronoforce
-com o Dash Cortante de
-Buckfire
+com o Impulso Cortante
+de Buckfire
 <--------------------->
 
 para receber uma

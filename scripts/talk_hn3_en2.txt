@@ -196,7 +196,7 @@ gênio com a broca.
 <*********************>
 
 <p 02><a 60><n 34>
-Obrigado pela idéia...
+Obrigado pela ideia...
 <--------------------->
 
 Mas você não tem
@@ -351,11 +351,12 @@ e corajoso.
 <--------------------->
 
 Tentei abrir a tampa do
-bueiro no
+do bueiro,
 <--------------------->
 
-final do Acampamento de
-Caçador.
+que fica lá no final
+do Acampamento dos
+Caçadores.
 <--------------------->
 
 Mas, ela não se mexia!
@@ -399,7 +400,7 @@ isso!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -414,7 +415,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -429,7 +430,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -444,7 +445,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -459,7 +460,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -474,7 +475,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -489,7 +490,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -504,7 +505,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -519,7 +520,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -534,7 +535,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -549,7 +550,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -564,7 +565,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -579,7 +580,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -594,7 +595,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -609,7 +610,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -624,7 +625,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia idéia que
+Não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -737,8 +738,8 @@ amigos?
 
 <p 02><a 67><n 5B>
 Dizem que sou o maior
-fã de videogames no
-Acampamento de Caçador.
+fã de videogames, aqui
+do acampamento.
 <--------------------->
 
 Realmente gosto de
@@ -888,8 +889,9 @@ Meu nome é Doug!
 <*********************>
 
 <p 02><a 42><n 23>
-Você é o assunto do
-Acampamento de Caçador!
+Você tá dando o que
+falar aqui, no Acampa-
+mento de Caçadores!
 <*********************>
 
 <p 02><a 42><n 23>
@@ -1018,8 +1020,8 @@ como você!
 
 <p 02><a 42><n 26>
 Eu vigio o Acampamento
-de Caçador do nascer do
-sol ao pôr do sol.
+dos Caçadores, do
+nascer ao pôr do sol.
 <*********************>
 
 <p 02><a 42><n 26>
@@ -1027,15 +1029,15 @@ Se eu tivesse uma arma
 melhor,
 <--------------------->
 
-eu poderia fácilmente
-pegar esses
-Pseudoróides!
+poderia dar um jeito
+nesses Pseudoróides
+rapidinho!
 <*********************>
 
 <p 02><a 42><n 26>
 É bem chato só ficar de
-guarda no Acampamento
-de Caçador.
+guarda, no Acampamento
+dos Caçadores.
 <--------------------->
 
 Quero pegar um pedido
@@ -1536,7 +1538,7 @@ Quanto?
 
 <p 02><a 40><n 57>
 Ohh... Bem, volte se
-você mudar de idéia.
+você mudar de ideia.
 <*********************>
 
 <p 02><a 40><n 57>

@@ -3,13 +3,13 @@
 
 <p 02><a 42><n 49>
 Quando se trata de
-habilidades com um
-Buster,
+habilidades com a
+Pistola,
 <--------------------->
 
-não há ninguém no
-Acampamento de Caçador
-que se aproxime de mim.
+não há ninguém que se
+aproxime de mim, aqui
+no acampamento.
 <*********************>
 
 <p 02><a 42><n 49>
@@ -144,9 +144,9 @@ Tenho que admitir,
 você tem as melhores
 <--------------------->
 
-habilidades de Buster
+habilidades de Pistola,
 no Acampamento de
-Caçador.
+Caçadores.
 <*********************>
 
 <p 02><a 42><n 49>

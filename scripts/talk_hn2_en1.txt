@@ -243,12 +243,12 @@ olhada.
 
 <p 02><a 59><n 46>
 Recentemente houve
-alguns aparições
+algumas aparições de
+Mecanilóides selvagens,
 <--------------------->
 
-de Mecanilóides
-selvagens perto do
-Acampamento de Caçador.
+perto do Acampamento
+dos Caçadores.
 <*********************>
 
 <p 02><a 59><n 46>
@@ -440,9 +440,9 @@ ir para a sala com o
 transervidor.
 <--------------------->
 
-Se já tem, então você
-deve olhar ao redor do
-Acampamento de Caçador.
+Se já tiver, então é
+bom dar uma volta no
+nosso acampamento.
 <*********************>
 
 <p 02><a 5E><n 42>

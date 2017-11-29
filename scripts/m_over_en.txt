@@ -16,7 +16,7 @@ lute o mais longe que puder!
 Para evitar os ataques de
 Rospark você precisará
 tentar ficar atrás dele, o
-quanto possível. Use o Dash
+quanto possível. Use o Impulso
 pra pular nas paredes. Fique
 em baixo e seu Laser Giga
 não será capaz de tocá-lo!
@@ -26,7 +26,7 @@ não será capaz de tocá-lo!
 Apenas pule sobre as Agulhas
 de Gelo de modo que você
 pouse no espaço entre eles e
-o prórpio Chronoforce.
+o próprio Chronoforce.
 Memorize o ângulo e momento
 do Carnaval de Gelo, assim
 você pode evitá-las sem
@@ -67,7 +67,7 @@ acima ou abaixo de Ugoyle!
 <*********************>
 
 
-O dash de Rotação do
+O Impulso Giratório do
 Hedgeshock provavelmente
 fará você errar, caso fique
 no andaime no canto superior
@@ -90,9 +90,9 @@ inflija o máximo de dano!
 
 
 Aeolus é bom em ataques de
-sabre ao fazer salto e dash,
+sabre em impulsos aéreos,
 então, mantenha distância!
-Evite seus ataques de dash
+Evite seus ataques impulsivos
 por debaixo quando ele
 estiver no ar, e pulando
 sobre ele enquanto estiver
@@ -113,7 +113,7 @@ batalha perdida!
 
 Atlas percorre a área de
 chefe atacando com seu
-Buster Knuckle de todos os
+Canhão Punhal de todos os
 diferentes ângulos. Procure
 por uma abertura quando ela
 disparar continuamente sem
@@ -122,8 +122,8 @@ parar e em seguida ataque!
 
 
 Espere Siarnaq reaparecer
-após ele fazer o Shadow
-Dash, e depois contra
+após ele fazer o Impulso
+Sombrio, e depois contra
 ataque. Basta lembrar de
 "ficar e mover".
 <*********************>
@@ -143,10 +143,10 @@ o momento certo de atacar!
 O único modo de danificar
 Dogu o Gigante é atirando
 nos olhos. Pule nas mãos de
-Dogu quando elas descerem e
-quando estiver ao nível dos
-olhos, descarregue seu
-Buster nele!
+Dogu quando elas descerem, e
+quando estiver na altura
+dos olhos, descarregue sua
+Pistola nele!
 <*********************>
 
 
@@ -159,11 +159,11 @@ Dogu nos olhos!
 <*********************>
 
 
-Ambos Prometeus e Pandora
+Tanto Prometeu como Pandora
 podem mudar seus tipos de
 ataques elementais! Quando
 Pandora estiver usando seu
-bastão, e quando Prometeus
+bastão, e quando Prometeu
 estiver no meio, no chão
 são as suas melhores chances
 devido aos maiores danos!

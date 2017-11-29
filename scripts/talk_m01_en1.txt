@@ -24,20 +24,20 @@ outro qualquer.
 <--------------------->
 
 <p 02><d 0500><a 42><n 1A>
-Eu esperava que a gente
-fosse encontrá-lo na
-primeira tentativa,
+Esperava que a gente
+achasse essa bufunfa
+logo de primeira,
 <--------------------->
 
 <d 0600>
-e mostrá-lo para a
-galera no Acampamento
-de Caçador.
+pra gente poder mostrar
+pra galera do Acampa-
+mento dos Caçadores.
 <*********************>
 
 <p 03><d 0700><a 42><n 1B>
-Ei! Há alguma coisa
-ali!
+Ei! Tem algo estranho
+bem ali!
 <*********************>
 
 <p 03><d 0800><a 42><n 1B>
@@ -45,7 +45,7 @@ O quê...!?
 <*********************>
 
 <p 02><d 0900><a 42><n 1A>
-...Um garoto Replóide?
+...Um garoto replóide?
 Não pode ser! O que
 está havendo aqui?
 <*********************>
@@ -57,9 +57,9 @@ segurança disparar,
 <--------------------->
 
 <d 0B00>
-teremos todos os
-Mecanilóides rastejando
-em cima de nós.
+vai vir um monte de
+Mecanilóide correndo
+em cima da gente.
 <*********************>
 
 <p 02><d 0D00><a 0F><n 00>
@@ -97,7 +97,7 @@ nome?
 
 <p 01><p 03><d 1400><a 0B><n 01>
 O que quer dizer com
-"me livrar de você!?
+"me livrar de você"!?
 <--------------------->
 
 <p 01><p 02><d 1500><a 28><n 04>
@@ -108,14 +108,14 @@ foi despertado...
 
 <p 01><p 02><d 1600><a 28><n 04>
 antes da sequência de
-controle da mente ser
+controle mental ser
 concluída...
 <--------------------->
 
 <p 01><p 03><d 1700><a 0B><n 01>
-Mega Man? Controle da
-mente!? O que você
-fez comigo!?
+Mega Man?
+Controle mental!?
+O que você fez comigo!?
 <*********************>
 
 <p 00><p 03><d 1800><a 0E><n 01>
@@ -138,13 +138,13 @@ Aaaagghh!
 <*********************>
 
 <p 02><d 1C00><a 0D><n 01>
-*arf*... *arf*...!
+Arf! Arf!
 Por que ela me chamou
 de "defeituoso"!?
 <--------------------->
 
 <p 02><d 1D00><a 0A><n 01>
-Afinal, tenho que achar
+Enfim, tenho que achar
 um jeito de sair daqui
 antes que me matem!
 <*********************>
@@ -184,11 +184,11 @@ Não vou te machucar!
 <*********************>
 
 <p 03><d 2500><a 08><n 01>
-Você... me ajudar?
+Você... me ajudou?
 <*********************>
 
 <p 02><d 2600><a 42><n 1F>
-Sim, sem problema.
+Sim, não há de quê.
 Qual é o seu nome?
 <--------------------->
 
@@ -199,14 +199,14 @@ aconteceu com você?
 
 <p 03><d 2800><a 08><n 01>
 Grey... Pelo menos
-foi disso que ela me
+foi assim que ela me
 chamou, de todo modo.
 <--------------------->
 
 <p 03><d 2900><a 08><n 01>
 Quando acordei, eu
 estava dentro de algum
-tipo de prédio...
+tipo de edifício...
 <--------------------->
 
 <d 2A00>
@@ -221,7 +221,7 @@ me matar.
 <--------------------->
 
 <d 2C00>
-Eu corri... De tudo
+Eu fuji... De tudo
 depois dessa confusão.
 <--------------------->
 
@@ -238,9 +238,9 @@ mudar pra você.
 <--------------------->
 
 <p 02><d 2F00><a 42><n 1F>
-Esse é o Acamp. de
-Caçadores, o local do
-caçador de recompensas.
+Aqui é o Acampamento
+dos Caçadores, lar dos
+caça-recompensas.
 <--------------------->
 
 <p 02><d 3000><a 42><n 1F>
@@ -281,7 +281,7 @@ salvar...
 <--------------------->
 
 <p 02><d 3700><a 42><n 1F>
-*sorriso* Como eu
+Rí, rí! Como eu
 disse, não falei dele.
 <--------------------->
 
@@ -344,7 +344,7 @@ ilegais, Saqueadores ou
 <p 02><d 4300><a 42><n 1F>
 coisa parecida lá fora.
 Você não pode entrar no
-Acampamento de Caçador
+nosso acampamento
 <--------------------->
 
 <p 02><d 4400><a 42><n 1F>
@@ -550,8 +550,8 @@ Como vai?
 
 <p 02><a 48><n 36>
 Sou uma Operadora em
-treinamento aqui no
-Acampamento de Caçador.
+treinamento, no Acampa-
+mento dos Caçadores.
 <--------------------->
 
 <p 02><a 48><n 36>
@@ -566,7 +566,8 @@ algumas coisas.
 
 <p 02><a 48><n 36>
 Esse dispositivo é
-chamado de Ponto Warp.
+chamado de Ponto de
+Teleporte.
 <--------------------->
 
 <p 02><a 48><n 36>
@@ -576,16 +577,17 @@ qualquer hora
 <--------------------->
 
 para ir aonde quer que
-haja um Ponto Warp.
+haja um Ponto de
+Teleporte.
 <--------------------->
 
 <p 02><a 48><n 36>
-Mas parece que esse não
+Mas parece que não
 está funcionando,
 <--------------------->
 
-porque está tudo
-desligado.
+porque esse ponto está
+desativado.
 <--------------------->
 
 <p 02><a 48><n 36>
@@ -594,11 +596,11 @@ o bastante, você pode
 pressionar pra cima no
 <--------------------->
 
-<dpad> e iniciá-lo.
+<dpad> e ativá-lo.
 <--------------------->
 
 <p 02><a 48><n 36>
-Vamos iniciar esse aqui
+Vamos ativar esse aqui
 nesse momento.
 <*********************>
 
@@ -619,14 +621,14 @@ o mapa pra ver quais
 <--------------------->
 
 <p 02><a 48><n 36>
-Quando você iniciar o
-Ponto Warp, a área
-irá acender vermelho.
+Quando ativar o Ponto
+de Teleporte, piscará
+em vermelho no mapa.
 <--------------------->
 
-Então, você será capaz
-de encontrá-lo de
-imediato.
+Assim, você será capaz
+de vê-lo facilmente
+na tela.
 <--------------------->
 
 <p 02><a 48><n 36>
@@ -641,11 +643,11 @@ treinamento.
 
 <p 02><a 48><n 36>
 Além disso, no Modo
-Iniciante, tudo que
-tem que fazer é tocá-lo
+Iniciante, basta tocar
+no Ponto de Teleporte
 <--------------------->
 
-e ele irá iniciar
+e ele será ativado
 automaticamente!
 <--------------------->
 

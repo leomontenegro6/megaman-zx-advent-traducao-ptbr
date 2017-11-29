@@ -349,7 +349,7 @@ para receber o poder.
 <*********************>
 
 <p 03><d C701><a 0E><n 02>
-*gulp* ...Modelo A...
+Glup! ...Modelo A...
 O que aconteceu
 comigo...
 <*********************>
@@ -400,9 +400,9 @@ de nossos rapazes
 <--------------------->
 
 <d D001>
-para o Acampamento de
-Caçador para fazer os
-reparos.
+para o Acampamento dos
+Caçadores, pra fazer
+os reparos.
 <--------------------->
 
 <p 03><d D101><a 41><n 20>
@@ -424,7 +424,7 @@ de recompensa.
 <--------------------->
 
 <p 02><d D401><a 6B><n 15>
-*risada* Parece que
+Ré, ré! Parece que
 você tem um seguidor.
 <--------------------->
 

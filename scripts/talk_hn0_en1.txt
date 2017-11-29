@@ -7,7 +7,7 @@ Caçador que todo mundo
 tem falado?
 <--------------------->
 
-Oh, peço desculpas. Foi
+Ah, peço desculpas. Foi
 rude da minha parte não
 me apresentar primeiro.
 <--------------------->
@@ -50,7 +50,7 @@ algumas escavações
 nesses
 <--------------------->
 
-Replóides chamados
+replóides chamados
 Pseudoróides.
 <--------------------->
 
@@ -71,14 +71,14 @@ vida. Assustador...
 <p 02><a 43><n 2B>
 Ainda não consigo
 acreditar que Albert,
-um dos Trindade Sábias,
 <--------------------->
 
-foi quem criou o Modelo
-W.
+um dos membros da
+Trindade Sábia, foi
+quem criou o Modelo W.
 <--------------------->
 
-Não é novidade que haja
+Não é novidade haver
 todos esses Mavericks
 ultimamente.
 <--------------------->
@@ -87,7 +87,7 @@ Como repórter, tenho a
 responsabilidade
 <--------------------->
 
-de descobrir e reportar
+de descobrir e relatar
 os fatos.
 <--------------------->
 
@@ -141,9 +141,9 @@ seus sonhos é meio
 constrangedor, não é?
 <--------------------->
 
-Meu rosto provavelmente
-está vermelho brilhante
-agora.
+Meu rosto deve estar
+vermelho, de tanta
+vergonha!
 <--------------------->
 
 Sim, como esta maçã.
@@ -280,7 +280,7 @@ Diálogo de Boneco
 <p 02><a 46><n 44>
 Ora, parece que você
 finalmente mudou de
-idéia sobre reciclagem.
+ideia sobre reciclagem.
 <--------------------->
 
 Sabe, há algumas
@@ -335,7 +335,7 @@ para a destruição.
 <p 02><a 46><n 44>
 Ora, parece que você
 finalmente mudou de
-idéia sobre reciclagem.
+ideia sobre reciclagem.
 <--------------------->
 
 Sabe, há algumas
@@ -388,7 +388,7 @@ para a destruição.
 <*********************>
 
 <p 02><a 47><n 3E>
-*gasp!* Você não é o
+Eita! Você não é o
 Escolhido do Modelo A?
 <--------------------->
 
@@ -400,7 +400,7 @@ Eles me chamam de John!
 <--------------------->
 
 Nunca pensei que veria
-um Mega Man em um reles
+um Mega Man num reles
 acampamento como esse.
 <--------------------->
 
@@ -520,7 +520,7 @@ isso comigo, é!?
 <--------------------->
 
 Bem, basta me avisar se
-você mudar de idéia.
+você mudar de ideia.
 <*********************>
 
 
@@ -550,9 +550,9 @@ Cristais suficientes!
 <*********************>
 
 <p 02><a 48><n 36>
-OK, explicarei mais uma
-vez. Esse dispositivo é
-chamado de Ponto Warp.
+OK, explicarei de novo.
+Esse dispositivo é um
+Ponto de Teleporte.
 <--------------------->
 
 Você pode usar o
@@ -561,15 +561,16 @@ qualquer hora
 <--------------------->
 
 para ir aonde quer que
-haja um Ponto Warp.
+haja um Ponto de
+Teleporte.
 <--------------------->
 
-Mas parece que esse não
+Mas parece que não
 está funcionando,
 <--------------------->
 
-porque está tudo
-desligado.
+porque esse ponto está
+desativado.
 <--------------------->
 
 Se tiver Cristais
@@ -578,7 +579,7 @@ o bastante,
 
 você pode pressionar
 pra cima no <dpad> e
-iniciá-lo.
+ativá-lo.
 <--------------------->
 
 Você pode olhar para
@@ -586,14 +587,14 @@ o mapa pra ver quais
 áreas são acessíveis.
 <--------------------->
 
-Quando você iniciar o
-Ponto Warp, a área
-irá acender vermelho.
+Quando ativar o Ponto
+de Teleporte, piscará
+em vermelho no mapa.
 <--------------------->
 
-Então, você será capaz
-de encontrá-lo de
-imediato.
+Assim, você será capaz
+de vê-lo facilmente
+na tela.
 <--------------------->
 
 Gostaria de saber se
@@ -610,7 +611,7 @@ Iniciante, tudo que
 tem que fazer é tocá-lo
 <--------------------->
 
-e ele irá iniciar
+e ele será ativado
 automaticamente!
 <--------------------->
 
@@ -620,8 +621,8 @@ pergunte de novo, OK?
 <*********************>
 
 <p 02><a 48><n 36>
-Só pode se transportar
-para um Ponto Warp por
+Só pode acessar Pontos
+de Teleporte através de
 um transervidor.
 <--------------------->
 
@@ -633,12 +634,12 @@ Ou toque na área que
 você quer ir no mapa
 <--------------------->
 
-na tela inferior ou
+da tela inferior, ou
 use o <dpad> para mover o
 cursor
 <--------------------->
 
-e destaque-o!
+e marque-o!
 <--------------------->
 
 Destinos de transporte
@@ -646,13 +647,13 @@ acessíveis estarão
 piscando vermelho,
 <--------------------->
 
-por isso eles são
-fáceis de detectar!
+então serão fáceis de
+você achar!
 <*********************>
 
 <p 02><a 48><n 36>
-Só pode se transportar
-para um Ponto Warp por
+Só pode acessar Pontos
+de Teleporte através de
 um transervidor.
 <--------------------->
 
@@ -664,12 +665,12 @@ Ou toque na área que
 você quer ir no mapa
 <--------------------->
 
-na tela inferior ou
+da tela inferior ou
 use o <dpad> para mover o
 cursor
 <--------------------->
 
-e destaque-o!
+e marque-o!
 <--------------------->
 
 Destinos de transporte
@@ -677,21 +678,22 @@ acessíveis estarão
 piscando vermelho,
 <--------------------->
 
-por isso eles são
-fáceis de detectar!
+então serão fáceis de
+você achar!
 <*********************>
 
 <p 02><a 48><n 36>
-Possui Pontos Warp
-para ligar?
+Você tem ativado os
+Pontos de Teleporte
+no mapa?
 <--------------------->
 
-Você pode precisar
+Talvez você precise
 voltar em certas áreas,
 <--------------------->
 
 por isso é uma boa
-idéia ligá-los.
+ideia ativá-los.
 <--------------------->
 
 Cerifique-se de checar
@@ -699,7 +701,7 @@ seu mapa quando novos
 destinos de transporte
 <--------------------->
 
-estiverem adicionados a
+forem adicionados a
 um transervidor.
 Porque, algumas vezes
 <--------------------->
@@ -709,7 +711,8 @@ o cursor mostrará uma
 pela primeira vez!
 <--------------------->
 
-Fique de olho nelas!
+Fique de olho nos
+novos locais!
 <*********************>
 
 <p 02><a 48><n 36>
@@ -786,7 +789,7 @@ potência,
 
 você só pode usá-lo pra
 voltar ao Acampamento
-de Caçador.
+dos Caçadores.
 <*********************>
 
 <p 02><e 63><a 49><n 43>
@@ -974,7 +977,7 @@ A propósito, o trem já
 está consertado?
 <--------------------->
 
-*suspiro* Não posso
+Uff! Não posso
 voltar e nem comprar
 mais nenhuma HQ
 <--------------------->

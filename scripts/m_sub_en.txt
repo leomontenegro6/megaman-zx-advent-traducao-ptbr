@@ -1946,9 +1946,9 @@ Pressione <nome>.
 <*********************>
 
 
-Você pode personalizar o
-layout de ícones de A-Trans
-da Tela de Transformação.
+Pode customizar o layout
+de ícones de A-Trans da
+Tela de Transformação.
 Toque no ícone que deseja
 mover e seu destino.
 <*********************>

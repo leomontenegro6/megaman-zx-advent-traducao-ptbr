@@ -37,8 +37,8 @@ as nações.
 
 <p 02><d AE00><a 42><n 1F>
 Fazem leis que governam
-a vida dos Humanos e
-Replóides. 
+a vida dos humanos e
+replóides. 
 <--------------------->
 
 <d AF00>
@@ -137,7 +137,7 @@ pestinha miserável?
 
 <p 01><p 02><d C100><a 28><n 04>
 Minhas desculpas,
-Prometeus.
+Prometeu.
 <--------------------->
 
 <p 01><p 03><d C200><a 25><n 03>
@@ -212,7 +212,7 @@ Mega Man... Modelo A!
 <--------------------->
 
 <p 02><d D000><a 26><n 03>
-*gargalhada* Bem, isso
+Rá, rá, rá! Bem, isso
 não é uma surpresa!
 Só nosso Defeituoso
 <--------------------->
@@ -230,7 +230,7 @@ joguinho.
 <--------------------->
 
 <p 02><d D300><a 28><n 04>
-Prometeus...
+Prometeu...
 Não é aquele garoto...?
 <--------------------->
 
@@ -317,7 +317,7 @@ Combinado?
 <*********************>
 
 <p 03><d E300><a 36><n 00>
-*grunhido* *grunhido*!!
+Grrr!!! Grrr!!!
 <*********************>
 
 <p 03><d E400><a 36><n 00>
@@ -358,7 +358,7 @@ Eu ser Buckfire!
 
 <p 03><d EA00><a 36><n 08>
 Você está longe de
-Prometeus e Pandora,
+Prometeu e Pandora,
 mas não de mim!
 <--------------------->
 
@@ -369,7 +369,7 @@ surrará no chão!
 <*********************>
 
 <p 03><d EC00><a 36><n 08>
-*grunhido* *grunhido*!!
+Grrr!!! Grrr!!!
 Sem piedade para trai-
 dores! Essa é a regra!
 <*********************>
@@ -390,7 +390,7 @@ acontecer?
 <--------------------->
 
 <p 02><d F000><a 6B><n 15>
-*gargalhada* Você quer
+Rá, rá, rá! Você quer
 ver alguma coisa legal?
 <--------------------->
 
@@ -429,13 +429,13 @@ fui criado.
 <--------------------->
 
 <p 02><d F800><a 6B><n 15>
-Esse trem está todo
+Esse trem tá todo
 lascado. Vamos voltar
-para o acampamento
+pro acampamento
 <--------------------->
 
 <p 02><d F900><a 6B><n 15>
-e descobrir outro modo
+e achar outro jeito
 de chegar ao Quartel
 General da Legião.
 <--------------------->
@@ -469,7 +469,7 @@ estão feridas!
 <p 02><d FF00><a 6B><n 15>
 O quê? Esqueça aqueles
 Caçadores e vamos
-voltar ao acampamento.
+voltar pro acampamento.
 <--------------------->
 
 <p 02><d 0001><a 0A><n 01>
@@ -544,7 +544,7 @@ caras?
 <*********************>
 
 <p 02><d 0F01><a 1C><n 00>
-*risada* "Esses caras,"
+Ré, ré! "Esses caras,"
 hã? Acho realmente que
 você perdeu a memória.
 <*********************>
@@ -712,7 +712,7 @@ neles,
 <--------------------->
 
 tente apertar o Botão
-de Dash para passar
+de Impulso para passar
 por baixo deles.
 <*********************>
 
@@ -743,8 +743,8 @@ arrebentar isso!
 
 <p 02><a 6B><n 15>
 Tente segurar o Botão
-de Tiro de Buster e
-então libere-o.
+de Tiro da Pistola, e
+então solte-o.
 <--------------------->
 
 <p 02><a 6B><n 15>

@@ -22,7 +22,7 @@ surpreso, Grey?
 <*********************>
 
 <p 03><d 3504><a 1F><n 05>
-Tem alguma idéia de
+Tem alguma ideia de
 quanto tempo tenho
 investido nesse plano?
 <--------------------->
@@ -43,7 +43,7 @@ Sem chance.
 <*********************>
 
 <p 02><d 3904><a 0F><n 01>
-Prometeus!
+Prometeu!
 Pandora!
 <--------------------->
 
@@ -170,7 +170,7 @@ terminar...
 <--------------------->
 
 <p 03><d 5104><a 25><n 03>
-*risada* O que você
+Ré, ré! O que você
 está falando... Não
 acabou ainda...!
 <*********************>
@@ -302,7 +302,7 @@ estão acordados!
 <*********************>
 
 <p 01><p 03><d 6A04><a 21><n 00>
-Prometeus...
+Prometeu...
 Pandora...
 <--------------------->
 
@@ -331,7 +331,7 @@ ser... Mestre Albert!
 <p 01><p 02><d 6F04><a 6B><n 15>
 Então quem foi que
 derrotou o
-Prometeus...!?
+Prometeu...!?
 <--------------------->
 
 <p 01><p 03><d 7004><a 21><n 05>
@@ -379,7 +379,7 @@ apressar e sair daqui!
 <--------------------->
 
 <p 02><d 7804><a 0B><n 01>
-Mas Prometeus e
+Mas Prometeu e
 Pandora...!
 <--------------------->
 

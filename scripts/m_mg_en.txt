@@ -18,18 +18,18 @@ Quiz Advent
 <*********************>
 
 
-Um Mega Man
+Mega Man a
 <*********************>
 
 
-Entre 2 jóias de sanduíche
-da mesma cor, uma será
-eliminada. Combine blocos
+Junte três jóias de uma
+mesma cor, para que sejam
+eliminadas. Combine blocos
 negros com outros blocos
 negros. Combinações só são
 possíveis com blocos que
-caem. *Só joga em rede
-ad-hoc.
+caem.
+*Apenas em rede ad-hoc.
 <*********************>
 
 
@@ -56,27 +56,27 @@ sub-tanques.
 
 
 Responda a uma série de
-perguntas dadas pelos
-personagens no jogo,
-tocando a tela inferior.
-Existem 3 tipos de
-Quizzes: o Quiz de Zoom,
-o Quiz de Contorno, e o
-Quiz de Gap.
+perguntas na forma de
+adivinhações de personagens
+do jogo, tocando a tela de
+baixo. Há 3 tipos de Quiz
+ao todo: o Quiz de Zoom,
+o Quiz de Silhueta, e o
+Quiz de Abertura.
 <*********************>
 
 
-Jogue este mini jogo com
-um Mega Man (antigo).
+Jogue este mini game com
+Mega Man a (ancião).
 O jogador só pode usar o
-tiro do Buster. Deslizar
+tiro da Pistola. Deslizar
 pode ser executado com o
-botão de Dash.
+botão de Impulso.
 <*********************>
 
 
 Você não pode jogar este
-mini jogo se não tiver
+mini game se não tiver
 dados salvos.
 <*********************>
 
@@ -85,7 +85,7 @@ Criar partida
 <*********************>
 
 
-Participar de uma partida
+Entrar em partida
 <*********************>
 
 

@@ -17,8 +17,9 @@ receber confirmação de
 atividade do Modelo W
 <--------------------->
 
-na Pedreira no
-Acampamento de Caçador.
+na Pedreira, próxima
+ao Acampamento dos
+Caçadores.
 <--------------------->
 
 <p 02><a 02><n 06>
@@ -99,7 +100,7 @@ Ela é um Mega Man!?
 <--------------------->
 
 <p 03><d 0E03><a 0B><n 01>
-*gulp* Afaste-se desse
+Glup! Afaste-se desse
 Modelo W!
 <--------------------->
 
@@ -132,7 +133,7 @@ um Mega Man!
 <*********************>
 
 <p 00><p 03><d 1703><a 19><n 19>
-Prometeus falou que o
+Prometeu falou que o
 Jogo do Destino ainda
 está em andamento. 
 <--------------------->
@@ -469,7 +470,7 @@ conversar no caminho.
 <p 03><d 4903><a 17><n 19>
 Então deixe-me ver se
 entendi. Mestre Albert,
-Prometeus,
+Prometeu,
 <--------------------->
 
 <p 03><d 4A03><a 17><n 19>

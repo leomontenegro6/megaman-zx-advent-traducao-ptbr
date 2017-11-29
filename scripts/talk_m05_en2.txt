@@ -169,7 +169,7 @@ espinhos!
 <*********************>
 
 <p 03><d 7201><a 3F><n 0A>
-*resmungo* Coragem!
+Argh! Coragem!
 Essa força... Como!?
 <--------------------->
 
@@ -179,7 +179,7 @@ murchando! Ieeeargh!
 <*********************>
 
 <p 02><d 7401><a 40><n 21>
-*Ugh* Vocês são uma das
+Ugh! Vocês são uma das
 gangues que atacaram
 nosso dirigível,
 <--------------------->
@@ -263,7 +263,7 @@ Mega Mans
 <--------------------->
 
 <d 8401>
-que Prometeus estava
+que Prometeu estava
 falando!?
 <--------------------->
 

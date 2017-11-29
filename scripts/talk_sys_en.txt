@@ -685,19 +685,19 @@ Transportar?
 <*********************>
 
 <e 63><a 05><n 5F>
-Ponto Warp: Gratuito
+P. Teleporte: Gratuito
   Ativar
   Sair
 <*********************>
 
 <e 63><a 05><n 5F>
-Ponto Warp: 100 CE
+P. Teleporte: 100 CE
   Ativar
   Sair
 <*********************>
 
 <e 63><a 05><n 5F>
-Ponto Warp: 500 CE
+P. Teleporte: 500 CE
   Ativar
   Sair
 <*********************>
@@ -705,13 +705,13 @@ Ponto Warp: 500 CE
 <a 05><n 5F>
 Você precisa de 100 CE
 para ativar esse Ponto
-Warp.
+de Teleporte.
 <*********************>
 
 <a 05><n 5F>
 Você precisa de 500 CE
 para ativar esse Ponto
-Warp.
+de Teleporte.
 <*********************>
 
 <e 63><a 5B><n 48>
@@ -721,7 +721,7 @@ Ver a Base de Dados?
 <*********************>
 
 <p 01><a 05><n 5C>
-Modo Expert está
+Modo Perito está
 desponível agora!
 <*********************>
 
@@ -742,20 +742,20 @@ Salvar jogo finalizado?
 <*********************>
 
 <p 01><a 05><n 5C>
-Mini Jogo:
+Mini Game:
 Quiz Advent
 foi desbloqueado.
 <*********************>
 
 <p 01><a 05><n 5C>
-Mini Jogo:
+Mini Game:
 Via da Sobrevivência
 foi desbloqueado.
-<*********************>
+<*********************>jogue
 
 <p 01><a 05><n 5C>
-Mini Jogo:
-Um Mega Man
+Mini Game:
+Mega Man a
 foi desbloqueado.
 <*********************>
 

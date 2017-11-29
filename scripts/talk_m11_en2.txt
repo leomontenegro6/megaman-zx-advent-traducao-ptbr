@@ -54,9 +54,9 @@ O-O que é isso...?
 <--------------------->
 
 <p 01><p 02><d 9604><a 10><n 18>
-Ela pertence a mim e a
-minha equipe... Ela é a
-Base da Guardiã!
+Pertence a mim e à
+minha equipe... É o
+QG dos Guardiões!
 <--------------------->
 
 <p 01><p 02><d 9704><a 10><n 18>
@@ -65,7 +65,7 @@ podemos fazer...
 <--------------------->
 
 <d 9804>
-Use a Base da Guardiã
+Usar o QG dos Guardiões
 para revelar Uróboro.
 <--------------------->
 
@@ -176,8 +176,8 @@ para sabe lá aonde!
 
 <p 03><d AD04><a 13><n 18>
 Cabe a todos vocês
-defenderem a Base da
-Guardiã!
+defenderem o QG dos
+Guardiões!
 <--------------------->
 
 <p 03><d AE04><a 13><n 18>
@@ -354,7 +354,7 @@ realmente é.
 <*********************>
 
 <p 03><d CF04><a 36><n 08>
-*grunhido* *grunhido*!!
+Grrr!!! Grrr!!!
 <*********************>
 
 <p 03><d D004><a 36><n 08>
@@ -379,7 +379,7 @@ a punição... do Rei!
 <*********************>
 
 <p 03><d D404><a 37><n 09>
-*Ha ha ha* Devemos
+Rá, rá, rá! Devemos
 iniciar nossos momentos
 de alegria juntos?
 <--------------------->
@@ -407,7 +407,7 @@ de uma nova era...!
 <*********************>
 
 <p 02><d D904><a 3E><n 0A>
-*suspiro* Esperava que
+Ufa! Esperava que
 eu não fosse vê-lo
 novamente...
 <--------------------->
@@ -1222,7 +1222,7 @@ com isso!?
 <--------------------->
 
 <p 03><d 7805><a 09><n 02>
-*risada* Obrigada,
+Ré, ré! Obrigada,
 Modelo A. Por se
 preocupar comigo.
 <--------------------->
@@ -1290,9 +1290,9 @@ agora?
 <--------------------->
 
 <p 02><d 8505><a 10><n 18>
-Quero ir ao redor do
-mundo na Base da
-Guardiã.
+Quero viajar ao redor
+do mundo no QG dos
+Guardiões...
 <--------------------->
 
 <d 8605>

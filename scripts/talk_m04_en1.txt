@@ -31,7 +31,7 @@ atravessar.
 <*********************>
 
 <p 03><d 3401><a 2A><n 00>
-Prometeus disse que
+Prometeu disse que
 encontrou alguém
 interessante.
 <--------------------->
@@ -58,7 +58,7 @@ povo!?
 <*********************>
 
 <p 03><d 3901><a 31><n 00>
-Prometeus não te disse
+Prometeu não te disse
 que conheceu outros
 Mega Mans?
 <--------------------->
@@ -127,7 +127,7 @@ banho gelado.
 <*********************>
 
 <p 03><d 4601><a 37><n 00>
-*Ha ha ha* Bem-vindo ao
+Rá, rá! Bem-vindo ao
 meu mundo sub-zero onde
 até o tempo congela!
 <--------------------->
@@ -215,9 +215,9 @@ ao redor da água, e
 pressione o
 <--------------------->
 
-Botão de Dash para se
-impulsionar rapidamente
-através do mesmo.
+Botão de Impulso para
+impulsionar-se
+rapidamente.
 <--------------------->
 
 <p 02><a 6B><n 15>
