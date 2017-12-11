@@ -7,13 +7,13 @@ Chamam-me de James.
 
 <p 02><a 46><n 44>
 Sim... Aliás quero que
-você me traga alguma
-sucata para reciclar.
+ocê me traga alguma
+sucata pra reciclar.
 <--------------------->
 
 E eu o transformarei em
 um proveitoso depósito
-pra você.
+pra ocê.
 <--------------------->
 
 Claro, ele vai te
@@ -21,21 +21,21 @@ custar uma grana.
 <*********************>
 
 <p 02><a 46><n 44>
-O que foi? Por que você
-está me olhando desse
+O que foi? Por que ocê
+tá me oiando desse
 jeito?
 <--------------------->
 
-Aposto que você é um
-desses idiotas que
+Aposto que ocê é um
+desses idiota que
 pensam que
 <--------------------->
 
-lixo só serve para ser
+lixo só serve pra ser
 jogado fora.
 <--------------------->
 
-Dê uma olhada naquela
+Dê uma oiada naquela
 sucata de ferro ali.
 <--------------------->
 
@@ -43,12 +43,12 @@ Não há muito dele
 agora,
 <--------------------->
 
-Mas aposto que você não
+Mas aposto que ocê não
 sabe se recolheu o
 suficiente dele,
 <--------------------->
 
-você pode usá-lo para
+Ocê pode usá-lo pra
 fazer uma parte de
 reposição de corpo.
 <--------------------->
@@ -57,7 +57,7 @@ Isso se chama
 reciclagem consciente.
 <--------------------->
 
-Mas você não sabe
+Mas ocê não sabe
 nada sobre isso, sabe?
 <*********************>
 
@@ -67,9 +67,9 @@ tem liga de titânio
 nelas.
 <--------------------->
 
-Posso reciclar isso em
-um depósito bacana pra
-você,
+Posso reciclar isso
+num depósito bacana
+pra ocê,
 <--------------------->
 
 mas isso te custará
@@ -84,7 +84,7 @@ Quer reciclar isso?
 
 <p 02><a 46><n 44>
 Tudo bem, vou te
-entregar isso em um
+entregar isso num
 instante.
 <*********************>
 
@@ -98,12 +98,12 @@ de mais depósitos,
 <--------------------->
 
 basta me trazer mais
-alguma sucata para
+alguma sucata pra
 reciclar.
 <*********************>
 
 <p 02><a 46><n 44>
-Você não tem dinheiro
+Ocê não tem dinheiro
 suficiente, seu
 mendicante.
 <*********************>
@@ -113,25 +113,24 @@ Escutou alguma palavra
 arrogante que eu disse?
 <--------------------->
 
-Isso é só o que estou
-dizendo. Esses jovens
-mimados
+Isso é só o que eu tô
+dizendo. Esses jovem
+mimado
 <--------------------->
 
 de hoje simplesmente
 não sabem reciclar.
-Saia da minha frente!
+Sai da minha frente!
 <*********************>
 
 <p 02><a 46><n 44>
-Bem, parece que você
+Bem, parece que ocê
 finalmente mudou de
 ideia sobre reciclagem.
 <--------------------->
 
-Sabe, há algumas
-pessoas que nunca vão
-mudar..
+Sabe, tem pessoas que
+nunca vão mudar...
 <--------------------->
 
 Elas simplesmente não
@@ -160,28 +159,28 @@ Esses Mecanilóides aqui
 ao redor,
 <--------------------->
 
-eles vêm de todo o lixo
-que as pessoas jogam
-fora.
+eles vêm de todo o
+lixo que as pessoa
+joga fora.
 <--------------------->
 
-Você sabe o que
+Ocê sabe o que
 significa? Pessoas,
 <--------------------->
 
 aquelas que jogaram
 fora esse lixo, pelas
-suas próprias mãos,
+suas própria mão,
 <--------------------->
 
-colocam-se no caminho
-para a destruição.
+se colocam no caminho
+pra destruição.
 <*********************>
 
 <p 02><a 46><n 44>
-A próposito, o que você
+A próposito, o que ocê
 fez com o impulsionador
-que eu fiz pra você?
+que eu fiz pra ocê?
 <--------------------->
 
 Então encontrou alguma
@@ -189,32 +188,32 @@ utilidade pra ele,
 hein? Faça bom uso.
 <--------------------->
 
-Se você precisar agora
+Se ocê precisar agora
 de mais depósitos, é
-como eu disse antes, 
+como eu disse antes,
 <--------------------->
 
-traga-me alguma sucata
+me traga alguma sucata
 boa.
 <--------------------->
 
-E eu o transformarei em
-um proveitoso depósito
-pra você.
+E eu a transformarei
+num proveitoso depósito
+pra ocê.
 <*********************>
 
 <p 02><a 46><n 44>
-O que foi? Por que você
-está me olhando desse
+O que foi? Por que ocê
+tá me oiando desse
 jeito?
 <--------------------->
 
-Haa, você esqueceu onde
-está o material pra
-fazer o impulsionador.
+Haa, ocê esqueceu onde
+tá o material pra fazer
+o impulsionador.
 <--------------------->
 
-Digo a você, encontrar
+Digo a ocê, encontrar
 sucata que deseja não
 é tão fácil como pensa.
 <--------------------->
@@ -224,8 +223,8 @@ cantos do Ferro-Velho 2
 e 3.
 <--------------------->
 
-Tenho fé em você,
-filho.
+Tenho fé em ocê,
+fi.
 <*********************>
 
 <p 02><a 46><n 44>
@@ -255,7 +254,7 @@ de mais depósitos,
 <--------------------->
 
 basta me trazer mais
-alguma sucata para
+alguma sucata pra
 reciclar.
 <*********************>
 
