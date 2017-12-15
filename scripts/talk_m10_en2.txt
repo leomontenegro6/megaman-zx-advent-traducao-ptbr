@@ -17,7 +17,7 @@ todos os Modelos W?!
 <*********************>
 
 <p 03><d 3404><a 20><n 05>
-Hahaha... Você está
+Rá, rá, rá... Você está
 surpresa, Ashe?
 <*********************>
 
@@ -210,8 +210,9 @@ vai acabar. Tudo...
 <--------------------->
 
 <p 03><d 5804><a 26><n 03>
-HAHAHAHAHA! Receba seu
-castiiigo! Queeeeeeime!
+RÁ, RÁ, RÁ, RÁ, RÁ!
+Receba seu castiiigo!
+Queeeeeeime!
 <*********************>
 
 <p 02><d 5904><a 0B><n 02>
@@ -401,7 +402,8 @@ Pandora...!
 <*********************>
 
 <p 03><d 7C04><a 22><n 05>
-HAHAHAHAHAHAHA!
+RÁ, RÁ, RÁ, RÁ,
+RÁ, RÁ, RÁ!
 <*********************>
 
 <p 03><d 7D04><a 42><n 1F>

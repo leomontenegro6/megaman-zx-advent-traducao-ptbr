@@ -19,7 +19,7 @@ enrolando.
 <--------------------->
 
 <p 03><d AA00><a 42><n 1F>
-Haha, é bom ter uma
+Rá, rá! É bom ter uma
 garota por perto.
 <--------------------->
 
@@ -580,8 +580,8 @@ elas querem?
 <*********************>
 
 <p 02><d 0F01><a 1C><n 00>
-Hahaha, ouvimos que
-você era uma
+Rá, rá, rá! Ouvimos
+que você era uma
 mal-humorada.
 <--------------------->
 

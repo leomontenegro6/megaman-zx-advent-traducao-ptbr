@@ -942,7 +942,7 @@ não pode ser mudado!
 <p 02><d 4805><a 0A><n 01>
 Mesmo se você não mudar
 esse mundo, fazemos o
-nosso prórprio destino!
+nosso próprio destino!
 <--------------------->
 
 <p 02><d 4905><a 0B><n 01>

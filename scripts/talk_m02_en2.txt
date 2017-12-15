@@ -51,7 +51,7 @@ humanos.
 <--------------------->
 
 <p 03><d 5400><a 74><n 1D>
-Ha! Isso é bom! Aposto
+Rá! Isso é bom! Aposto
 que a Legião tem um
 enorme prêmio por isso.
 <--------------------->

@@ -758,9 +758,8 @@ Sawood
 Esse Mecanilóide parece uma
 serra circular. Preso nas
 paredes, ele pode mover-se
-livremente. Esse Mecha
-costumava ser usado para
-cortar madeira.
+livremente. Costumava ser
+usado para cortar madeira.
 <*********************>
 
 
