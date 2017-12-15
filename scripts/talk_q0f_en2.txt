@@ -3,7 +3,7 @@
 
 <p 02><a 4C><n 31>
 Desde criança, eu
-queria ter um tem de
+queria ter um trem de
 brinquedo.
 <--------------------->
 
@@ -24,7 +24,7 @@ procurar um pra mim?
 
 <p 02><a 4C><n 31>
 Desde criança, eu
-queria ter um tem de
+queria ter um trem de
 brinquedo.
 <--------------------->
 
@@ -45,7 +45,7 @@ procurar um pra mim?
 
 <p 02><a 4C><n 31>
 Desde criança, eu
-queria ter um tem de
+queria ter um trem de
 brinquedo.
 <--------------------->
 
@@ -66,7 +66,7 @@ procurar um pra mim?
 
 <p 02><a 4C><n 31>
 Desde criança, eu
-queria ter um tem de
+queria ter um trem de
 brinquedo.
 <--------------------->
 
@@ -87,7 +87,7 @@ procurar um pra mim?
 
 <p 02><a 4C><n 31>
 Desde criança, eu
-queria ter um tem de
+queria ter um trem de
 brinquedo.
 <--------------------->
 
@@ -108,7 +108,7 @@ procurar um pra mim?
 
 <p 02><a 4C><n 31>
 Desde criança, eu
-queria ter um tem de
+queria ter um trem de
 brinquedo.
 <--------------------->
 
@@ -129,8 +129,8 @@ procurar um pra mim?
 
 <p 02><a 4C><n 31>
 Gostaria de saber se no
-Acampamento de Caçador
-poderia ter um.
+Acampamento de Caçado-
+res poderia ter um.
 <--------------------->
 
 <p 02><a 4C><n 31>

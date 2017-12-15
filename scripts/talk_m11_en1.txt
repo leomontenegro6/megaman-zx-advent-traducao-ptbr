@@ -31,7 +31,7 @@ continuam chegando.
 <p 03><d 9004><a 0D><n 01>
 Não restou mais
 dirigíveis... O que
-devemos fazer!?
+devemos fazer?!
 <*********************>
 
 <p 01><p 02><d 9204><a 16><n 19>
@@ -92,7 +92,7 @@ de ação também!
 <p 02><d 9D04><a 42><n 49>
 Acha que a recompensa
 pode ser em grande
-quantia!?
+quantia?!
 <--------------------->
 
 <p 02><d 9E04><a 42><n 49>
@@ -155,7 +155,7 @@ Todo mundo...!
 <p 02><d A904><a 16><n 19>
 Você quer encontrar
 algo que vale a pena
-proteger, certo!?
+proteger, certo?!
 <*********************>
 
 <p 02><d AA04><a 17><n 19>
@@ -181,7 +181,7 @@ Guardiões!
 
 <p 03><d AE04><a 19><n 19>
 Estamos indo para casa
-vitoriosos, entendido!?
+vitoriosos, entendido?!
 <*********************>
 
 <p 03><d AF04><a 18><n 19>
@@ -278,7 +278,7 @@ perecerá!
 <*********************>
 
 <p 02><d C204><a 6B><n 15>
-A-Trans...!?
+A-Trans...?!
 <--------------------->
 
 <p 02><d C304><a 0F><n 01>
@@ -418,7 +418,7 @@ elevando Mega Man Rei!
 
 <p 03><d DD04><a 3F><n 0A>
 Oh... Por que...
-recusou...!?
+recusou...?!
 <--------------------->
 
 <d DE04><n 0A>
@@ -507,7 +507,7 @@ num grande lago.
 
 <p 03><d EE04><a 3A><n 10>
 Então, facilite as
-coisas para você mesmo
+coisas para si mesmo
 <--------------------->
 
 <d EF04>
@@ -568,7 +568,7 @@ passar.
 <--------------------->
 
 <p 02><d F904><a 3C><n 0E>
-*grunhido*
+Grrr!!!
 <--------------------->
 
 <p 03><d FA04><a 3B><n 0D>
@@ -598,7 +598,7 @@ passar de novo!
 <--------------------->
 
 <p 02><d FF04><a 3C><n 0E>
-*grunhido*
+Grrr!!!
 <*********************>
 
 <p 03><d 0005><a 3B><n 0D>
@@ -607,8 +607,8 @@ passar...
 <--------------------->
 
 <d 0105>
-Nos atiramos diante de
-seus pés...!
+Nós nos atiramos diante
+de seus pés...!
 <--------------------->
 
 <p 02><d 0205><a 3C><n 0E>
@@ -660,7 +660,7 @@ rei desde o princípio!
 <d 0B05>
 Então por que vocês
 ainda insistem em
-lutar!?
+lutar?!
 <--------------------->
 
 <p 03><d 0C05><a 34><n 11>
@@ -774,8 +774,8 @@ identidade, Grey.
 <--------------------->
 
 <p 02><d 2205><a 0A><n 01>
-Eu...!? Um Mega Man
-Definitivo reserva!?
+Eu...?! Um Mega Man
+Definitivo reserva?!
 <--------------------->
 
 <p 03><d 2305><a 21><n 05>
@@ -885,7 +885,7 @@ futuro vazio...
 <p 02><d 3B05><a 0B><n 01>
 Então, decidiu
 tornar-se
-governante...!?
+governante...?!
 <--------------------->
 
 <p 03><d 3D05><a 21><n 05>
@@ -908,7 +908,7 @@ proteger seu futuro.
 <p 02><d 4105><a 0B><n 01>
 Não me faça rir! Então
 você acha que agora é
-um deus ou algo assim!?
+um deus ou algo assim?!
 <*********************>
 
 <p 01><p 03><d 4305><a 23><n 05>
@@ -1070,7 +1070,7 @@ segurá-los.
 
 <p 03><d 6305><a 1B><n 19>
 Não... do que você está
-falando!? Não seja
+falando?! Não seja
 louco, Modelo Z!
 <--------------------->
 
@@ -1110,7 +1110,7 @@ Biometais do que vocês.
 <--------------------->
 
 <p 02><d 6B05><a 32><n 12>
-Agh... O que!? Meu...
+Agh... O quê?! Meu...
 corpo... se sente...
 pesado... Modelo L...!
 <--------------------->
@@ -1121,7 +1121,7 @@ Biometal!
 
 <p 02><d 6D05><a 2F><n 14>
 INCOMPREENSÍVEL...!
-INCOMPREENSÍVEL...!?
+INCOMPREENSÍVEL...?!
 <*********************>
 
 <p 03><d 6E05><a 6D><n 17>
@@ -1163,7 +1163,7 @@ com alguém?
 
 <p 02><d 7605><a 6B><n 15>
 T-Tem algum problema
-com isso!? Eu só podia
+com isso?! Eu só podia
 observar e esperar.
 <--------------------->
 
@@ -1192,7 +1192,7 @@ lá.
 <p 03><d 7B05><a 0F><n 01>
 Sim, o que aconteceu
 com o Uróboro e o
-Modelo W!?
+Modelo W?!
 <--------------------->
 
 <p 02><d 7D05><a 16><n 19>

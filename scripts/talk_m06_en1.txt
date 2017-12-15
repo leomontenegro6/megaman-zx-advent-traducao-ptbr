@@ -2,7 +2,7 @@
 <#####################>
 
 <p 02><a 0B><n 01>
-Ei, você está bem!?
+Ei, você está bem?!
 <--------------------->
 
 <p 03><a 40><n 22>
@@ -65,7 +65,7 @@ esses caras são
 
 <p 02><a 6B><n 15>
 Por que quer ajudá-los,
-de toda essa gente!?
+de toda essa gente?!
 <--------------------->
 
 <p 02><a 0A><n 01>
@@ -199,7 +199,7 @@ barbáro.
 <--------------------->
 
 <p 02><d BD01><a 2A><n 13>
-O que você sabe!?
+O que você sabe?!
 Não pode sequer
 compreender
 <--------------------->
@@ -248,7 +248,7 @@ não morra ignorante...!
 
 <p 03><d C501><a 0E><n 01>
 Aghh! Aaaaarrrr! O que
-está acontecendo!?
+está acontecendo?!
 Modelo A!
 <--------------------->
 
@@ -383,9 +383,9 @@ de nossos rapazes
 <--------------------->
 
 <d D001>
-para o Acampamento dos
-Caçadores, pra fazer os
-reparos.
+para o Acampamento de
+Caçadores, pra fazer
+os reparos.
 <--------------------->
 
 <p 03><d D101><a 41><n 20>
@@ -429,7 +429,7 @@ a Legião!
 <*********************>
 
 <p 02><d D801><a 41><n 20>
-O quê!? Quem diabos é
+O quê?! Quem diabos é
 você!
 <--------------------->
 
@@ -521,7 +521,7 @@ Quebra-Chão!
 <p 02><a 6B><n 15>
 Você pode até mesmo
 mudar a trajetória do
-tiro do buster
+tiro do canhão
 <--------------------->
 
 usando a tela inferior.
@@ -530,7 +530,7 @@ usando a tela inferior.
 <p 02><a 6B><n 15>
 Você pode acessar essa
 função selecionando
-primeiramente "Status"
+primeiramente "Estado"
 <--------------------->
 
 na sub-tela.

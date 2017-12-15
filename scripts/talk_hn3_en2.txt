@@ -400,7 +400,7 @@ isso!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -415,7 +415,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -430,7 +430,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -445,7 +445,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -460,7 +460,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -475,7 +475,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -490,7 +490,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -505,7 +505,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -520,7 +520,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -535,7 +535,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -550,7 +550,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -565,7 +565,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -580,7 +580,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -595,7 +595,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -610,7 +610,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -625,7 +625,7 @@ Romeo! Muito prazer!
 <*********************>
 
 <p 02><a 66><n 32>
-Não fazia ideia que
+Eu não fazia ideia que
 havia uma sala tão
 grande aqui em baixo.
 <--------------------->
@@ -900,7 +900,7 @@ Fico de guarda para
 garantir que nenhum
 <--------------------->
 
-Mechanilóide chegue
+Mecanilóide chegue
 perto.
 <*********************>
 
@@ -909,7 +909,7 @@ Ultimamente, tem havido
 cheiro de
 <--------------------->
 
-Mechanilóides no ar.
+Mecanilóides no ar.
 <*********************>
 
 <p 02><a 42><n 23>
@@ -1189,7 +1189,7 @@ se sentindo?
 <p 02><a 42><n 2A>
 Francamente, preferia
 estar lá fora pisando
-em alguns Mechanilóides
+em alguns Mecanilóides
 <--------------------->
 
 do que ficar parado
@@ -1207,7 +1207,7 @@ controle,
 <--------------------->
 
 o que no mundo poderia
-estar causando isso!?
+estar causando isso?!
 <*********************>
 
 <p 02><a 42><n 2A>
@@ -1678,7 +1678,7 @@ mas por favor leve-o.
 <*********************>
 
 <p 02><a 42><n 4B>
-Ei, eu sou Antonio!
+Ei, eu sou Antônio!
 <*********************>
 
 <p 02><a 42><n 4B>

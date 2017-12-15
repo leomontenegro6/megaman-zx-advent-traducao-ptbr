@@ -33,7 +33,7 @@ aniversário.
 
 <p 02><a 4F><n 2F>
 Ele foi roubado por
-algum... *irritado*
+algum... *irritada*
 algum Mecanilóide...
 <--------------------->
 
@@ -42,7 +42,7 @@ algum Mecanilóide...
 
 <p 02><a 4F><n 2F>
 Ele partiu em direção
-àquele esgoto ali.
+àquele esgoto lá.
 <--------------------->
 
 <p 02><a 4F><n 2F>
@@ -56,10 +56,10 @@ idênticos.
 
 <p 02><a 4F><n 2F>
 Você não vai ficar só
-parado aí, vai!?
+parado aí, vai?!
 <--------------------->
 
-Você vai pegar meu
+Vai pegar meu
 pingente de volta,
 certo?
 <*********************>
@@ -77,7 +77,7 @@ dentro.
 
 <p 02><a 4F><n 2F>
 Recupere meu pingente
-daquele...*irritado*
+daquele...*irritada*
 daquele Mecanilóide.
 <*********************>
 

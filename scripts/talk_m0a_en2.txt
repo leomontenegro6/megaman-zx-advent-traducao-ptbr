@@ -32,7 +32,7 @@ descobertas.
 
 <p 02><a 02><n 06>
 É muito provável que
-eles sejam a causa da
+elas sejam a causa da
 anomalia gravitacional.
 <--------------------->
 
@@ -43,13 +43,13 @@ as reações de energia.
 
 <p 02><d A402><a 0F><n 02>
 O que um Modelo W está
-fazendo aqui!?
+fazendo aqui?!
 <--------------------->
 
 <p 02><d A502><a 6B><n 15>
 Essa poderia ser
 a fonte da anomalia
-gravitacional!?
+gravitacional?!
 <*********************>
 
 <p 03><d A602><a 33><n 11>
@@ -66,7 +66,7 @@ Modelo W.
 <p 02><d A802><a 0A><n 02>
 Aeolus! O que está
 fazendo coletando todos
-aqueles Modelos W!?
+aqueles Modelos W?!
 <--------------------->
 
 <p 03><d A902><a 33><n 11>
@@ -147,7 +147,7 @@ como você Mega Man!
 <--------------------->
 
 <p 03><d B802><a 35><n 11>
-Seu tempo acabou tolo!
+Seu tempo acabou tola!
 Vou corrigir os erros
 deste mundo!
 <*********************>

@@ -18,7 +18,7 @@ transervidor especial.
 <--------------------->
 
 <p 02><a 02><n 06>
-Ele contém coordenadas
+Ela contém coordenadas
 de dados de transporte
 de algum tipo.
 <--------------------->
@@ -124,7 +124,7 @@ verdade é esse lugar.
 <*********************>
 
 <p 01><p 02><d 1004><a 0F><n 01>
-Um grande Mecanilóide!?
+Um grande Mecanilóide?!
 E tem mais por dentro!
 <*********************>
 
@@ -141,7 +141,7 @@ dia pelo Mega Man Rei!
 
 <p 02><d 1304><a 6B><n 15>
 Albert pensou em tudo
-isso!?
+isso?!
 <--------------------->
 
 <p 03><d 1404><a 3A><n 10>
@@ -182,13 +182,13 @@ meus soldados. Morra!
 
 <p 03><d 1A04><a 3A><n 10>
 Sou o único que está
-sendo exterminado!?
+sendo exterminado?!
 <--------------------->
 
 <p 03><d 1B04><a 3A><n 10>
 É você quem deve trazer
 o novo mundo e não
-nós!?
+nós?!
 <--------------------->
 
 <p 03><d 1C04><a 3A><n 10>

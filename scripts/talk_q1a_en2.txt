@@ -153,7 +153,7 @@ mãozinha!
 
 <p 02><a 74><n 1D>
 ...O quê? Você veio ME
-ajudar!? Que absurdo!
+ajudar?! Que absurdo!
 Estou bem!
 <--------------------->
 
@@ -283,12 +283,12 @@ vir me resgatar...
 <--------------------->
 
 Hã? Ei Ashe, você está
-bocejando!?
+bocejando?!
 <--------------------->
 
 Estou te aborrecendo
 com a minha angustiante
-história!?
+história?!
 <*********************>
 
 <p 02><a 73><n 1E>

@@ -91,7 +91,7 @@ de ação também!
 <p 02><d 9D04><a 42><n 49>
 Acha que a recompensa
 pode ser em grande
-quantia!?
+quantia?!
 <--------------------->
 
 <p 02><d 9E04><a 42><n 49>
@@ -182,7 +182,7 @@ Guardiões!
 
 <p 03><d AE04><a 13><n 18>
 Estamos indo para casa
-vitoriosos, entendido!?
+vitoriosos, entendido?!
 <*********************>
 
 <p 03><d AF04><a 13><n 18>
@@ -230,7 +230,7 @@ Albert!
 <p 03><d B804><a 21><n 05>
 A propósito, há algumas
 pessoas aqui que querem
-vê-lo.
+vê-la.
 <--------------------->
 
 <d B904>
@@ -284,7 +284,7 @@ perecerá!
 <*********************>
 
 <p 02><d C204><a 6B><n 15>
-A-Trans...!?
+A-Trans...?!
 <--------------------->
 
 <p 02><d C304><a 0A><n 02>
@@ -364,7 +364,7 @@ em breve!
 <--------------------->
 
 <d D104>
-Você não é necessário!
+Você não é necessária!
 <*********************>
 
 <p 03><d D204><a 36><n 08>
@@ -402,7 +402,7 @@ fluxo do tempo!
 
 <d D804>
 Só permita-se ser engo-
-lido pela enorme onda
+lida pela enorme onda
 de uma nova era...!
 <*********************>
 
@@ -430,7 +430,7 @@ em meus espinhos
 
 <p 03><d DD04><a 3F><n 0A>
 Aaagh! Não quero nunca
-mais vê-lo de nooovo!
+mais vê-la de nooovo!
 <*********************>
 
 <p 03><d DF04><a 38><n 0B>
@@ -514,7 +514,7 @@ num grande lago.
 
 <p 03><d EE04><a 3A><n 10>
 Então, facilite as
-coisas para você mesmo
+coisas para si mesma
 <--------------------->
 
 <d EF04>
@@ -547,7 +547,7 @@ minha vez!
 
 <p 03><d F404><a 3D><n 0F>
 Aqui vou eu! Aqui vou
-eu! Vou puni-lo muito
+eu! Vou puni-la muito
 bem!
 <*********************>
 
@@ -575,7 +575,7 @@ passar.
 <--------------------->
 
 <p 02><d F904><a 3C><n 0E>
-*grunhido*
+Grrr!!!
 <--------------------->
 
 <p 03><d FA04><a 3B><n 0D>
@@ -605,7 +605,7 @@ passar de novo!
 <--------------------->
 
 <p 02><d FF04><a 3C><n 0E>
-*grunhido*
+Grrr!!!
 <*********************>
 
 <p 03><d 0005><a 3B><n 0D>
@@ -614,8 +614,8 @@ passar...
 <--------------------->
 
 <d 0105>
-Nos atiramos diante de
-seus pés...!
+Nós nos atiramos diante
+de seus pés...!
 <--------------------->
 
 <p 02><d 0205><a 3C><n 0E>
@@ -656,7 +656,7 @@ COMPLETA DO ALVO!
 <p 02><d 0905><a 0A><n 02>
 O que há de errado com
 vocês? Vocês são
-idiotas!?
+idiotas?!
 <--------------------->
 
 <p 02><d 0A05><a 0B><n 02>
@@ -784,7 +784,7 @@ seus dados em mim...!
 <p 03><d 2305><a 21><n 05>
 Não, você está
 completamente
-inalterado.
+inalterada.
 <--------------------->
 
 <d 2405>
@@ -850,7 +850,7 @@ destino...
 <d 3005>
 Cair nas sombras
 formadas pela minha
-luz incrível!
+incrível luz!
 <*********************>
 
 <p 00><p 03><d 3105><a 21><n 05>
@@ -1011,8 +1011,8 @@ mortal!
 <*********************>
 
 <p 01><p 03><d 4E05><a 23><n 05>
-Passará o resto da vida
-junto a mim, e
+Passará o resto da
+vida junto a mim, e
 renascerá...
 <--------------------->
 
@@ -1048,7 +1048,7 @@ minha história!
 <--------------------->
 
 <p 03><d 5505><a 24><n 05>
-Essa é sua melhor
+Essa é a sua melhor
 resposta?
 <--------------------->
 
@@ -1090,8 +1090,8 @@ outros...
 <--------------------->
 
 <p 02><d 5D05><a 0F><n 02>
-É estranho... Eu-eu não
-posso... me mover...
+É estranho... E-eu não
+consigo... me mover...
 <*********************>
 
 <p 03><d 5F05><a 6B><n 15>
@@ -1120,7 +1120,7 @@ segurá-los.
 
 <p 03><d 6305><a 15><n 18>
 Não... do que você está
-falando!? Isso é
+falando?! Isso é
 ridículo, Modelo Z!
 <--------------------->
 
@@ -1161,7 +1161,7 @@ Biometais do que vocês.
 <--------------------->
 
 <p 02><d 6B05><a 32><n 12>
-Agh... O que!? Meu...
+Agh... O quê?! Meu...
 corpo... se sente...
 pesado... Modelo L...!
 <--------------------->
@@ -1172,7 +1172,7 @@ Biometal!
 
 <p 02><d 6D05><a 2F><n 14>
 INCOMPREENSÍVEL...!
-INCOMPREENSÍVEL...!?
+INCOMPREENSÍVEL...?!
 <*********************>
 
 <p 03><d 6E05><a 6D><n 17>
@@ -1204,21 +1204,21 @@ Você ainda está ferida?
 <--------------------->
 
 <p 03><d 7505><a 09><n 02>
-*risada*! Que fofo!
+Ré, ré! Que fofo!
 Você parecia tão
-preocupada!
+preocupado!
 <--------------------->
 
 <p 02><d 7605><a 6B><n 15>
-O-O que! Não posso me
+O-O quê?! Não posso me
 preocupar com uma
-amiga!?
+amiga?!
 <--------------------->
 
 <p 02><d 7705><a 6B><n 15>
 Estou feliz que esteja
 bem. Há algo de errado
-com isso!?
+com isso?!
 <--------------------->
 
 <p 03><d 7805><a 09><n 02>

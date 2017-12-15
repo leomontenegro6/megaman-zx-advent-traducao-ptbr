@@ -195,7 +195,7 @@ do caminho!
 <p 03><d E603><a 3D><n 0F>
 Ei, ei! Acha que pode
 simplesmente me
-ignorar, Hedgeshock!?
+ignorar, Hedgeshock?!
 <--------------------->
 
 <p 03><d E703><a 3D><n 0F>
@@ -293,7 +293,7 @@ relatório de missão.
 
 <p 02><a 6B><n 15>
 A passagem à frente é
-realmente baixa.
+muito baixa.
 <--------------------->
 
 Agachado parece o único
@@ -346,9 +346,9 @@ e depois soltando-o!
 <--------------------->
 
 <p 02><a 6B><n 15>
-Bom, venha! Use o
-Impulso Giratório para
-entrar nessa passagem.
+Vai lá! Use o Impulso
+Giratório para entrar
+nessa passagem.
 <*********************>
 
 <FIM>

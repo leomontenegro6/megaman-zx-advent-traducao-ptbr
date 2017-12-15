@@ -290,7 +290,7 @@ ajudar os outros!
 <p 02><d DC00><a 6B><n 15>
 Espere um minuto!
 Não deveríamos estar
-saindo daqui!?
+saindo daqui?!
 <--------------------->
 
 <p 02><d DD00><a 0B><n 02>
@@ -344,7 +344,7 @@ nada boa!
 
 <p 03><d E600><a 36><n 00>
 O Mega Man Escolhido,
-uma garota!? Não é bom
+uma garota?! Não é bom
 você emprestar o poder!
 <--------------------->
 
@@ -378,7 +378,7 @@ surrará no chão!
 <*********************>
 
 <p 03><d EC00><a 36><n 08>
-*grunhido* *grunhido*!!
+Grrr!!! Grrr!!!
 Sem piedade para trai-
 dores! Essa é a regra!
 <*********************>
@@ -399,8 +399,8 @@ acontecer?
 <--------------------->
 
 <p 02><d F000><a 6B><n 15>
-*gargalhada* Você quer
-ver alguma coisa legal?
+Rá, rá, rá! Você quer
+ver uma coisa legal?
 <--------------------->
 
 <p 02><d F100><a 6B><n 15>
@@ -635,7 +635,7 @@ sobre mim
 <--------------------->
 
 <d 1901>
-na Quartel General da
+no Quartel General da
 Legião.
 <--------------------->
 
@@ -914,7 +914,7 @@ abaixo de você.
 <p 02><a 6B><n 15>
 Por que não tenta fazer
 esses golpes nesses
-dois objetos aqui!?
+dois objetos aqui?!
 <--------------------->
 
 <p 02><a 6B><n 15>

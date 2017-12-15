@@ -62,7 +62,7 @@ Mavericks.
 <*********************>
 
 <p 02><d 7602><a 08><n 01>
-Tétis!?
+Tétis?!
 <*********************>
 
 <p 03><d 7702><a 30><n 12>
@@ -76,9 +76,9 @@ que quero te mostrar.
 <*********************>
 
 <p 02><d 7902><a 6B><n 15>
-Modelo W!? Você atacou
+Modelo W?! Você atacou
 a Rodovia pra alimentar
-essa coisa!?
+essa coisa?!
 <--------------------->
 
 <p 03><d 7A02><a 31><n 12>
@@ -117,7 +117,7 @@ viver nela.
 
 <p 02><d 8002><a 0B><n 01>
 Então você tirou vidas
-inocentes!? Matou
+inocentes?! Matou
 humanos como você.
 <--------------------->
 

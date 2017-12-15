@@ -41,7 +41,7 @@ a funcionar de novo.
 
 <p 02><a 6B><n 15>
 Sucata que volta a
-funcionar de novo!?
+funcionar de novo?!
 <--------------------->
 
 <p 02><a 02><n 07>
@@ -90,7 +90,7 @@ e os acorda!
 <--------------------->
 
 <p 02><d DB02><a 0F><n 01>
-Modelos W!? Eles estão
+Modelos W?! Eles estão
 aí?
 <--------------------->
 
@@ -179,7 +179,7 @@ planeta...?
 
 <p 02><d EC02><a 0A><n 01>
 Claro que posso ouvir!
-Como não poderia!?
+Como não poderia?!
 <--------------------->
 
 <p 02><d ED02><a 0B><n 01>
@@ -215,7 +215,7 @@ falando?
 
 <p 03><d F302><a 28><n 04>
 A hora chegará...
-quando chegar você
+quando chegar, você
 saberá tudo.
 <--------------------->
 

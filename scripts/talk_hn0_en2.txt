@@ -13,7 +13,7 @@ me apresentar primeiro.
 <--------------------->
 
 Meu nome é Carley!
-Sou uma reporter.
+Sou uma repórter.
 <--------------------->
 
 Sou especialista em
@@ -102,7 +102,7 @@ decisão.
 
 <p 02><a 43><n 2B>
 Mas quando você se
-tornar um Caçador
+torna um Caçador
 confiante,
 <--------------------->
 
@@ -266,7 +266,7 @@ Meu nome é James.
 
 Sou um Caçador de
 reciclagem. Ganho a
-vida recuperando lixo.
+vida reciclando lixo.
 <*********************>
 
 <p 02><a 46><n 44>
@@ -278,18 +278,17 @@ Diálogo de Boneco
 <*********************>
 
 <p 02><a 46><n 44>
-Ora, parece que você
-finalmente mudou de
-ideia sobre reciclagem.
+Bem, parece que ocê
+finalmente se acustumô
+com reciclagem.
 <--------------------->
 
-Sabe, há algumas
-pessoas que nunca vão
-mudar..
+Sabe, tem gente que
+nunca vai mudar...
 <--------------------->
 
-Elas simplesmente não
-conseguem, eu acho.
+Acho que não vão mudar,
+nem se tentassem.
 <--------------------->
 
 Um pouco de lixo pode
@@ -314,37 +313,32 @@ Esses Mecanilóides aqui
 ao redor,
 <--------------------->
 
-eles vêm de todo o lixo
-que as pessoas jogam
-fora.
+eles surgiram desse
+mói de lixo que os
+hômi joga fora.
 <--------------------->
 
-Você sabe o que
-significa? Pessoas,
+Ocê sabe o que isso
+quer dizer? Que os hômi
+que sujam a terra
 <--------------------->
 
-aquelas que jogaram
-fora esse lixo, pelas
-suas próprias mãos,
-<--------------------->
-
-colocam-se no caminho
-para a destruição.
+são os próprio culpado
+pela sua destruição.
 <*********************>
 
 <p 02><a 46><n 44>
-Ora, parece que você
-finalmente mudou de
-ideia sobre reciclagem.
+Bem, parece que ocê
+finalmente se acustumô
+com reciclagem.
 <--------------------->
 
-Sabe, há algumas
-pessoas que nunca vão
-mudar...
+Sabe, tem gente que
+nunca vai mudar...
 <--------------------->
 
-Elas simplesmente não
-conseguem, eu acho.
+Acho que não vão mudar,
+nem se tentassem.
 <--------------------->
 
 Um pouco de lixo pode
@@ -369,22 +363,18 @@ Esses Mecanilóides aqui
 ao redor,
 <--------------------->
 
-eles vêm de todo o lixo
-que as pessoas jogam
-fora.
+eles surgiram desse
+mói de lixo que os
+hômi joga fora.
 <--------------------->
 
-Você sabe o que
-significa? Pessoas,
+Ocê sabe o que isso
+quer dizer? Que os hômi
+que sujam a terra
 <--------------------->
 
-aquelas que jogaram
-fora esse lixo, pelas
-suas próprias mãos,
-<--------------------->
-
-colocam-se no caminho
-para a destruição.
+são os próprio culpado
+pela sua destruição.
 <*********************>
 
 <p 02><a 47><n 3E>
@@ -396,7 +386,8 @@ Ah, desculpa. Esqueci
 de me apresentar!
 <--------------------->
 
-Eles me chamam de John!
+O povo me chama
+de John!
 <--------------------->
 
 Nunca pensei que veria
@@ -516,7 +507,7 @@ Obrigado, Chefia!
 
 <p 02><s 01><a 47><n 3E>
 O quê? Você vai fazer
-isso comigo, é!?
+isso comigo, é?!
 <--------------------->
 
 Bem, basta me avisar se
@@ -560,8 +551,8 @@ transervidor aí a
 qualquer hora
 <--------------------->
 
-para ir aonde quer que
-haja um Ponto de
+para ir aonde quer
+que haja um Ponto de
 Teleporte.
 <--------------------->
 
@@ -743,11 +734,11 @@ meu desejo de fato.
 
 <p 02><a 49><n 43>
 Ora, ora, o que temos
-aqui!?
+aqui?!
 <--------------------->
 
-Se não é o famoso
-Escolhido do Modelo A.
+Se não é a famosa
+Escolhida do Modelo A.
 <--------------------->
 
 Ah, quase me esqueci,
@@ -777,7 +768,7 @@ Infelizmente, não posso
 vendê-lo. Entretanto,
 <--------------------->
 
-posso deixar você usá-lo
+posso te deixar usá-lo
 em uma base necessária
 por 50 CE!
 <--------------------->
@@ -789,7 +780,7 @@ potência,
 
 você só pode usá-lo pra
 voltar ao Acampamento
-dos Caçadores.
+de Caçadores.
 <*********************>
 
 <p 02><e 63><a 49><n 43>
@@ -1053,7 +1044,7 @@ Está tudo resolvido.
 <p 02><a 40><n 22>
 Veja! Ela está toda
 reparada e pronta pra
-ir. Acabou de garantir!
+ir. Às suas ordens!
 <*********************>
 
 <p 02><e 63><a 40><n 22>

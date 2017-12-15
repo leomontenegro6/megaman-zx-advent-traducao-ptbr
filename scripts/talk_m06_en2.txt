@@ -22,7 +22,7 @@ todos nós!
 <--------------------->
 
 <p 02><a 0F><n 02>
-Um massacre!?
+Um massacre?!
 <*********************>
 
 <p 02><a 02><n 06>
@@ -66,7 +66,7 @@ esses caras são
 <p 02><a 6B><n 15>
 Você tem certeza que
 quer ajudar aqueles
-caras!?
+caras?!
 <--------------------->
 
 Tecnicamente, eles são
@@ -197,7 +197,7 @@ força para lutar.
 
 <d BA01>
 Aqueles que não têm
-força não evoluem.
+força, não evoluem.
 <--------------------->
 
 <p 03><d BB01><a 6B><n 15>
@@ -212,7 +212,7 @@ barbáro.
 <--------------------->
 
 <p 02><d BD01><a 2A><n 13>
-O que você sabe!?
+O que você sabe?!
 Não pode sequer
 compreender
 <--------------------->
@@ -257,8 +257,8 @@ de não acabar comigo!
 <*********************>
 
 <p 03><d C501><a 0E><n 02>
-Aghh! Aaaaarrrr!? O que
-está acontecendo!?
+Aghh! Aaaaarrrr?! O que
+está acontecendo?!
 Modelo A!
 <--------------------->
 
@@ -400,7 +400,7 @@ de nossos rapazes
 <--------------------->
 
 <d D001>
-para o Acampamento dos
+para o Acampamento de
 Caçadores, pra fazer
 os reparos.
 <--------------------->
@@ -442,11 +442,11 @@ ao acampamento
 <p 03><d D701><a 41><n 20>
 e dê uma olhada. Espero
 que descubra algo sobre
-a Legião, Mana!
+a Legião, Maninha!
 <*********************>
 
 <p 02><d D801><a 41><n 20>
-O quê!? Quem diabos é
+O quê?! Quem diabos é
 você!
 <--------------------->
 
@@ -538,7 +538,7 @@ Quebra-Chão!
 <p 02><a 6B><n 15>
 Você pode até mesmo
 mudar a trajetória do
-tiro do buster
+tiro do canhão
 <--------------------->
 
 usando a tela inferior.
@@ -547,7 +547,7 @@ usando a tela inferior.
 <p 02><a 6B><n 15>
 Você pode acessar essa
 função selecionando
-primeiramente "Status"
+primeiramente "Estado"
 <--------------------->
 
 na sub-tela.

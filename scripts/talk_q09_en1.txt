@@ -13,8 +13,8 @@ nessa sala.
 <--------------------->
 
 Poderia me ajudar a
-procurá-la? Vou ligar
-pra você mais tarde.
+procurá-la? Eu te
+ajudo depois.
 <*********************>
 
 <p 02><a 42><n 4B>
@@ -62,7 +62,7 @@ chave inglesa, certo?
 <--------------------->
 
 Se os caras com quem eu
-trabalho descobrirem,
+trabalho descobrissem,
 seria vergonha total.
 <*********************>
 

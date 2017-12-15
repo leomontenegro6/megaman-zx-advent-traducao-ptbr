@@ -2,7 +2,7 @@
 <#####################>
 
 <p 02><a 42><n 23>
-Parece que Buckfire
+Parece que o Buckfire
 apareceu de novo no
 Trem.
 <--------------------->
@@ -126,7 +126,7 @@ Medalha de Prata.
 <p 02><a 42><n 24>
 Finalize Chronoforce
 com o Sabre Carregado
-do Model ZX
+do Modelo ZX
 <--------------------->
 
 para receber uma
@@ -135,7 +135,7 @@ Medalha de Bronze.
 
 <p 02><a 42><n 24>
 Você neutralizou o
-Chronoforce!?
+Chronoforce?!
 <--------------------->
 
 Agradeço o que você
@@ -544,7 +544,7 @@ Obrigado! Acho que não
 te chamam de
 <--------------------->
 
-Escolhido do Modelo A
+Escolhida do Modelo A
 à toa! 
 <*********************>
 

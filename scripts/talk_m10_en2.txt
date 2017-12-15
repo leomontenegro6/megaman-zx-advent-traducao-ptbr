@@ -13,7 +13,7 @@ ser o Modelo W!
 
 <p 02><d 3304><a 0F><n 02>
 Esses não poderiam ser
-todos os Modelos W!?
+todos os Modelos W?!
 <*********************>
 
 <p 03><d 3404><a 20><n 05>
@@ -108,8 +108,8 @@ covarde que você é!
 <--------------------->
 
 <p 02><d 4604><a 6B><n 15>
-O que!? O que está
-acontecendo!?
+O quê?! O que está
+acontecendo?!
 <*********************>
 
 <p 03><d 4704><a 25><n 03>
@@ -137,11 +137,11 @@ o Mega Man Definitivo.
 
 <p 03><d 4B04><a 28><n 04>
 Então decidimos... nos
-vingarmos de Albert.
+vingar de Albert.
 <--------------------->
 
 <p 02><d 4C04><a 0F><n 02>
-Vingança!?
+Vingança?!
 <--------------------->
 
 <p 03><d 4D04><a 25><n 03>
@@ -195,7 +195,7 @@ destino...
 <p 00><p 03><d 5504><a 25><n 03>
 Vamos destruir tudo o
 que Albert fez. Essa é
-nossa vingança!
+a nossa vingança!
 <--------------------->
 
 <p 03><d 5604><a 26><n 03>
@@ -266,7 +266,7 @@ próprio plano.
 <p 03><d 6204><a 26><n 03>
 Ele disse que os Mega
 Mans são a evolução
-natural dos Homens!?
+natural dos Homens?!
 <--------------------->
 
 <d 6304>
@@ -292,7 +292,7 @@ AAAAAAAAAAHHH!
 
 <p 02><d 6804><a 6B><n 15>
 Ei... poderia ser
-isso...!?
+isso...?!
 <--------------------->
 
 <p 02><d 6904><a 0F><n 02>
@@ -330,7 +330,7 @@ ser... Mestre Albert!
 <p 01><p 02><d 6F04><a 6B><n 15>
 Então quem foi que
 derrotou o
-Prometeu...!?
+Prometeu...?!
 <--------------------->
 
 <p 01><p 03><d 7004><a 21><n 05>
@@ -383,7 +383,7 @@ Pandora...!
 <--------------------->
 
 <p 02><d 7904><a 6B><n 15>
-O que está dizendo!?
+O que está dizendo?!
 Não podemos levar os
 dois!
 <--------------------->
@@ -391,7 +391,7 @@ dois!
 <p 02><d 7A04><a 6B><n 15>
 Se você não fizer isso,
 quem vai lidar com o
-Albert!?
+Albert?!
 <--------------------->
 
 <p 02><d 7B04><a 0E><n 02>
@@ -405,7 +405,7 @@ HAHAHAHAHAHAHA!
 <*********************>
 
 <p 03><d 7D04><a 42><n 1F>
-E-Ei! O que é aquilo!?
+E-Ei! O que é aquilo?!
 <*********************>
 
 <p 01><p 02><d 7E04><a 6B><n 15>
@@ -427,7 +427,7 @@ pegar um dirigível!
 <p 02><d 8104><a 0B><n 02>
 Algum de vocês
 Caçadores tem um
-dirigível!?
+dirigível?!
 <*********************>
 
 <p 03><d 8204><a 42><n 1F>
@@ -475,7 +475,7 @@ haverá como voltar!
 <p 02><d 8A04><a 10><n 18>
 Estarei esperando por
 você aqui. Me chame
-quando estiver pronto.
+quando estiver pronta.
 <*********************>
 
 <FIM>

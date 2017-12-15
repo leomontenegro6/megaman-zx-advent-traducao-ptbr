@@ -2,7 +2,7 @@
 <#####################>
 
 <p 02><a 0F><n 01>
-O-O quê!?
+O-O quê?!
 <--------------------->
 
 <p 02><a 0F><n 01>
@@ -10,7 +10,7 @@ Aaaagh!
 <*********************>
 
 <p 02><a 0F><n 01>
-O que... aconteceu!?
+O que... aconteceu?!
 <--------------------->
 
 <p 02><a 6B><n 15>
@@ -32,7 +32,7 @@ descobertas.
 
 <p 02><a 02><n 06>
 É muito provável que
-eles sejam a causa da
+elas sejam a causa da
 anomalia gravitacional.
 <--------------------->
 
@@ -43,13 +43,13 @@ as reações de energia.
 
 <p 02><d A402><a 0F><n 01>
 O que um Modelo W está
-fazendo aqui!?
+fazendo aqui?!
 <--------------------->
 
 <p 02><d A502><a 6B><n 15>
 Essa poderia ser
 a fonte da anomalia
-gravitacional!?
+gravitacional?!
 <*********************>
 
 <p 03><d A602><a 33><n 11>
@@ -66,7 +66,7 @@ Modelo W.
 <p 02><d A802><a 0B><n 01>
 Aeolus! O que está
 fazendo coletando
-Modelos W!?
+Modelos W?!
 <--------------------->
 
 <p 03><d A902><a 33><n 11>

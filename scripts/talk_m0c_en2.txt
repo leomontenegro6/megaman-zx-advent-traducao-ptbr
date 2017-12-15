@@ -17,8 +17,8 @@ receber confirmação de
 atividade do Modelo W
 <--------------------->
 
-na Pedreira, próxima
-ao Acampamento dos
+na Pedreira, próximo
+ao Acampamento de
 Caçadores.
 <--------------------->
 
@@ -54,7 +54,7 @@ perto da Pedreira.
 <p 02><a 02><n 06>
 Albert já pode estar
 ciente do que acontece,
-então tome cuidado.
+então tenha cuidado.
 <*********************>
 
 <p 03><a 6B><n 15>
@@ -74,13 +74,13 @@ Os inimigos são todos
 iguais.
 <--------------------->
 
-Basta lutar um de cada
-vez com eles, e seguir
-em frente.
+Basta lutar contra um
+deles de cada vez, e
+seguir em frente.
 <*********************>
 
 <p 03><d 0903><a 0A><n 02>
-Quem é você!?
+Quem é você?!
 <*********************>
 
 <p 02><d 0A03><a 11><n 00>
@@ -99,7 +99,7 @@ antes. O que ela é?
 <*********************>
 
 <p 03><d 0D03><a 6B><n 15>
-Dois Biometais!?
+Dois Biometais?!
 Um Mega Man?
 <--------------------->
 
@@ -163,7 +163,7 @@ Aaaaagh!
 
 <p 03><d 1A03><a 14><n 18>
 Guiaagh! O que é...
-isso!?
+isso?!
 <--------------------->
 
 <p 03><d 1B03><a 6D><n 17>
@@ -360,7 +360,7 @@ perto.
 <p 02><d 2F03><a 08><n 02>
 E quem te nomeou o
 irmão mais velho de
-repente!?
+repente?!
 <--------------------->
 
 <d 3003>
@@ -416,11 +416,11 @@ Temos que destruí-lo!
 <p 01><p 03><d 3903><a 0A><n 02>
 Droga! Como essa coisa
 ainda tem capacidade
-para se mover!?
+para se mover?!
 <--------------------->
 
 <d 3A03>
-Que dor na pescoço...!
+Que dor no pescoço...!
 <*********************>
 
 <p 00><p 03><d 3B03><a 0F><n 02>

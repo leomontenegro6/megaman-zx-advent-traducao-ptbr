@@ -40,7 +40,7 @@ fruta e fizesse suco
 dela,
 <--------------------->
 
-eu poderia então dá-lo
+eu poderia então dá-la
 pra garota que eu gosto
 para ela beber.
 <--------------------->
@@ -74,7 +74,7 @@ poderá estragá-la.
 <*********************>
 
 <p 02><a 53><n 3F>
-Você está me dando!?
+Você está me dando?!
 Mas parece uma maçã
 verde comum.
 <--------------------->

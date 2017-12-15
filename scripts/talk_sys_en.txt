@@ -130,7 +130,7 @@ Entregou a <c 03>Picareta Lendária<c 00>!
 <*********************>
 
 
-Ganhou a <c 03>Chave Inglesa<c 00>!
+Obteve a <c 03>Chave Inglesa<c 00>!
 <*********************>
 
 
@@ -310,7 +310,7 @@ Obteve <c 03>Ignição<c 00>!
 <*********************>
 
 
-Ganhou <c 03>Liga de Titânio<c 00>!
+Obteve <c 03>Liga de Titânio<c 00>!
 <*********************>
 
 
@@ -650,7 +650,7 @@ Escolha a ação.
 <*********************>
 
 <m><a 05><n 5D>
-  Salvar dados
+  Salvar Dados
   Carregar Dados
   Deletar Dados
 <*********************>

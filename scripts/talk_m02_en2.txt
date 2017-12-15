@@ -162,7 +162,7 @@ OK, aqui vamos nós!
 <*********************>
 
 <p 02><d 6B00><a 0A><n 02>
-...!?
+...?!
 <--------------------->
 
 <p 02><d 6C00><a 0A><n 02>
@@ -209,7 +209,7 @@ Xô, praga!
 
 <p 01><p 02><d 7400><a 08><n 02>
 Ei, do que você acabou
-de me chamar!?
+de me chamar?!
 <--------------------->
 
 <d 7500>
@@ -301,7 +301,7 @@ dos Caçadores.
 <p 03><d 8500><a 0F><n 02>
 Hum, o que aconteceu
 com nossa recompensa...
-o Biometal!?
+o Biometal?!
 <--------------------->
 
 <p 02><d 8600><a 72><n 1C>

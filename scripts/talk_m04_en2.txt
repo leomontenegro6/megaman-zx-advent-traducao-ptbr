@@ -54,7 +54,7 @@ mais velho do que eu.
 
 <p 02><d 3801><a 0F><n 02>
 O-O que há com esse
-povo!?
+povo?!
 <*********************>
 
 <p 03><d 3901><a 31><n 00>
@@ -130,7 +130,7 @@ banho gelado.
 <*********************>
 
 <p 03><d 4601><a 37><n 00>
-Rá, rá! Bem-vindo ao
+Rá, rá!!! Bem-vindo ao
 meu mundo sub-zero onde
 até o tempo congela!
 <--------------------->
@@ -171,7 +171,7 @@ fazer, é só se matar
 
 <d 4E01>
 no pouco tempo que te
-resta! *gargalhada*
+resta! Rá, rá, rá!!!
 <*********************>
 
 <p 02><d 4F01><a 0A><n 02>

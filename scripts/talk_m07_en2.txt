@@ -3,7 +3,7 @@
 
 <p 02><a 0F><n 02>
 ...Que barulho foi
-esse!?
+esse?!
 <--------------------->
 
 <p 02><a 6B><n 15>
@@ -56,8 +56,8 @@ RESPOSTA DE ENTRADA.
 
 <p 02><d ED01><a 0B><n 02>
 Por que não cala a boca
-e sai do meu caminho
-antes que eu te detone!
+e sai da frente antes
+que eu te detone?!
 <--------------------->
 
 <p 03><d EE01><a 2D><n 14>
@@ -161,7 +161,7 @@ mundo...
 <p 02><d F401><a 0F><n 02>
 O Modelo W foi feito
 por um dos Trindade
-Sábias!?
+Sábias?!
 <--------------------->
 
 <p 02><d F501><a 6B><n 15>
@@ -246,7 +246,7 @@ evolução até o fim.
 <*********************>
 
 <p 02><d 0402><a 1C><n 07>
-O que está dizendo!?
+O que está dizendo?!
 Não... Não acredito!
 <*********************>
 
@@ -270,7 +270,7 @@ só tentar me impedir.
 
 <p 02><d 0802><a 6B><n 15>
 Ei, não é aquele
-Biometal!?
+Biometal?!
 <*********************>
 
 <p 03><d 0902><a 1F><n 05>
@@ -291,8 +291,8 @@ me agrada.
 <*********************>
 
 <p 02><d 0D02><a 0B><n 02>
-Hã!? O que você sabe
-sobre mim!?
+Hã?! O que você sabe
+sobre mim?!
 <--------------------->
 
 <p 03><d 0E02><a 20><n 05>
@@ -339,7 +339,7 @@ Ashe.
 <p 02><d 1502><a 0F><n 02>
 Você procurou por mim?
 Havia alguma informação
-sobre mim!?
+sobre mim?!
 <--------------------->
 
 <p 03><d 1602><a 1D><n 06>
@@ -349,7 +349,7 @@ parece nunca existiu.
 <--------------------->
 
 <p 02><d 1702><a 0B><n 02>
-O-O quê!? Isso é
+O-O quê?! Isso é
 impossível... Eu estou
 bem aqui!
 <--------------------->
@@ -424,7 +424,7 @@ Você está assustada?
 <--------------------->
 
 <p 02><d 2602><a 0B><n 02>
-Q-Quem, eu!? Você deve
+Q-Quem, eu?! Você deve
 estar brincando!
 <*********************>
 
@@ -539,7 +539,7 @@ aqui!
 <p 02><a 6B><n 15>
 Tente se transformar em
 Siarnaq. Talvez isso
-vai ajudar.
+ajude.
 <--------------------->
 
 <p 02><a 6B><n 15>
@@ -577,7 +577,7 @@ sala...
 <--------------------->
 
 <p 02><a 6B><n 15>
-Eu sei!
+Já sei!
 <--------------------->
 
 <p 02><a 6B><n 15>

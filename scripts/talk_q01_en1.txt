@@ -47,9 +47,9 @@ bater meu recorde!
 <*********************>
 
 <p 02><a 42><n 49>
-O quê!? É verdade que
+O quê?! É verdade que
 você bateu meu
-recorde!?
+recorde?!
 <--------------------->
 
 <p 02><a 42><n 49>
@@ -94,9 +94,9 @@ Boa sorte, amigo!
 <*********************>
 
 <p 02><a 42><n 49>
-O quê!? É verdade que
+O quê?! É verdade que
 você bateu meu
-recorde!?
+recorde?!
 <--------------------->
 
 <p 02><a 42><n 49>
@@ -134,9 +134,9 @@ sentir vontade.
 <*********************>
 
 <p 02><a 42><n 49>
-O quê!? É verdade que
+O quê?! É verdade que
 você bateu seu próprio
-recorde!?
+recorde?!
 <--------------------->
 
 <p 02><a 42><n 49>

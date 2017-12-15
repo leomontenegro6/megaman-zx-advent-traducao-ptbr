@@ -41,7 +41,7 @@ a funcionar de novo.
 
 <p 02><a 6B><n 15>
 Sucata que volta a
-funcionar de novo!?
+funcionar de novo?!
 <--------------------->
 
 <p 02><a 02><n 07>
@@ -91,7 +91,7 @@ e os acorda!
 
 <p 02><d DB02><a 0A><n 02>
 Há um Modelo W aqui
-também!?
+também?!
 <--------------------->
 
 <p 03><d DC02><a 38><n 0B>
@@ -179,7 +179,7 @@ falando?
 
 <p 03><d F302><a 28><n 04>
 A hora chegará...
-quando chegar você
+quando chegar, você
 saberá tudo.
 <--------------------->
 

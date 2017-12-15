@@ -41,7 +41,7 @@ bem ali!
 <*********************>
 
 <p 03><d 0800><a 42><n 1B>
-O quê...!?
+O quê...?!
 <*********************>
 
 <p 02><d 0900><a 42><n 1A>
@@ -63,7 +63,7 @@ em cima da gente.
 <*********************>
 
 <p 02><d 0D00><a 0F><n 00>
-O quê!?
+O quê?!
 O-O que... aconteceu?
 <--------------------->
 
@@ -78,7 +78,7 @@ lembrar de nada...
 <*********************>
 
 <p 03><d 1000><a 0F><n 00>
-Q-Quem é você!?
+Q-Quem é você?!
 <*********************>
 
 <p 01><p 02><d 1100><a 28><n 04>
@@ -97,7 +97,7 @@ nome?
 
 <p 01><p 03><d 1400><a 0B><n 01>
 O que quer dizer com
-"me livrar de você"!?
+"me livrar de você"?!
 <--------------------->
 
 <p 01><p 02><d 1500><a 28><n 04>
@@ -114,8 +114,8 @@ concluída...
 
 <p 01><p 03><d 1700><a 0B><n 01>
 Mega Man?
-Controle mental!?
-O que você fez comigo!?
+Controle mental?!
+O que você fez comigo?!
 <*********************>
 
 <p 00><p 03><d 1800><a 0E><n 01>
@@ -140,7 +140,7 @@ Aaaagghh!
 <p 02><d 1C00><a 0D><n 01>
 Arf! Arf!
 Por que ela me chamou
-de "defeituoso"!?
+de "defeituoso"?!
 <--------------------->
 
 <p 02><d 1D00><a 0A><n 01>
@@ -164,12 +164,12 @@ Onde estou?
 
 <p 02><d 2100><a 42><n 1F>
 Opa! Ei, vamos se
-acalmar, OK!?
+acalmar, OK?!
 <--------------------->
 
 <p 03><d 2200><a 0A><n 01>
 Você está aqui para me
-matar!?
+matar?!
 <--------------------->
 
 <p 02><d 2300><a 42><n 1F>

@@ -2,7 +2,7 @@
 <#####################>
 
 <p 02><a 0F><n 01>
-V-Você ouviu isso!?
+V-Você ouviu isso?!
 Que barulho foi esse?
 <--------------------->
 
@@ -161,7 +161,7 @@ mundo...
 <p 02><d F401><a 0F><n 01>
 O Modelo W foi criado
 por um dos Trindade
-Sábias!?
+Sábias?!
 <--------------------->
 
 <p 02><d F501><a 6B><n 15>
@@ -240,7 +240,7 @@ evolução até o fim.
 <*********************>
 
 <p 02><d 0402><a 1C><n 07>
-O que está dizendo!?
+O que está dizendo?!
 Não... Não acredito!
 <*********************>
 
@@ -264,7 +264,7 @@ só tentar me impedir.
 
 <p 02><d 0802><a 6B><n 15>
 Ei, não é aquele
-Biometal!?
+Biometal?!
 <*********************>
 
 <p 03><d 0902><a 1F><n 05>
@@ -287,7 +287,7 @@ o planejado.
 
 <p 02><d 0D02><a 0A><n 01>
 VOCÊ é aquele que está
-tentando nos matar!?
+tentando nos matar?!
 <--------------------->
 
 <p 03><d 0E02><a 1F><n 05>
@@ -330,7 +330,7 @@ dados, Grey.
 
 <p 02><d 1502><a 0F><n 01>
 E o que descobriu sobre
-mim!?
+mim?!
 <--------------------->
 
 <p 03><d 1602><a 1D><n 06>
@@ -521,7 +521,7 @@ aqui!
 <p 02><a 6B><n 15>
 Tente se transformar em
 Siarnaq. Talvez isso
-vai ajudar.
+ajude.
 <--------------------->
 
 <p 02><a 6B><n 15>
@@ -559,7 +559,7 @@ sala...
 <--------------------->
 
 <p 02><a 6B><n 15>
-Eu sei!
+Já sei!
 <--------------------->
 
 <p 02><a 6B><n 15>

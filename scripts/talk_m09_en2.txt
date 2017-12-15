@@ -56,8 +56,8 @@ conseguiu chegar.
 <--------------------->
 
 <p 02><a 08><n 02>
-OK, agora tudo que temos
-a fazer é afastar os
+OK, agora tudo que
+temos a fazer é afastar
 Mavericks seguidores.
 <*********************>
 
@@ -78,9 +78,9 @@ que quero te mostrar.
 <*********************>
 
 <p 02><d 7902><a 6B><n 15>
-Modelo W!? Você atacou
+Modelo W?! Você atacou
 a Rodovia pra alimentar
-essa coisa!?
+essa coisa?!
 <--------------------->
 
 <p 03><d 7A02><a 31><n 12>
@@ -136,8 +136,8 @@ garota engraçada...
 
 <p 03><d 8402><a 31><n 12>
 Estávamos planejando
-jogar esse pequeno
-Jogo do Destino
+jogar esse Joguinho
+do Destino
 <--------------------->
 
 <d 8502>
@@ -146,7 +146,7 @@ Rei por nós mesmos.
 <--------------------->
 
 <p 03><d 8602><a 31><n 12>
-Você é aquele que veio
+Você é aquela que veio
 a Megamergir, depois
 mostrou-se ser
 <--------------------->
@@ -303,7 +303,7 @@ de um Escolhido.
 
 <p 02><d 9802><a 0D><n 02>
 (Escolhido...? Mas como
-Tétis disee,)
+Tétis disse,)
 <--------------------->
 
 <d 9902>

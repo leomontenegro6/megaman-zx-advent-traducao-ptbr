@@ -24,8 +24,8 @@ podemos sair!
 <*********************>
 
 <p 02><a 02><n 05>
-Aqui é Albert! Você
-está bem Grey?
+Aqui é o Albert! Você
+está bem, Grey?
 <--------------------->
 
 <p 02><a 02><n 05>
@@ -66,7 +66,7 @@ coisa...
 <--------------------->
 
 <p 03><d 5F01><a 3E><n 00>
-*ridada maligna*
+Rá, rá, rá!!!
 Gosto de você!
 <--------------------->
 
@@ -82,7 +82,7 @@ pétalas na brisa!
 <*********************>
 
 <p 02><d 6201><a 40><n 21>
-*Aargh*! F-Fique longe
+Aargh! F-Fique longe
 de mim!
 <--------------------->
 
@@ -162,7 +162,7 @@ nosso dirigível,
 <--------------------->
 
 <p 02><d 7501><a 40><n 21>
-não são!? Não...
+não são?! Não...
 Pare... Fique longe...!
 <--------------------->
 
@@ -187,7 +187,7 @@ Eeeagghhhh!
 
 <p 03><d 7A01><a 0F><n 01>
 O-O que diabos acabou
-de acontecer!?
+de acontecer?!
 <*********************>
 
 <p 02><d 7B01><a 33><n 00>
@@ -203,8 +203,8 @@ vítima do Modelo W.
 <--------------------->
 
 <p 03><d 7D01><a 6B><n 15>
-Modelo W!? Essa coisa
-enorme é um Biometal!?
+Modelo W?! Essa coisa
+enorme é um Biometal?!
 <--------------------->
 
 <p 02><d 7E01><a 2D><n 00>
@@ -215,7 +215,7 @@ PARTIDA ENCONTRADA...
 
 <p 03><d 7F01><a 08><n 01>
 O que diabos são
-vocês!?
+vocês?!
 <*********************>
 
 <p 01><p 03><d 8001><a 34><n 00>
@@ -242,7 +242,7 @@ Mega Mans
 
 <d 8401>
 que Prometeu estava
-falando!?
+falando?!
 <--------------------->
 
 <p 02><d 8501><a 2E><n 14>
@@ -253,7 +253,7 @@ MODELO W.
 
 <p 01><p 03><d 8601><a 0B><n 01>
 Espere! Acha que pode
-simplesmente fugir!?
+simplesmente fugir?!
 <*********************>
 
 <p 02><d 8701><a 34><n 11>
@@ -286,7 +286,7 @@ ESTRATÉGICOS.
 
 <p 03><d 8E01><a 6B><n 15>
 O quê? Então, você vai
-só nos ignorar, hein!?
+só nos ignorar, hein?!
 <--------------------->
 
 <p 02><d 8F01><a 34><n 11>

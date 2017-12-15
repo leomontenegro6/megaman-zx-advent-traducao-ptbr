@@ -100,7 +100,7 @@ conhece...?
 <*********************>
 
 <p 03><d B900><a 0F><n 01>
-Quem disse isso!?
+Quem disse isso?!
 <*********************>
 
 <p 03><d BA00><a 05><n 00>
@@ -154,7 +154,7 @@ que vou sentar aqui
 <d C500>
 e deixar os dois me
 matarem sendo que nem
-sei o motivo!?
+sei o motivo?!
 <*********************>
 
 <p 02><d C600><a 25><n 03>
@@ -283,7 +283,7 @@ ajudar os outros!
 <p 02><d DC00><a 6B><n 15>
 Espere um minuto!
 Não deveríamos estar
-saindo daqui!?
+saindo daqui?!
 <--------------------->
 
 <p 02><d DD00><a 0A><n 01>
@@ -345,7 +345,7 @@ conhece!
 <--------------------->
 
 <p 02><d E800><a 08><n 01>
-Quem é esse!? Ele é
+Quem é esse?! Ele é
 diferente dos outros
 Mavericks...
 <--------------------->
@@ -391,7 +391,7 @@ acontecer?
 
 <p 02><d F000><a 6B><n 15>
 Rá, rá, rá! Você quer
-ver alguma coisa legal?
+ver uma coisa legal?
 <--------------------->
 
 <p 02><d F100><a 6B><n 15>
@@ -441,7 +441,7 @@ General da Legião.
 <--------------------->
 
 <p 02><d FA00><a 08><n 01>
-Você vai me ajudar!?
+Você vai me ajudar?!
 <--------------------->
 
 <p 02><d FB00><a 6B><n 15>
@@ -584,7 +584,7 @@ Como vai você, Grey?
 <p 03><d 1801><a 0B><n 01>
 Como sabe meu nome?
 Já nos conhecemos
-antes!?
+antes?!
 <--------------------->
 
 <p 02><d 1A01><a 1D><n 06>
@@ -852,7 +852,7 @@ abaixo de você.
 <p 02><a 6B><n 15>
 Por que não tenta fazer
 esses golpes nesses
-dois objetos aqui!?
+dois objetos aqui?!
 <--------------------->
 
 <p 02><a 6B><n 15>

@@ -33,7 +33,7 @@ você está.
 <--------------------->
 
 <p 02><a 02><n 07>
-Você pode ver uma
+Você consegue ver uma
 grande base de computa-
 dores nessa área?
 <--------------------->
@@ -96,7 +96,7 @@ que isso!
 <--------------------->
 
 <p 02><d 8C03><a 3C><n 00>
-*grunhido*!
+Grrr!!!
 <--------------------->
 
 <p 02><d 8D03><a 0F><n 02>
@@ -111,7 +111,7 @@ de Argoyle!
 <--------------------->
 
 <p 02><d 8F03><a 3C><n 00>
-*grunhido*!
+Grrr!!!
 <--------------------->
 
 <p 03><d 9003><a 3B><n 0D>
@@ -137,7 +137,7 @@ defesas?
 <--------------------->
 
 <p 02><d 9403><a 3C><n 0E>
-*grunhido*!
+Grrr!!!
 <--------------------->
 
 <p 03><d 9503><a 3B><n 0D>
@@ -158,7 +158,7 @@ Fim da linha para você!
 <p 03><d 9803><a 3B><n 0D>
 Sua força não se
 compara... E diz ser um
-Mega Man!?
+Mega Man?!
 <--------------------->
 
 <d 9903>
@@ -208,7 +208,7 @@ ra de primeira classe!
 <p 03><d A203><a 6B><n 15>
 O-O que foi esse
 barulho de explosão
-nesse instante!?
+nesse instante?!
 <--------------------->
 
 <p 02><d A303><a 0F><n 02>
@@ -219,7 +219,7 @@ Vamos lá!
 <p 03><d A403><a 0A><n 02>
 Foram vocês que
 destruíram o
-computador!?
+computador?!
 <*********************>
 
 <p 02><d A503><a 25><n 03>
@@ -242,7 +242,7 @@ por aí
 <d A803>
 à procura de
 informações sobre si
-mesmo, também.
+mesma, também.
 <--------------------->
 
 <p 02><d A903><a 26><n 03>
@@ -252,12 +252,12 @@ Mans deve se retirar.
 <--------------------->
 
 <p 03><d AA03><a 0A><n 02>
-O quê!?
+O quê?!
 <--------------------->
 
 <p 02><d AB03><a 28><n 04>
 A razão de mantermos
-você vivo é tudo parte
+você viva é tudo parte
 do plano.
 <--------------------->
 
@@ -279,8 +279,8 @@ encontra sua morte!
 <--------------------->
 
 <p 03><d AF03><a 0F><n 02>
-O fim de Albert!?
-Por quê!?
+O fim de Albert?!
+Por quê?!
 <--------------------->
 
 <p 02><d B103><a 26><n 03>
@@ -291,7 +291,7 @@ tudo terminar...
 <d B203>
 Talvez assim que
 estiver morrendo...
-*risada maligna*
+Rá, rá, rá, rá!
 <*********************>
 
 <p 02><d B303><a 28><n 04>
@@ -302,7 +302,7 @@ novamente...
 <p 03><d B403><a 0B><n 02>
 Espere só um minuto!
 O que eles estão
-planejando fazer!?
+planejando fazer?!
 <*********************>
 
 <p 02><d B503><a 02><n 07>

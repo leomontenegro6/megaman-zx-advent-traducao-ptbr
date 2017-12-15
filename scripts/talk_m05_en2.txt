@@ -23,8 +23,8 @@ portas estão trancadas!
 <*********************>
 
 <p 02><a 02><n 05>
-Aqui é Albert! Você
-está bem, Ashe!?
+Aqui é o Albert! Você
+está bem, Ashe?!
 <--------------------->
 
 <p 02><a 02><n 05>
@@ -65,7 +65,7 @@ coisa...
 <--------------------->
 
 <p 03><d 5F01><a 3E><n 00>
-*ridada maligna*
+Rá, rá, rá!!!
 Gosto de você!
 <--------------------->
 
@@ -81,7 +81,7 @@ pétalas na brisa!
 <*********************>
 
 <p 02><d 6201><a 40><n 21>
-*Aargh*! F-Fique longe
+Aargh! F-Fique longe
 de mim!
 <--------------------->
 
@@ -118,7 +118,7 @@ sistema de segurança!
 
 <d 6901>
 O que você está fazendo
-aqui!?
+aqui?!
 <*********************>
 
 <p 02><d 6A01><a 3E><n 00>
@@ -170,7 +170,7 @@ espinhos!
 
 <p 03><d 7201><a 3F><n 0A>
 Argh! Coragem!
-Essa força... Como!?
+Essa força... Como?!
 <--------------------->
 
 <p 03><d 7301><a 3F><n 0A>
@@ -185,7 +185,7 @@ nosso dirigível,
 <--------------------->
 
 <p 02><d 7501><a 40><n 21>
-não são!? Não...
+não são?! Não...
 Pare... Fique longe...!
 <--------------------->
 
@@ -210,7 +210,7 @@ Eeeagghhhh!
 
 <p 03><d 7A01><a 0F><n 02>
 O que... O que
-aconteceu!?
+aconteceu?!
 <*********************>
 
 <p 02><d 7B01><a 33><n 00>
@@ -226,8 +226,8 @@ vítima do Modelo W.
 <--------------------->
 
 <p 03><d 7D01><a 6B><n 15>
-Modelo W!? Essa coisa
-enorme é um Biometal!?
+Modelo W?! Essa coisa
+enorme é um Biometal?!
 <--------------------->
 
 <p 02><d 7E01><a 2D><n 00>
@@ -237,7 +237,7 @@ ARMA ANTIGA.
 <--------------------->
 
 <p 03><d 7F01><a 0F><n 02>
-Quem diabos é você!?
+Quem diabos é você?!
 <*********************>
 
 <p 01><p 03><d 8001><a 34><n 00>
@@ -264,7 +264,7 @@ Mega Mans
 
 <d 8401>
 que Prometeu estava
-falando!?
+falando?!
 <--------------------->
 
 <p 02><d 8501><a 2E><n 14>
@@ -276,13 +276,13 @@ MODELO W.
 <p 01><p 03><d 8601><a 0A><n 02>
 Espere, estou aqui!
 Você simplesmente vai
-fugir!?
+fugir?!
 <*********************>
 
 <p 02><d 8701><a 34><n 11>
 Nós? Fugirmos? Não seja
-estúpido! Deixaremos
-você vivo por enquanto.
+estúpida! Deixaremos
+você viva por enquanto.
 <--------------------->
 
 <p 02><d 8801><a 34><n 11>
@@ -315,7 +315,7 @@ DO ATÉ GERAR MAVERICK,
 <p 03><d 8E01><a 0F><n 02>
 Ei! Quer dizer que o
 Modelo W fez todos
-aqueles Mavericks!?
+aqueles Mavericks?!
 <--------------------->
 
 <p 02><d 8F01><a 34><n 11>
@@ -338,7 +338,7 @@ se ver, será a última.
 
 <p 02><d 9201><a 02><n 05>
 Finalmente, conseguimos
-alcançá-lo. Você está
+alcançá-la. Você está
 bem?
 <--------------------->
 
@@ -399,7 +399,7 @@ fazer ataque elétrico!
 
 <p 02><a 6B><n 15>
 Hã? Parece que Rospark
-tem mais um ataque! attack!
+tem mais um ataque!
 <--------------------->
 
 <p 02><a 6B><n 15>

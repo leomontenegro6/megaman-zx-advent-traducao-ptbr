@@ -90,12 +90,12 @@ Ajudar com uma doação?
 <*********************>
 
 <p 02><a 5F><n 33>
-Obrigado amigo! Com
-isso,
+Obrigado, amiga!
+Com isso,
 <--------------------->
 
-conseguirei alargar um
-pouco mais essa
+conseguirei alargar
+um pouco mais essa
 passagem!
 <*********************>
 
@@ -130,8 +130,8 @@ Ajudar com uma doação?
 Agradeço! Com isso,
 <--------------------->
 
-conseguirei alargar um
-pouco mais essa
+conseguirei alargar
+um pouco mais essa
 passagem!
 <*********************>
 
@@ -191,7 +191,7 @@ lá em baixo.
 
 Minha broca é
 praticamente intútil
-sobre eles.
+neles.
 <--------------------->
 
 Já ouvi falar da

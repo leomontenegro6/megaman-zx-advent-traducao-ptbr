@@ -31,7 +31,7 @@ vão expodir.
 <--------------------->
 
 Esses caras não brincam
-em serviço, brincam!?
+em serviço, brincam?!
 <--------------------->
 
 <p 02><a 02><n 06>
@@ -59,7 +59,7 @@ coisa sobre si próprio?
 
 <p 02><d 4202><a 0B><n 01>
 Cale-se! O que você
-sabe!?
+sabe?!
 <--------------------->
 
 <p 03><d 4302><a 25><n 03>
@@ -131,9 +131,9 @@ Mega Man?
 <*********************>
 
 <p 01><p 03><d 5C02><a 39><n 0C>
-Aargh! O quê!? Você
-recusa meu precioso
-presente de desespero!?
+Aargh! O quê?! Você
+recusa o meu precioso
+presente de desespero?!
 <--------------------->
 
 <p 01><p 03><d 5D02><a 39><n 0C>
@@ -246,7 +246,7 @@ com o módulo!
 <p 02><a 6B><n 15>
 Quem sabe, pode haver
 outras coisas que você
-pode se encaixar.
+possa se encaixar.
 <--------------------->
 
 <p 02><a 6B><n 15>

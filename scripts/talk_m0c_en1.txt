@@ -17,8 +17,8 @@ receber confirmação de
 atividade do Modelo W
 <--------------------->
 
-na Pedreira, próxima
-ao Acampamento dos
+na Pedreira, próximo
+ao Acampamento de
 Caçadores.
 <--------------------->
 
@@ -54,7 +54,7 @@ perto da Pedreira.
 <p 02><a 02><n 06>
 Albert já pode estar
 ciente do que acontece,
-então tome cuidado.
+então tenha cuidado.
 <*********************>
 
 <p 03><a 6B><n 15>
@@ -76,7 +76,7 @@ melhor nos apressarmos.
 <*********************>
 
 <p 03><d 0903><a 0B><n 01>
-Quem é você!?
+Quem é você?!
 <*********************>
 
 <p 02><d 0A03><a 17><n 00>
@@ -95,8 +95,8 @@ antes. O que ele é?
 <*********************>
 
 <p 03><d 0D03><a 6B><n 15>
-Dois Biometais!?
-Ela é um Mega Man!?
+Dois Biometais?!
+Ela é um Mega Man?!
 <--------------------->
 
 <p 03><d 0E03><a 0B><n 01>
@@ -150,7 +150,7 @@ Aaaaagh!
 
 <p 03><d 1A03><a 1A><n 19>
 Guiaagh! O que é...
-isso!?
+isso?!
 <--------------------->
 
 <p 03><d 1B03><a 6D><n 17>
@@ -386,12 +386,12 @@ Temos que destruí-lo!
 <p 01><p 03><d 3903><a 0A><n 01>
 Droga! Como essa coisa
 ainda tem capacidade
-para se mover!?
+para se mover?!
 <--------------------->
 
 <d 3A03>
 É essa a força do
-Modelo W!?
+Modelo W?!
 <*********************>
 
 <p 00><p 03><d 3B03><a 0F><n 01>

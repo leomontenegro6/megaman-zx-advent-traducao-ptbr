@@ -2,7 +2,8 @@
 <#####################>
 
 <p 02><a 46><n 44>
-Chamam-me de James.
+O povo me chama
+de James.
 <*********************>
 
 <p 02><a 46><n 44>
@@ -11,7 +12,7 @@ ocê me traga alguma
 sucata pra reciclar.
 <--------------------->
 
-E aí eu transformo essa
+E ai eu transformo essa
 joça em algo útil
 procê.
 <--------------------->
@@ -50,7 +51,7 @@ montão dessa sucata,
 <--------------------->
 
 dá pra usar pra
-fazer uma parte 
+fazer uma parte
 corporal reserva.
 <--------------------->
 
@@ -59,13 +60,13 @@ reciclagem consciente.
 <--------------------->
 
 Mas num fosse por mim,
-ocê num ia saber disso
+oce num ia saber disso
 nunca, né?
 <*********************>
 
 <p 02><a 46><n 44>
 Ocê sabia que as
-ignições tem liga de
+ingnições tem liga de
 titânio nelas?
 <--------------------->
 
@@ -97,7 +98,7 @@ Um impulsionador.
 
 Ocê decide a mió forma
 de usar. Precisando
-reciclar otra coisa,
+reciclar outra coisa,
 <--------------------->
 
 é só mi trazê a sucata
@@ -106,7 +107,7 @@ que eu reciclo procê.
 
 <p 02><a 46><n 44>
 Ocê não tem dinheiro
-suficiente, seu
+suficiente, sua
 mendicante.
 <*********************>
 
@@ -121,7 +122,7 @@ Num tô falanu!
 
 Esse bando de pivete
 metido de hoje num sabe
-patavina de reciclagem.
+patavina de reciclagem!
 <--------------------->
 
 Vê se ocê vaza da minha
@@ -130,7 +131,7 @@ frente!
 
 <p 02><a 46><n 44>
 Bem, parece que ocê
-finalmente se acostumô
+finalmente se acustumô
 com reciclagem.
 <--------------------->
 
@@ -184,7 +185,7 @@ fez com o impulsionador
 que eu fiz procê?
 <--------------------->
 
-Então acho uma
+Então achou uma
 utilidade pra ele,
 hein? Bom procê.
 <--------------------->
@@ -216,7 +217,7 @@ o impulsionador.
 <--------------------->
 
 Digo a ocê, encontrar
-sucata das boas num é
+sucata ds boas num é
 tão fácil assim não.
 <--------------------->
 
@@ -226,12 +227,12 @@ e 3.
 <--------------------->
 
 Tenho fé em ocê,
-fi.
+fia.
 <*********************>
 
 <p 02><a 46><n 44>
-Uma ignição de
-motor... Tem liga
+Uma ingnição de
+Motor... Tem liga
 de titânio nisso aí.
 <--------------------->
 
@@ -253,10 +254,10 @@ Um impulsionador.
 
 Ocê decide a mió forma
 de usar. Precisando
-reciclar otra coisa,
+reciclar outra coisa,
 <--------------------->
 
-é só mi trazê a sucata
+é só me trazê a sucata
 que eu reciclo procê.
 <*********************>
 

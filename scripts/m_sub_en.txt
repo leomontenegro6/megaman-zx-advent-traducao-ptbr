@@ -525,7 +525,7 @@ Rodoviária.
 <c 01>Chave Inglesa
 <c 00>Uma chave
 inglesa novinha
-que Antonio
+que Antônio
 perdeu no Campo
 de Petróleo2 e
 te pediu pra
@@ -623,7 +623,7 @@ isso pra ela,
 no Acampamento
 dos Caçadores4.
 Cactos entendem
-pessoas!?
+pessoas?!
 <*********************>
 
 
@@ -1189,17 +1189,17 @@ crianças.
 <*********************>
 
 
-Itens utilizáveis
-Nenhum em posse
+Itens utilizáveis.
+Nenhum em posse.
 <*********************>
 
 
-Itens utilizáveis
+Itens utilizáveis.
 <btn_a>:OK <btn_b>:Cancelar
 <*********************>
 
 
-Não precisa usar isso agora
+Não precisa usar isso agora.
 <*********************>
 
 
@@ -1208,12 +1208,12 @@ Não precisa usar isso agora
 <*********************>
 
 
-Itens equipáveis
-Nenhum em posse
+Itens equipáveis.
+Nenhum em posse.
 <*********************>
 
 
-Itens equipáveis
+Itens equipáveis.
 <btn_a>:OK <btn_b>: Cancelar
 <*********************>
 
@@ -1228,12 +1228,12 @@ Itens equipáveis
 <*********************>
 
 
-Itens auto-utilizáveis
-Nenhum em posse
+Itens auto-utilizáveis.
+Nenhum em posse.
 <*********************>
 
 
-Itens auto-utilizáveis
+Itens auto-utilizáveis.
 <*********************>
 
 
@@ -1285,7 +1285,7 @@ Usar A-Trans.
 
 
 Alternar entre a arma
-principal e secundária
+principal e secundária.
 <*********************>
 
 
@@ -1299,7 +1299,7 @@ principal e secundária
 
 
 Permite armazenar cápsulas
-de vida para uso posterior
+de vida para uso posterior.
 <*********************>
 
 
@@ -1312,187 +1312,187 @@ de vida para uso posterior
 
 
 
-Sub-tanque vazio
-Não pode usar
+Sub-tanque vazio.
+Não pode usar.
 <*********************>
 
 
 Vida no máximo, não precisa
-usar um sub-tanque agora
+usar um sub-tanque agora.
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>1
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>2
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>3
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>4
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>5
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>6
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>7
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>8
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>9
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>10
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>11
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>12
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>13
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>14
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>15
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>16
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>17
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>18
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>19
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>20
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>21
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>22
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>23
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>24
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>25
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>26
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>27
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>28
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>29
 <*********************>
 
 
-Recupera energia
+Recupera energia.
 Restante:<c 01>30
 <*********************>
 
 
 SELECT: Editor do Canhão
-Edite usando a tela inferior
+Edite usando a tela inferior.
 <*********************>
 
 
 Alinhe os quadrados para
-conectar o caminho do canhão
+conectar o caminho do canhão.
 <*********************>
 
 
-Mudar configuração de botões
+Mudar configuração de botões.
 <dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
 
-Mudar modo de ataque
+Mudar modo de ataque.
 <dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
 
-Mudar modo de ação
+Mudar modo de ação.
 <dpad> <esquerda>/<direita>: Selecionar
 <*********************>
 
@@ -1553,7 +1553,7 @@ Pressione <nome>.
 
 
 Segure <nome>
-(Curto) e depois solte.
+(Rápido) e depois solte.
 <*********************>
 
 
@@ -1591,7 +1591,7 @@ Pressione <nome>.
 
 
 Segure <nome>
-(Curto) e depois solte.
+(Rápido) e depois solte.
 <*********************>
 
 
@@ -2133,7 +2133,7 @@ Achar Trem de Brinquedo
 <*********************>
 
 
-Ao RestoMechanilóide
+Ao RestoMecanilóide
 <*********************>
 
 
@@ -2358,7 +2358,7 @@ Local: Rodovia3
 <*********************>
 
 
-Cliente: Antonio
+Cliente: Antônio
 Local: CampoDePetróleo2
 <*********************>
 
