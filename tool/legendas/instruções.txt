@@ -1,0 +1,16 @@
+Instruções para desempacotamento
+
+1. Instale o Python 2.8 na sua máquina;
+2. Baixe o arquivo da tool das legendas e descompacte-o em algum lugar;
+3. Copie os arquivos de legendas da rom desmontada do MMZX Advent (mm01_en.bin até mm08_en.bin) para a pasta "subtitles/en";
+4. Execute o script "unpack_subtitles.py";
+5. Os arquivos serão descomprimidos para a pasta "subtitles/out-en", com uma subpasta para cada arquivo binário;
+6. Crie uma cópia da pasta "out-en", e renomeie-a para "out-ptbr";
+7. Edite os arquivos descomprimidos da pasta "out-ptbr" à vontade, usando a paleta "Paleta Legendas Vídeos MMZX.pal".
+
+Instruções para reempacotamento
+
+1. Após editar os arquivos na pasta "out-ptbr", crie um diretório vazio e nomeie-o para "pt-br". A tool gerará os binários remontados nessa pasta;
+2. Execute o script "repack_subtitles.py";
+3. Os arquivos editados serão recomprimidos e colocados na pasta "subtitles/ptbr", com um binário sendo gerado para cada subdiretório dentro da pasta "out-en";
+4. Pegue os arquivos binários remontados, ponha-os na sua rom do MMZXA, remonte-a e verifique se funcionou.
